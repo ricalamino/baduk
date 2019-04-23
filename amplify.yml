@@ -1,0 +1,17 @@
+version: 0.1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - bundle update nokogiri
+        - bundle install
+    build:
+      commands:
+        - gem install jekyll-watch jekyll-assets
+        - bundle exec jekyll b
+  artifacts:
+    baseDirectory: _site
+    files:
+      - '**/*'
+  cache:
+    paths: []
