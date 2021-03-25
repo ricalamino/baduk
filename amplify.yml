@@ -3,6 +3,7 @@ frontend:
   phases:
     preBuild:
       commands:
+        - bundle update jekyll-assets
         - bundle update nokogiri
         - bundle install
     build:
