@@ -7,6 +7,7 @@ frontend:
     build:
       commands:
         - gem install sprockets -v 4.0.0.beta8
+        - gem install nokogiri -v 1.10.10
         - gem install jekyll-watch jekyll-assets
         - bundle exec jekyll b
   artifacts:
