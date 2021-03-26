@@ -9,7 +9,7 @@ frontend:
         - gem install sprockets -v 4.0.0.beta8
         - gem install nokogiri -v 1.10.10
         - gem install jekyll-watch jekyll-assets
-        - bundle exec jekyll b
+        - bundle exec jekyll b --trace
   artifacts:
     baseDirectory: _site
     files:
