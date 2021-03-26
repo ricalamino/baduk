@@ -59,23 +59,7 @@
 
         {{ content }}
 
-        {% if page.prev_lesson or page.next_lesson %}
-        <section class="bottom-navigation">
-            <p class="prev_lesson">
-                {% if page.prev_lesson %}
-                    {% lesson_button page.prev_lesson Anterior %}
-                {% else %}
-                    <a href="/" class="button">Introdu&ccedil;&atilde;o</a>
-                {% endif %}
-            </p>
-
-            {% if page.next_lesson %}
-            <p class="next_lesson">
-                {% lesson_button page.next_lesson Proximo %}
-            </p>
-            {% endif %}
-        </section>
-        {% endif %}
+     
     </article>
 </div>
 
