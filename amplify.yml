@@ -3,7 +3,6 @@ frontend:
   phases:
     preBuild:
       commands:
-        - bundle update nokogiri
         - bundle install
     build:
       commands:
