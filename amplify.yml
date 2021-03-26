@@ -6,6 +6,7 @@ frontend:
         - bundle install
     build:
       commands:
+        - gem install sprockets -v 4.0.0.beta8
         - gem install jekyll-watch jekyll-assets
         - bundle exec jekyll b
   artifacts:
