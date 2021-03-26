@@ -9,7 +9,7 @@ RU[Japanese]SZ[9]KM[0.00]
 Se o preto agora jogar no D6, pode matar o D5 na escada.]
 ;W[dd]C[Seria muito ruim para o branco.
 Ent&atilde;o, o branco se estende de D5.]
-;B[ed]C[Ataque a duas pedras brancas com refor&ccedil;o simultâneo E5.]
+;B[ed]C[Ataque a duas pedras brancas com refor&ccedil;o simult&acirc;neo E5.]
 ;W[dc]C[Defesa se estendendo.]
 ;B[ff]C[Atari em E4!]
 ;W[eg]C[Estende em E4.]
@@ -32,7 +32,7 @@ e ataca quatro pedras negras.]
 ;B[he]C[Atari em tr&ecirc;s pedras brancas.]
 ;W[hf]C[Protegendo-se.]
 ;B[gb]C[Uma tentativa de criar um territ&oacute;rio na parte superior direita
-com ataque simultâneo em F8.]
+com ataque simult&acirc;neo em F8.]
 ;W[fc]C[Defesa F8.
 Mais tarde voc&ecirc; poder&aacute; invadir o G7.]
 ;B[gc]C[Bloqueio do buraco no G7.
@@ -62,7 +62,7 @@ enquanto atacam tr&ecirc;s pedras brancas.]
 ;B[ce]C[Ao atacar B5, as pretas for&ccedil;am as brancas a capturar B6.]
 ;W[ad]C[Captura B6.]
 ;B[ei]TR[ff][fg][gg]C[Pretas tentam invadir a direita,
-dando ao mesmo tempo 3 pedras (marcadas com triângulos).]
+dando ao mesmo tempo 3 pedras (marcadas com tri&acirc;ngulos).]
 ;W[fi]C[Evitando a invas&atilde;o.]
 ;B[di]C[Conex&atilde;o em E1.]
 ;W[fh]C[Agora, por seguran&ccedil;a, o branco deve matar tr&ecirc;s pedras negras.]
