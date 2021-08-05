@@ -6,7 +6,7 @@ theme = "Mivinci"
 [params]
 
   [params.classes]
-    name = "Aprenda Go Interativamente"
+    name = "Trilha de aprendizagem"
 
   [params.matches]
     name = "Partidas do AlphaGo"

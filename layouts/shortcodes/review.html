@@ -1,0 +1,16 @@
+
+  {{$sgfFile := .Get "sgf"}}
+  
+  <div class="sgf review" data-sgf="{{ readFile  $sgfFile }}">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      {{
+      .Get "description" | safeHTML
+      }}
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>

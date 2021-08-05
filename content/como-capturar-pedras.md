@@ -11,5 +11,15 @@ draft: false
 -  Cada prisioneiro vale um ponto. 
 
 
-{{< challenge sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]	RU[Japanese]SZ[9]KM[0.00]	AW[dd][fd][de][df][ff]AB[dc][cd][ce][cf][ef][dg]	(;B[ed]      ;W[ee]      (;B[fe]C[[OK\]Brancas capturadas.])      (;B[ec]      ;W[eg]C[Brancas capturam e fogem.])      (;B[]      ;W[ec]C[Brancas capturam e fogem.]))      (;B[]      ;W[ed]C[Brancas conectam e fogem.]))" description="Fuja das três pedras brancas! <br> Isso leva dois movimentos para ser feito. Porém, o primeiro movimento é o mais importante.">}} 
+
+
+{{< diagram sgf="/sgfs/0-atari.sgf" description="Na próxima jogada, o branco será completamente cercado e será removido.<br >Sobre as pedras que podem ser removidas com um movimento, dizemos que elas estão no Atari .">}} 
+
+
+
+{{< diagram sgf="/sgfs/1-before-catch.sgf" description="A pedra branca agora est&aacute; cercada e &eacute; por isso que ... ">}} 
+
+{{< diagram sgf="/sgfs/2-after-catch.sgf" description="... &eacute; removido do tabuleiro.">}} 
+
+{{< diagram sgf="/sgfs/3-extend.sgf" description="Se houver um movimento branco, ele pode escapar combinando pedras.">}} 
 

@@ -1,0 +1,61 @@
+<aside>
+  <nav>
+    <p>{{ with .Site.Params.classes.name }}{{.}}{{ end }}</p>
+    <ol>
+      {{ range $.Site.Data.classes }}
+
+      <li>
+        <a href="/{{ .url | markdownify}}" 
+        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        class="active" 
+        {{ end }} 
+          >{{ .name }}</a
+        >
+      </li>
+
+      {{ end }}
+
+    </ol>
+      
+      <br />
+
+      
+      <p>{{ with .Site.Params.matches.name }}{{.}}{{ end }}</p>
+      
+    
+    <ol>
+
+      {{ range $.Site.Data.matches }}
+
+      <li>
+        <a href="/{{ .url | markdownify}}" 
+        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        class="active" 
+        {{ end }} 
+          >{{ .name }}</a
+        >
+      </li>
+
+      {{ end }}
+    </ol>  
+<br />      
+      <p>{{ with .Site.Params.theory.name }}{{.}}{{ end }}</p>
+    
+    <ol>
+
+
+      {{ range $.Site.Data.theory }}
+
+      <li>
+        <a href="/{{ .url | markdownify}}" 
+        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        class="active" 
+        {{ end }} 
+          >{{ .name }}</a
+        >
+      </li>
+
+      {{ end }}
+    </ol>
+  </nav>
+</aside>

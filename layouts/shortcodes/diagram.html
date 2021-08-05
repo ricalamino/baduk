@@ -1,5 +1,6 @@
-{{$sgfFile := .Get "sgf"}}
-  <div class="sgf problem" data-sgf="{{ readFile  $sgfFile }}">
+
+  {{$sgfFile := .Get "sgf"}}
+  <div class="sgf diagram" data-sgf="{{ readFile  $sgfFile }}">
   
   <div class="description">
     <p>
@@ -9,9 +10,5 @@
     </p>
   </div>
   <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
-    <div class="status">
-      <p>Sua vez.</p>
-      
-      <a class="reset button">Jogar novamente.</a>
-    </div>
+    
   </div>

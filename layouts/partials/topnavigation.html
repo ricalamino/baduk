@@ -3,12 +3,17 @@
   <select class="lesson-selector" aria-label="Menu">
 
     <optgroup label="{{ with .Site.Params.classes.name }}{{.}}{{ end }}">
-      <option value="/">Introdução</option>
+      
 
 
       {{ range $.Site.Data.classes }}
+      
 
-        <option value="/{{ .url | markdownify}}">
+        <option value="/{{ .url | markdownify}}" 
+        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        selected="true" 
+        {{ end }} 
+        >
           {{ .name | markdownify}}
         </option>
 
@@ -16,12 +21,16 @@
     </optgroup>
 
     <optgroup label="{{ with .Site.Params.matches.name }}{{.}}{{ end }}">
-      <option value="/">Partidas do AlphaGo</option>
+      
 
 
       {{ range $.Site.Data.matches }}
 
-        <option value="/{{ .url | markdownify}}">
+        <option value="/{{ .url | markdownify}}"
+        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        selected="true" 
+        {{ end }} 
+        >
           {{ .name | markdownify}}
         </option>
 
@@ -29,12 +38,16 @@
     </optgroup>
 
     <optgroup label="{{ with .Site.Params.theory.name }}{{.}}{{ end }}">
-      <option value="/">Teoria do Go</option>
+      
 
 
       {{ range $.Site.Data.theory }}
 
-        <option value="/{{ .url | markdownify}}">
+        <option value="/{{ .url | markdownify}}"
+        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        selected="true" 
+        {{ end }} 
+        >
           {{ .name | markdownify}}
         </option>
 
