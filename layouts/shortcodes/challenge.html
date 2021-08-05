@@ -1,0 +1,17 @@
+
+  <div class="sgf problem" data-sgf="{{ .Get "sgf" }}">
+  
+  <div class="description">
+    <p>
+      {{
+      .Get "description" | safeHTML
+      }}
+    </p>
+  </div>
+  <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+    <div class="status">
+      <p>Sua vez.</p>
+      
+      <a class="reset button">Jogar novamente.</a>
+    </div>
+  </div>
