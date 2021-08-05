@@ -2,6 +2,8 @@
 title: "Como Capturar Pedras?"
 date: 2021-08-05T09:37:54-03:00
 draft: false
+next: "problemas-de-50-kyu"
+previous: ""
 ---
 
 -  O objetivo em Go &eacute; criar um "territ&oacute;rio" maior que o advers&aacute;rio. 

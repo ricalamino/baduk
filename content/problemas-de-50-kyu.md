@@ -1,7 +1,9 @@
 ---
-title: "Problemas 50 Kyu"
+title: "Problemas de 50 Kyu"
 date: 2021-08-05T14:10:17-03:00
 draft: true
+next: "problemas-de-49-kyu"
+previous: "como-capturar-pedras"
 ---
 
 ### Capture as pedras do Oponente em Atari!

@@ -2,6 +2,7 @@
 title: "Aprenda a Jogar Go Interativamente"
 date: 2021-08-05T09:37:54-03:00
 draft: false
+next: "como-capturar-pedras"
 ---
 
 # Aqui você aprenderá a jogar Go (Baduk ou Weiqi).

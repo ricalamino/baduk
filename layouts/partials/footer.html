@@ -1,10 +1,21 @@
 <section class="bottom-navigation">
+  {{if isset .Params "previous" }}
   <p class="prev_lesson">
-    <a href="/problemas-de-49-kyu/" class="button">Anterior</a>
+    <a href="/{{.Params.previous}}" class="button">Anterior</a>
   </p>
+  {{end}}
 
+  {{if isset .Params "next" }}
+  
   <p class="next_lesson">
-    <a href="/um-momento-de-descanso/" class="button">Próximo</a>
+    <a href="/{{.Params.next}}" class="button">
+      {{if (not (isset .Params "previous"))}}
+      Início
+      {{else}}
+      Próximo
+      {{end}}
+    </a>
+  {{end}}
   </p>
 </section>
 </article>
