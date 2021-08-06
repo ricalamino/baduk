@@ -2,6 +2,8 @@
 title: "Jogos entre Fan Hui(2p) e AlphaGo"
 date: 2021-08-05T16:08:56-03:00
 draft: true
+previous: "epilogo"
+next: "kejie-alphago"
 ---
 
 ### Jogo #1 - Fan Hui (pretas) x AlphaGo (brancas) - 05/10/2015
