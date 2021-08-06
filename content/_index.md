@@ -5,7 +5,7 @@ draft: false
 next: "como-capturar-pedras"
 ---
 
-# Aqui você aprenderá a jogar Go (Baduk ou Weiqi).
+### Aqui você aprenderá a jogar Go (**Baduk** ou Weiqi).
 Antes de começar, lembre-se de três princípios básicos:
 
 - Dois jogadores (preto e branco) fazem movimentos colocando uma pedra no tabuleiro alternadamente.
