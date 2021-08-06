@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+AW[ea][ha][eb][hb][ec][hc][fd][gd]AB[ca][fa][cb][fb][cc][fc][dd][ed]
+(;B[da]
+;W[gc]
+(;B[db]
+;W[gb]
+(;B[dc]C[[OK\]])
+(;B[]
+;W[ga]))
+(;B[dc]
+;W[gb]
+(;B[db]C[[OK\]])
+(;B[]
+;W[ga]))
+(;B[gb]
+;W[ga])
+(;B[]
+;W[gb]))
+(;B[db]
+;W[gc]
+(;B[da]
+;W[gb]
+(;B[dc]C[[OK\]])
+(;B[]
+;W[ga]))
+(;B[dc]
+;W[gb]
+(;B[da]C[[OK\]])
+(;B[]
+;W[ga]))
+(;B[gb]
+;W[ga])
+(;B[]
+;W[gb]C[Brancas v&atilde;o capturar primeiro!]))
+(;B[dc]
+;W[gc]
+(;B[da]
+;W[gb]
+(;B[db]C[[OK\]])
+(;B[]
+;W[ga]))
+(;B[db]
+;W[gb]
+(;B[da]C[[OK\]])
+(;B[]
+;W[ga]))
+(;B[gb]
+;W[ga])
+(;B[]
+;W[gb]C[Brancas v&atilde;o capturar primeiro!]))
+(;B[gc]
+;W[gb]C[Brancas v&atilde;o capturar primeiro!])
+(;B[]
+;W[gc]C[Brancas v&atilde;o capturar primeiro!]))

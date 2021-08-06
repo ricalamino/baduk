@@ -1,0 +1,77 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+AW[ba][bb][eb][bc][ec][cd][dd]AB[ca][cb][cc][bd][be][bf]
+(;B[ac]
+;W[da]
+(;B[ab]
+;W[db]
+(;B[aa]C[[OK\]])
+(;B[]
+;W[dc]))
+(;B[aa]
+;W[db]
+(;B[ab]C[[OK\]])
+(;B[]
+;W[dc]))
+(;B[db]
+;W[dc])
+(;B[]
+;W[db]C[Brancas v&atilde;o capturar primeiro!]))
+(;B[ab]
+;W[da]
+(;B[ac]
+;W[db]
+(;B[aa]C[[OK\]])
+(;B[]
+;W[dc]))
+(;B[aa]
+;W[ac]C[Brancas v&atilde;o capturar primeiro!])
+(;B[db]
+;W[dc])
+(;B[]
+;W[db]C[Brancas v&atilde;o capturar primeiro!]))
+(;B[aa]
+;W[ab]
+(;B[ad]
+;W[da]
+(;B[ac]
+;W[db]
+(;B[aa]C[[OK\]])
+(;B[]
+;W[dc]))
+(;B[dc]
+;W[db])
+(;B[]
+;W[dc]C[Brancas v&atilde;o capturar primeiro!]))
+(;B[ac]
+;W[ad]C[Voc&ecirc; pode fazer melhor!])
+(;B[da]
+;W[ea]C[Brancas v&atilde;o capturar primeiro!])
+(;B[db]
+;W[dc]C[Brancas v&atilde;o capturar primeiro!])
+(;B[ea]
+;W[da]
+(;B[db]
+;W[dc]
+(;B[da]
+;W[fa])
+(;B[]
+;W[da]))
+(;B[]
+;W[db]C[Brancas v&atilde;o capturar primeiro!]))
+(;B[]
+;W[da]C[Brancas v&atilde;o capturar primeiro!]))
+(;B[da]
+;W[ea]C[Brancas v&atilde;o capturar primeiro!])
+(;B[db]
+;W[dc]C[Brancas v&atilde;o capturar primeiro!])
+(;B[ea]
+;W[db]
+(;B[da]
+;W[fa]
+;B[]
+;W[dc])
+(;B[]
+;W[da]C[Brancas v&atilde;o capturar primeiro!]))
+(;B[]
+;W[da]C[Brancas v&atilde;o capturar primeiro!]))
