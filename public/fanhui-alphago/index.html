@@ -1,0 +1,1933 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Baduk - Aprenda a jogar Go Interativamente - Jogos entre Fan Hui(2p) e AlphaGo</title>
+    <script src="/js/wgo.js"></script>
+    <script src="/js/goBaduk.js"></script>
+    <link rel="stylesheet" href="/css/wgo.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Galdeano"
+      rel="stylesheet"
+    />
+  </head>
+
+<body>
+  <div class="wrapper">
+  <header>
+  <h1>
+    Aprenda a Jogar Go Interativamente (<strong>Baduk</strong> ou Weiqi)
+  </h1>
+</header>
+
+<aside>
+  <nav>
+    <p>Trilha de aprendizagem</p>
+    <ol>
+      
+
+      <li>
+        <a href="/como-capturar-pedras" 
+         
+          >Como Capturar Pedras?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-50-kyu" 
+         
+          >Problemas de 50 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-49-kyu" 
+         
+          >Problemas de 49 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-48-kyu" 
+         
+          >Problemas de 48 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-momento-de-descanso" 
+         
+          >Um momento de descanso</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-46-kyu" 
+         
+          >Problemas de 46 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/movimentos-ilegais" 
+         
+          >Movimentos ilegais</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-47-kyu-atari-duplo" 
+         
+          >Problemas de 47 Kyu - Atari Duplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-45-kyu-escada" 
+         
+          >Problemas de 45 Kyu - Escada</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fazendo-dois-olhos" 
+         
+          >Fazendo dois olhos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-44-kyu" 
+         
+          >Problemas de 44 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-43-kyu" 
+         
+          >Problemas de 43 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-42-kyu" 
+         
+          >Problemas de 42 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/ko-eternidade" 
+         
+          >Ko (eternidade)</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-40-kyu" 
+         
+          >Problemas de 40 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-39-kyu" 
+         
+          >Problemas de 39 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-38-kyu-luta-no-canto" 
+         
+          >Problemas de 38 Kyu - Luta no canto</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-37-kyu" 
+         
+          >Problemas de 37 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/como-comecar" 
+         
+          >Como começar?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/comecando" 
+         
+          >Começando</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-36-kyu" 
+         
+          >Problemas de 36 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo" 
+         
+          >Fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo-2" 
+         
+          >Fim do jogo - Parte 2</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/corte" 
+         
+          >Corte</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/defesa" 
+         
+          >Defesa</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-ponto-acima" 
+         
+          >Um ponto acima</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/mais-sobre-pulos" 
+         
+          >Mais sobre pulos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/aproximando-o-fim-do-jogo" 
+         
+          >Aproximando-se do fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/use-seu-instinto" 
+         
+          >Use seu instinto!</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogos-exemplo" 
+         
+          >Jogos de exemplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/komi" 
+         
+          >Komi</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/epilogo" 
+         
+          >Epílogo</a
+        >
+      </li>
+
+      
+
+    </ol>
+      
+      <br />
+
+      
+      <p>Partidas do AlphaGo</p>
+      
+    
+    <ol>
+
+      
+
+      <li>
+        <a href="/fanhui-alphago" 
+         
+        class="active" 
+         
+          >Jogos entre Fan Hui(2p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/kejie-alphago" 
+         
+          >Jogos entre Ke Jie (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/leesedol-alphago" 
+         
+          >Jogos entre Lee Sedol (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+    </ol>  
+<br />      
+      <p>Teoria do Go</p>
+    
+    <ol>
+
+
+      
+
+      <li>
+        <a href="/o-que-e-go" 
+         
+          >O que é Go</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/equipamento" 
+         
+          >Equipamento</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/regras-basicas" 
+         
+          >Regras Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/tecnicas-basicas" 
+         
+          >Técnicas Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogo-exemplo" 
+         
+          >Jogo exemplo</a
+        >
+      </li>
+
+      
+    </ol>
+  </nav>
+</aside>
+<article id="content">
+<section class="title">
+  <h2>Jogos entre Fan Hui(2p) e AlphaGo</h2>
+</section>
+
+
+<section class="top-navigation">
+  <select class="lesson-selector" aria-label="Menu">
+
+    <optgroup label="Trilha de aprendizagem">
+      
+
+
+      
+      
+
+        <option value="/como-capturar-pedras" 
+         
+        >
+          Como Capturar Pedras?
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-50-kyu" 
+         
+        >
+          Problemas de 50 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-49-kyu" 
+         
+        >
+          Problemas de 49 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-48-kyu" 
+         
+        >
+          Problemas de 48 Kyu
+        </option>
+
+      
+      
+
+        <option value="/um-momento-de-descanso" 
+         
+        >
+          Um momento de descanso
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-46-kyu" 
+         
+        >
+          Problemas de 46 Kyu
+        </option>
+
+      
+      
+
+        <option value="/movimentos-ilegais" 
+         
+        >
+          Movimentos ilegais
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-47-kyu-atari-duplo" 
+         
+        >
+          Problemas de 47 Kyu - Atari Duplo
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-45-kyu-escada" 
+         
+        >
+          Problemas de 45 Kyu - Escada
+        </option>
+
+      
+      
+
+        <option value="/fazendo-dois-olhos" 
+         
+        >
+          Fazendo dois olhos
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-44-kyu" 
+         
+        >
+          Problemas de 44 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-43-kyu" 
+         
+        >
+          Problemas de 43 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-42-kyu" 
+         
+        >
+          Problemas de 42 Kyu
+        </option>
+
+      
+      
+
+        <option value="/ko-eternidade" 
+         
+        >
+          Ko (eternidade)
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-40-kyu" 
+         
+        >
+          Problemas de 40 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-39-kyu" 
+         
+        >
+          Problemas de 39 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-38-kyu-luta-no-canto" 
+         
+        >
+          Problemas de 38 Kyu - Luta no canto
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-37-kyu" 
+         
+        >
+          Problemas de 37 Kyu
+        </option>
+
+      
+      
+
+        <option value="/como-comecar" 
+         
+        >
+          Como começar?
+        </option>
+
+      
+      
+
+        <option value="/comecando" 
+         
+        >
+          Começando
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-36-kyu" 
+         
+        >
+          Problemas de 36 Kyu
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo" 
+         
+        >
+          Fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo-2" 
+         
+        >
+          Fim do jogo - Parte 2
+        </option>
+
+      
+      
+
+        <option value="/corte" 
+         
+        >
+          Corte
+        </option>
+
+      
+      
+
+        <option value="/defesa" 
+         
+        >
+          Defesa
+        </option>
+
+      
+      
+
+        <option value="/um-ponto-acima" 
+         
+        >
+          Um ponto acima
+        </option>
+
+      
+      
+
+        <option value="/mais-sobre-pulos" 
+         
+        >
+          Mais sobre pulos
+        </option>
+
+      
+      
+
+        <option value="/aproximando-o-fim-do-jogo" 
+         
+        >
+          Aproximando-se do fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/use-seu-instinto" 
+         
+        >
+          Use seu instinto!
+        </option>
+
+      
+      
+
+        <option value="/jogos-exemplo" 
+         
+        >
+          Jogos de exemplo
+        </option>
+
+      
+      
+
+        <option value="/komi" 
+         
+        >
+          Komi
+        </option>
+
+      
+      
+
+        <option value="/epilogo" 
+         
+        >
+          Epílogo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Partidas do AlphaGo">
+      
+
+
+      
+
+        <option value="/fanhui-alphago"
+         
+        selected="true" 
+         
+        >
+          Jogos entre Fan Hui(2p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/kejie-alphago"
+         
+        >
+          Jogos entre Ke Jie (9p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/leesedol-alphago"
+         
+        >
+          Jogos entre Lee Sedol (9p) e AlphaGo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Teoria do Go">
+      
+
+
+      
+
+        <option value="/o-que-e-go"
+         
+        >
+          O que é Go
+        </option>
+
+      
+
+        <option value="/equipamento"
+         
+        >
+          Equipamento
+        </option>
+
+      
+
+        <option value="/regras-basicas"
+         
+        >
+          Regras Básicas
+        </option>
+
+      
+
+        <option value="/tecnicas-basicas"
+         
+        >
+          Técnicas Básicas
+        </option>
+
+      
+
+        <option value="/jogo-exemplo"
+         
+        >
+          Jogo exemplo
+        </option>
+
+      
+    </optgroup>
+
+
+  </select>
+</section>
+
+
+
+  
+  
+
+	<section>
+	
+		<h3 id="jogo-1---fan-hui-pretas-x-alphago-brancas---05102015">Jogo #1 - Fan Hui (pretas) x AlphaGo (brancas) - 05/10/2015</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]TM[3600]
+PW[AlphaGo]PB[Fan Hui]BR[2p]DT[2015-10-05]RE[W&#43;2.50]
+;B[pd]
+;W[dd]
+;B[pp]
+;W[dq]
+;B[co]
+;W[dl]
+;B[dn]
+;W[fp]
+;B[bq]
+;W[jq]
+;B[cf]
+;W[ch]
+;B[fd]
+;W[df]
+;B[dg]
+;W[cg]
+;B[dc]
+;W[ce]
+;B[cc]
+;W[hc]
+;B[fb]
+;W[nc]
+;B[qf]
+;W[pb]
+;B[bf]
+;W[be]
+;B[ef]
+;W[de]
+;B[qc]
+;W[kc]
+;B[qn]
+;W[cm]
+;B[cr]
+;W[mq]
+;B[oq]
+;W[qm]
+;B[pm]
+;W[ql]
+;B[rn]
+;W[pl]
+;B[om]
+;W[qi]
+;B[hq]
+;W[hp]
+;B[gq]
+;W[gp]
+;B[iq]
+;W[ip]
+;B[jr]
+;W[kq]
+;B[er]
+;W[rg]
+;B[qg]
+;W[rf]
+;B[re]
+;W[qh]
+;B[kr]
+;W[ln]
+;B[sf]
+;W[rh]
+;B[qb]
+;W[fe]
+;B[el]
+;W[ek]
+;B[fk]
+;W[ej]
+;B[fl]
+;W[dm]
+;B[fj]
+;W[il]
+;B[fi]
+;W[ei]
+;B[fh]
+;W[gd]
+;B[dh]
+;W[ci]
+;B[di]
+;W[cj]
+;B[fn]
+;W[em]
+;B[hn]
+;W[in]
+;B[en]
+;W[oo]
+;B[np]
+;W[nn]
+;B[po]
+;W[hm]
+;B[fm]
+;W[nl]
+;B[og]
+;W[nr]
+;B[or]
+;W[nh]
+;B[oj]
+;W[ol]
+;B[oh]
+;W[ni]
+;B[oi]
+;W[ng]
+;B[nf]
+;W[mf]
+;B[ne]
+;W[me]
+;B[gc]
+;W[hb]
+;B[bd]
+;W[ed]
+;B[fc]
+;W[ff]
+;B[ae]
+;W[bg]
+;B[af]
+;W[eh]
+;B[fg]
+;W[eg]
+;B[ge]
+;W[hd]
+;B[gf]
+;W[ee]
+;B[if]
+;W[fa]
+;B[ga]
+;W[gb]
+;B[ea]
+;W[ec]
+;B[eb]
+;W[nd]
+;B[je]
+;W[pe]
+;B[oe]
+;W[od]
+;B[of]
+;W[pc]
+;B[qd]
+;W[jh]
+;B[kd]
+;W[lc]
+;B[nj]
+;W[hh]
+;B[hg]
+;W[mj]
+;B[mk]
+;W[lj]
+;B[nk]
+;W[lk]
+;B[pa]
+;W[rm]
+;B[mp]
+;W[lp]
+;B[lr]
+;W[lq]
+;B[bn]
+;W[qq]
+;B[rp]
+;W[rq]
+;B[qp]
+;W[ag]
+;B[ad]
+;W[cp]
+;B[bp]
+;W[oa]
+;B[qa]
+;W[dr]
+;B[ds]
+;W[ob]
+;B[ml]
+;W[nm]
+;B[pn]
+;W[hj]
+;B[kg]
+;W[jg]
+;B[kf]
+;W[kh]
+;B[bl]
+;W[bm]
+;B[am]
+;W[bk]
+;B[jc]
+;W[jb]
+;B[lm]
+;W[km]
+;B[mn]
+;W[mo]
+;B[mm]
+;W[no]
+;B[kl]
+;W[jm]
+;B[ll]
+;W[lg]
+;B[jk]
+;W[cl]
+;B[qj]
+;W[rj]
+;B[gm]
+;W[ho]
+;B[al]
+;W[ak]
+;B[an]
+;W[ic]
+;B[mr]
+;W[nq]
+;B[ns]
+;W[op]
+;B[pq]
+;W[jd]
+;B[pj]
+;W[sg]
+;B[ii]
+;W[se]
+;B[sd]
+;W[ih]
+;B[ji]
+;W[hi]
+;B[ie]
+;W[ld]
+;B[ke]
+;W[he]
+;B[gg]
+;W[eq]
+;B[fq]
+;W[ep]
+;B[cq]
+;W[gn]
+;B[ki]
+;W[li]
+;B[ik]
+;W[sn]
+;B[so]
+;W[sm]
+;B[dp]
+;W[eo]
+;B[id]
+;W[jc]
+;B[do]
+;W[fo]
+;B[hk]
+;W[hl]
+;B[cb]
+;W[ph]
+;B[pg]
+;W[qk]
+;B[ha]
+;W[ia]
+;B[fa]
+;W[ca]
+;B[ba]
+;W[dj]
+;B[cd]
+;W[sf]
+;B[gl]
+;W[gj]
+;B[gk]
+;W[ij]
+;B[kk]
+;W[lh]
+;B[ig]
+;W[lf]
+;B[le]
+;W[gh]
+;B[kj]
+;W[jf]
+;B[hf]
+;W[jl]
+;B[jj]
+;W[gi]
+;B[pi]
+;W[cn]
+;B[pk]
+;W[ok]
+;B[on]
+;W[bb]C[AlphaGo vence por 2,5 pontos.])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/segunda.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+<h3 id="jogo-2---alphago-pretas-x-fan-hui-brancas---06102015">Jogo #2 - AlphaGo (pretas) x Fan Hui (brancas) - 06/10/2015</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]TM[3600]
+PW[Fan Hui]PB[AlphaGo]WR[2p]DT[2015-10-06]RE[B&#43;Resign]
+;B[pd]
+;W[dd]
+;B[pp]
+;W[dq]
+;B[do]
+;W[co]
+;B[dp]
+;W[cp]
+;B[eq]
+;W[cn]
+;B[dn]
+;W[dm]
+;B[cq]
+;W[dr]
+;B[bq]
+;W[cr]
+;B[cm]
+;W[cl]
+;B[br]
+;W[er]
+;B[bm]
+;W[bn]
+;B[bl]
+;W[bp]
+;B[fq]
+;W[dl]
+;B[ck]
+;W[dk]
+;B[cj]
+;W[fr]
+;B[ao]
+;W[ap]
+;B[fo]
+;W[dj]
+;B[ch]
+;W[di]
+;B[bg]
+;W[am]
+;B[bk]
+;W[gn]
+;B[hq]
+;W[ip]
+;B[iq]
+;W[jp]
+;B[kq]
+;W[kp]
+;B[lq]
+;W[jq]
+;B[jr]
+;W[ir]
+;B[hr]
+;W[kr]
+;B[is]
+;W[mp]
+;B[lp]
+;W[lo]
+;B[mo]
+;W[np]
+;B[ln]
+;W[ko]
+;B[lr]
+;W[po]
+;B[no]
+;W[op]
+;B[oo]
+;W[pq]
+;B[qp]
+;W[qq]
+;B[ro]
+;W[pn]
+;B[rq]
+;W[mn]
+;B[nn]
+;W[mm]
+;B[nm]
+;W[nl]
+;B[ml]
+;W[lm]
+;B[ol]
+;W[nk]
+;B[om]
+;W[rr]
+;B[oq]
+;W[ok]
+;B[nq]
+;W[pk]
+;B[fc]
+;W[cf]
+;B[dh]
+;W[eh]
+;B[eg]
+;W[fh]
+;B[df]
+;W[bf]
+;B[fg]
+;W[gh]
+;B[ce]
+;W[de]
+;B[be]
+;W[ef]
+;B[dg]
+;W[bd]
+;B[af]
+;W[cd]
+;B[cg]
+;W[gd]
+;B[hc]
+;W[gc]
+;B[gb]
+;W[fd]
+;B[eb]
+;W[ec]
+;B[fb]
+;W[db]
+;B[jc]
+;W[ke]
+;B[ld]
+;W[le]
+;B[md]
+;W[nf]
+;B[pf]
+;W[pc]
+;B[qc]
+;W[od]
+;B[oe]
+;W[qd]
+;B[pe]
+;W[qb]
+;B[rc]
+;W[rb]
+;B[oc]
+;W[pb]
+;B[rd]
+;W[ob]
+;B[mb]
+;W[sb]
+;B[ho]
+;W[jm]
+;B[oh]
+;W[nh]
+;B[ni]
+;W[oi]
+;B[pi]
+;W[oj]
+;B[hn]
+;W[hl]
+;B[hg]
+;W[gg]
+;B[ie]
+;W[if]
+;B[hf]
+;W[ig]
+;B[hh]
+;W[hd]
+;B[id]
+;W[he]
+;B[jf]
+;W[ih]
+;B[gf]
+;W[ff]
+;B[hi]
+;W[kg]
+;B[fj]
+;W[ei]
+;B[ii]
+;W[kh]
+;B[gl]
+;W[gk]
+;B[hk]
+;W[ik]
+;B[fk]
+;W[hj]
+;B[gi]
+;W[en]
+;B[fl]
+;W[fn]
+;B[eo]
+;W[em]
+;B[hm]
+;W[gm]
+;B[il]
+;W[hk]
+;B[go]C[Pretas vencem. Brancas desistem.])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/terca.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+<h3 id="jogo-3---fan-hui-pretas-x-alphago-brancas---07102015">Jogo #3 - Fan Hui (pretas) x AlphaGo (brancas) - 07/10/2015</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]TM[3600]
+PW[AlphaGo]PB[Fan Hui]BR[2p]DT[2015-10-07]RE[W&#43;Resign]
+;B[pd]
+;W[dd]
+;B[qp]
+;W[dp]
+;B[fq]
+;W[cn]
+;B[kq]
+;W[qj]
+;B[qk]
+;W[pk]
+;B[ql]
+;W[pj]
+;B[pl]
+;W[qf]
+;B[ok]
+;W[nc]
+;B[oe]
+;W[qc]
+;B[qh]
+;W[ph]
+;B[qi]
+;W[rj]
+;B[pi]
+;W[oj]
+;B[pg]
+;W[nk]
+;B[ol]
+;W[nh]
+;B[oh]
+;W[ng]
+;B[pf]
+;W[pc]
+;B[ni]
+;W[nj]
+;B[mi]
+;W[nl]
+;B[nm]
+;W[mm]
+;B[mn]
+;W[lm]
+;B[nn]
+;W[ln]
+;B[lo]
+;W[ko]
+;B[kp]
+;W[jo]
+;B[ip]
+;W[qq]
+;B[rq]
+;W[io]
+;B[hp]
+;W[pn]
+;B[qn]
+;W[qm]
+;B[po]
+;W[rn]
+;B[qo]
+;W[rl]
+;B[pm]
+;W[rr]
+;B[ro]
+;W[sq]
+;B[rp]
+;W[oi]
+;B[lj]
+;W[lh]
+;B[lk]
+;W[jj]
+;B[jk]
+;W[ik]
+;B[ji]
+;W[ij]
+;B[mh]
+;W[mg]
+;B[lg]
+;W[me]
+;B[kh]
+;W[lf]
+;B[kg]
+;W[rf]
+;B[nd]
+;W[md]
+;B[qd]
+;W[rd]
+;B[rc]
+;W[rb]
+;B[re]
+;W[sc]
+;B[qe]
+;W[se]
+;B[og]
+;W[ll]
+;B[hh]
+;W[ne]
+;B[oc]
+;W[od]
+;B[fd]
+;W[pe]
+;B[df]
+;W[cc]
+;B[ff]
+;W[ck]
+;B[cq]
+;W[dq]
+;B[dr]
+;W[cp]
+;B[br]
+;W[bq]
+;B[cr]
+;W[ch]
+;B[dh]
+;W[di]
+;B[ec]
+;W[cf]
+;B[ce]
+;W[bf]
+;B[de]
+;W[be]
+;B[jc]
+;W[kk]
+;B[cd]
+;W[bd]
+;B[cb]
+;W[jd]
+;B[id]
+;W[kc]
+;B[je]
+;W[kd]
+;B[ib]
+;W[jb]
+;B[ic]
+;W[dc]
+;B[db]
+;W[bb]
+;B[ed]
+;W[bc]
+;B[ei]
+;W[dg]
+;B[eh]
+;W[eg]
+;B[dj]
+;W[ci]
+;B[dk]
+;W[cl]
+;B[dl]
+;W[fg]
+;B[dm]
+;W[cm]
+;B[gg]
+;W[gh]
+;B[ef]
+;W[fh]
+;B[hi]
+;W[ej]
+;B[fi]
+;W[gi]
+;B[fj]
+;W[gj]
+;B[fk]
+;W[gk]
+;B[fl]
+;W[fn]
+;B[gn]
+;W[gm]
+;B[en]
+;W[fo]C[Brancas vencem. Pretas desistem.])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/quarta.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+<h3 id="jogo-4---alphago-pretas-x-fan-hui-brancas---08102015">Jogo #4 - AlphaGo (pretas) x Fan Hui (brancas) - 08/10/2015</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]TM[3600]
+PW[Fan Hui]PB[AlphaGo]WR[2p]DT[2015-10-08]RE[B&#43;Resign]
+;B[pd]
+;W[dd]
+;B[pp]
+;W[dq]
+;B[do]
+;W[co]
+;B[cn]
+;W[cp]
+;B[dm]
+;W[fq]
+;B[ci]
+;W[cg]
+;B[ei]
+;W[ec]
+;B[pj]
+;W[nc]
+;B[pf]
+;W[nq]
+;B[pn]
+;W[kd]
+;B[oq]
+;W[np]
+;B[kp]
+;W[lo]
+;B[ko]
+;W[lm]
+;B[ln]
+;W[mn]
+;B[kn]
+;W[mm]
+;B[jl]
+;W[pl]
+;B[om]
+;W[kl]
+;B[jk]
+;W[ol]
+;B[nl]
+;W[nk]
+;B[nm]
+;W[oj]
+;B[mk]
+;W[mj]
+;B[lj]
+;W[pi]
+;B[mi]
+;W[nj]
+;B[lk]
+;W[kr]
+;B[qj]
+;W[qm]
+;B[qi]
+;W[ro]
+;B[qq]
+;W[rq]
+;B[rr]
+;W[qp]
+;B[sq]
+;W[rp]
+;B[pr]
+;W[po]
+;B[oo]
+;W[qn]
+;B[op]
+;W[jq]
+;B[lq]
+;W[mr]
+;B[lr]
+;W[ls]
+;B[nr]
+;W[mq]
+;B[ph]
+;W[rk]
+;B[qk]
+;W[rl]
+;B[ce]
+;W[dh]
+;B[di]
+;W[cd]
+;B[ns]
+;W[ms]
+;B[hq]
+;W[hr]
+;B[ir]
+;W[iq]
+;B[gr]
+;W[hp]
+;B[gq]
+;W[gp]
+;B[fr]
+;W[io]
+;B[eq]
+;W[ep]
+;B[fp]
+;W[fo]
+;B[dr]
+;W[fq]
+;B[er]
+;W[dp]
+;B[ic]
+;W[jc]
+;B[id]
+;W[pb]
+;B[lc]
+;W[kb]
+;B[mc]
+;W[nd]
+;B[nb]
+;W[ob]
+;B[le]
+;W[mb]
+;B[lb]
+;W[na]
+;B[me]
+;W[qc]
+;B[bd]
+;W[bc]
+;B[km]
+;W[cr]
+;B[br]
+;W[cs]
+;B[bq]
+;W[cq]
+;B[hs]
+;W[ef]
+;B[bn]
+;W[ar]
+;B[gm]
+;W[en]
+;B[em]
+;W[gn]
+;B[fg]
+;W[hm]
+;B[gl]
+;W[he]
+;B[ie]
+;W[hf]
+;B[if]
+;W[hg]
+;B[ig]
+;W[hh]
+;B[eg]
+;W[df]
+;B[gd]
+;W[gc]
+;B[fd]
+;W[ff]
+;B[fc]
+;W[ib]
+;B[gb]
+;W[la]
+;B[eb]
+;W[db]
+;B[ed]
+;W[dc]
+;B[de]
+;W[ee]
+;B[be]
+;W[ac]
+;B[cb]
+;W[da]
+;B[bb]
+;W[ab]
+;B[bg]
+;W[bh]
+;B[ch]C[Pretas vencem. Brancas desistem.])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/quinta.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+<h3 id="jogo-5---fan-hui-pretas-x-alphago-brancas---09102015">Jogo #5 - Fan Hui (pretas) x AlphaGo (brancas) - 09/10/2015</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]TM[3600]
+PW[AlphaGo]PB[Fan Hui]BR[2p]DT[2015-10-09]RE[W&#43;Resign]
+;B[pd]
+;W[dd]
+;B[qp]
+;W[dp]
+;B[fq]
+;W[cn]
+;B[kq]
+;W[qj]
+;B[qk]
+;W[pk]
+;B[ql]
+;W[pj]
+;B[pl]
+;W[qf]
+;B[ok]
+;W[nc]
+;B[oe]
+;W[qc]
+;B[qh]
+;W[ph]
+;B[qd]
+;W[pc]
+;B[pg]
+;W[qg]
+;B[oh]
+;W[pi]
+;B[rh]
+;W[ri]
+;B[pf]
+;W[rg]
+;B[md]
+;W[mc]
+;B[ld]
+;W[kc]
+;B[dr]
+;W[cq]
+;B[hp]
+;W[oq]
+;B[pq]
+;W[pr]
+;B[op]
+;W[qq]
+;B[pp]
+;W[rr]
+;B[or]
+;W[nq]
+;B[nr]
+;W[rp]
+;B[ps]
+;W[qr]
+;B[ro]
+;W[sq]
+;B[oi]
+;W[rk]
+;B[rl]
+;W[np]
+;B[mr]
+;W[kp]
+;B[jp]
+;W[lq]
+;B[lr]
+;W[jq]
+;B[kr]
+;W[gp]
+;B[jo]
+;W[gq]
+;B[go]
+;W[fp]
+;B[hr]
+;W[hq]
+;B[iq]
+;W[ho]
+;B[sk]
+;W[re]
+;B[hn]
+;W[ip]
+;B[jr]
+;W[oj]
+;B[nj]
+;W[nk]
+;B[rj]
+;W[ol]
+;B[si]
+;W[mj]
+;B[ni]
+;W[on]
+;B[no]
+;W[mi]
+;B[qi]
+;W[ok]
+;B[ng]
+;W[ll]
+;B[jk]
+;W[rd]
+;B[kj]
+;W[nn]
+;B[mo]
+;W[lh]
+;B[jh]
+;W[kg]
+;B[je]
+;W[jg]
+;B[ig]
+;W[if]
+;B[jf]
+;W[ih]
+;B[hg]
+;W[ji]
+;B[hh]
+;W[ii]
+;B[ki]
+;W[kh]
+;B[hi]
+;W[ij]
+;B[gk]
+;W[il]
+;B[jl]
+;W[hj]
+;B[gj]
+;W[hl]
+;B[io]
+;W[gm]
+;B[he]
+;W[cg]
+;B[fo]
+;W[eo]
+;B[hp]
+;W[nd]
+;B[lf]
+;W[ne]
+;B[mf]
+;W[em]
+;B[gr]
+;W[ep]
+;B[cc]
+;W[cd]
+;B[dc]
+;W[ec]
+;B[eb]
+;W[fb]
+;B[bd]
+;W[be]
+;B[ed]
+;W[fc]
+;B[bb]
+;W[ad]
+;B[ac]
+;W[bc]
+;B[mh]
+;W[li]
+;B[bd]
+;W[db]
+;B[cb]
+;W[bc]
+;B[fl]
+;W[fm]
+;B[bd]
+;W[gf]
+;B[hf]
+;W[bc]
+;B[mk]
+;W[lk]
+;B[bd]
+;W[qo]
+;B[ae]
+;W[oo]
+;B[ee]
+;W[dj]
+;B[hb]
+;W[df]
+;B[bf]
+;W[ef]
+;B[ge]
+;W[fi]
+;B[gi]
+;W[jb]
+;B[ci]
+;W[di]
+;B[cj]
+;W[ck]
+;B[bh]
+;W[bk]
+;B[ib]
+;W[ic]
+;B[hc]
+;W[id]
+;B[hd]
+;W[bg]
+;B[ag]
+;W[ch]
+;B[de]
+;W[bi]
+;B[cr]
+;W[br]
+;B[bs]
+;W[bq]
+;B[eq]
+;W[lc]
+;B[mq]
+;W[po]
+;B[ln]
+;W[ml]
+;B[rn]
+;W[km]
+;B[jm]
+;W[kn]
+;B[ko]
+;W[od]
+;B[pe]
+;W[nf]
+;B[kd]
+;W[jc]
+;B[ie]
+;W[fe]C[Brancas vencem. Pretas desistem.])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/sexta.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+
+	
+	</section>
+
+
+
+  <section class="bottom-navigation">
+  
+  <p class="prev_lesson">
+    <a href="/epilogo" class="button">Anterior</a>
+  </p>
+  
+
+  
+  
+  <p class="next_lesson">
+    <a href="/kejie-alphago" class="button">
+      
+      Próximo
+      
+    </a>
+  
+  </p>
+</section>
+</article>
+  </div>
+</body>
+</html>

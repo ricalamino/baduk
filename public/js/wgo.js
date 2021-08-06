@@ -1496,7 +1496,7 @@ Board.default = {
 		bottom: 0,
 		left: 0,
 	},
-	background: 'wood.jpg', //WGo.DIR+"wood1.jpg",
+	background: '../img/wood.jpg', //WGo.DIR+"wood1.jpg",
 	theme: {}
 }
 

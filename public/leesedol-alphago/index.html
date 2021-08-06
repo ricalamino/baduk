@@ -1,0 +1,1515 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Baduk - Aprenda a jogar Go Interativamente - Jogos entre Lee Sedol (9p) e AlphaGo</title>
+    <script src="/js/wgo.js"></script>
+    <script src="/js/goBaduk.js"></script>
+    <link rel="stylesheet" href="/css/wgo.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Galdeano"
+      rel="stylesheet"
+    />
+  </head>
+
+<body>
+  <div class="wrapper">
+  <header>
+  <h1>
+    Aprenda a Jogar Go Interativamente (<strong>Baduk</strong> ou Weiqi)
+  </h1>
+</header>
+
+<aside>
+  <nav>
+    <p>Trilha de aprendizagem</p>
+    <ol>
+      
+
+      <li>
+        <a href="/como-capturar-pedras" 
+         
+          >Como Capturar Pedras?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-50-kyu" 
+         
+          >Problemas de 50 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-49-kyu" 
+         
+          >Problemas de 49 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-48-kyu" 
+         
+          >Problemas de 48 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-momento-de-descanso" 
+         
+          >Um momento de descanso</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-46-kyu" 
+         
+          >Problemas de 46 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/movimentos-ilegais" 
+         
+          >Movimentos ilegais</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-47-kyu-atari-duplo" 
+         
+          >Problemas de 47 Kyu - Atari Duplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-45-kyu-escada" 
+         
+          >Problemas de 45 Kyu - Escada</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fazendo-dois-olhos" 
+         
+          >Fazendo dois olhos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-44-kyu" 
+         
+          >Problemas de 44 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-43-kyu" 
+         
+          >Problemas de 43 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-42-kyu" 
+         
+          >Problemas de 42 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/ko-eternidade" 
+         
+          >Ko (eternidade)</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-40-kyu" 
+         
+          >Problemas de 40 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-39-kyu" 
+         
+          >Problemas de 39 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-38-kyu-luta-no-canto" 
+         
+          >Problemas de 38 Kyu - Luta no canto</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-37-kyu" 
+         
+          >Problemas de 37 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/como-comecar" 
+         
+          >Como começar?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/comecando" 
+         
+          >Começando</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-36-kyu" 
+         
+          >Problemas de 36 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo" 
+         
+          >Fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo-2" 
+         
+          >Fim do jogo - Parte 2</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/corte" 
+         
+          >Corte</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/defesa" 
+         
+          >Defesa</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-ponto-acima" 
+         
+          >Um ponto acima</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/mais-sobre-pulos" 
+         
+          >Mais sobre pulos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/aproximando-o-fim-do-jogo" 
+         
+          >Aproximando-se do fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/use-seu-instinto" 
+         
+          >Use seu instinto!</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogos-exemplo" 
+         
+          >Jogos de exemplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/komi" 
+         
+          >Komi</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/epilogo" 
+         
+          >Epílogo</a
+        >
+      </li>
+
+      
+
+    </ol>
+      
+      <br />
+
+      
+      <p>Partidas do AlphaGo</p>
+      
+    
+    <ol>
+
+      
+
+      <li>
+        <a href="/fanhui-alphago" 
+         
+          >Jogos entre Fan Hui(2p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/kejie-alphago" 
+         
+          >Jogos entre Ke Jie (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/leesedol-alphago" 
+         
+        class="active" 
+         
+          >Jogos entre Lee Sedol (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+    </ol>  
+<br />      
+      <p>Teoria do Go</p>
+    
+    <ol>
+
+
+      
+
+      <li>
+        <a href="/o-que-e-go" 
+         
+          >O que é Go</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/equipamento" 
+         
+          >Equipamento</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/regras-basicas" 
+         
+          >Regras Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/tecnicas-basicas" 
+         
+          >Técnicas Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogo-exemplo" 
+         
+          >Jogo exemplo</a
+        >
+      </li>
+
+      
+    </ol>
+  </nav>
+</aside>
+<article id="content">
+<section class="title">
+  <h2>Jogos entre Lee Sedol (9p) e AlphaGo</h2>
+</section>
+
+
+<section class="top-navigation">
+  <select class="lesson-selector" aria-label="Menu">
+
+    <optgroup label="Trilha de aprendizagem">
+      
+
+
+      
+      
+
+        <option value="/como-capturar-pedras" 
+         
+        >
+          Como Capturar Pedras?
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-50-kyu" 
+         
+        >
+          Problemas de 50 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-49-kyu" 
+         
+        >
+          Problemas de 49 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-48-kyu" 
+         
+        >
+          Problemas de 48 Kyu
+        </option>
+
+      
+      
+
+        <option value="/um-momento-de-descanso" 
+         
+        >
+          Um momento de descanso
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-46-kyu" 
+         
+        >
+          Problemas de 46 Kyu
+        </option>
+
+      
+      
+
+        <option value="/movimentos-ilegais" 
+         
+        >
+          Movimentos ilegais
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-47-kyu-atari-duplo" 
+         
+        >
+          Problemas de 47 Kyu - Atari Duplo
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-45-kyu-escada" 
+         
+        >
+          Problemas de 45 Kyu - Escada
+        </option>
+
+      
+      
+
+        <option value="/fazendo-dois-olhos" 
+         
+        >
+          Fazendo dois olhos
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-44-kyu" 
+         
+        >
+          Problemas de 44 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-43-kyu" 
+         
+        >
+          Problemas de 43 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-42-kyu" 
+         
+        >
+          Problemas de 42 Kyu
+        </option>
+
+      
+      
+
+        <option value="/ko-eternidade" 
+         
+        >
+          Ko (eternidade)
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-40-kyu" 
+         
+        >
+          Problemas de 40 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-39-kyu" 
+         
+        >
+          Problemas de 39 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-38-kyu-luta-no-canto" 
+         
+        >
+          Problemas de 38 Kyu - Luta no canto
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-37-kyu" 
+         
+        >
+          Problemas de 37 Kyu
+        </option>
+
+      
+      
+
+        <option value="/como-comecar" 
+         
+        >
+          Como começar?
+        </option>
+
+      
+      
+
+        <option value="/comecando" 
+         
+        >
+          Começando
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-36-kyu" 
+         
+        >
+          Problemas de 36 Kyu
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo" 
+         
+        >
+          Fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo-2" 
+         
+        >
+          Fim do jogo - Parte 2
+        </option>
+
+      
+      
+
+        <option value="/corte" 
+         
+        >
+          Corte
+        </option>
+
+      
+      
+
+        <option value="/defesa" 
+         
+        >
+          Defesa
+        </option>
+
+      
+      
+
+        <option value="/um-ponto-acima" 
+         
+        >
+          Um ponto acima
+        </option>
+
+      
+      
+
+        <option value="/mais-sobre-pulos" 
+         
+        >
+          Mais sobre pulos
+        </option>
+
+      
+      
+
+        <option value="/aproximando-o-fim-do-jogo" 
+         
+        >
+          Aproximando-se do fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/use-seu-instinto" 
+         
+        >
+          Use seu instinto!
+        </option>
+
+      
+      
+
+        <option value="/jogos-exemplo" 
+         
+        >
+          Jogos de exemplo
+        </option>
+
+      
+      
+
+        <option value="/komi" 
+         
+        >
+          Komi
+        </option>
+
+      
+      
+
+        <option value="/epilogo" 
+         
+        >
+          Epílogo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Partidas do AlphaGo">
+      
+
+
+      
+
+        <option value="/fanhui-alphago"
+         
+        >
+          Jogos entre Fan Hui(2p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/kejie-alphago"
+         
+        >
+          Jogos entre Ke Jie (9p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/leesedol-alphago"
+         
+        selected="true" 
+         
+        >
+          Jogos entre Lee Sedol (9p) e AlphaGo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Teoria do Go">
+      
+
+
+      
+
+        <option value="/o-que-e-go"
+         
+        >
+          O que é Go
+        </option>
+
+      
+
+        <option value="/equipamento"
+         
+        >
+          Equipamento
+        </option>
+
+      
+
+        <option value="/regras-basicas"
+         
+        >
+          Regras Básicas
+        </option>
+
+      
+
+        <option value="/tecnicas-basicas"
+         
+        >
+          Técnicas Básicas
+        </option>
+
+      
+
+        <option value="/jogo-exemplo"
+         
+        >
+          Jogo exemplo
+        </option>
+
+      
+    </optgroup>
+
+
+  </select>
+</section>
+
+
+
+  
+  
+
+	<section>
+	
+		<h3 id="lee-sedol-9p-pretas-vs-alphago-brancas---jogo-5---15032016">Lee Sedol (9p) (pretas) vs AlphaGo (brancas) - (Jogo #5 - 15/03/2016)</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;EV[ Google Deepmind Challenge Match #5]
+DT[2016-03-15]
+PB[Lee Sedol]BR[9p]
+PW[AlphaGo]WR[NR]
+KM[7.5]RE[W&#43;R]
+SO[Go4Go.net]
+;B[qd];W[dd];B[pq];W[dp];B[oc];W[po];B[qo];W[qn];B[qp];W[pm];B[nq];W[qe];B[pe];W[qf];B[rd];W[pf];B[ql];W[oe];B[pl];W[ol];B[om];W[ok];B[nm];W[qj];B[rn];W[gq];B[cf];W[fc];B[bd];W[ch];B[dh];W[di];B[dg];W[cc];B[ci];W[cj];B[bi];W[dj];B[bh];W[ml];B[mm];W[lm];B[nl];W[nk];B[ln];W[ll];B[kn];W[mn];B[mo];W[rm];B[rl];W[ro];B[sn];W[pn];B[oo];W[op];B[no];W[sm];B[pp];W[nc];B[nb];W[ob];B[pb];W[od];B[pc];W[mb];B[oa];W[mc];B[gd];W[gf];B[gc];W[fd];B[ge];W[ff];B[hf];W[hg];B[if];W[ig];B[id];W[jf];B[jb];W[jd];B[jc];W[je];B[gh];W[fb];B[gg];W[fe];B[hc];W[hi];B[jl];W[hb];B[gb];W[ga];B[ib];W[ha];B[ia];W[fa];B[ka];W[iq];B[ii];W[hh];B[hj];W[gi];B[gj];W[cn];B[dq];W[cq];B[fq];W[eq];B[fp];W[gp];B[do];W[co];B[ep];W[dr];B[er];W[dq];B[gr];W[fo];B[eo];W[fn];B[hr];W[in];B[ir];W[jq];B[kr];W[jr];B[js];W[kq];B[lr];W[lq];B[mq];W[mr];B[nr];W[ik];B[fi];W[fh];B[jk];W[ij];B[jj];W[il];B[jm];W[im];B[eh];W[fg];B[mj];W[lj];B[li];W[mi];B[lk];W[nj];B[kj];W[ei];B[bk];W[bj];B[aj];W[is];B[hs];W[so];B[rn];W[rk];B[sl];W[ai];B[ah];W[cl];B[bl];W[bm];B[dm];W[dn];B[cm];W[dl];B[em];W[en];B[fl];W[fj];B[bn];W[ak];B[al];W[fr];B[mh];W[ni];B[lg];W[ks];B[ls];W[bc];B[bo];W[bp];B[og];W[mf];B[nh];W[ph];B[ce];W[mk];B[sg];W[rg];B[gl];W[re];B[se];W[sf];B[rf];W[sh];B[ld];W[me];B[ac];W[ab];B[ad];W[cd];B[bf];W[kc];B[kb];W[oh];B[nf];W[lc];B[bb];W[cb];B[aa];W[gk];B[hl];W[hk];B[jh];W[kg];B[lf];W[kh];B[lh];W[le];B[kf];W[jg];B[ao];W[lj];B[ki];W[jn];B[km];W[sn];B[on];W[rp];B[rq];W[pk];B[qm];W[sf];B[sd];W[ma];B[na];W[ie];B[he];W[hq];B[ms];W[ko];B[lp];W[kp];B[lo];W[fs];B[ks];W[el];B[fm];W[hm];B[am];W[kk];B[ne];W[of];B[de];W[ap];B[ee];W[ed];B[ke];W[kd];B[pd];W[pg];B[ng];W[sk];B[rn];W[fk];B[kl];W[gm];B[bm];W[lk];B[ck];W[dk];B[qk];W[rj]C[Pretas desistem. AlphaGo vence a &amp;uacute;ltima partida da s&amp;eacute;rie. AlphaGo 4 x 1 Lee Sedol.])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/20160315_ls_ag_5.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+<h3 id="alphago-pretas-vs-lee-sedol-9p-brancas---jogo-4---13032016">AlphaGo (pretas) vs Lee Sedol (9p) (brancas) - (Jogo #4 - 13/03/2016)</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;EV[ Google Deepmind Challenge Match #4]
+DT[2016-03-13]
+PB[AlphaGo]BR[NR]
+PW[Lee Sedol]WR[9p]
+KM[7.5]RE[W&#43;R]
+SO[Go4Go.net]
+;B[pd];W[dp];B[cd];W[qp];B[op];W[oq];B[nq];W[pq];B[cn];W[fq];B[mp];W[po];B[iq];W[ec];B[hd];W[cg];B[ed];W[cj];B[dc];W[bp];B[nc];W[qi];B[ep];W[eo];B[dk];W[fp];B[ck];W[dj];B[ej];W[ei];B[fi];W[eh];B[fh];W[bj];B[fk];W[fg];B[gg];W[ff];B[gf];W[mc];B[md];W[lc];B[nb];W[id];B[hc];W[jg];B[pj];W[pi];B[oj];W[oi];B[ni];W[nh];B[mh];W[ng];B[mg];W[mi];B[nj];W[mf];B[li];W[ne];B[nd];W[mj];B[lf];W[mk];B[me];W[nf];B[lh];W[qj];B[kk];W[ik];B[ji];W[gh];B[hj];W[ge];B[he];W[fd];B[fc];W[ki];B[jj];W[lj];B[kh];W[jh];B[ml];W[nk];B[ol];W[ok];B[pk];W[pl];B[qk];W[nl];B[kj];W[ii];B[rk];W[om];B[pg];W[ql];B[cp];W[co];B[oe];W[rl];B[sk];W[rj];B[hg];W[ij];B[km];W[gi];B[fj];W[jl];B[kl];W[gl];B[fl];W[gm];B[ch];W[ee];B[eb];W[bg];B[dg];W[eg];B[en];W[fo];B[df];W[dh];B[im];W[hk];B[bn];W[if];B[gd];W[fe];B[hf];W[ih];B[bh];W[ci];B[ho];W[go];B[or];W[rg];B[dn];W[cq];B[pr];W[qr];B[rf];W[qg];B[qf];W[jc];B[gr];W[sf];B[se];W[sg];B[rd];W[bl];B[bk];W[ak];B[cl];W[hn];B[in];W[hp];B[fr];W[er];B[es];W[ds];B[ah];W[ai];B[kd];W[ie];B[kc];W[kb];B[gk];W[ib];B[qh];W[rh];B[qs];W[rs];B[oh];W[sl];B[of];W[sj];B[ni];W[nj];B[oo];W[jp]C[Pretas desistem. Lee Sedol vence sua primeira partida contra o AlphaGo!])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/20160313_ag_ls_4.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+<h3 id="lee-sedol-9p-pretas-vs-alphago-brancas---jogo-3---12032016">Lee Sedol (9p) (pretas) vs AlphaGo (brancas) - (Jogo #3 - 12/03/2016)</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]TM[7200]OT[3x60 byo-yomi]
+PW[AlphaGo]PB[Lee Sedol]BR[9d]DT[2016-03-12]EV[Google DeepMind Challenge Match]RO[Game 3]PC[Seoul, Korea]WT[Computer]BT[Human]SO[https://gogameguru.com/]RE[W&#43;Resign]
+;B[pd]
+;W[pp]
+;B[cd]
+;W[dp]
+;B[cn]
+;W[fq]
+;B[id]
+;W[qf]
+;B[nc]
+;W[qm]
+;B[dj]
+;W[ed]
+;B[dc]
+;W[eg]
+;B[ef]
+;W[de]
+;B[df]
+;W[ce]
+;B[ec]
+;W[fd]
+;B[ff]
+;W[fc]
+;B[bd]
+;W[he]
+;B[ie]
+;W[hd]
+;B[ic]
+;W[hg]
+;B[if]
+;W[gg]
+;B[jh]
+;W[ci]
+;B[dg]
+;W[di]
+;B[ei]
+;W[bg]
+;B[bh]
+;W[be]
+;B[bi]
+;W[cj]
+;B[dh]
+;W[dk]
+;B[ej]
+;W[ck]
+;B[ch]
+;W[gi]
+;B[fh]
+;W[dm]
+;B[dn]
+;W[fg]
+;B[eh]
+;W[fm]
+;B[ek]
+;W[el]
+;B[gk]
+;W[ii]
+;B[cm]
+;W[fo]
+;B[en]
+;W[fl]
+;B[bk]
+;W[bj]
+;B[aj]
+;W[hm]
+;B[hj]
+;W[hi]
+;B[gj]
+;W[ji]
+;B[il]
+;W[jn]
+;B[cp]
+;W[cq]
+;B[dq]
+;W[dr]
+;B[bq]
+;W[eq]
+;B[pm]
+;W[pl]
+;B[qn]
+;W[om]
+;B[pn]
+;W[ql]
+;B[ol]
+;W[on]
+;B[rn]
+;W[oo]
+;B[ok]
+;W[qi]
+;B[ll]
+;W[hc]
+;B[qq]
+;W[qp]
+;B[rp]
+;W[pq]
+;B[rq]
+;W[qr]
+;B[rr]
+;W[ln]
+;B[qe]
+;W[re]
+;B[rd]
+;W[pe]
+;B[qd]
+;W[bb]
+;B[dd]
+;W[ee]
+;B[cb]
+;W[bc]
+;B[ad]
+;W[eb]
+;B[ba]
+;W[gb]
+;B[qk]
+;W[pk]
+;B[lo]
+;W[mn]
+;B[pj]
+;W[qj]
+;B[rl]
+;W[rk]
+;B[rm]
+;W[qk]
+;B[cr]
+;W[pf]
+;B[iq]
+;W[kq]
+;B[lq]
+;W[jq]
+;B[jo]
+;W[kn]
+;B[hr]
+;W[ip]
+;B[hp]
+;W[io]
+;B[jr]
+;W[kr]
+;B[ho]
+;W[gq]
+;B[hq]
+;W[in]
+;B[fn]
+;W[gn]
+;B[go]
+;W[gr]
+;B[gs]
+;W[fs]
+;B[is]
+;W[ib]
+;B[ks]
+;W[lr]
+;B[dq]
+;W[hn]
+;B[ds]
+;W[cq]
+;B[fp]
+;W[eo]
+;B[do]
+;W[ep]
+;B[er]
+;W[hs]
+;B[qh]
+;W[ph]
+;B[gs]
+;W[dq]
+;B[br]
+;W[hs]
+;B[pi]
+;W[oh]
+;B[gs]
+;W[bp]
+;B[hs]
+;W[co]
+;B[bo]
+;W[bn]
+;B[cp]
+;W[cs]C[Pretas desistem. AlphaGo vence a partida, a terceira consecutiva e a s&amp;eacute;rie melhor de 5!])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/20160312_ls_ag_3.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+<h3 id="alphago-pretas-vs-lee-sedol-9p-brancas---jogo-2---10032016">AlphaGo (pretas) vs Lee Sedol (9p) (brancas) - (Jogo #2 - 10/03/2016)</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]TM[7200]OT[3x60 byo-yomi]
+PW[Lee Sedol]PB[AlphaGo]WR[9d]DT[2016-03-10]EV[Google DeepMind Challenge Match]RO[Game 2]PC[Seoul, Korea]WT[Human]BT[Computer]SO[https://gogameguru.com/]RE[B&#43;Resign]
+;B[pd]
+;W[dp]
+;B[cd]
+;W[qp]
+;B[op]
+;W[oq]
+;B[nq]
+;W[pq]
+;B[cn]
+;W[fq]
+;B[mp]
+;W[qn]
+;B[ic]
+;W[dj]
+;B[po]
+;W[qo]
+;B[cp]
+;W[cq]
+;B[bq]
+;W[co]
+;B[bp]
+;W[bo]
+;B[do]
+;W[bn]
+;B[dq]
+;W[ep]
+;B[dr]
+;W[cm]
+;B[jp]
+;W[cg]
+;B[ed]
+;W[qf]
+;B[qe]
+;W[pf]
+;B[nd]
+;W[pi]
+;B[oj]
+;W[oi]
+;B[nj]
+;W[mh]
+;B[gp]
+;W[gq]
+;B[dn]
+;W[dm]
+;B[fo]
+;W[hp]
+;B[ho]
+;W[eo]
+;B[en]
+;W[fn]
+;B[em]
+;W[el]
+;B[fm]
+;W[gn]
+;B[fl]
+;W[go]
+;B[ek]
+;W[dk]
+;B[dl]
+;W[cl]
+;B[eh]
+;W[di]
+;B[pj]
+;W[qi]
+;B[rf]
+;W[rg]
+;B[kd]
+;W[hn]
+;B[om]
+;W[re]
+;B[rd]
+;W[sf]
+;B[fi]
+;W[gk]
+;B[hm]
+;W[in]
+;B[hl]
+;W[ko]
+;B[kp]
+;W[gc]
+;B[df]
+;W[id]
+;B[jc]
+;W[ge]
+;B[dg]
+;W[cf]
+;B[ch]
+;W[bh]
+;B[dh]
+;W[bi]
+;B[hd]
+;W[he]
+;B[gd]
+;W[fd]
+;B[hc]
+;W[fe]
+;B[ec]
+;W[gh]
+;B[fc]
+;W[gi]
+;B[ii]
+;W[hk]
+;B[ik]
+;W[il]
+;B[im]
+;W[ij]
+;B[jl]
+;W[jj]
+;B[if]
+;W[km]
+;B[kl]
+;W[lj]
+;B[lk]
+;W[lo]
+;B[li]
+;W[kj]
+;B[ci]
+;W[cj]
+;B[mj]
+;W[nr]
+;B[mr]
+;W[lq]
+;B[lp]
+;W[mq]
+;B[np]
+;W[lr]
+;B[lm]
+;W[kh]
+;B[hg]
+;W[qc]
+;B[qd]
+;W[rc]
+;B[pc]
+;W[sd]
+;B[gg]
+;W[ce]
+;B[bd]
+;W[qb]
+;B[hi]
+;W[jg]
+;B[hj]
+;W[ob]
+;B[pb]
+;W[pa]
+;B[nb]
+;W[de]
+;B[ee]
+;W[gj]
+;B[hh]
+;W[ej]
+;B[nf]
+;W[mf]
+;B[me]
+;W[rk]
+;B[fh]
+;W[el]
+;B[nh]
+;W[ng]
+;B[lg]
+;W[lh]
+;B[mg]
+;W[og]
+;B[kg]
+;W[ni]
+;B[jh]
+;W[na]
+;B[ki]
+;W[mi]
+;B[ji]
+;W[nc]
+;B[mb]
+;W[od]
+;B[mc]
+;W[oc]
+;B[kr]
+;W[ms]
+;B[io]
+;W[ip]
+;B[jo]
+;W[jn]
+;B[ir]
+;W[hr]
+;B[ql]
+;W[rl]
+;B[qm]
+;W[rm]
+;B[ao]
+;W[bm]
+;B[ln]
+;W[kn]
+;B[mo]
+;W[be]
+;B[ae]
+;W[af]
+;B[ad]
+;W[ma]
+;B[la]
+;W[oa]
+;B[dd]
+;W[bg]
+;B[lb]
+;W[pn]
+;B[on]
+;W[er]
+;B[cr]
+;W[fp]
+;B[iq]
+;W[hq]
+;B[qj]
+;W[rj]
+;B[ks]C[Brancas desistem. AlphaGo vence.])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/20160310_ag_ls_2.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+<h3 id="lee-sedol-9p-pretas-vs-alphago-brancas---jogo-1---09032016">Lee Sedol (9p) (pretas) vs AlphaGo (brancas) - (Jogo #1 - 09/03/2016)</h3>
+
+  
+  
+  <div class="sgf review" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]TM[7200]OT[3x60 byo-yomi]
+PW[AlphaGo]PB[Lee Sedol]BR[9d]DT[2016-03-09]EV[Google DeepMind Challenge Match]RO[Game 1]PC[Seoul, Korea]WT[Computer]BT[Human]SO[https://gogameguru.com/]RE[W&#43;Resign]
+;B[qd]
+;W[dd]
+;B[pq]
+;W[dp]
+;B[fc]
+;W[cf]
+;B[ql]
+;W[od]
+;B[ld]
+;W[qc]
+;B[rc]
+;W[pc]
+;B[re]
+;W[of]
+;B[pg]
+;W[og]
+;B[ph]
+;W[id]
+;B[lf]
+;W[oh]
+;B[pi]
+;W[lh]
+;B[kh]
+;W[ke]
+;B[le]
+;W[lg]
+;B[kg]
+;W[kf]
+;B[ne]
+;W[oe]
+;B[jc]
+;W[ic]
+;B[jd]
+;W[ie]
+;B[je]
+;W[jf]
+;B[if]
+;W[jg]
+;B[li]
+;W[mi]
+;B[hf]
+;W[ih]
+;B[mb]
+;W[gd]
+;B[ki]
+;W[mj]
+;B[kk]
+;W[ib]
+;B[ob]
+;W[ml]
+;B[lm]
+;W[nc]
+;B[nb]
+;W[kb]
+;B[lc]
+;W[mm]
+;B[ln]
+;W[kl]
+;B[ll]
+;W[lk]
+;B[jj]
+;W[jl]
+;B[hj]
+;W[hi]
+;B[gj]
+;W[gf]
+;B[ii]
+;W[jh]
+;B[ij]
+;W[mn]
+;B[lo]
+;W[mo]
+;B[lp]
+;W[mp]
+;B[lq]
+;W[mq]
+;B[im]
+;W[qo]
+;B[fq]
+;W[gg]
+;B[cn]
+;W[dn]
+;B[dm]
+;W[fp]
+;B[gp]
+;W[gq]
+;B[fr]
+;W[co]
+;B[en]
+;W[do]
+;B[ep]
+;W[cm]
+;B[dl]
+;W[lr]
+;B[kr]
+;W[rb]
+;B[jb]
+;W[ja]
+;B[mf]
+;W[mh]
+;B[nd]
+;W[qj]
+;B[pj]
+;W[qk]
+;B[pl]
+;W[pk]
+;B[ok]
+;W[rh]
+;B[rl]
+;W[qf]
+;B[ri]
+;W[rf]
+;B[pf]
+;W[qe]
+;B[qh]
+;W[cc]
+;B[bn]
+;W[bm]
+;B[bl]
+;W[bo]
+;B[rg]
+;W[mr]
+;B[po]
+;W[jr]
+;B[kq]
+;W[pn]
+;B[oo]
+;W[qp]
+;B[on]
+;W[pp]
+;B[op]
+;W[qq]
+;B[or]
+;W[pr]
+;B[oq]
+;W[pd]
+;B[qr]
+;W[rr]
+;B[ps]
+;W[rs]
+;B[rn]
+;W[ro]
+;B[qn]
+;W[so]
+;B[cl]
+;W[an]
+;B[ks]
+;W[om]
+;B[ol]
+;W[ci]
+;B[hh]
+;W[hg]
+;B[dr]
+;W[dj]
+;B[bq]
+;W[cq]
+;B[cr]
+;W[bp]
+;B[dq]
+;W[br]
+;B[cp]
+;W[ap]
+;B[ek]
+;W[fi]
+;B[bj]
+;W[bi]
+;B[pb]
+;W[qb]
+;B[sf]
+;W[rd]
+;B[ai]
+;W[ah]
+;B[aj]
+;W[bh]
+;B[gi]
+;W[fj]
+;B[fk]
+;W[oc]
+;B[mc]
+;W[cj]
+;B[al]
+;W[nm]
+;B[pm]
+;W[aq]
+;B[gh]
+;W[fh]C[Lee Sedol desiste - AlphaGo vence!
+])
+">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      <a href='/sgfs/20160309_ls_ag_1.sgf'>Baixar SGF da partida</a>
+    </p>
+  </div>
+  <div class="comments"></div>
+    
+  </div>
+
+
+	
+	</section>
+
+
+
+  <section class="bottom-navigation">
+  
+  <p class="prev_lesson">
+    <a href="/kejie-alphago" class="button">Anterior</a>
+  </p>
+  
+
+  
+  
+  <p class="next_lesson">
+    <a href="/o-que-e-go" class="button">
+      
+      Próximo
+      
+    </a>
+  
+  </p>
+</section>
+</article>
+  </div>
+</body>
+</html>

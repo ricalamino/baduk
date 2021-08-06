@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Baduk - Aprenda a jogar Go Interativamente - Komi</title>
+    <script src="/js/wgo.js"></script>
+    <script src="/js/goBaduk.js"></script>
+    <link rel="stylesheet" href="/css/wgo.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Galdeano"
+      rel="stylesheet"
+    />
+  </head>
+
+<body>
+  <div class="wrapper">
+  <header>
+  <h1>
+    Aprenda a Jogar Go Interativamente (<strong>Baduk</strong> ou Weiqi)
+  </h1>
+</header>
+
+<aside>
+  <nav>
+    <p>Trilha de aprendizagem</p>
+    <ol>
+      
+
+      <li>
+        <a href="/como-capturar-pedras" 
+         
+          >Como Capturar Pedras?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-50-kyu" 
+         
+          >Problemas de 50 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-49-kyu" 
+         
+          >Problemas de 49 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-48-kyu" 
+         
+          >Problemas de 48 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-momento-de-descanso" 
+         
+          >Um momento de descanso</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-46-kyu" 
+         
+          >Problemas de 46 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/movimentos-ilegais" 
+         
+          >Movimentos ilegais</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-47-kyu-atari-duplo" 
+         
+          >Problemas de 47 Kyu - Atari Duplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-45-kyu-escada" 
+         
+          >Problemas de 45 Kyu - Escada</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fazendo-dois-olhos" 
+         
+          >Fazendo dois olhos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-44-kyu" 
+         
+          >Problemas de 44 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-43-kyu" 
+         
+          >Problemas de 43 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-42-kyu" 
+         
+          >Problemas de 42 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/ko-eternidade" 
+         
+          >Ko (eternidade)</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-40-kyu" 
+         
+          >Problemas de 40 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-39-kyu" 
+         
+          >Problemas de 39 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-38-kyu-luta-no-canto" 
+         
+          >Problemas de 38 Kyu - Luta no canto</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-37-kyu" 
+         
+          >Problemas de 37 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/como-comecar" 
+         
+          >Como começar?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/comecando" 
+         
+          >Começando</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-36-kyu" 
+         
+          >Problemas de 36 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo" 
+         
+          >Fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo-2" 
+         
+          >Fim do jogo - Parte 2</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/corte" 
+         
+          >Corte</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/defesa" 
+         
+          >Defesa</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-ponto-acima" 
+         
+          >Um ponto acima</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/mais-sobre-pulos" 
+         
+          >Mais sobre pulos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/aproximando-o-fim-do-jogo" 
+         
+          >Aproximando-se do fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/use-seu-instinto" 
+         
+          >Use seu instinto!</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogos-exemplo" 
+         
+          >Jogos de exemplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/komi" 
+         
+        class="active" 
+         
+          >Komi</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/epilogo" 
+         
+          >Epílogo</a
+        >
+      </li>
+
+      
+
+    </ol>
+      
+      <br />
+
+      
+      <p>Partidas do AlphaGo</p>
+      
+    
+    <ol>
+
+      
+
+      <li>
+        <a href="/fanhui-alphago" 
+         
+          >Jogos entre Fan Hui(2p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/kejie-alphago" 
+         
+          >Jogos entre Ke Jie (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/leesedol-alphago" 
+         
+          >Jogos entre Lee Sedol (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+    </ol>  
+<br />      
+      <p>Teoria do Go</p>
+    
+    <ol>
+
+
+      
+
+      <li>
+        <a href="/o-que-e-go" 
+         
+          >O que é Go</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/equipamento" 
+         
+          >Equipamento</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/regras-basicas" 
+         
+          >Regras Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/tecnicas-basicas" 
+         
+          >Técnicas Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogo-exemplo" 
+         
+          >Jogo exemplo</a
+        >
+      </li>
+
+      
+    </ol>
+  </nav>
+</aside>
+<article id="content">
+<section class="title">
+  <h2>Komi</h2>
+</section>
+
+
+<section class="top-navigation">
+  <select class="lesson-selector" aria-label="Menu">
+
+    <optgroup label="Trilha de aprendizagem">
+      
+
+
+      
+      
+
+        <option value="/como-capturar-pedras" 
+         
+        >
+          Como Capturar Pedras?
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-50-kyu" 
+         
+        >
+          Problemas de 50 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-49-kyu" 
+         
+        >
+          Problemas de 49 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-48-kyu" 
+         
+        >
+          Problemas de 48 Kyu
+        </option>
+
+      
+      
+
+        <option value="/um-momento-de-descanso" 
+         
+        >
+          Um momento de descanso
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-46-kyu" 
+         
+        >
+          Problemas de 46 Kyu
+        </option>
+
+      
+      
+
+        <option value="/movimentos-ilegais" 
+         
+        >
+          Movimentos ilegais
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-47-kyu-atari-duplo" 
+         
+        >
+          Problemas de 47 Kyu - Atari Duplo
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-45-kyu-escada" 
+         
+        >
+          Problemas de 45 Kyu - Escada
+        </option>
+
+      
+      
+
+        <option value="/fazendo-dois-olhos" 
+         
+        >
+          Fazendo dois olhos
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-44-kyu" 
+         
+        >
+          Problemas de 44 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-43-kyu" 
+         
+        >
+          Problemas de 43 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-42-kyu" 
+         
+        >
+          Problemas de 42 Kyu
+        </option>
+
+      
+      
+
+        <option value="/ko-eternidade" 
+         
+        >
+          Ko (eternidade)
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-40-kyu" 
+         
+        >
+          Problemas de 40 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-39-kyu" 
+         
+        >
+          Problemas de 39 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-38-kyu-luta-no-canto" 
+         
+        >
+          Problemas de 38 Kyu - Luta no canto
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-37-kyu" 
+         
+        >
+          Problemas de 37 Kyu
+        </option>
+
+      
+      
+
+        <option value="/como-comecar" 
+         
+        >
+          Como começar?
+        </option>
+
+      
+      
+
+        <option value="/comecando" 
+         
+        >
+          Começando
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-36-kyu" 
+         
+        >
+          Problemas de 36 Kyu
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo" 
+         
+        >
+          Fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo-2" 
+         
+        >
+          Fim do jogo - Parte 2
+        </option>
+
+      
+      
+
+        <option value="/corte" 
+         
+        >
+          Corte
+        </option>
+
+      
+      
+
+        <option value="/defesa" 
+         
+        >
+          Defesa
+        </option>
+
+      
+      
+
+        <option value="/um-ponto-acima" 
+         
+        >
+          Um ponto acima
+        </option>
+
+      
+      
+
+        <option value="/mais-sobre-pulos" 
+         
+        >
+          Mais sobre pulos
+        </option>
+
+      
+      
+
+        <option value="/aproximando-o-fim-do-jogo" 
+         
+        >
+          Aproximando-se do fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/use-seu-instinto" 
+         
+        >
+          Use seu instinto!
+        </option>
+
+      
+      
+
+        <option value="/jogos-exemplo" 
+         
+        >
+          Jogos de exemplo
+        </option>
+
+      
+      
+
+        <option value="/komi" 
+         
+        selected="true" 
+         
+        >
+          Komi
+        </option>
+
+      
+      
+
+        <option value="/epilogo" 
+         
+        >
+          Epílogo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Partidas do AlphaGo">
+      
+
+
+      
+
+        <option value="/fanhui-alphago"
+         
+        >
+          Jogos entre Fan Hui(2p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/kejie-alphago"
+         
+        >
+          Jogos entre Ke Jie (9p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/leesedol-alphago"
+         
+        >
+          Jogos entre Lee Sedol (9p) e AlphaGo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Teoria do Go">
+      
+
+
+      
+
+        <option value="/o-que-e-go"
+         
+        >
+          O que é Go
+        </option>
+
+      
+
+        <option value="/equipamento"
+         
+        >
+          Equipamento
+        </option>
+
+      
+
+        <option value="/regras-basicas"
+         
+        >
+          Regras Básicas
+        </option>
+
+      
+
+        <option value="/tecnicas-basicas"
+         
+        >
+          Técnicas Básicas
+        </option>
+
+      
+
+        <option value="/jogo-exemplo"
+         
+        >
+          Jogo exemplo
+        </option>
+
+      
+    </optgroup>
+
+
+  </select>
+</section>
+
+
+
+  
+  
+
+	<section>
+	
+		<h3 id="komi">Komi</h3>
+<p>Em jogos normais, as pretas sempre jogam primeiro.</p>
+<p>Portanto, <strong>as pretas têm uma pequena vantagem</strong> sobre as brancas.</p>
+<p>Para compensar, as brancas às vezes recebem alguns pontos de bônus chamados de <strong>Komi</strong>, ao contar o território no fim do jogo.</p>
+<p>Esse bônus é normalmente <strong>6.5 pontos</strong>. Isso significa que o valordo primeiro movimento é considerado com sendo de aproximadamente 6 pontos e meio.</p>
+<p>O meio ponto adicional é colocado para evitar empate.</p>
+<p>Por exemplo, se as pretas têm 7 territórios a mais que as brancas, as pretas ganham por 0,5 ponto.</p>
+<p>Se as pretas têm 6 pontos a mais, as brancas ganham por 0,5 ponto.</p>
+<p>Antigamente não havia o sistema de Komi. Como as pessoas foram percebendo a ligeira vantagem das pretas, Komi foi sendo introduzido.</p>
+<p>A pontuação do Komi tem mudado ao longo do tempo. Quando ele foi introduzido nos jogos Profissionais Japoneses, ele era de 4,5 pontos.</p>
+<p>Entretanto, as pretas ainda tinham maior chance de ganhar, então Komi foi aumentado para 5,5 pontos e, mais atualmente, para 6,5.</p>
+<p>Com o sistema de Komi, <strong>Go quase não tem mais empates</strong> e se tornou um jogo mais emocionante e justo.</p>
+<hr>
+<h3 id="o-handicap">O Handicap</h3>
+<p>Quando a habilidade dos dois jogadores é diferente, o mais fraco coloca algum número de peças no tabuleiro antes de começar o jogo. Isso é chamado de &ldquo;<strong>handicap</strong>&rdquo;.</p>
+<p>Em jogos com handicap, <strong>o mais fraco joga com as pretas</strong>.</p>
+<p>As pretas jogam as pedras do handicap nos pontos marcados e então as brancas fazem o primeiro movimento.</p>
+<p>O núemro de pedras no handicap reflete a diferença dos dois jogadores.</p>
+<p>Se o mais fraco é 5 Kyu e o mais forte é 2 Kyu, 3 handicaps seriam usados</p>
+<p>Com as pedras de handicap, as preta têm vantagem sobre todos os aspectos do jogo - ataque, defesa, cerco de territórios, etc.</p>
+<p>Dizem que <strong>uma pedra de handicap é equivalente a 10 pontos</strong> de territórios.</p>
+<p>Portanto, se você jogasse um jogo comigo e perdesse por 50 pontos, um handicap de 5 pedras seria apropriado para que ficássemos com as mesmas chances de ganhar.</p>
+<p>A posição das pedras do handicap é convencionamente especificada abaixo.</p>
+
+  
+  <div class="sgf diagram" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[kursgo.pl converter]ST[2]SZ[19]
+AB[dd][dp][pp][pd][jd][jp][pj][dj][jj])
+">
+  
+  <div class="description">
+    <p>
+      Handicap de 9
+    </p>
+  </div>
+  <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+    
+  </div>
+
+
+  
+  <div class="sgf diagram" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[kursgo.pl converter]ST[2]SZ[19]
+AB[dd][dp][pp][pd][pj][dj])
+">
+  
+  <div class="description">
+    <p>
+      Handicap de 6
+    </p>
+  </div>
+  <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+    
+  </div>
+
+
+  
+  <div class="sgf diagram" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[kursgo.pl converter]ST[2]SZ[19]
+AB[dd][dp][pp][pd][jj])
+">
+  
+  <div class="description">
+    <p>
+      Handicap de 5
+    </p>
+  </div>
+  <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+    
+  </div>
+
+
+  
+  <div class="sgf diagram" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[kursgo.pl converter]ST[2]SZ[19]
+AB[dd][dp][pp][pd])
+">
+  
+  <div class="description">
+    <p>
+      Handicap de 4
+    </p>
+  </div>
+  <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+    
+  </div>
+
+<p>Em todos os casos, as pedras de handicap são colocadas nos <strong>pontos 4-4 (pontos de estrela)</strong> os quais estão marcados com pequenos círculos pretos. Entretanto, você pode ter mais de 9 pedras de handicap colocando-as em quaisquer outros lugares.</p>
+<p>Num jogo com handicap, <strong>todos podem se divertir jogando Go com a mesma chance de ganhar não importando a diferença de habilidade entre os jogadores</strong>, sem alterar as regras.</p>
+
+	
+	</section>
+
+
+
+  <section class="bottom-navigation">
+  
+  <p class="prev_lesson">
+    <a href="/jogos-exemplo" class="button">Anterior</a>
+  </p>
+  
+
+  
+  
+  <p class="next_lesson">
+    <a href="/epilogo" class="button">
+      
+      Próximo
+      
+    </a>
+  
+  </p>
+</section>
+</article>
+  </div>
+</body>
+</html>

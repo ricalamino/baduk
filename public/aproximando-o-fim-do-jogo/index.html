@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Baduk - Aprenda a jogar Go Interativamente - Aproximando-se do fim do jogo</title>
+    <script src="/js/wgo.js"></script>
+    <script src="/js/goBaduk.js"></script>
+    <link rel="stylesheet" href="/css/wgo.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Galdeano"
+      rel="stylesheet"
+    />
+  </head>
+
+<body>
+  <div class="wrapper">
+  <header>
+  <h1>
+    Aprenda a Jogar Go Interativamente (<strong>Baduk</strong> ou Weiqi)
+  </h1>
+</header>
+
+<aside>
+  <nav>
+    <p>Trilha de aprendizagem</p>
+    <ol>
+      
+
+      <li>
+        <a href="/como-capturar-pedras" 
+         
+          >Como Capturar Pedras?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-50-kyu" 
+         
+          >Problemas de 50 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-49-kyu" 
+         
+          >Problemas de 49 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-48-kyu" 
+         
+          >Problemas de 48 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-momento-de-descanso" 
+         
+          >Um momento de descanso</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-46-kyu" 
+         
+          >Problemas de 46 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/movimentos-ilegais" 
+         
+          >Movimentos ilegais</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-47-kyu-atari-duplo" 
+         
+          >Problemas de 47 Kyu - Atari Duplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-45-kyu-escada" 
+         
+          >Problemas de 45 Kyu - Escada</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fazendo-dois-olhos" 
+         
+          >Fazendo dois olhos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-44-kyu" 
+         
+          >Problemas de 44 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-43-kyu" 
+         
+          >Problemas de 43 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-42-kyu" 
+         
+          >Problemas de 42 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/ko-eternidade" 
+         
+          >Ko (eternidade)</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-40-kyu" 
+         
+          >Problemas de 40 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-39-kyu" 
+         
+          >Problemas de 39 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-38-kyu-luta-no-canto" 
+         
+          >Problemas de 38 Kyu - Luta no canto</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-37-kyu" 
+         
+          >Problemas de 37 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/como-comecar" 
+         
+          >Como começar?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/comecando" 
+         
+          >Começando</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-36-kyu" 
+         
+          >Problemas de 36 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo" 
+         
+          >Fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo-2" 
+         
+          >Fim do jogo - Parte 2</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/corte" 
+         
+          >Corte</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/defesa" 
+         
+          >Defesa</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-ponto-acima" 
+         
+          >Um ponto acima</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/mais-sobre-pulos" 
+         
+          >Mais sobre pulos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/aproximando-o-fim-do-jogo" 
+         
+        class="active" 
+         
+          >Aproximando-se do fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/use-seu-instinto" 
+         
+          >Use seu instinto!</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogos-exemplo" 
+         
+          >Jogos de exemplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/komi" 
+         
+          >Komi</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/epilogo" 
+         
+          >Epílogo</a
+        >
+      </li>
+
+      
+
+    </ol>
+      
+      <br />
+
+      
+      <p>Partidas do AlphaGo</p>
+      
+    
+    <ol>
+
+      
+
+      <li>
+        <a href="/fanhui-alphago" 
+         
+          >Jogos entre Fan Hui(2p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/kejie-alphago" 
+         
+          >Jogos entre Ke Jie (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/leesedol-alphago" 
+         
+          >Jogos entre Lee Sedol (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+    </ol>  
+<br />      
+      <p>Teoria do Go</p>
+    
+    <ol>
+
+
+      
+
+      <li>
+        <a href="/o-que-e-go" 
+         
+          >O que é Go</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/equipamento" 
+         
+          >Equipamento</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/regras-basicas" 
+         
+          >Regras Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/tecnicas-basicas" 
+         
+          >Técnicas Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogo-exemplo" 
+         
+          >Jogo exemplo</a
+        >
+      </li>
+
+      
+    </ol>
+  </nav>
+</aside>
+<article id="content">
+<section class="title">
+  <h2>Aproximando-se do fim do jogo</h2>
+</section>
+
+
+<section class="top-navigation">
+  <select class="lesson-selector" aria-label="Menu">
+
+    <optgroup label="Trilha de aprendizagem">
+      
+
+
+      
+      
+
+        <option value="/como-capturar-pedras" 
+         
+        >
+          Como Capturar Pedras?
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-50-kyu" 
+         
+        >
+          Problemas de 50 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-49-kyu" 
+         
+        >
+          Problemas de 49 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-48-kyu" 
+         
+        >
+          Problemas de 48 Kyu
+        </option>
+
+      
+      
+
+        <option value="/um-momento-de-descanso" 
+         
+        >
+          Um momento de descanso
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-46-kyu" 
+         
+        >
+          Problemas de 46 Kyu
+        </option>
+
+      
+      
+
+        <option value="/movimentos-ilegais" 
+         
+        >
+          Movimentos ilegais
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-47-kyu-atari-duplo" 
+         
+        >
+          Problemas de 47 Kyu - Atari Duplo
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-45-kyu-escada" 
+         
+        >
+          Problemas de 45 Kyu - Escada
+        </option>
+
+      
+      
+
+        <option value="/fazendo-dois-olhos" 
+         
+        >
+          Fazendo dois olhos
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-44-kyu" 
+         
+        >
+          Problemas de 44 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-43-kyu" 
+         
+        >
+          Problemas de 43 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-42-kyu" 
+         
+        >
+          Problemas de 42 Kyu
+        </option>
+
+      
+      
+
+        <option value="/ko-eternidade" 
+         
+        >
+          Ko (eternidade)
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-40-kyu" 
+         
+        >
+          Problemas de 40 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-39-kyu" 
+         
+        >
+          Problemas de 39 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-38-kyu-luta-no-canto" 
+         
+        >
+          Problemas de 38 Kyu - Luta no canto
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-37-kyu" 
+         
+        >
+          Problemas de 37 Kyu
+        </option>
+
+      
+      
+
+        <option value="/como-comecar" 
+         
+        >
+          Como começar?
+        </option>
+
+      
+      
+
+        <option value="/comecando" 
+         
+        >
+          Começando
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-36-kyu" 
+         
+        >
+          Problemas de 36 Kyu
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo" 
+         
+        >
+          Fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo-2" 
+         
+        >
+          Fim do jogo - Parte 2
+        </option>
+
+      
+      
+
+        <option value="/corte" 
+         
+        >
+          Corte
+        </option>
+
+      
+      
+
+        <option value="/defesa" 
+         
+        >
+          Defesa
+        </option>
+
+      
+      
+
+        <option value="/um-ponto-acima" 
+         
+        >
+          Um ponto acima
+        </option>
+
+      
+      
+
+        <option value="/mais-sobre-pulos" 
+         
+        >
+          Mais sobre pulos
+        </option>
+
+      
+      
+
+        <option value="/aproximando-o-fim-do-jogo" 
+         
+        selected="true" 
+         
+        >
+          Aproximando-se do fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/use-seu-instinto" 
+         
+        >
+          Use seu instinto!
+        </option>
+
+      
+      
+
+        <option value="/jogos-exemplo" 
+         
+        >
+          Jogos de exemplo
+        </option>
+
+      
+      
+
+        <option value="/komi" 
+         
+        >
+          Komi
+        </option>
+
+      
+      
+
+        <option value="/epilogo" 
+         
+        >
+          Epílogo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Partidas do AlphaGo">
+      
+
+
+      
+
+        <option value="/fanhui-alphago"
+         
+        >
+          Jogos entre Fan Hui(2p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/kejie-alphago"
+         
+        >
+          Jogos entre Ke Jie (9p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/leesedol-alphago"
+         
+        >
+          Jogos entre Lee Sedol (9p) e AlphaGo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Teoria do Go">
+      
+
+
+      
+
+        <option value="/o-que-e-go"
+         
+        >
+          O que é Go
+        </option>
+
+      
+
+        <option value="/equipamento"
+         
+        >
+          Equipamento
+        </option>
+
+      
+
+        <option value="/regras-basicas"
+         
+        >
+          Regras Básicas
+        </option>
+
+      
+
+        <option value="/tecnicas-basicas"
+         
+        >
+          Técnicas Básicas
+        </option>
+
+      
+
+        <option value="/jogo-exemplo"
+         
+        >
+          Jogo exemplo
+        </option>
+
+      
+    </optgroup>
+
+
+  </select>
+</section>
+
+
+
+  
+  
+
+	<section>
+	
+		<p>Quando o jogo vai chegando ao fim, e ambos os lados já têm os seus territórios definidos, tudo o que você deve fazer é delimitar as bordas do seu território claramente.</p>
+<p>Nesse ponto, você deve tentar empurrar a borda para dentro do território inimigo, aumentando o seu território o máximo possível e ao mesmo tempo reduzindo o do adversário.</p>
+
+  <div class="sgf problem" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+AW[db][dc][ec][fc][gd][ge][gg][gh]AB[cb][cc][bd][dd][ee][cg][eg]
+(;B[fh]C[[OK\]Voc&amp;ecirc; tomou o m&amp;aacute;ximo de territ&amp;oacute;rio no canto inferior])
+(;B[eh]
+;W[fh]C[Seja mais agressivo!])
+(;B[ei]
+;W[fi]C[D&amp;aacute; pra melhorar!])
+(;B[fi]
+;W[gi]C[D&amp;aacute; pra melhorar!])
+(;B[fg]
+;W[ei])
+(;B[gf]
+;W[ff])
+(;B[dh]
+;W[fh])
+(;B[]
+;W[eh]C[Voc&amp;ecirc; perdeu a parte inferior.]))
+">
+  
+  <div class="description">
+    <p>
+      As pretas ocupam o lado esquerdo e as brancas controlam o lado direito.</p><p>Entretanto, ainda há alguns lugares onde os limites não estão claros. Onde você pode jogar que possibilitará maior lucro de território?
+    </p>
+  </div>
+  <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+    <div class="status">
+      <p>Sua vez.</p>
+      
+      <a class="reset button">Jogar novamente.</a>
+    </div>
+  </div>
+
+
+  <div class="sgf problem" data-sgf="(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+CR[di]AW[ga][gb][fc][fd][ee][ge][ef][eg][eh][di]AB[fa][eb][fb][ec][dd][ed][de][df][dg][dh]
+(;B[ci]
+;W[ei]C[O trabalho ainda n&amp;atilde;o acabou.]
+(;B[ch]C[[OK\]Voc&amp;ecirc; evitou o corte!])
+(;B[bh]C[[OK\]Voc&amp;ecirc; evitou o corte!])
+(;B[cg]C[[OK\]Voc&amp;ecirc; evitou o corte!])
+(;B[bi]
+;W[ch]
+(;B[bh]C[Funcionou mas d&amp;aacute; pra fazer melhor.])
+(;B[]
+;W[bh]))
+(;B[ah]
+;W[ch]
+(;B[bi]
+;W[bh]
+(;B[ai]
+;W[ag])
+(;B[]
+;W[ai]))
+(;B[]
+;W[bi]))
+(;B[]
+;W[ch]C[Brancas cortaram suas pedras!]
+(;B[bi]
+;W[bh])
+(;B[]
+;W[bi])))
+(;B[ei]
+;W[fi])
+(;B[]
+;W[ci]))
+">
+  
+  <div class="description">
+    <p>
+      As pretas têm o lado esquerdo e as brancas o lado direito. O jogo está quase no fim.</p><p>Mas seja cuidadoso até o jogo acabar de verdade!</p><p>Brancas acabaram de jogar em D1.</p><p>Se você ignorar, seu precioso território será invadido.
+    </p>
+  </div>
+  <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+    <div class="status">
+      <p>Sua vez.</p>
+      
+      <a class="reset button">Jogar novamente.</a>
+    </div>
+  </div>
+
+
+	
+	</section>
+
+
+
+  <section class="bottom-navigation">
+  
+  <p class="prev_lesson">
+    <a href="/mais-sobre-pulos" class="button">Anterior</a>
+  </p>
+  
+
+  
+  
+  <p class="next_lesson">
+    <a href="/use-seu-instinto" class="button">
+      
+      Próximo
+      
+    </a>
+  
+  </p>
+</section>
+</article>
+  </div>
+</body>
+</html>

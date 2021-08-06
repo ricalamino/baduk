@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Baduk - Aprenda a jogar Go Interativamente - Regras básicas</title>
+    <script src="/js/wgo.js"></script>
+    <script src="/js/goBaduk.js"></script>
+    <link rel="stylesheet" href="/css/wgo.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Galdeano"
+      rel="stylesheet"
+    />
+  </head>
+
+<body>
+  <div class="wrapper">
+  <header>
+  <h1>
+    Aprenda a Jogar Go Interativamente (<strong>Baduk</strong> ou Weiqi)
+  </h1>
+</header>
+
+<aside>
+  <nav>
+    <p>Trilha de aprendizagem</p>
+    <ol>
+      
+
+      <li>
+        <a href="/como-capturar-pedras" 
+         
+          >Como Capturar Pedras?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-50-kyu" 
+         
+          >Problemas de 50 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-49-kyu" 
+         
+          >Problemas de 49 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-48-kyu" 
+         
+          >Problemas de 48 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-momento-de-descanso" 
+         
+          >Um momento de descanso</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-46-kyu" 
+         
+          >Problemas de 46 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/movimentos-ilegais" 
+         
+          >Movimentos ilegais</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-47-kyu-atari-duplo" 
+         
+          >Problemas de 47 Kyu - Atari Duplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-45-kyu-escada" 
+         
+          >Problemas de 45 Kyu - Escada</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fazendo-dois-olhos" 
+         
+          >Fazendo dois olhos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-44-kyu" 
+         
+          >Problemas de 44 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-43-kyu" 
+         
+          >Problemas de 43 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-42-kyu" 
+         
+          >Problemas de 42 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/ko-eternidade" 
+         
+          >Ko (eternidade)</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-40-kyu" 
+         
+          >Problemas de 40 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-39-kyu" 
+         
+          >Problemas de 39 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-38-kyu-luta-no-canto" 
+         
+          >Problemas de 38 Kyu - Luta no canto</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-37-kyu" 
+         
+          >Problemas de 37 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/como-comecar" 
+         
+          >Como começar?</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/comecando" 
+         
+          >Começando</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/problemas-de-36-kyu" 
+         
+          >Problemas de 36 Kyu</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo" 
+         
+          >Fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/fim-do-jogo-2" 
+         
+          >Fim do jogo - Parte 2</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/corte" 
+         
+          >Corte</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/defesa" 
+         
+          >Defesa</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/um-ponto-acima" 
+         
+          >Um ponto acima</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/mais-sobre-pulos" 
+         
+          >Mais sobre pulos</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/aproximando-o-fim-do-jogo" 
+         
+          >Aproximando-se do fim do jogo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/use-seu-instinto" 
+         
+          >Use seu instinto!</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogos-exemplo" 
+         
+          >Jogos de exemplo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/komi" 
+         
+          >Komi</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/epilogo" 
+         
+          >Epílogo</a
+        >
+      </li>
+
+      
+
+    </ol>
+      
+      <br />
+
+      
+      <p>Partidas do AlphaGo</p>
+      
+    
+    <ol>
+
+      
+
+      <li>
+        <a href="/fanhui-alphago" 
+         
+          >Jogos entre Fan Hui(2p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/kejie-alphago" 
+         
+          >Jogos entre Ke Jie (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/leesedol-alphago" 
+         
+          >Jogos entre Lee Sedol (9p) e AlphaGo</a
+        >
+      </li>
+
+      
+    </ol>  
+<br />      
+      <p>Teoria do Go</p>
+    
+    <ol>
+
+
+      
+
+      <li>
+        <a href="/o-que-e-go" 
+         
+          >O que é Go</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/equipamento" 
+         
+          >Equipamento</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/regras-basicas" 
+         
+        class="active" 
+         
+          >Regras Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/tecnicas-basicas" 
+         
+          >Técnicas Básicas</a
+        >
+      </li>
+
+      
+
+      <li>
+        <a href="/jogo-exemplo" 
+         
+          >Jogo exemplo</a
+        >
+      </li>
+
+      
+    </ol>
+  </nav>
+</aside>
+<article id="content">
+<section class="title">
+  <h2>Regras básicas</h2>
+</section>
+
+
+<section class="top-navigation">
+  <select class="lesson-selector" aria-label="Menu">
+
+    <optgroup label="Trilha de aprendizagem">
+      
+
+
+      
+      
+
+        <option value="/como-capturar-pedras" 
+         
+        >
+          Como Capturar Pedras?
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-50-kyu" 
+         
+        >
+          Problemas de 50 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-49-kyu" 
+         
+        >
+          Problemas de 49 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-48-kyu" 
+         
+        >
+          Problemas de 48 Kyu
+        </option>
+
+      
+      
+
+        <option value="/um-momento-de-descanso" 
+         
+        >
+          Um momento de descanso
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-46-kyu" 
+         
+        >
+          Problemas de 46 Kyu
+        </option>
+
+      
+      
+
+        <option value="/movimentos-ilegais" 
+         
+        >
+          Movimentos ilegais
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-47-kyu-atari-duplo" 
+         
+        >
+          Problemas de 47 Kyu - Atari Duplo
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-45-kyu-escada" 
+         
+        >
+          Problemas de 45 Kyu - Escada
+        </option>
+
+      
+      
+
+        <option value="/fazendo-dois-olhos" 
+         
+        >
+          Fazendo dois olhos
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-44-kyu" 
+         
+        >
+          Problemas de 44 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-43-kyu" 
+         
+        >
+          Problemas de 43 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-42-kyu" 
+         
+        >
+          Problemas de 42 Kyu
+        </option>
+
+      
+      
+
+        <option value="/ko-eternidade" 
+         
+        >
+          Ko (eternidade)
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-40-kyu" 
+         
+        >
+          Problemas de 40 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-39-kyu" 
+         
+        >
+          Problemas de 39 Kyu
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-38-kyu-luta-no-canto" 
+         
+        >
+          Problemas de 38 Kyu - Luta no canto
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-37-kyu" 
+         
+        >
+          Problemas de 37 Kyu
+        </option>
+
+      
+      
+
+        <option value="/como-comecar" 
+         
+        >
+          Como começar?
+        </option>
+
+      
+      
+
+        <option value="/comecando" 
+         
+        >
+          Começando
+        </option>
+
+      
+      
+
+        <option value="/problemas-de-36-kyu" 
+         
+        >
+          Problemas de 36 Kyu
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo" 
+         
+        >
+          Fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/fim-do-jogo-2" 
+         
+        >
+          Fim do jogo - Parte 2
+        </option>
+
+      
+      
+
+        <option value="/corte" 
+         
+        >
+          Corte
+        </option>
+
+      
+      
+
+        <option value="/defesa" 
+         
+        >
+          Defesa
+        </option>
+
+      
+      
+
+        <option value="/um-ponto-acima" 
+         
+        >
+          Um ponto acima
+        </option>
+
+      
+      
+
+        <option value="/mais-sobre-pulos" 
+         
+        >
+          Mais sobre pulos
+        </option>
+
+      
+      
+
+        <option value="/aproximando-o-fim-do-jogo" 
+         
+        >
+          Aproximando-se do fim do jogo
+        </option>
+
+      
+      
+
+        <option value="/use-seu-instinto" 
+         
+        >
+          Use seu instinto!
+        </option>
+
+      
+      
+
+        <option value="/jogos-exemplo" 
+         
+        >
+          Jogos de exemplo
+        </option>
+
+      
+      
+
+        <option value="/komi" 
+         
+        >
+          Komi
+        </option>
+
+      
+      
+
+        <option value="/epilogo" 
+         
+        >
+          Epílogo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Partidas do AlphaGo">
+      
+
+
+      
+
+        <option value="/fanhui-alphago"
+         
+        >
+          Jogos entre Fan Hui(2p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/kejie-alphago"
+         
+        >
+          Jogos entre Ke Jie (9p) e AlphaGo
+        </option>
+
+      
+
+        <option value="/leesedol-alphago"
+         
+        >
+          Jogos entre Lee Sedol (9p) e AlphaGo
+        </option>
+
+      
+    </optgroup>
+
+    <optgroup label="Teoria do Go">
+      
+
+
+      
+
+        <option value="/o-que-e-go"
+         
+        >
+          O que é Go
+        </option>
+
+      
+
+        <option value="/equipamento"
+         
+        >
+          Equipamento
+        </option>
+
+      
+
+        <option value="/regras-basicas"
+         
+        selected="true" 
+         
+        >
+          Regras Básicas
+        </option>
+
+      
+
+        <option value="/tecnicas-basicas"
+         
+        >
+          Técnicas Básicas
+        </option>
+
+      
+
+        <option value="/jogo-exemplo"
+         
+        >
+          Jogo exemplo
+        </option>
+
+      
+    </optgroup>
+
+
+  </select>
+</section>
+
+
+
+  
+  
+
+	<section>
+	
+		<h3 id="regras-básicas">Regras básicas</h3>
+<h2 id="1-go-é-jogado-entre-dois-jogadores">1. Go é jogado entre dois jogadores.</h2>
+<h2 id="2-um-dos-jogadores-usa-as-pedras-brancas-e-o-outro-as-pretas-os-jogadores-se-revezam-colocando-as-pedras-no-tabuleiro-uma-a-uma-o-primeiro-movimento-isto-é-a-colocação-da-primeira-pedra-no-tabuleiro-é-feito-pelas-pretas-num-jogo-com-handicap-entretanto-brancas-jogam-primeiro">2. Um dos jogadores usa as pedras brancas e o outro as pretas. (Os jogadores se revezam colocando as pedras no tabuleiro, uma a uma. O primeiro movimento, isto é, a colocação da primeira pedra no tabuleiro, é feito pelas Pretas. Num jogo com &ldquo;handicap&rdquo;, entretanto, Brancas jogam primeiro.)</h2>
+<h2 id="3-a-pedra-deve-ser-colocada-em-um-dos-cruzamentos">3. A pedra deve ser colocada em um dos cruzamentos.</h2>
+<h2 id="4-a-pedra-uma-vez-colocada-não-pode-ser-retirada-exceto-quando-se-aplica-a-regra-número-6">4. A pedra, uma vez colocada, não pode ser retirada (exceto quando se aplica a regra número 6).</h2>
+<h2 id="5-o-jogador-que-obtem-mais-território-ganha-o-jogo">5. O jogador que obtem mais território ganha o jogo.</h2>
+<h2 id="6-as-pedras-que-perderem-suas-liberdades-ou-espaço-para-respirar-são-retiradas-do-tabuleiro">6. As pedras que perderem suas liberdades, ou “espaço para respirar”, são retiradas do tabuleiro.</h2>
+<h2 id="7-nenhuma-pedra-pode-ser-colocada-num-cruzamento-onde-não-tenha-liberdade">7. Nenhuma pedra pode ser colocada num cruzamento onde não tenha liberdade.</h2>
+<h2 id="8-há-restrições-especiais-nos-movimentos-de-um-jogador-na-situação-chamada-ko">8. Há restrições especiais nos movimentos de um jogador, na situação chamada Ko.</h2>
+<h2 id="9-regra-referente-ao-jogo-com-handicap-ou-vantagem">9. Regra referente ao jogo com &ldquo;handicap&rdquo; ou vantagem.</h2>
+<hr>
+<h3 id="território-regra-número-5">Território (Regra número 5)</h3>
+<p><img src="/img/regra1.gif" alt="Territorio"></p>
+<p>O jogador com mais território vence o jogo. Mas como contamos o território? O território consiste nos cruzamentos, cercados de tal maneira pelas peças do jogador, que o adversário não consegue invadi-lo. O número de cruzamentos cercados pelas peças Brancas e pelas Pretas consiste respectivamente no número de pontos obtidos pelo jogador das Brancas e pelo jogador com as Pretas.</p>
+<hr>
+<h3 id="limites-cont-regra-número-5">Limites (Cont. regra número 5)</h3>
+<p><img src="/img/regra2.gif" alt="Limites"></p>
+<p>A figura ao lado é uma análise do diagrama anterior. Observe que as Pretas delimitam um território sólido (caracterizado pela linha branca), assim como as Brancas.</p>
+<p>Os números no diagrama indicam os pontos dados a cada território. As Pretas têm 40 pontos (31 + 9) e as Brancas 39 (22 + 17), portanto Pretas venceram por 1 ponto.</p>
+<hr>
+<h3 id="liberdades-ou-espaços-para-respirar-regra-número-6">Liberdades ou espaços para respirar (Regra número 6)</h3>
+<p><img src="/img/regra3.gif" alt="Liberdades"></p>
+<p>Quando todos os pontos adjacentes a uma pedra, ou grupo de pedras, estão ocupados por pedras do adversário, a pedra(ou grupo de pedras) é capturada(o) e retirada(o) do tabuleiro.</p>
+<p>Em A, B e C na figura acima, os pontos indicados por flechas são chamados de liberdades da pedra a qual se referem. Em D, E e F, todas as liberdades da Preta foram “tomadas” pelas Brancas. Assim, não podendo mais respirar, a peça Preta(ou conjunto de peças sem liberdade) é retirada(o) do tabuleiro.</p>
+<hr>
+<h3 id="removendo-as-peças-capturadas-cont-regra-número-6">Removendo as peças capturadas (Cont. Regra número 6)</h3>
+<p>Essa seqüência a baixo refere-se a uma captura. Você pode ver que inicialmente a pedra branca tem uma liberdade (ponto “a”). Após o jogador colocar a pedra Preta no ponto “a”, a pedra branca é capturada, retirada do tabuleiro e significará um ponto a menos para o jogador das Brancas.</p>
+<p>Normalmente, no final da partida, para facilitar a contagem, as pedras capturadas são colocadas no território de mesma cor da pedra.</p>
+<p><img src="/img/regra4.gif" alt="Removendo"> <img src="/img/regra5.gif" alt="Removendo"> <img src="/img/regra6.gif" alt="Removendo"></p>
+<hr>
+<h3 id="o-ponto-irrespirável-regra-número-7">O ponto “irrespirável” (Regra número 7)</h3>
+<p><img src="/img/regra7.gif" alt="Irrespirável"></p>
+<p>Nenhuma peça pode ser posta num lugar onde não haja liberdade. Assim, no diagrama ao lado, na situação “A” as Pretas não podem jogar em “a”.</p>
+<p>A situação B, entretanto, é diferente. Pretas podem jogar em “a”, pois ela conseguiria capturar a pedra Branca marcada com um triângulo, ficando com um ponto para respirar (situação D): ponto “a”.</p>
+<hr>
+<h3 id="ko--regra-número-8-">Ko ( Regra número 8 )</h3>
+<p>Em uma situação em que, entre cruzamentos adjacentes, cada adversário possa alternativamente repetir a jogada de capturar a pedra do outro de forma infinita, a regra consiste em NÃO poder capturar na jogada imediatamente seguinte. Ficará melhor pelo exemplo (figura abaixo).</p>
+<p>Esta é a única exceção à regra de que se é livre para colocar sua pedra em qualquer ponto desocupado do tabuleiro.</p>
+<p>Quando acontece uma situação como em “A”, a Preta pode capturar a pedra Branca com um triângulo. Porém, na jogada imediatamente seguinte (em “D”), a Branca não pode jogar em “2”, pois essa situação não terminaria nunca (“Ko“). Mas, depois de passada uma jogada pode-se fazer a jogada. Vale a mesma regra para o adversário.</p>
+<p><img src="/img/regra8.gif" alt="Ko"> <img src="/img/regra9.gif" alt="Ko"> <img src="/img/regra10.gif" alt="Ko"> <img src="/img/regra11.gif" alt="Ko"></p>
+<hr>
+<h3 id="handicap-ou-vantagem-regra-número-9">&ldquo;Handicap&rdquo; ou Vantagem (Regra número 9)</h3>
+<p><img src="/img/regra12.gif" alt="Handicap"></p>
+<p>Se pessoas de níveis diferentes jogam, pode-se usar o recurso de “handicap“. Quanto maior a diferença de habilidade, mais pedras se colocam para equilibrar o jogo.</p>
+<p>Se a diferença for de “um grau” o jogador mais fraco joga com as Pretas e coloca apenas duas pedras no “handicap”. Se for dois graus, três pedras e assim por diante. Ao lado, você pode ver um diagrama que mostra a colocação de 9 pedras:</p>
+<ul>
+<li>Para um “handicap” de 6 pedras, retiram-se as pedras 5, 8 e 9;</li>
+<li>Para um “handicap” de 7 pedras, retiram-se as pedras 8 e 9;</li>
+<li>Para um “handicap” de 8 pedras, retira-se a pedra 5;</li>
+<li>Para todos os outros níveis segue-se a ordem marcada nas pedras.</li>
+</ul>
+
+	
+	</section>
+
+
+
+  <section class="bottom-navigation">
+  
+  <p class="prev_lesson">
+    <a href="/equipamento" class="button">Anterior</a>
+  </p>
+  
+
+  
+  
+  <p class="next_lesson">
+    <a href="/tecnicas-basicas" class="button">
+      
+      Próximo
+      
+    </a>
+  
+  </p>
+</section>
+</article>
+  </div>
+</body>
+</html>

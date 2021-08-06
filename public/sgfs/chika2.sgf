@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+AW[cd][cf][df][gf][bg][eg][bh][ch][di]AB[ee][bf][ef][cg][dg][dh]
+(;B[eh]
+;W[fg]
+(;B[ce]
+;W[be]
+(;B[de]C[[OK\]])
+(;B[af]
+;W[de]C[Pretas foram separadas.])
+(;B[]
+;W[af]))
+(;B[de]
+;W[ce]C[Pretas foram separadas.])
+(;B[be]
+;W[ce]C[Pretas foram separadas.])
+(;B[af]
+;W[be]C[As pretas l&aacute; embaixo ficaram isoladas.])
+(;B[ci]
+;W[be]
+(;B[ei]
+;W[fh]C[As pretas l&aacute; embaixo ficaram isoladas.])
+(;B[bi]
+;W[ai]C[As pretas l&aacute; embaixo ficaram isoladas.])
+(;B[fh]
+;W[gh]C[As pretas l&aacute; embaixo ficaram isoladas.])
+(;B[gh]
+;W[fh])
+(;B[]
+;W[bi]C[As pretas l&aacute; embaixo ficaram isoladas.]))
+(;B[gh]
+;W[fh])
+(;B[]
+;W[be]C[As pretas l&aacute; embaixo ficaram isoladas.]))
+(;B[]
+;W[eh]))
