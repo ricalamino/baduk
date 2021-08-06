@@ -13,10 +13,15 @@ Antes de começar, lembre-se de três princípios básicos:
 - Quando a pedra é colocada, ela não pode ser movida, somente sob certas condições ela pode ser removida.
 
 ----
+
+### Créditos 
+
 Versão original: Hiroki Mori (http://playgo.to)
+
+Traduzido para o português por Ricardo Alamino (Recém migrado de [Jekyll](https://jekyllrb.com/) para [Hugo](https://gohugo.io/))
+
+Versão em Português disponível no Github em [https://github.com/ricalamino/baduk-hugo/](https://github.com/ricalamino/baduk-hugo/)
 
 Baseado na tradução de Andrzej Bojar
 
-Traduzido para o português por Ricardo Alamino
-
-Desenvolvido pela Associação dos Jogos Honte (http://honte.pl)
+Layout original desenvolvido pela Associação dos Jogos Honte (http://honte.pl)
