@@ -1,0 +1,21 @@
+
+  {{$sgfFile := .Get "sgf"}}
+  
+  <div class="sgf freeplay" data-sgf="{{ readFile  $sgfFile }}">
+    <div class="board">Para utilizar nossos problemas interativos você deve ativar JavaScript.</div>
+  
+  <div class="description">
+    <p>
+      {{
+      .Get "description" | safeHTML
+      }}
+    </p>
+  </div>
+  <div class="comments"></div>
+  <div class="status">
+    <p>Vez das pretas.</p>
+    <a class="back button">Voltar</a>
+    <a class="reset button">Reiniciar</a>
+  </div>
+    
+  </div>

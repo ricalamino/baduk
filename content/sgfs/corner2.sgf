@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.00]
+AW[he][gf][gg][hh]AB[hf][hg][fh][gh]
+(;B[ih]
+;W[hi]C[Brancas fogem...]
+(;B[ig]
+;W[ie]
+(;B[gi]
+;W[if]
+;B[ii]C[[OK\]])
+(;B[]
+;W[if])
+(;B[if]
+;W[ii]))
+(;B[if]
+;W[ie])
+(;B[gi]
+;W[if]
+(;B[ii]C[[OK\]])
+(;B[ig]
+;W[ii])
+(;B[]
+;W[ig]))
+(;B[]
+;W[ig]))
+(;B[ig]
+;W[ih]C[3 pedras pretas n&atilde;o podem escapar.])
+(;B[hi]
+;W[ih]C[Brancas escaparam.])
+(;B[]
+;W[ig]C[As pretas n&atilde;o podem escapar.]))
