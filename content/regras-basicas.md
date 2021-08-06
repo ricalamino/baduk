@@ -21,6 +21,11 @@ next: "tecnicas-basicas"
 
 ### Território (Regra número 5)
 
+
+
+{{< diagram sgf="/sgfs/regras1.sgf" description="Na próxima jogada, o branco será completamente cercado e será removido.<br >Sobre as pedras que podem ser removidas com um movimento, dizemos que elas estão no Atari .">}} 
+
+
 ![Territorio](/img/regra1.gif)
 
 O jogador com mais território vence o jogo. Mas como contamos o território? O território consiste nos cruzamentos, cercados de tal maneira pelas peças do jogador, que o adversário não consegue invadi-lo. O número de cruzamentos cercados pelas peças Brancas e pelas Pretas consiste respectivamente no número de pontos obtidos pelo jogador das Brancas e pelo jogador com as Pretas.
