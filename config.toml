@@ -1,4 +1,4 @@
-baseURL = "http://baduk.com.br/"
+baseURL = "https://baduk.com.br/"
 languageCode = "pt-br"
 title = "Baduk - Aprenda a jogar Go Interativamente"
 
