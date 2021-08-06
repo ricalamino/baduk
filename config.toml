@@ -1,7 +1,6 @@
 baseURL = "http://baduk.com.br/"
 languageCode = "pt-br"
 title = "Baduk - Aprenda a jogar Go Interativamente"
-theme = "Mivinci"
 
 [params]
 
