@@ -4,6 +4,15 @@
 
     <optgroup label="{{ with .Site.Params.classes.name }}{{.}}{{ end }}">
       
+      
+
+      <option value="/" 
+        {{ if eq  "/" $.RelPermalink }} 
+        selected="true" 
+        {{ end }} 
+        >
+          Home
+        </option>
 
 
       {{ range $.Site.Data.classes }}

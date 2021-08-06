@@ -2,6 +2,15 @@
   <nav>
     <p>{{ with .Site.Params.classes.name }}{{.}}{{ end }}</p>
     <ol>
+
+      <li>
+        <a href="/" 
+        {{ if eq "/" $.RelPermalink }} 
+        class="active" 
+        {{ end }} 
+          >Home</a
+        >
+      </li>
       {{ range $.Site.Data.classes }}
 
       <li>
