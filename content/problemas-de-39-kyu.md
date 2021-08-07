@@ -1,7 +1,7 @@
 ---
 title: "Problemas de 39 Kyu"
 date: 2021-08-05T14:10:17-03:00
-draft: true
+draft: false
 previous: "problemas-de-40-kyu"
 next: "problemas-de-38-kyu-luta-no-canto"
 ---

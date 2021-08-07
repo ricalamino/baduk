@@ -1,7 +1,7 @@
 ---
 title: "Jogos de exemplo"
 date: 2021-08-05T14:10:17-03:00
-draft: true
+draft: false
 previous: "use-seu-instinto"
 next: "komi"
 ---

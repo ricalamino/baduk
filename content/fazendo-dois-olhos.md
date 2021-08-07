@@ -1,7 +1,7 @@
 ---
 title: "Pedras que não podem ser capturadas - Fazendo 2 olhos!"
 date: 2021-08-05T14:10:17-03:00
-draft: true
+draft: false
 next: "problemas-de-44-kyu"
 previous: "problemas-de-45-kyu-escada"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Vida difícil"
 date: 2021-08-05T14:10:17-03:00
-draft: true
+draft: false
 previous: "problemas-de-45-kyu-escada"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Aproximando-se do fim do jogo"
 date: 2021-08-05T14:10:17-03:00
-draft: true
+draft: false
 previous: "mais-sobre-pulos"
 next: "use-seu-instinto"
 ---

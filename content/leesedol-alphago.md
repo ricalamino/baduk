@@ -1,7 +1,7 @@
 ---
 title: "Jogos entre Lee Sedol (9p) e AlphaGo"
 date: 2021-08-05T16:08:56-03:00
-draft: true
+draft: false
 previous: "kejie-alphago"
 next: "o-que-e-go"
 ---

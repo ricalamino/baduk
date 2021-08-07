@@ -1,7 +1,7 @@
 ---
 title: "Use seu instinto!"
 date: 2021-08-05T14:10:17-03:00
-draft: true
+draft: false
 previous: "aproximando-o-fim-do-jogo"
 next: "jogos-exemplo"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Corte"
 date: 2021-08-05T14:10:17-03:00
-draft: true
+draft: false
 previous: "fim-do-jogo-2"
 next: "defesa"
 ---
