@@ -1,508 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Aprenda a Jogar Go Interativamente on Baduk - Aprenda a jogar Go Interativamente</title>
-    <link>https://baduk.com.br/</link>
-    <description>Recent content in Aprenda a Jogar Go Interativamente on Baduk - Aprenda a jogar Go Interativamente</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Thu, 05 Aug 2021 09:37:54 -0300</lastBuildDate><atom:link href="https://baduk.com.br/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jogos entre Fan Hui(2p) e AlphaGo</title>
-      <link>https://baduk.com.br/fanhui-alphago/</link>
-      <pubDate>Thu, 05 Aug 2021 16:08:56 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/fanhui-alphago/</guid>
-      <description>Jogo #1 - Fan Hui (pretas) x AlphaGo (brancas) - 05/10/2015 Para utilizar nossos problemas interativos você deve ativar JavaScript.Baixar SGF da partidaJogo #2 - AlphaGo (pretas) x Fan Hui (brancas) - 06/10/2015 Para utilizar nossos problemas interativos você deve ativar JavaScript.Baixar SGF da partidaJogo #3 - Fan Hui (pretas) x AlphaGo (brancas) - 07/10/2015 Para utilizar nossos problemas interativos você deve ativar JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Jogos entre Ke Jie (9p) e AlphaGo</title>
-      <link>https://baduk.com.br/kejie-alphago/</link>
-      <pubDate>Thu, 05 Aug 2021 16:08:56 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/kejie-alphago/</guid>
-      <description>AlphaGo (pretas) vs Ke Jie (9p) (brancas) - (Jogo #3 - 27/05/2017) Para utilizar nossos problemas interativos você deve ativar JavaScript.Baixar SGF da partidaAlphaGo (pretas) vs Ke Jie (9p) (brancas) - (Jogo #2 - 25/05/2017) Para utilizar nossos problemas interativos você deve ativar JavaScript.Baixar SGF da partidaKe Jie (9p) (pretas) vs AlphaGo (brancas) - (Jogo #1 - 23/05/2017) Para utilizar nossos problemas interativos você deve ativar JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Jogos entre Lee Sedol (9p) e AlphaGo</title>
-      <link>https://baduk.com.br/leesedol-alphago/</link>
-      <pubDate>Thu, 05 Aug 2021 16:08:56 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/leesedol-alphago/</guid>
-      <description>Lee Sedol (9p) (pretas) vs AlphaGo (brancas) - (Jogo #5 - 15/03/2016) Para utilizar nossos problemas interativos você deve ativar JavaScript.Baixar SGF da partidaAlphaGo (pretas) vs Lee Sedol (9p) (brancas) - (Jogo #4 - 13/03/2016) Para utilizar nossos problemas interativos você deve ativar JavaScript.Baixar SGF da partidaLee Sedol (9p) (pretas) vs AlphaGo (brancas) - (Jogo #3 - 12/03/2016) Para utilizar nossos problemas interativos você deve ativar JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Aproximando-se do fim do jogo</title>
-      <link>https://baduk.com.br/aproximando-o-fim-do-jogo/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/aproximando-o-fim-do-jogo/</guid>
-      <description>Quando o jogo vai chegando ao fim, e ambos os lados já têm os seus territórios definidos, tudo o que você deve fazer é delimitar as bordas do seu território claramente.
-Nesse ponto, você deve tentar empurrar a borda para dentro do território inimigo, aumentando o seu território o máximo possível e ao mesmo tempo reduzindo o do adversário.
-As pretas ocupam o lado esquerdo e as brancas controlam o lado direito.</description>
-    </item>
-    
-    <item>
-      <title>Começando</title>
-      <link>https://baduk.com.br/comecando/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/comecando/</guid>
-      <description>Continuação da página anterior.
-Para utilizar nossos problemas interativos você deve ativar JavaScript.No quinto movimento, as pretas reforçaram o seu canto inferior esquerdo ao jogar em F3. Esses tipos de jogadas de fortalecimento são chamadas de Shimari( ou movimentos de &#39;cerco&#39;)
-No movimento seguinte, as brancas também fortaleceram o seu canto inferior direito com um shimari diferente.
-Em seguida, as pretas colocaram uma pedra perto de uma pedra branca.</description>
-    </item>
-    
-    <item>
-      <title>Como começar</title>
-      <link>https://baduk.com.br/como-comecar/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/como-comecar/</guid>
-      <description>Até agora você pode até já ter entendido como matar as pedras. Entretanto, no começo de um jogo real, você tem que jogar no tabuleiro vazio.
-O objetivo do Go é cercar o máximo de território possível. No início você tem que tentar cercar território, isto é, espaços vazios.
-Na figura, há dois grupos de pedras pretas: um no canto superior esquerdo e um do lado direito. Cada um deles tem 9 espaços, ou 9 pontos.</description>
-    </item>
-    
-    <item>
-      <title>Corte</title>
-      <link>https://baduk.com.br/corte/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/corte/</guid>
-      <description>Parece que as brancas têm um território maior que o das pretas.
-Entretanto, o muro delas tem um ponto fraco.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Isso nos mostra que é possível &amp;ldquo;cortar&amp;rdquo; pedras que estão diagonalmente conectadas.
-Se as pedras são cortadas em duas partes, cada parte tem que viver separadamente - você estará em uma situação difícil.</description>
-    </item>
-    
-    <item>
-      <title>Defesa</title>
-      <link>https://baduk.com.br/defesa/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/defesa/</guid>
-      <description>Agora você sabe que pedras conectadas diagonalmente podem ser cortadas pelo oponente. Antes de ser cortado, você pode se defender.
-Se o branco joga aqui um corte em F6, duas pedras pedras (F7 e E6) estarão em perigo.
-É por isso que o preto deve jogar a defensivamente antes do corte.
-Este é um movimento de conexão.Para utilizar nossos problemas interativos você deve ativar JavaScript.Aqui, depois de F6, o preto conecta suas pedras com força.</description>
-    </item>
-    
-    <item>
-      <title>Jogos de exemplo</title>
-      <link>https://baduk.com.br/jogos-exemplo/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/jogos-exemplo/</guid>
-      <description>No tabuleiro abaixo, você pode ver um jogo real do primeiro movimento ao último.
-Clicando no botão &amp;quot;&amp;gt;&amp;quot;, você pode avançar um movimento com a sua explicação.
-Fique apertando até que páre de avançar.
-Esse é um jogo num tabuleiro 9 x 9.
-Para utilizar nossos problemas interativos você deve ativar JavaScript.No fim as pretas têm 28 pontos e as brancas fizeram 24 pontos.
-Mas como você pode ver as pedras capturadas (Capturas) são: 1 pedra branca foi capturada portanto o território das brancas é diminuído de um ponto.</description>
-    </item>
-    
-    <item>
-      <title>Ko (eternidade)</title>
-      <link>https://baduk.com.br/ko-eternidade/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/ko-eternidade/</guid>
-      <description>Agora, eu irei descrever a regra adicional chamada de Ko - que significa eternidade em japonês.
-Essa é a última regra para lembrar. Se você ler esta página, você terá entendido todas as regras de Go.
-O conceito de Ko é um pouco mais difícil que as regras anteriormente descritas.
-Boa sorte!
-Para utilizar nossos problemas interativos você deve ativar JavaScript.Uma pedra branca está em Atari. Capture-a
-Já a capturou?</description>
-    </item>
-    
-    <item>
-      <title>Mais sobre pulos</title>
-      <link>https://baduk.com.br/mais-sobre-pulos/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/mais-sobre-pulos/</guid>
-      <description>Esse é chamado de Dois Pontos Acima (ou Niken tobi).
-Embora ele lhe dará maior influência sobre o tabuleiro, ele é mais fácil de ser cortado pelo inimigo já que há um espaço maior entre as pedras.
-Há também o Três Pontos Acima e Quatro Pontos Acima.
-Esses grandes pulos são freqüentemente usados como movimentos no início da partida.Para utilizar nossos problemas interativos você deve ativar JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Movimentos ilegais</title>
-      <link>https://baduk.com.br/movimentos-ilegais/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/movimentos-ilegais/</guid>
-      <description>Você pode jogar em quase todos os lugares do tabuleiro.
-Entretanto, há alguns lugares onde as regras impedem a jogada.
-Pretas não podem fazer um movimento para A. (Brancas podem.)
-Pois, se as pretas jogarem lá, aquela pedra já estaria cercada.
-Suicídio não é permitido no Go.Para utilizar nossos problemas interativos você deve ativar JavaScript.Entretanto, pretas podem jogar em B.Para utilizar nossos problemas interativos você deve ativar JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Pedras que não podem ser capturadas - Fazendo 2 olhos!</title>
-      <link>https://baduk.com.br/fazendo-dois-olhos/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/fazendo-dois-olhos/</guid>
-      <description>O paraíso das pretas de novo - as brancas não irão responder. Entretanto, fique atento aos movimentos ilegais.
-Para utilizar nossos problemas interativos você deve ativar JavaScript.Mate todas as pedras brancas.Sua vez.
-Reiniciar Pedras que não podem ser capturadas Como você deve ter percebido no último exemplo, mesmo grupos com muitas pedras podem ser mortos uma vez que estejam cercados.
-Por exemplo, na figura, as pretas estão completamente cercadas - não há saída - só esperar para serem mortas pelo movimento das brancas no centro.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 36 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-36-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-36-kyu/</guid>
-      <description>As pretas estão bloqueadas no canto inferior esquerdo. O grupo só tem 1 olho.
-Faça um olho a mais para sobreviver.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Você poderia fazer um outro olho capturando uma pedra branca.
-As pretas estão bloqueando as brancas no canto inferior. As brancas ainda não têm 2 olhos.
-Então as brancas jogaram em G2.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 37 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-37-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-37-kyu/</guid>
-      <description>Isso me deixa tonto...Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.O que eu devo fazer primeiro?
-Dica: Escape primeiro, ataque depois.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 38 Kyu - Luta no canto</title>
-      <link>https://baduk.com.br/problemas-de-38-kyu-luta-no-canto/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-38-kyu-luta-no-canto/</guid>
-      <description>Próximo aos cantos do tabuleiro, há menos maneiras de escapar e pode ser capturado mais facilmente.
-Portanto as variações tendem a ser mais complexas.
-É dito que a marca de um mestre do Go é a habilidade de sobreviver nos cantos.
-Essa é a situação de Semeai no canto.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Capture as pedras brancas as quais estão cortando as pretas.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 39 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-39-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-39-kyu/</guid>
-      <description>Se, por azar, um grupo de pedras suas for cercado, tente formar um território com elas.
-Ou seja, tente fazer dois olhos.
-Se você ainda não entende o conceito de dois olhos, clique aqui.
-Para utilizar nossos problemas interativos você deve ativar JavaScript.Aqui você aprenderá o conceito de um olho falso - parece ser um olho mas não é.
-Na figura, o grupo preto tem dois olhos?
-Há um olho em F5.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 40 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-40-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-40-kyu/</guid>
-      <description>Quando você é de 40 Kyu, você necessita resolver problemas que são um pouco mais difíceis.
-Boa sorte!
-Capture as 3 pedras brancas.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Esse formato é conhecido como &amp;ldquo;Ave no Ninho&amp;rdquo; no Japão.
-É muito interessante quando você faz isso em jogos reais!
-As pretas estão cercadas ou cercando???
-Todas as pedras pretas irão desaparecer com mais 2 movimentos das brancas.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 42 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-42-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-42-kyu/</guid>
-      <description>Dando o troco Nessa página, você irá aprender a técnica chamada de &amp;ldquo;dando o troco&amp;rdquo; (Uttegaeshi em Japonês).
-É a vez das pretas. Você pode capturar 4 pedras brancas.
-[Dica] Você precisa sacrificar uma pedra primeiro.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Do mesmo modo.
-Ajude as duas pedras pretas matando 2 brancas no meio do tabuleiro.
-Assim todas as pedras pretas estarão conectadas.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 43 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-43-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-43-kyu/</guid>
-      <description>Semeai (ataque mútuo) É a vez das pretas. Dois grupos se cercando.
-Ou as 3 pretas ou as 3 brancas irão triunfar.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Como acima, quando brancas e pretas se cercam e nenhum dos grupos têm 2 olhos, ambos os lados tentam preencher os espaços vagos, ou liberdades, para matar as pedras do adversário. Essa situação é chamada de &amp;ldquo;Semeai&amp;rdquo; - ataque mútuo.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 44 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-44-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-44-kyu/</guid>
-      <description>Fazer Dois Olhos Capture a pedra branca.
-Tente fazer sucessivos Ataris conforme as brancas vão tentando escapar.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.A escada de novo. Infelizmente, é sua vez de escapar.
-Porém nesse caso, diferente do último, você pode escapar.
-Boa sorte!Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Você conseguiu escapar do ataque persistente das brancas?</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 45 Kyu - Escada</title>
-      <link>https://baduk.com.br/problemas-de-45-kyu-escada/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-45-kyu-escada/</guid>
-      <description>Aprendendo a Escada Aqui, você aprenderá a forma chamada de escada (às vezes é também conhecido pelo nome japonês shicho.)
-Você logo perceberá porque isso é chamado assim.
-Capture a pedra branca.
-Tente fazer sucessivos Ataris conforme as brancas vão tentando escapar.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.A escada de novo. Infelizmente, é sua vez de escapar.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 46 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-46-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-46-kyu/</guid>
-      <description>Agora, você já pode clicar no tabuleiro de novo.
-É a vez das pretas. Num primeiro momento, parece que é uma jogada ilegal...Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.4 pedras pretas estão em perigo!
-Mate as pedras brancas antes de morrer!Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Capture as 2 pedras brancas tocando nas pretas.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 47 kyu - atari duplo</title>
-      <link>https://baduk.com.br/problemas-de-47-kyu-atari-duplo/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-47-kyu-atari-duplo/</guid>
-      <description>Atari Duplo Em certas posições, as pretas podem fazer dois Ataris simultâneos nas brancas.
-Como as brancas não podem salvar ambos, as pretas conseguem capturar pelo menos uma pedra branca.
-Isso é chamado de &amp;ldquo;Atari Duplo&amp;rdquo;.
-As brancas têm muitos pontos fracos para conseguir cercar as pretas no canto superior esquerdo.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Onde você pode fazer um Atari duplo?</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 48 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-48-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-48-kyu/</guid>
-      <description>Capture de qualquer modo! De agora em diante, você não conseguirá sucesso sempre com apenas um movimento.
-Fuja das três pedras brancas!
-Isso leva dois movimentos para ser feito. Porém, o primeiro movimento é o mais importante.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Tente capturar as pedras brancas no canto esquerdo.
-É difícil &#34;fugir&#34; com pedras nos cantos.Para utilizar nossos problemas interativos você deve ativar JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 49 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-49-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-49-kyu/</guid>
-      <description>Um pouco mais difícil No canto do tabuleiro, a situação é um pouco diferente.
-As pedras grudadas nos cantos estão quase cercadas - e portanto é fácil matá-las.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Uma pedra no canto está em Atari.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Agora, duas pedras brancas estão em Atari.</description>
-    </item>
-    
-    <item>
-      <title>Problemas de 50 Kyu</title>
-      <link>https://baduk.com.br/problemas-de-50-kyu/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/problemas-de-50-kyu/</guid>
-      <description>Capture as pedras do Oponente em Atari! Você pode clicar no tabuleiro e capturar as pedras do oponente.
-Se você ver cometer um erro, continue tentando até encontrar uma solução.
-Aqui, um tabuleiro 9 x 9 é usado. Normalmente, um tabuleiro 19 x 19 é usado.
-O menor é recomendado para iniciantes.
-Vez das pretas. Capture a pedra branca em atari. Para utilizar nossos problemas interativos você deve ativar JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Um momento de descanso</title>
-      <link>https://baduk.com.br/um-momento-de-descanso/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/um-momento-de-descanso/</guid>
-      <description>Capture de qualquer modo! Neste quadro, apenas o preto pode fazer jogadas.
-Isso significa que o branco nunca lhe responderá.
-Para utilizar nossos problemas interativos você deve ativar JavaScript.Remova todas as pedras brancas.
-No entanto, faça o menor número de movimentos possível.Sua vez.
-ReiniciarVocê precisa de, no mínimo, 33 movimentos para remover todas as pedras brancas.</description>
-    </item>
-    
-    <item>
-      <title>Um ponto acima</title>
-      <link>https://baduk.com.br/um-ponto-acima/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/um-ponto-acima/</guid>
-      <description>Aqui, você aprenderá como jogar quando as pedras brancas e as pretas não estão diretamente atacando umas as outras
-Essa é a hora de você fazer movimentos que fortaleçam sua posição, preparando-se para uma futura guerra ou ainda fazendo algum território.
-Esse movimento ( D5) é chamado Um Ponto Acima (ou Ikken tobi).
-O movimento de pulo para D5 está quase conectado ao D3. Portanto, tal movimento pode ser usado de muitas maneiras como ataque, defesa ou fuga.</description>
-    </item>
-    
-    <item>
-      <title>Use seu instinto!</title>
-      <link>https://baduk.com.br/use-seu-instinto/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/use-seu-instinto/</guid>
-      <description>Sempre tente conectar suas pedras.
-Pois quanto maior o grupo de pedras suas, mais difícil fica cercá-lo.Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Brancas acabram de jogar em E3.
-Como você responderia?Para utilizar nossos problemas interativos você deve ativar JavaScript.Sua vez.
-Jogar novamente.Continuando a situação anterior...
-Brancas cortam você ao jogar em F2.</description>
-    </item>
-    
-    <item>
-      <title>Vida difícil</title>
-      <link>https://baduk.com.br/vida-dificil/</link>
-      <pubDate>Thu, 05 Aug 2021 14:10:17 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/vida-dificil/</guid>
-      <description>O destino das brancas Olhe o formato das brancas as quais acabaram de falhar no ataque no problema anterior.
-As brancas têm muitos pontos fracos.
-Embora seja a vez das brancas, elas não podem corrigir só com um movimento.Para utilizar nossos problemas interativos você deve ativar JavaScript.As pretas podem fazer Ataris Duplos, que você já aprendeu na aula de 47 Kyu.Para utilizar nossos problemas interativos você deve ativar JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Como Capturar Pedras?</title>
-      <link>https://baduk.com.br/como-capturar-pedras/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/como-capturar-pedras/</guid>
-      <description>O objetivo em Go é criar um &amp;ldquo;território&amp;rdquo; maior que o adversário. Primeiramente, escolher um lugar para uma pedra pode ser difícil, porque você pode colocá-la no quadro em quase todos os lugares. Uma forma de criar um terreno é obter pedras inimigas. Pedras cercadas são removidas do tabuleiro e tomadas pelo inimigo como prisioneiros. Cada prisioneiro vale um ponto.  Na próxima jogada, o branco será completamente cercado e será removido.</description>
-    </item>
-    
-    <item>
-      <title>Epílogo</title>
-      <link>https://baduk.com.br/epilogo/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/epilogo/</guid>
-      <description>Aprenda a Jogar Go Interativamente (tradução do The Interactive Way To Go) acabou. Espero que você tenha gostado e que possa jogar esse interessante e realmente excitante jogo chamado Go.
-Agora, o que você deve fazer para continuar jogando Go e para ficar cada vez melhor?
-1. Jogue Go Go é um jogo. Divirta-se jogando o mais possível. Você aprenderá muito apenas jogando.
-Se não tiver ninguém com quem jogar, vá para os servidores de Go na Internet.</description>
-    </item>
-    
-    <item>
-      <title>Equipamento</title>
-      <link>https://baduk.com.br/equipamento/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/equipamento/</guid>
-      <description>Tabuleiro Go é jogado num tabuleiro com número igual de linhas verticais e horizontais, incluindo as linhas que delimitam o tabuleiro. Os tabuleiros mais utilizados são: 9×9, 13×13 e 19×19.
-Abaixo estão os tabuleiros 9×9, 13×13 e, o tabuleiro mais utilizado, 19×19 linhas. Se você for iniciante, é aconselhável que comece jogando com o menor.
- Pedras Há pedras pretas e brancas. Portanto o jogo é jogado por dois jogadores. O número total de pedras num jogo de tabuleiro 19×19, é de 361 pedras (181 pretas e 180 brancas).</description>
-    </item>
-    
-    <item>
-      <title>Fim do jogo</title>
-      <link>https://baduk.com.br/fim-do-jogo/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/fim-do-jogo/</guid>
-      <description>Aqui você aprenderá quando um jogo está para acabar e como contar território usando tabuleiros de 5x5.
-Ambos os lados fizeram 5 movimentos cada e o jogo é considerado acabado. Pretas têm 5 pontos à esquerda e as brancas têm 10 pontos à direita.
-Portanto brancas ganharam por 5 pontos.
-Você pode calcular o território contando as interseções de linhas verticais e horizontais. Cantos e bordas também são território. Lembre-se que as pedras não são contadas como território.</description>
-    </item>
-    
-    <item>
-      <title>Fim do jogo - Parte 2</title>
-      <link>https://baduk.com.br/fim-do-jogo-2/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/fim-do-jogo-2/</guid>
-      <description>Agora, voltemos ao tabuleiro 9x9.
-Será nesta figura podemos considerar o fim de uma partida?
-Parece que as brancas tiveram uma grande vitória. Entretanto...Para utilizar nossos problemas interativos você deve ativar JavaScript.Se você cercar uma área muito larga, seu adversário pode invadi-la.
-As pretas entram na área das brancas. Como há uma grande área onde as pretas podem jogar dentro da &#34;suposta&#34; área branca, se as pretas jogarem bem, elas podem ganhar território lá.</description>
-    </item>
-    
-    <item>
-      <title>Jogo exemplo</title>
-      <link>https://baduk.com.br/jogo-exemplo/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/jogo-exemplo/</guid>
-      <description>Quase o fim do jogo O desenho acima mostra a partida encerrando.
-Vemos os pontos neutros de território (1,2,3,4). Eles podem ser preenchidos tanto pelas pretas quanto pelas brancas (peças não participantes do jogo).
-As peças marcadas com triângulos são peças mortas (sem chance de formar território sólido). Elas são retiradas do tabuleiro e colocadas junto as capturadas.
-Fim do jogo As peças que estão no tabuleiro são rearranjadas para facilitar a contagem.</description>
-    </item>
-    
-    <item>
-      <title>Komi</title>
-      <link>https://baduk.com.br/komi/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/komi/</guid>
-      <description>Komi Em jogos normais, as pretas sempre jogam primeiro.
-Portanto, as pretas têm uma pequena vantagem sobre as brancas.
-Para compensar, as brancas às vezes recebem alguns pontos de bônus chamados de Komi, ao contar o território no fim do jogo.
-Esse bônus é normalmente 6.5 pontos. Isso significa que o valordo primeiro movimento é considerado com sendo de aproximadamente 6 pontos e meio.
-O meio ponto adicional é colocado para evitar empate.</description>
-    </item>
-    
-    <item>
-      <title>O que é Go</title>
-      <link>https://baduk.com.br/o-que-e-go/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/o-que-e-go/</guid>
-      <description>O Go é um jogo de disputa e conquista de território. Imagine que o tabuleiro é um terreno a ser conquistado. Ganha quem ao final tiver o maior território cercado por suas peças. Para isso, basta cercar da melhor maneira possível o território, não deixando que o adversário invada sua terra e tome o seu território.
-O jogo termina quando todas as disputas e pretensões territoriais estejam acabadas.
-&amp;ldquo;Se existe vida inteligente fora da Terra, é certo que eles jogam Go.</description>
-    </item>
-    
-    <item>
-      <title>Regras básicas</title>
-      <link>https://baduk.com.br/regras-basicas/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/regras-basicas/</guid>
-      <description>Regras básicas 1. Go é jogado entre dois jogadores. 2. Um dos jogadores usa as pedras brancas e o outro as pretas. (Os jogadores se revezam colocando as pedras no tabuleiro, uma a uma. O primeiro movimento, isto é, a colocação da primeira pedra no tabuleiro, é feito pelas Pretas. Num jogo com &amp;ldquo;handicap&amp;rdquo;, entretanto, Brancas jogam primeiro.) 3. A pedra deve ser colocada em um dos cruzamentos. 4. A pedra, uma vez colocada, não pode ser retirada (exceto quando se aplica a regra número 6).</description>
-    </item>
-    
-    <item>
-      <title>Técnicas básicas</title>
-      <link>https://baduk.com.br/tecnicas-basicas/</link>
-      <pubDate>Thu, 05 Aug 2021 09:37:54 -0300</pubDate>
-      
-      <guid>https://baduk.com.br/tecnicas-basicas/</guid>
-      <description>Grupos A união faz a força no Go: duas ou mais peças podem unir-se formando blocos. Esses blocos de peças são chamados grupos e têm tantas liberdades quanto a soma das liberdades de cada peça que o forma.
-Grupo A: 13 liberdades.
-Grupo B: 14 liberdades.
-Grupo C: 11 liberdades.
- Grupos sendo capturados Na figura acima podemos ver exemplos de grupos sendo capturados. Eles são capturados com a jogada 1 pois perderam todas as suas liberdades.</description>
-    </item>
-    
-  </channel>
-</rss>
