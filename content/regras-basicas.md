@@ -21,23 +21,12 @@ next: "tecnicas-basicas"
 
 ### Território (Regra número 5)
 
-
-
-{{< diagram sgf="/sgfs/regras1.sgf" description="Na próxima jogada, o branco será completamente cercado e será removido.<br >Sobre as pedras que podem ser removidas com um movimento, dizemos que elas estão no Atari .">}} 
-
-
-![Territorio](/img/regra1.gif)
-
-O jogador com mais território vence o jogo. Mas como contamos o território? O território consiste nos cruzamentos, cercados de tal maneira pelas peças do jogador, que o adversário não consegue invadi-lo. O número de cruzamentos cercados pelas peças Brancas e pelas Pretas consiste respectivamente no número de pontos obtidos pelo jogador das Brancas e pelo jogador com as Pretas.
+{{< diagram sgf="/sgfs/regras1.sgf" description="O jogador com mais território vence o jogo. Mas como contamos o território? O território consiste nos cruzamentos, cercados de tal maneira pelas peças do jogador, que o adversário não consegue invadi-lo. O número de cruzamentos cercados pelas peças Brancas e pelas Pretas consiste respectivamente no número de pontos obtidos pelo jogador das Brancas e pelo jogador com as Pretas.">}} 
 
 ---
 ### Limites (Cont. regra número 5)
 
-![Limites](/img/regra2.gif)
-
-A figura ao lado é uma análise do diagrama anterior. Observe que as Pretas delimitam um território sólido (caracterizado pela linha branca), assim como as Brancas.
-
-Os números no diagrama indicam os pontos dados a cada território. As Pretas têm 40 pontos (31 + 9) e as Brancas 39 (22 + 17), portanto Pretas venceram por 1 ponto.
+{{< diagram sgf="/sgfs/regras2.sgf" description="A figura ao lado é uma análise do diagrama anterior. Observe que as Pretas delimitam um território sólido que cerca os <strong>triângulos</strong>, assim como as Brancas, que cercam as áreas marcadas com <strong>círculos</strong>.</p><p>As quantidades de triângulos e círculos no diagrama indicam os <strong>pontos</strong> dados a cada território. As Pretas têm 40 pontos (9 triângulos ao centro + 31 do lado direito) e as Brancas 39 (22 círculos na parte inferior + 17 na parte superior), portanto <strong>40</strong> contra <strong>39</strong>, e as Pretas venceram por 1 ponto.">}} 
 
 ---
 ### Liberdades ou espaços para respirar (Regra número 6)
