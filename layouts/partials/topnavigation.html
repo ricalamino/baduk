@@ -3,6 +3,13 @@
   <select class="lesson-selector" aria-label="Menu">
 
     <optgroup label="{{ with .Site.Params.classes.name }}{{.}}{{ end }}">
+      <option value="/" 
+        {{ if .IsHome }} 
+        selected="true" 
+        {{ end }} 
+        >
+          Home
+        </option>
 
       {{ range $.Site.Data.classes }}
       

@@ -3,7 +3,14 @@
     <p>{{ with .Site.Params.classes.name }}{{.}}{{ end }}</p>
     <ol>
 
-      
+      <li>
+        <a href="/" 
+        {{ if .IsHome }} 
+        class="active" 
+        {{ end }} 
+          >Home</a
+        >
+      </li>
       {{ range $.Site.Data.classes }}
 
       <li>
