@@ -26,7 +26,10 @@ next: "tecnicas-basicas"
 ---
 ### Limites (Cont. regra número 5)
 
-{{< diagram sgf="/sgfs/regras2.sgf" description="A figura ao lado é uma análise do diagrama anterior. Observe que as Pretas delimitam um território sólido que cerca os <strong>triângulos</strong>, assim como as Brancas, que cercam as áreas marcadas com <strong>círculos</strong>.</p><p>As quantidades de triângulos e círculos no diagrama indicam os <strong>pontos</strong> dados a cada território. As Pretas têm 40 pontos (9 triângulos ao centro + 31 do lado direito) e as Brancas 39 (22 círculos na parte inferior + 17 na parte superior), portanto <strong>40</strong> contra <strong>39</strong>, e as Pretas venceram por 1 ponto.">}} 
+{{< diagram sgf="/sgfs/regras2.sgf" description="A figura ao lado é uma análise do diagrama anterior. Observe que as Pretas delimitam um território sólido que cerca os <strong>triângulos</strong>, assim como as Brancas, que cercam as áreas marcadas com <strong>círculos</strong>.</p><p>As quantidades de triângulos e círculos no diagrama indicam os <strong>pontos</strong> dados a cada território. ">}} 
+
+
+{{< diagram sgf="/sgfs/regras3.sgf" description="Pontuações:</p><p><ul><li>Pretas: 9 + 31 = 40</li><li>Brancas: 17 + 22 = 39</li></ul><p>Pretas venceram por 1 ponto.">}} 
 
 ---
 ### Liberdades ou espaços para respirar (Regra número 6)
