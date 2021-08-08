@@ -34,20 +34,20 @@ next: "tecnicas-basicas"
 ---
 ### Liberdades ou espaços para respirar (Regra número 6)
 
-![Liberdades](/img/regra3.gif)
-
-Quando todos os pontos adjacentes a uma pedra, ou grupo de pedras, estão ocupados por pedras do adversário, a pedra(ou grupo de pedras) é capturada(o) e retirada(o) do tabuleiro.
-
-Em A, B e C na figura acima, os pontos indicados por flechas são chamados de liberdades da pedra a qual se referem. Em D, E e F, todas as liberdades da Preta foram “tomadas” pelas Brancas. Assim, não podendo mais respirar, a peça Preta(ou conjunto de peças sem liberdade) é retirada(o) do tabuleiro.
+{{< diagram sgf="/sgfs/regras4.sgf" description="Quando todos os pontos adjacentes a uma pedra, ou grupo de pedras, estão ocupados por pedras do adversário, a pedra(ou grupo de pedras) é capturada(o) e retirada(o) do tabuleiro.</p><p>Em A, B e C na figura, os pontos indicados por círculos são chamados de liberdades da pedra a qual se referem. Em D, E e F, todas as liberdades da Preta foram \"tomadas\" pelas Brancas. Assim, não podendo mais respirar, a peça Preta(ou conjunto de peças sem liberdade) é retirada(o) do tabuleiro.">}} 
 
 ---
 
 ### Removendo as peças capturadas (Cont. Regra número 6)
-Essa seqüência a baixo refere-se a uma captura. Você pode ver que inicialmente a pedra branca tem uma liberdade (ponto “a”). Após o jogador colocar a pedra Preta no ponto “a”, a pedra branca é capturada, retirada do tabuleiro e significará um ponto a menos para o jogador das Brancas.
+
+
+{{< diagram sgf="/sgfs/0-atari.sgf" description="Essa sequência refere-se a uma captura. Você pode ver que inicialmente a pedra branca tem uma liberdade (ponto \"a\").">}} 
+
+{{< diagram sgf="/sgfs/1-before-catch.sgf" description="Após o jogador colocar a pedra Preta no ponto \"a\" ">}} 
+
+{{< diagram sgf="/sgfs/2-after-catch.sgf" description="a pedra branca é capturada, retirada do tabuleiro e significará um ponto a menos para o jogador das Brancas.">}} 
 
 Normalmente, no final da partida, para facilitar a contagem, as pedras capturadas são colocadas no território de mesma cor da pedra.
-
-![Removendo](/img/regra4.gif) ![Removendo](/img/regra5.gif) ![Removendo](/img/regra6.gif)
 
   
 ---
