@@ -16,5 +16,5 @@ previous: "tecnicas-basicas"
 
 ### Fim do jogo
 
-{{< diagram sgf="/sgfs/jogofim3.sgf" description="As peças que estão no tabuleiro são rearranjadas para facilitar a contagem.</p><p>As peças capturadas são colocadas no território de mesma cor, também para facilitar a contagem final.</p><p>Agora basta contar as intersecções que não estão preenchidas por peças. Se não se lembra, <a href='/fim-do-jogo'>veja aqui</a> como contar.</p><p>E finalmente, <strong>pretas vencem por 20 a 16</strong>.">}} 
+{{< diagram sgf="/sgfs/jogofim3.sgf" description="As peças que estão no tabuleiro são rearranjadas para facilitar a contagem.</p><p>As peças capturadas são colocadas no território de mesma cor, também para facilitar a contagem final.</p><p>Agora basta contar as intersecções que não estão preenchidas por peças. Se não se lembra, <a href='/fim-do-jogo'>veja aqui</a> como contar.</p><p>E, finalmente, <strong>pretas vencem por 20 a 16</strong>.">}} 
 
