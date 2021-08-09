@@ -55,10 +55,14 @@ Normalmente, no final da partida, para facilitar a contagem, as pedras capturada
 
 {{< diagram sgf="/sgfs/regrairrespiravel.sgf" description="Nenhuma peça pode ser posta num lugar onde não haja liberdade. Assim, no diagrama, na situação \"A\" as Pretas não podem jogar em \"a\".</p><p>A situação B, entretanto, é diferente. Pretas podem jogar em \"b\", pois ela conseguiria capturar a pedra Branca marcada com um triângulo, ficando com um ponto para respirar (situação D): ponto \"c\".">}} 
 
+Isso pode ser visto também na lição de [Movimentos ilegais](/movimentos-ilegais).
+
 
 ---
 ### Ko ( Regra número 8 )
-Em uma situação em que, entre cruzamentos adjacentes, cada adversário possa alternativamente repetir a jogada de capturar a pedra do outro de forma infinita, a regra consiste em NÃO poder capturar na jogada imediatamente seguinte. Ficará melhor pelo exemplo a seguir.
+Em uma situação em que, entre cruzamentos adjacentes, cada adversário possa alternativamente repetir a jogada de capturar a pedra do outro de forma infinita, a regra consiste em NÃO poder capturar na jogada imediatamente seguinte.
+
+Para praticar volte até a aula de [Ko (eternidade)](/ko-eternidade) ou leia a explicação a seguir.
 
 *Esta é a única exceção à regra de que se é livre para colocar sua pedra em qualquer ponto desocupado do tabuleiro.
 
@@ -66,11 +70,14 @@ Em uma situação em que, entre cruzamentos adjacentes, cada adversário possa a
 {{< diagram sgf="/sgfs/regrasko2.sgf" description="Pedra Preta 1 captura pedra Branca triângulo">}} 
 {{< diagram sgf="/sgfs/regrasko3.sgf" description="Branca é removida do tabuleiro">}} 
 {{< diagram sgf="/sgfs/regrasko4.sgf" description="Porém, na jogada imediatamente seguinte (em \"D\"), a Branca não pode jogar em \"2\", pois essa situação não terminaria nunca (\"Ko\"), assim a pedra Preta marcada com triângulo sobrevive mais uma jogada.">}} 
-   
+
 ---
 ### "Handicap" ou Vantagem (Regra número 9)
 
 {{< diagram sgf="/sgfs/handicap.sgf" description="Se pessoas de níveis diferentes jogam, pode-se usar o recurso de \"handicap\". Quanto maior a diferença de habilidade, mais pedras se colocam para equilibrar o jogo.</p><p>Se a diferença for de “um grau” o jogador mais fraco joga com as Pretas e coloca apenas duas pedras no \"handicap\". Se for dois graus, três pedras e assim por diante. Ao lado, você pode ver um diagrama que mostra a colocação de 9 pedras:<ul><li>Para um \"handicap\" de 6 pedras, retiram-se as pedras 5, 8 e 9;</li><li>Para um \"handicap\" de 7 pedras, retiram-se as pedras 8 e 9;</li><li>Para um \"handicap\" de 8 pedras, retira-se a pedra 5;</li><li>Para todos os outros níveis segue-se a ordem marcada nas pedras.">}} 
+
+Para mais detalhes veja a aula de [Komi](/komi).
+
 
 
 
