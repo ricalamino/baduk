@@ -5,35 +5,16 @@ draft: false
 previous: "tecnicas-basicas"
 ---
 
+{{< review sgf="/sgfs/jogo.sgf" description="">}} 
 
-![Jogo](/img/jogo1.gif)
-![Jogo](/img/jogo2.gif)
-![Jogo](/img/jogo3.gif)
-![Jogo](/img/jogo4.gif)
-![Jogo](/img/jogo5.gif)
-![Jogo](/img/jogo6.gif)
-![Jogo](/img/jogo7.gif)
-![Jogo](/img/jogo8.gif)
-![Jogo](/img/jogo9.gif)
-![Jogo](/img/jogo10.gif)
-![Jogo](/img/jogo11.gif)
-![Jogo](/img/jogo12.gif)
 
 ### Quase o fim do jogo
 
-O desenho acima mostra a partida encerrando.
+{{< diagram sgf="/sgfs/jogofim1.sgf" description="O diagrama mostra a partida após os jogadores cessarem as jogadas.</p><p>Vemos os pontos neutros de território (1,2,3,4). Eles podem ser preenchidos tanto pelas pretas quanto pelas brancas (peças <strong>não</strong> participantes do jogo).</p><p>As peças marcadas com triângulos são peças mortas (sem chance de formar território sólido). Elas são retiradas do tabuleiro e colocadas junto com as capturadas.">}} 
 
-Vemos os pontos neutros de território (1,2,3,4). Eles podem ser preenchidos tanto pelas pretas quanto pelas brancas (peças **não** participantes do jogo).
-
-As peças marcadas com triângulos são peças mortas (sem chance de formar território sólido). Elas são retiradas do tabuleiro e colocadas junto as capturadas.
-
-![Jogo](/img/jogo13.gif)
-![Jogo](/img/jogo14.gif)
+{{< diagram sgf="/sgfs/jogofim2.sgf" description="Peças removidas e espaços neutros preenchidos">}} 
 
 ### Fim do jogo
 
-As peças que estão no tabuleiro são rearranjadas para facilitar a contagem.
+{{< diagram sgf="/sgfs/jogofim3.sgf" description="As peças que estão no tabuleiro são rearranjadas para facilitar a contagem.</p><p>As peças capturadas são colocadas no território de mesma cor, também para facilitar a contagem final.</p><p>E finalmente, <strong>pretas vencem por 20 a 16</strong>.">}} 
 
-As peças capturadas são colocadas no território de mesma cor, também para facilitar a contagem final.
-
-E finalmente, **pretas vencem por 20 a 16**.
