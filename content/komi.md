@@ -30,6 +30,8 @@ Entretanto, as pretas ainda tinham maior chance de ganhar, então Komi foi aumen
 
 Com o sistema de Komi, **Go quase não tem mais empates** e se tornou um jogo mais emocionante e justo.
 
+Se quiser mais informações sobre Komi, [entre aqui no site Sensei's Library](https://senseis.xmp.net/?Komi), uma referência para o Go.
+
 ---
 
 ### O Handicap
