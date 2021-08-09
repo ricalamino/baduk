@@ -8,37 +8,29 @@ next: "jogo-exemplo"
 
 ### Grupos
 
-![Grupos](/img/tecnicas1.gif)
 
 
-A união faz a força no Go: duas ou mais peças podem unir-se formando blocos. Esses blocos de peças são chamados **grupos** e têm tantas liberdades quanto a soma das liberdades de cada peça que o forma.
-
-Grupo A: **13** liberdades.
-
-Grupo B: **14** liberdades.
-
-Grupo C: **11** liberdades.
+{{< diagram sgf="/sgfs/tecn1.sgf" description="A união faz a força no Go: duas ou mais peças podem unir-se formando blocos. Esses blocos de peças são chamados <strong>grupos</strong> e têm tantas liberdades quanto a soma das liberdades de cada peça que o forma.</p><p>Grupo A: <strong>11</strong> liberdades.</p><p>Grupo B: <strong>14</strong> liberdades.</p><p>Grupo C: <strong>13</strong> liberdades.">}} 
 
 ---
 
 ### Grupos sendo capturados
 
-![Grupos sendo capturados](/img/tecnicas2.gif)
+{{< diagram sgf="/sgfs/tecn2.sgf" description="Na figura podemos ver exemplos de grupos sendo capturados. Eles são capturados com a jogada <strong>1</strong> pois perderam todas as suas liberdades.">}} 
 
-Na figura acima podemos ver exemplos de grupos sendo capturados. Eles são capturados com a jogada 1 pois perderam todas as suas liberdades.
 
 ---
 ### Grupos já capturados
 
-![Grupos já capturados](/img/tecnicas3.gif)
 
-A situação acima corresponde a do diagrama anterior porém com as peças já capturadas. Essas peças capturadas serão colocadas no fim do jogo para diminuir o território adversário.
+{{< diagram sgf="/sgfs/tecn3.sgf" description="A situação mostrada corresponde a do diagrama anterior porém com as peças já capturadas. Essas peças capturadas serão colocadas no fim do jogo para diminuir o território adversário.">}} 
+
 
 ---
 ### Olhos verdadeiros X Olhos falsos
 
-![Olhos verdadeiros e falsos](/img/tecnicas4.gif)
 
-No diagrama acima você pode ver situações nas quais podemos ter a impressão de que os territórios estão completamente garantidos. Porém podemos ver que se as pedras **Brancas** jogarem nos pontos marcados com "x" (**olhos falsos**) elas capturam parte das pedras **Pretas** e em uma jogada seguinte podem jogar no outro “buraco” e acabar capturando todas as peças adversárias.
+{{< diagram sgf="/sgfs/tecn4.sgf" description="No diagrama você pode ver situações nas quais podemos ter a impressão de que os territórios estão completamente garantidos. Porém podemos ver que se as pedras <strong>Brancas</strong> jogarem nos pontos marcados com \"x\" (<strong>olhos falsos</strong>) elas capturam parte das pedras <strong>Pretas</strong> e em uma jogada seguinte podem jogar no outro \"buraco\" e acabar capturando todas as peças adversárias.</p><p>Isso já não acontece nos exemplos da parte inferior. Se as <strong>Brancas</strong> jogarem em quaisquer dos buracos (<strong>olhos verdadeiros</strong>) entre as <strong>Pretas</strong>, estaria caracterizado o suicídio da pedra, o que não é permitido no Go.">}} 
 
-Isso já não acontece nos exemplos à direita. Se as **Brancas** jogarem em quaisquer dos buracos (**olhos verdadeiros**) entre as **Pretas**, estaria caracterizado o suicídio da pedra, o que não é permitido no Go.
+
+
