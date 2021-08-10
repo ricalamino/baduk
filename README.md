@@ -10,8 +10,6 @@ A nova versão do curso visa aumentar a usabilidade e enriquecer o curso com nov
 
 Nessa versão em português estão incluídas todas as partidas do AlphaGo contra mestres de Go.
 
----
-
 ## Instruções para rodar a versão correta do Hugo
 
 Feito em [Hugo](https://gohugo.io/). Testado na versão 0.87.0 do Hugo.
