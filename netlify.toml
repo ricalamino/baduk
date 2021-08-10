@@ -28,3 +28,12 @@ HUGO_VERSION = "0.87.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[plugins]]
+package = "netlify-plugin-a11y"
+
+  # all inputs are optional, we just show you the defaults below
+  [plugins.inputs]
+  
+  # required config
+  checkPaths = ['/'] # you can give an array of directories or paths to html files, that you want to run a11y checks on
