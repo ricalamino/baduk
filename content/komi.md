@@ -5,7 +5,7 @@ draft: false
 previous: "jogos-exemplo"
 next: "epilogo"
 menu: "main"
-weight: 32
+weight: 34
 ---
 
 ### Komi

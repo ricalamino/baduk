@@ -5,7 +5,7 @@ draft: false
 previous: "komi"
 next: "fanhui-alphago"
 menu: "main"
-weight: 33
+weight: 35
 ---
 
 ### Aprenda a Jogar Go Interativamente (tradução do The Interactive Way To Go) acabou.

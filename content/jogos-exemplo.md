@@ -5,7 +5,7 @@ draft: false
 previous: "use-seu-instinto"
 next: "komi"
 menu: "main"
-weight: 31
+weight: 33
 ---
 No tabuleiro abaixo, você pode ver um jogo real do primeiro movimento ao último.
 
