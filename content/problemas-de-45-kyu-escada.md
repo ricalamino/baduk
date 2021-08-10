@@ -2,8 +2,8 @@
 title: "Problemas de 45 Kyu - Escada"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-next: "fazendo-dois-olhos"
 previous: "problemas-de-46-kyu"
+next: "fazendo-dois-olhos"
 menu: "main"
 weight: 10
 ---

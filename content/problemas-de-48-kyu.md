@@ -2,8 +2,8 @@
 title: "Problemas de 48 Kyu"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-next: "um-momento-de-descanso"
 previous: "problemas-de-49-kyu"
+next: "um-momento-de-descanso"
 menu: "main"
 weight: 5
 ---

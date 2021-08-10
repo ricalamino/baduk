@@ -2,8 +2,8 @@
 title: "Um momento de descanso"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-next: "problemas-de-47-kyu-atari-duplo"
 previous: "problemas-de-48-kyu"
+next: "problemas-de-47-kyu-atari-duplo"
 menu: "main"
 weight: 6
 ---

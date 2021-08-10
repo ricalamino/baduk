@@ -2,8 +2,8 @@
 title: "Problemas de 43 Kyu"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-next: "problemas-de-42-kyu"
 previous: "problemas-de-44-kyu"
+next: "problemas-de-42-kyu"
 menu: "main"
 weight: 13
 ---

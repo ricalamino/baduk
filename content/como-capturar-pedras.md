@@ -1,9 +1,9 @@
 ---
-title: "Como Capturar Pedras?"
+title: "Como capturar pedras?"
 date: 2021-08-05T09:37:54-03:00
 draft: false
-next: "problemas-de-50-kyu"
 previous: ""
+next: "problemas-de-50-kyu"
 menu: "main"
 weight: 2
 ---
