@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 next: "um-momento-de-descanso"
 previous: "problemas-de-49-kyu"
+menu: "main"
+weight: 5
 ---
 
 ### Capture de qualquer modo!

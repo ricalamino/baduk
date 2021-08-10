@@ -1,25 +1,18 @@
 
 <section class="top-navigation">
   <select class="lesson-selector" aria-label="Menu">
-
+    {{ $currentPage := . }}
     <optgroup label="{{ with .Site.Params.classes.name }}{{.}}{{ end }}">
-      <option value="/" 
-        {{ if .IsHome }} 
-        selected="true" 
-        {{ end }} 
-        >
-          Home
-        </option>
-
-      {{ range $.Site.Data.classes }}
+     
+      {{ range $.Site.Menus.main }}
       
 
-        <option value="/{{ .url | markdownify}}" 
-        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        <option value="{{ .URL | markdownify}}" 
+        {{ if $currentPage.IsMenuCurrent "main" . }} 
         selected="true" 
         {{ end }} 
         >
-          {{ .name | markdownify}}
+          {{ .Title | markdownify}}
         </option>
 
       {{ end }}
@@ -29,14 +22,15 @@
       
 
 
-      {{ range $.Site.Data.matches }}
+      {{ range $.Site.Menus.matches }}
+      
 
-        <option value="/{{ .url | markdownify}}"
-        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        <option value="{{ .URL | markdownify}}" 
+        {{ if $currentPage.IsMenuCurrent "main" . }} 
         selected="true" 
         {{ end }} 
         >
-          {{ .name | markdownify}}
+          {{ .Title | markdownify}}
         </option>
 
       {{ end }}
@@ -46,14 +40,15 @@
       
 
 
-      {{ range $.Site.Data.theory }}
+      {{ range $.Site.Menus.theory }}
+      
 
-        <option value="/{{ .url | markdownify}}"
-        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        <option value="{{ .URL | markdownify}}" 
+        {{ if $currentPage.IsMenuCurrent "main" . }} 
         selected="true" 
         {{ end }} 
         >
-          {{ .name | markdownify}}
+          {{ .Title | markdownify}}
         </option>
 
       {{ end }}

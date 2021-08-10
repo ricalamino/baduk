@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "defesa"
 next: "mais-sobre-pulos"
+menu: "main"
+weight: 27
 ---
 
 Aqui, você aprenderá como jogar quando as pedras brancas e as pretas não estão diretamente atacando umas as outras

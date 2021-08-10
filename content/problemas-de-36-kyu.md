@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "comecando"
 next: "fim-do-jogo"
+menu: "main"
+weight: 22
 ---
 
 {{< challenge sgf="/sgfs/kamitori.sgf" description="As pretas estão bloqueadas no canto inferior esquerdo. O grupo só tem 1 olho.<br />Faça um olho a mais para sobreviver.">}} 

@@ -2,8 +2,10 @@
 title: "Ko (eternidade)"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-next: "problemas-de-40-kyu"
 previous: "problemas-de-42-kyu"
+next: "problemas-de-40-kyu"
+menu: "main"
+weight: 15
 ---
 
 Agora, eu irei descrever a regra adicional chamada de **Ko** - que significa eternidade em japonês.

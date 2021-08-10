@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "aproximando-o-fim-do-jogo"
 next: "jogos-exemplo"
+menu: "main"
+weight: 30
 ---
 
 {{< challenge sgf="/sgfs/hitome-1.sgf" description="Sempre tente conectar suas pedras.</p><p>Pois quanto maior o grupo de pedras suas, mais difícil fica cercá-lo.">}} 

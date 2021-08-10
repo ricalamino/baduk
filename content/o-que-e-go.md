@@ -4,6 +4,8 @@ date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "leesedol-alphago"
 next: "equipamento"
+menu: "theory"
+weight: 1
 ---
 
 ### O Go é um jogo de disputa e conquista de território.

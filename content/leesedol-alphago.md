@@ -4,6 +4,8 @@ date: 2021-08-05T16:08:56-03:00
 draft: false
 previous: "kejie-alphago"
 next: "o-que-e-go"
+menu: "matches"
+weight: 3
 ---
 
 ### Lee Sedol (9p) (pretas) vs AlphaGo (brancas) - (Jogo #5 - 15/03/2016)

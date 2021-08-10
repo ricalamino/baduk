@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "use-seu-instinto"
 next: "komi"
+menu: "main"
+weight: 31
 ---
 No tabuleiro abaixo, você pode ver um jogo real do primeiro movimento ao último.
 

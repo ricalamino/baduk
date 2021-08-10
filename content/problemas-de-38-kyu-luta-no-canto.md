@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "problemas-de-39-kyu"
 next: "problemas-de-37-kyu"
+menu: "main"
+weight: 18
 ---
 
 Próximo aos cantos do tabuleiro, há menos maneiras de escapar e pode ser capturado mais facilmente.

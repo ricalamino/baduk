@@ -4,6 +4,8 @@ date: 2021-08-05T16:08:56-03:00
 draft: false
 previous: "epilogo"
 next: "kejie-alphago"
+menu: "matches"
+weight: 1
 ---
 
 ### Jogo #1 - Fan Hui (pretas) x AlphaGo (brancas) - 05/10/2015

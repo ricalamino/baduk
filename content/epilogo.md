@@ -4,6 +4,8 @@ date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "komi"
 next: "fanhui-alphago"
+menu: "main"
+weight: 33
 ---
 
 ### Aprenda a Jogar Go Interativamente (tradução do The Interactive Way To Go) acabou.

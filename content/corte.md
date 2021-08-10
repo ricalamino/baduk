@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "fim-do-jogo-2"
 next: "defesa"
+menu: "main"
+weight: 25
 ---
 
 {{< challenge sgf="/sgfs/kiri1.sgf" description="Parece que as brancas têm um território maior que o das pretas.</p><p>Entretanto, o muro delas tem um ponto fraco.">}} 

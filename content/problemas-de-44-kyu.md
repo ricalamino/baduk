@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 next: "problemas-de-43-kyu"
 previous: "fazendo-dois-olhos"
+menu: "main"
+weight: 12
 ---
 
 ### Fazer Dois Olhos

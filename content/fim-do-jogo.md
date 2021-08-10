@@ -4,6 +4,8 @@ date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "problemas-de-36-kyu"
 next: "fim-do-jogo-2"
+menu: "main"
+weight: 23
 ---
 
 Aqui você aprenderá quando um jogo está para acabar e como contar território usando tabuleiros de 5x5.

@@ -1,24 +1,18 @@
 <aside>
   <nav>
+    {{ $currentPage := . }}
     <p>{{ with .Site.Params.classes.name }}{{.}}{{ end }}</p>
     <ol>
 
-      <li>
-        <a href="/" 
-        {{ if .IsHome }} 
-        class="active" 
-        {{ end }} 
-          >Home</a
-        >
-      </li>
-      {{ range $.Site.Data.classes }}
+      
+      {{ range $.Site.Menus.main }}
 
       <li>
-        <a href="/{{ .url | markdownify}}" 
-        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        <a href="{{ .URL | markdownify}}" 
+        {{ if $currentPage.IsMenuCurrent "main" . }} 
         class="active" 
         {{ end }} 
-          >{{ .name }}</a
+          >{{ .Title }}</a
         >
       </li>
 
@@ -34,14 +28,14 @@
     
     <ol>
 
-      {{ range $.Site.Data.matches }}
+      {{ range $.Site.Menus.matches }}
 
       <li>
-        <a href="/{{ .url | markdownify}}" 
-        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        <a href="{{ .URL | markdownify}}" 
+        {{ if $currentPage.IsMenuCurrent "main" . }} 
         class="active" 
         {{ end }} 
-          >{{ .name }}</a
+          >{{ .Title }}</a
         >
       </li>
 
@@ -53,14 +47,14 @@
     <ol>
 
 
-      {{ range $.Site.Data.theory }}
+      {{ range $.Site.Menus.theory }}
 
       <li>
-        <a href="/{{ .url | markdownify}}" 
-        {{ if eq (printf "%s%s%s" "/" .url "/") $.RelPermalink }} 
+        <a href="{{ .URL | markdownify}}" 
+        {{ if $currentPage.IsMenuCurrent "main" . }} 
         class="active" 
         {{ end }} 
-          >{{ .name }}</a
+          >{{ .Title }}</a
         >
       </li>
 

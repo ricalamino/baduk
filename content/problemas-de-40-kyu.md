@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "ko-eternidade"
 next: "problemas-de-39-kyu"
+menu: "main"
+weight: 16
 ---
 
 Quando você é de 40 Kyu, você necessita resolver problemas que são um pouco mais difíceis.

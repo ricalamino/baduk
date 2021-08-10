@@ -4,6 +4,8 @@ date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "jogos-exemplo"
 next: "epilogo"
+menu: "main"
+weight: 32
 ---
 
 ### Komi

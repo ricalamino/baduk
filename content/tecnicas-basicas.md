@@ -4,6 +4,8 @@ date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "regras-basicas"
 next: "jogo-exemplo"
+menu: "theory"
+weight: 4
 ---
 
 ### Grupos

@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "problemas-de-37-kyu"
 next: "comecando"
+menu: "main"
+weight: 20
 ---
 
 Até agora você pode até já ter entendido como matar as pedras. Entretanto, no começo de um jogo real, você tem que jogar no tabuleiro vazio.

@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "mais-sobre-pulos"
 next: "use-seu-instinto"
+menu: "main"
+weight: 29
 ---
 Quando o jogo vai chegando ao fim, e ambos os lados já têm os seus territórios definidos, tudo o que você deve fazer é delimitar as bordas do seu território claramente.
 

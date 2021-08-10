@@ -4,6 +4,8 @@ date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "fim-do-jogo"
 next: "corte"
+menu: "main"
+weight: 24
 ---
 
 Agora, voltemos ao tabuleiro 9x9.

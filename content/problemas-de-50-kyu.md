@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 next: "problemas-de-49-kyu"
 previous: "como-capturar-pedras"
+menu: "main"
+weight: 3
 ---
 
 ### Capture as pedras do Oponente em Atari!

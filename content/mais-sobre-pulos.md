@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "um-ponto-acima"
 next: "aproximando-o-fim-do-jogo"
+menu: "main"
+weight: 28
 ---
 
 {{< diagram sgf="/sgfs/maispulos1.sgf" description="Esse é chamado de <strong>Dois Pontos Acima</strong> (ou <strong>Niken tobi</strong>).</p><p>Embora ele lhe dará <strong>maior influência</strong> sobre o tabuleiro, ele é mais fácil de ser cortado pelo inimigo já que há um espaço maior entre as pedras.</p><p>Há também o <strong>Três Pontos Acima<strong> e </strong>Quatro Pontos Acima</strong>.</p><p>Esses grandes pulos são freqüentemente usados como movimentos no início da partida.">}} 

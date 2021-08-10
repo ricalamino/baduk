@@ -4,6 +4,8 @@ date: 2021-08-05T16:08:56-03:00
 draft: false
 previous: "fanhui-alphago"
 next: "leesedol-alphago"
+menu: "matches"
+weight: 2
 ---
 
 ### AlphaGo (pretas) vs Ke Jie (9p) (brancas) - (Jogo #3 - 27/05/2017)

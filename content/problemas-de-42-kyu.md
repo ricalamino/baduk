@@ -4,6 +4,8 @@ date: 2021-08-05T14:10:17-03:00
 draft: false
 next: "ko-eternidade"
 previous: "problemas-de-43-kyu"
+menu: "main"
+weight: 14
 ---
 
 ### Dando o troco
