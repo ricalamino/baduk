@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8fe7ee69-b0a6-4102-af74-fe0a5b7df4ae/deploy-status)](https://app.netlify.com/sites/dreamy-bassi-814d5c/deploys)
 
-Feito em [Hugo](https://gohugo.io/).
+Feito em [Hugo](https://gohugo.io/). Testado na versão 0.87.0 do Hugo.
 
 ---
 
