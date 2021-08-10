@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8fe7ee69-b0a6-4102-af74-fe0a5b7df4ae/deploy-status)](https://app.netlify.com/sites/dreamy-bassi-814d5c/deploys)
 
-Esta é uma versão renovada do curso Go, traduzida para o português, que por muitos anos estava disponível em língua portuguesa em https://go.alamino.net/playgoto e em polonês no endereço go.art.pl, que são traduções do curso original em inglês playgo.to/iwtg/en.
+Esta é uma versão renovada do curso Go (Aprenda a Jogar Go Interativamente), traduzida para o português, que por muitos anos estava disponível em língua portuguesa em https://go.alamino.net/playgoto e em polonês no endereço go.art.pl, que são traduções do curso original em inglês playgo.to/iwtg/en.
 
 As versões anteriores usavam applets Java, que não são mais suportados pela maioria dos navegadores mais recentes e estão completamente indisponíveis em dispositivos móveis.
 
