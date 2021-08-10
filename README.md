@@ -4,8 +4,18 @@
 
 Feito em [Hugo](https://gohugo.io/).
 
-Para buildar, usar:
-`hugo server -D`
+---
+
+## Instruções para rodar a versão correta do Hugo
+
+O melhor jeito de rodar o Hugo na versão correta é baixar a versão que fica nos releases do [repositório oficial do Hugo](https://github.com/gohugoio/hugo).
+
+Em Releases, baixar a versão extendida na mesma pasta do projeto e descompactar no mesmo diretório.
+
+Em seguida rodar o hugo como `./hugo`
+
+Para testar e buildar, usar:
+`./hugo server -D`
 
 
 
