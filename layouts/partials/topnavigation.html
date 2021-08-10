@@ -26,7 +26,7 @@
       
 
         <option value="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "main" . }} 
+        {{ if $currentPage.IsMenuCurrent "matches" . }} 
         selected="true" 
         {{ end }} 
         >
@@ -44,7 +44,7 @@
       
 
         <option value="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "main" . }} 
+        {{ if $currentPage.IsMenuCurrent "theory" . }} 
         selected="true" 
         {{ end }} 
         >

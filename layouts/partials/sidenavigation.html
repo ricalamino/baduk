@@ -32,7 +32,7 @@
 
       <li>
         <a href="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "main" . }} 
+        {{ if $currentPage.IsMenuCurrent "matches" . }} 
         class="active" 
         {{ end }} 
           >{{ .Title }}</a
@@ -51,7 +51,7 @@
 
       <li>
         <a href="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "main" . }} 
+        {{ if $currentPage.IsMenuCurrent "theory" . }} 
         class="active" 
         {{ end }} 
           >{{ .Title }}</a
