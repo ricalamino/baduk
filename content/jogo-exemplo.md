@@ -3,6 +3,7 @@ title: "Jogo exemplo"
 date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "tecnicas-basicas"
+next: "tsumego-facil"
 menu: "theory"
 weight: 5
 ---
