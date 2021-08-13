@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[cg][bh][ci][bj][dj][ej][cj][fk][al][bl]AB[di][ei][fi][cj][ck][dk][ak]C[Black to play.
+
+How can Black capture the cutting stones?
+
+https://gogameguru.com/]
+(;B[fl]
+(;W[el]
+;B[ek]
+;W[fm]
+(;B[fj]C[[OK\]])
+(;B[aj]LB[bq:A][br:B][cr:C]C[It's also possible, but not the best. When White pushes at A, Black can't block at B, because of cut at C.]))
+(;W[aj]
+;B[fj]
+;W[bk]
+(;B[ek]C[[OK\]])
+(;B[el]C[Also correct.])))
+(;B[ek]
+;W[fj]
+;B[fl]
+;W[aj]
+;B[ai]
+;W[bj])
+(;B[fj]
+;W[ek]
+;B[fl]
+;W[el])
+(;B[aj]
+;W[ek])
+(;B[el]
+;W[fl])
+(;B[bk]
+;W[el]))

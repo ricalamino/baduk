@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[kg][ej][kj][lj][dk][fk][kk][fl][hl][il][jl][fm][gm]AB[fi][hi][fj][gk][hk][ik][jk][lk][gl][kl][ll][hm]C[Black to play.
+
+https://gogameguru.com/]
+(;B[jm]
+;W[im]
+(;B[hm]C[[OK\]])
+(;B[km]
+;W[hm]
+(;B[mk]
+;W[mm])
+(;B[mm]
+;W[mk])))
+(;B[im]
+;W[jm]
+;B[hm]
+;W[im]
+;B[km]
+;W[hm]
+(;B[mk]
+;W[mm])
+(;B[mm]
+;W[mk]))
+(;B[km]
+;W[im]
+(;B[mk]
+;W[mm])
+(;B[mm]
+;W[mk])
+(;B[jm]
+;W[hm]))
+(;B[ei]C[Turning like this is often a good move, but in this case,]
+;W[im]C[White will play here and now Black's corner stones are captured.]))

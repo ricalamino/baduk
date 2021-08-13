@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[ji][ki][jj][lj][fk][ik][jk][hl][il][hm]AB[kh][li][kj][hk][kk][jl][kl][im][jm]C[Black to play.
+
+https://gogameguru.com/]
+(;B[lh]
+(;W[ll]
+;B[lk]C[[OK\]])
+(;W[lk]
+;B[ll]C[[OK\]]))
+(;B[lk]
+;W[lh]
+;B[mj]
+;W[kg]LB[kn:A]C[Black A has been captured in a ladder. This result is bad for Black.])
+(;B[mj]
+;W[lh]
+;B[lk]
+;W[kg]LB[kn:A]C[Black A has been captured in a ladder. This result is bad for Black.])
+(;B[lg]
+;W[mi]
+;B[lh]
+;W[ll]
+;B[lk]
+;W[mk]LB[mp:A]C[There's a ko at A, but Black can do better.])
+(;B[mi]C[This is possible, but Black can do better.])
+(;B[mh]LB[lm:A]C[This is possible, but Black can do better. White's peep at A will be sente.]))

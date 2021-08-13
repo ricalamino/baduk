@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]SO[bttps://gogameguru.com/]C[Black to play.
+
+https://gogameguru.com/]AW[jk][kk][mk][il][kl][ml][im]AB[ij][jj][kj][lj][mj][gk][ik][hl][km]
+(;B[lm]
+;W[ll]
+(;B[hm]C[[OK\]])
+(;B[jm]LB[hs:A]C[Also correct. Playing this move at A is usually better style because it leaves less bad aji (potential for bad things to happen) on the outside.]))
+(;B[lk]
+;W[ll]
+(;B[hm]
+;W[lm])
+(;B[lm]
+;W[jm])
+(;B[jm]
+;W[lm]))
+(;B[hm]
+;W[lm]
+(;B[lk]
+;W[ll]
+(;B[jm]
+;W[jl])
+(;B[jl]
+;W[jm]))
+(;B[jm]
+;W[jl])
+(;B[jl]
+;W[jm]))
+(;B[jm]
+;W[lm]))

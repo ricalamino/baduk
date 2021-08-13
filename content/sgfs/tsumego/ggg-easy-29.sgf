@@ -1,0 +1,40 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[ah][ei][fj][aj][bj][dk][ek][cl][el][fl][al][bl][fm][bm]AB[cg][cj][dj][ej][ck][fk][ak][bk][ck][bl][cl][el][dm][em]C[Black to play.
+
+https://gogameguru.com/]
+(;B[bm]
+(;W[dl]
+;B[cm]C[[OK\]])
+(;W[cm]C[White can't play here...]
+;B[dl]C[[OK\]]))
+(;B[cm]
+;W[bm]
+(;B[am]
+;W[dl]
+(;B[bj]
+;W[bm]
+(;B[cm]
+;W[dm])
+(;B[dm]
+;W[cm]))
+(;B[bm]
+;W[bk])
+(;B[bk]
+;W[bm]
+;B[cm]
+;W[dm])
+(;B[ak]
+;W[bm]
+;B[cm]
+;W[dm]))
+(;B[dl]
+;W[cl])
+(;B[bk]
+;W[dl]
+;B[cm]
+;W[dm]))
+(;B[dl]
+;W[cm])
+(;B[cm]
+;W[bm]C[White's alive.]))

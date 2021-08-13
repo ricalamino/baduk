@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+AW[ji][ki][li][mi][hj][ij][jk][hl][jl][kl][lm]AB[kg][ih][jh][ii][jj][kj][lj][mj][kk][ll][km]
+(;B[ml]
+(;W[lk]
+;B[mk]
+;W[jm]
+;B[lh]C[[OK\]])
+(;W[jm]
+(;B[lh]
+;W[lk]
+;B[mk]
+;W[km]
+(;B[mh]C[[OK\]])
+(;B[kh]C[[OK\]]))
+(;B[kh]
+;W[lk]
+;B[mk]
+;W[km]
+;B[lh]C[[OK\]])
+(;B[mh]
+;W[lk]
+;B[mk]
+;W[km]
+;B[lh]C[[OK\]])))
+(;B[mk]
+;W[jm]
+(;B[lh]
+;W[ml]
+;B[mm]C[It's a ko, but Black can do better.])
+(;B[ml]
+;W[km]
+;B[lh]
+;W[mm])
+(;B[kh]
+;W[ml]
+;B[mm]C[It's a ko, but Black can do better.])
+(;B[mh]
+;W[ml]
+;B[mm]C[It's a ko, but Black can do better.]))
+(;B[mm]
+;W[mk]
+;B[lk]
+;W[jm]
+(;B[lh]
+;W[lm]C[It's a ko, but Black can do better.])
+(;B[kh]
+;W[lm]C[It's a ko, but Black can do better.])
+(;B[mh]
+;W[lm]C[It's a ko, but Black can do better.]))
+(;B[lk]
+;W[jm]
+(;B[ml]
+;W[km]
+(;B[lh]
+;W[mm])
+(;B[kh]
+;W[mm]))
+(;B[lh]
+;W[ml])
+(;B[kh]
+;W[ml]))
+(;B[lh]
+;W[mk])
+(;B[kh]
+;W[mk])
+(;B[mh]
+;W[mk]))

@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+GN[agg-easy-104]SO[bttps://gogameguru.com/]AW[ji][fj][jj][kj][gk][hk][ik][lk][jl][ll][lm]AB[kg][ki][li][lj][ek][fk][kk][gl][hl][il][kl][km]C[Black to play.
+
+https://gogameguru.com/]
+(;B[im]
+(;W[jk]
+;B[jm]
+;W[fl]
+;B[el]C[[OK\]])
+(;W[jm]
+;B[jk]C[[OK\]]))
+(;B[jm]
+;W[im]C[This move gives Black a shortage of liberties.]
+(;B[hm]
+;W[jk]
+;B[im]
+;W[fl]C[How can you stop this happening?])
+(;B[jk]
+;W[jl]C[It's a snapback.]))
+(;B[jk]
+;W[jm])
+(;B[mk]
+;W[jk]))

@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[cj][dj][bk][ck][ek][bl][el][fl][al]AB[ei][ej][dk][ak][bk][al][cl][dl][bl][bm][am]C[Black to play.
+
+https://gogameguru.com/]
+(;B[em]LB[fs:A]C[[OK\]. White can't cut at A because she'll atari herself.]
+;W[dm]
+;B[cm]
+;W[ak]
+;B[fk]C[[OK\]])
+(;B[fk]
+;W[dm]
+(;B[cm]
+;W[am])
+(;B[fm]
+;W[cm]))
+(;B[fm]
+;W[dm]
+;B[fk]
+;W[cm])
+(;B[cm]
+;W[ak]C[Now White can fight a ko, but Black could have avoided that.]
+(;B[em]
+;W[am])
+(;B[fk]
+;W[am])
+(;B[fm]
+;W[am]))
+(;B[dm]
+;W[em]))

@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[eh][ei][ai][bj][dj][dk][dl][el]AB[eg][dh][di][ej][aj][ek][fl]LB[fn:B][ao:A]C[Black to play.
+
+White A would have been better at B. Why?
+
+https://gogameguru.com/]
+(;B[ah]
+(;W[bi]
+;B[fi]C[[OK\]])
+(;W[fi]
+;B[bi]C[[OK\]])
+(;W[fg]
+;B[fh]
+;W[fi]
+;B[bi]C[[OK\]]))
+(;B[fi]
+;W[fh]
+;B[ah]
+;W[fj]C[This is a mess. Black has a move that settles things in a simple and clean manner.])
+(;B[bi]
+;W[ah]LB[dm:B][bp:A]C[Next White can cut at A or B, so the position becomes very difficult for Black.])
+(;B[bj]
+;W[dg]C[Black's missed a great opportunity. White can even cut here now.])
+(;B[fh]
+;W[fi]
+(;B[bi]
+;W[ah])
+(;B[ah]
+;W[bi]))
+(;B[dg]
+;W[bj]C[Black defended the left side, but White can play here now.]))

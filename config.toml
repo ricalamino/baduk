@@ -14,3 +14,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
    
   [params.theory]
     name = "Teoria do Go"
+
+  [params.tsumego]
+    name = "Problemas de Go"

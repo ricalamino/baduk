@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[hk][ik][jk][il][kl][ll][jm]AB[ki][hj][ij][jj][fk][gk][kk][lk][hl][ml]C[Black to play.
+
+https://gogameguru.com/]
+(;B[gm]
+;W[lm]
+;B[im]C[[OK\]. Black doesn't have to start this sort of ko immediately. It might be better to leave it as a time bomb. If White defends, Black will get to play two moves in a row somewhere else.])
+(;B[gl]
+;W[lm])
+(;B[hm]
+;W[im]
+(;B[gl]
+;W[lm])
+(;B[lm]
+;W[gl]))
+(;B[fl]
+;W[lm])
+(;B[lm]
+;W[gl]
+(;B[fl]
+;W[hm])
+(;B[hm]
+;W[gm])
+(;B[gm]
+;W[fl]
+;B[el]
+;W[hm])))

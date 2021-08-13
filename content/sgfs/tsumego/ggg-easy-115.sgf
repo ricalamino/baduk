@@ -1,0 +1,26 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[ki][li][mi][kj][lk][ll][jm]AB[jh][kh][lh][ji][jj][ik][jl][im]C[Black to play.
+
+https://gogameguru.com/]
+(;B[lm]
+(;W[mj]
+(;B[ml]C[[OK\]])
+(;B[kl]
+;W[ml]))
+(;W[ml]
+;B[mj]C[[OK\]]))
+(;B[kl]
+;W[lm])
+(;B[km]
+;W[lm])
+(;B[mj]
+;W[km]
+(;B[lm]
+;W[kl])
+(;B[kl]
+;W[lm]))
+(;B[mh]
+;W[km])
+(;B[kk]
+;W[km]))

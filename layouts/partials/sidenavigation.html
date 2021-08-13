@@ -60,5 +60,25 @@
 
       {{ end }}
     </ol>
+
+    <br />      
+      <p>{{ with .Site.Params.tsumego.name }}{{.}}{{ end }}</p>
+    
+    <ol>
+
+
+      {{ range $.Site.Menus.tsumego }}
+
+      <li>
+        <a href="{{ .URL | markdownify}}" 
+        {{ if $currentPage.IsMenuCurrent "tsumego" . }} 
+        class="active" 
+        {{ end }} 
+          >{{ .Title }}</a
+        >
+      </li>
+
+      {{ end }}
+    </ol>
   </nav>
 </aside>

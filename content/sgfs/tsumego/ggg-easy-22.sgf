@@ -1,0 +1,31 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[bj][cj][dk][ek][fk][ak][cl][al]AB[ck][al][dl][el][fl][dm][fm]C[Black to play.
+
+https://gogameguru.com/]
+(;B[bl]
+;W[bk]
+(;B[bm]C[[OK\]])
+(;B[cm]
+;W[bm]C[It's a ko, but Black can do better.]))
+(;B[bk]
+;W[bl]
+;B[ak]
+;W[aj])
+(;B[bm]
+(;W[bl]
+(;B[cm]
+;W[bk])
+(;B[bk]
+;W[ak]))
+(;W[bk]C[White got tricked...]
+;B[bl]C[...Black shouldn't live, but does with this move.]))
+(;B[cm]
+(;W[bl]
+(;B[bm]
+;W[bk])
+(;B[bk]
+;W[ak]))
+(;W[bk]C[This move is a mistake for White...]
+;B[bl]
+;W[bm]C[It's a ko.])))

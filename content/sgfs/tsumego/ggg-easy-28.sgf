@@ -1,0 +1,45 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[lj][ik][jk][lk][il][kl][jm]AB[kg][ki][kj][hk][kk][ll]TR[lj][lk]C[Black to play. Can you find a way to capture White's two stones?
+
+https://gogameguru.com/]
+(;B[ml]
+(;W[lm]
+(;B[li]
+;W[km]
+(;B[mj]C[[OK\]])
+(;B[mk]LB[mp:B][mq:A][ms:C]C[Also correct. Playing A at B is better style though because White might play C as a ko threat later. If you ignore the ko threat, would you rather lose two stones or three?]))
+(;B[mk]
+;W[mj])
+(;B[mj]
+;W[li]
+;B[lh]C[[OK\]]))
+(;W[mk]C[White can't play here either...]
+;B[li]C[[OK\]])
+(;W[li]C[White can't get more liberties, so this doesn't change anything...]
+;B[lh]
+(;W[lm]
+(;B[mi]
+;W[km]
+(;B[mj]C[[OK\]])
+(;B[mk]C[[OK\]]))
+(;B[mj]C[[OK\]])
+(;B[mk]C[[OK\]]))
+(;W[mk]
+;B[mi]C[[OK\]])))
+(;B[li]
+;W[ml]
+;B[lm]
+;W[km]
+;B[mj]
+;W[mm])
+(;B[lm]
+;W[ml]
+;B[li]
+;W[km]
+;B[mj]
+;W[mm])
+(;B[mk]
+;W[lm]
+;B[ml]
+;W[mj]))

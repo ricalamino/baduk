@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[jk][kk][lk][mk][jl][jm]AB[li][ij][jj][kj][ik][gl][il][kl][ll][km]C[Black to play.
+
+https://gogameguru.com/]
+(;B[lm]C[[OK\]. Now, even if White captures the four stones, it won't be possible to make two eyes.])
+(;B[ml]
+;W[lm]
+;B[mm]
+;W[lm]C[White's alive.])
+(;B[mm]
+;W[ml]LB[ls:A]C[Black can't connect at A. If he could, he wouldn't have any liberties and his stones would be captured. After that, it would be White’s turn and White could play at A to make two eyes.])
+(;B[mj]
+;W[lm]
+(;B[mm]
+;W[ml])
+(;B[ml]
+;W[mm]
+(;B[ll]
+;W[kl])
+(;B[kl]
+;W[ll])))
+(;B[im]
+;W[lm]
+(;B[mm]
+;W[ml])
+(;B[ml]
+;W[mm]
+(;B[ll]
+;W[kl])
+(;B[kl]
+;W[ll])))
+(;B[lj]
+;W[lm]
+(;B[mm]
+;W[ml])
+(;B[ml]
+;W[mm]
+(;B[ll]
+;W[kl])
+(;B[kl]
+;W[ll]))))

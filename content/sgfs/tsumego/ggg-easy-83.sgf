@@ -1,0 +1,46 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[be][ce][de][af][ef][ag][bg][ch][ci][aj][cj][aj][bk][dk][ek]AB[bf][cf][cg][dg][eg][bh][dh][di][dj][ck][bl][cl]C[Black to play.
+
+https://gogameguru.com/]
+(;B[ai]
+(;W[bj]
+(;B[al]
+;W[ae]
+;B[ak]C[[OK\]])
+(;B[am]
+;W[ae]
+;B[ak]
+;W[al]C[It's a ko, but Black can do better.])
+(;B[ak]
+;W[al]
+(;B[am]
+;W[bm]
+;B[cm]
+;W[ae]C[White doesn't need to fight a ko.]
+;B[am]
+;W[ah]
+;B[ak]
+;W[bi])
+(;B[bm]
+;W[dl]))
+(;B[bi]
+;W[ah]))
+(;W[bi]
+;B[bj]C[[OK\]])
+(;W[ah]
+;B[ae]C[[OK\]]))
+(;B[bi]
+;W[bj]
+;B[al]
+;W[ah])
+(;B[ah]
+;W[ae]
+;B[bi]
+;W[bj])
+(;B[al]
+;W[ah]
+;B[ak]
+;W[bj])
+(;B[bj]
+;W[bi]))

@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[bttps://gogameguru.com/]AW[ii][ji][ki][li][mi][ij][jk][lk][il][jl][kl][jm]AB[jj][kj][lj][mj][hk][ik][hl][ll][hm][lm]C[Black to play.
+
+https://gogameguru.com/]
+(;B[ml]
+(;W[kk]
+;B[mk]C[[OK\]. Black wins the capturing race.])
+(;W[mk]
+;B[kk]C[[OK\]]))
+(;B[mk]
+;W[ml]
+(;B[mm]
+;W[kk]
+(;B[ml]
+;W[km])
+(;B[im]
+;W[ml])
+(;B[km]
+;W[ml]))
+(;B[kk]
+;W[lk]))
+(;B[kk]
+;W[mk])
+(;B[im]
+;W[mk]
+(;B[ml]
+;W[kk])
+(;B[km]
+;W[kk])))
