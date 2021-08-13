@@ -3,7 +3,6 @@ title: "Tsumego - Fácil"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "jogo-exemplo"
-next: ""
 menu: "tsumego"
 weight: 1
 ---
