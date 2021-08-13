@@ -1,9 +1,9 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[cj][dj][bk][ck][ek][bl][el][fl][al]AB[ei][ej][dk][ak][bk][al][cl][dl][bl][bm][am]C[Black to play.
+SO[https://gogameguru.com/]AW[cj][dj][bk][ck][ek][bl][el][fl][al]AB[ei][ej][dk][ak][bk][al][cl][dl][bl][bm][am]C[Black to play.
 
 https://gogameguru.com/]
-(;B[em]LB[fs:A]C[[OK\]. White can't cut at A because she'll atari herself.]
+(;B[em]LB[fm:A]C[[OK\]. White can't cut at A because she'll atari herself.]
 ;W[dm]
 ;B[cm]
 ;W[ak]

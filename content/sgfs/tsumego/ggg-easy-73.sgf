@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[ah][bh][ch][di][dj][dk][cl][dl]AB[ci][cj][ck][al][bl][bm]C[Black to play.
+SO[https://gogameguru.com/]AW[ah][bh][ch][di][dj][dk][cl][dl]AB[ci][cj][ck][al][bl][bm]C[Black to play.
 
 https://gogameguru.com/]
 (;B[aj]
@@ -21,7 +21,7 @@ https://gogameguru.com/]
 (;B[bj]
 ;W[aj]
 ;B[ak]
-;W[ai]LB[bq:A]C[A is a false eye, so Black's group will be captured.])
+;W[ai]LB[bk:A]C[A is a false eye, so Black's group will be captured.])
 (;B[bi]
 ;W[ai]
 (;B[aj]

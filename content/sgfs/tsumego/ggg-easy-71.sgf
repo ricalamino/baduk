@@ -1,11 +1,11 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[bd][bf][cf][ag][cg][ch][di][ej][dk][cl][dl][bm]AB[bg][ah][bh][bi][ci][bk][ck][bl]C[Black to play.
+SO[https://gogameguru.com/]AW[bd][bf][cf][ag][cg][ch][di][ej][dk][cl][dl][bm]AB[bg][ah][bh][bi][ci][bk][ck][bl]C[Black to play.
 
 https://gogameguru.com/]
 (;B[aj]
 (;W[cj]
-(;B[al]LB[bp:A][dp:B]C[[OK\]. If White plays at A Black can capture at B. If White plays at B, Black connects at A, so Black's alive with two eyes.])
+(;B[al]LB[bj:A][dj:B]C[[OK\]. If White plays at A Black can capture at B. If White plays at B, Black connects at A, so Black's alive with two eyes.])
 (;B[bj]
 ;W[al]
 ;B[dj]

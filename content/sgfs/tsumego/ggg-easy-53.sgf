@@ -1,11 +1,11 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[ci][dj][ej][hj][jj][bk][ck][ck]AB[ce][kh][aj][lj][dk][ek][cl]LB[ep:A]C[Black to play.
+SO[https://gogameguru.com/]AW[ci][dj][ej][hj][jj][bk][ck][ck]AB[ce][kh][aj][lj][dk][ek][cl]LB[ej:A]C[Black to play.
 
 https://gogameguru.com/]
-(;B[al]LB[fp:B][fq:A][er:D][fr:C]C[[OK\]. This is the best shape, because it gives Black the best potential for making eyes later. A and B are miai for Black now. If White tries to play A-C, Black D captures White's stones.])
+(;B[al]LB[fj:B][fk:A][el:D][fl:C]C[[OK\]. This is the best shape, because it gives Black the best potential for making eyes later. A and B are miai for Black now. If White tries to play A-C, Black D captures White's stones.])
 (;B[fj]
-;W[al]LB[ep:A][fq:C][ar:B]C[White plays on the vital point and Black's group becomes weak. Notice the relationship between A and B - the point at C can only ever become a false eye now.]
+;W[al]LB[ej:A][fk:C][al:B]C[White plays on the vital point and Black's group becomes weak. Notice the relationship between A and B - the point at C can only ever become a false eye now.]
 ;B[fl]
 ;W[ak]C[If the game continues like this, Black doesn't have much room to make eyes, so the whole group may be in trouble later.])
 (;B[ak]
@@ -27,6 +27,6 @@ https://gogameguru.com/]
 (;B[fk]
 ;W[al]))
 (;B[bk]
-;W[cj]LB[fq:B][ar:A]C[Making this exchange helps White. In addition, Black still has weaknesses at A and B, so Black hasn't developed a good shape and still has to play another move here. In some situations White might choose to play at A or B immediately after Black kicks with the diagonal attachment.])
+;W[cj]LB[fk:B][al:A]C[Making this exchange helps White. In addition, Black still has weaknesses at A and B, so Black hasn't developed a good shape and still has to play another move here. In some situations White might choose to play at A or B immediately after Black kicks with the diagonal attachment.])
 (;B[fk]C[This move is uninspired.]
 ;W[al]C[Later on White can play here and Black doesn't have much eyespace, so the group will be weak.]))

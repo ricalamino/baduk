@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[bh][bj][cj][dj][ej][fj][ak][dk][fk][fl][bl][cm]AB[bk][ck][ek][al][bl][dl][el]C[Black to play.
+SO[https://gogameguru.com/]AW[bh][bj][cj][dj][ej][fj][ak][dk][fk][fl][bl][cm]AB[bk][ck][ek][al][bl][dl][el]C[Black to play.
 
 https://gogameguru.com/]
 (;B[bm]
@@ -13,7 +13,7 @@ https://gogameguru.com/]
 (;B[aj]
 ;W[dm]
 ;B[cl]
-;W[fm]LB[ap:A]C[Capturing at A only makes a false eye, so Black dies.]))
+;W[fm]LB[aj:A]C[Capturing at A only makes a false eye, so Black dies.]))
 (;B[cl]
 ;W[bm]C[Black only has one eye, so Black's dead.])
 (;B[dm]
@@ -28,4 +28,4 @@ https://gogameguru.com/]
 ;W[fm]))
 (;B[aj]
 ;W[bm]
-;B[cl]LB[ap:A]C[Capturing at A only makes a false eye, so Black's already died.]))
+;B[cl]LB[aj:A]C[Capturing at A only makes a false eye, so Black's already died.]))

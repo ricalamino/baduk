@@ -1,4 +1,4 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
 AW[ik][jk][kk][il][ll][ml]AB[kh][hi][ij][kj][lj][hk][lk][hl][hm]C[Black to play.
 
@@ -7,7 +7,7 @@ https://gogameguru.com/]
 (;W[im]
 (;B[kl]C[[OK\]])
 (;B[lm]
-;W[kl]LB[ks:A]C[White's alive. Even if Black connects at A next, White's already alive in seki.])
+;W[kl]LB[km:A]C[White's alive. Even if Black connects at A next, White's already alive in seki.])
 (;B[km]
 ;W[lm]))
 (;W[km]

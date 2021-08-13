@@ -9,13 +9,13 @@ weight: 2
 ---
 
 
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-21.sgf" description="Problema 21">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-22.sgf" description="Problema 22">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-23.sgf" description="Problema 23">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-24.sgf" description="Problema 24">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-25.sgf" description="Problema 25">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-26.sgf" description="Problema 26">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-27.sgf" description="Problema 27">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-21.sgf" description="Problema 21">}}ok
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-22.sgf" description="Problema 22">}}ok
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-23.sgf" description="Problema 23">}}ok
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-24.sgf" description="Problema 24">}}ok
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-25.sgf" description="Problema 25">}}ok
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-26.sgf" description="Problema 26">}}ok
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-27.sgf" description="Problema 27">}}ok
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-28.sgf" description="Problema 28">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-29.sgf" description="Problema 29">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-30.sgf" description="Problema 30">}}
@@ -36,7 +36,7 @@ weight: 2
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-45.sgf" description="Problema 45">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-46.sgf" description="Problema 46">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-47.sgf" description="Problema 47">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-48.sgf" description="Problema 48">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-48.sgf" description="Problema 48">}}arrumar!
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-49.sgf" description="Problema 49">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-50.sgf" description="Problema 50">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-51.sgf" description="Problema 51">}}

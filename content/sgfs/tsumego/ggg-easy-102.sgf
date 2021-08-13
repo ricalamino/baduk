@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[bi][ci][ei][ck][dk][el][fl]AB[bj][bk][cl][dl][em]C[Black to play.
+SO[https://gogameguru.com/]AW[bi][ci][ei][ck][dk][el][fl]AB[bj][bk][cl][dl][em]C[Black to play.
 
 https://gogameguru.com/]
 (;B[bm]
@@ -45,9 +45,9 @@ https://gogameguru.com/]
 (;B[bl]
 ;W[aj]))
 (;B[dm]
-;W[bm]LB[ap:B][ar:C][br:A]C[Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: http://senseis.xmp.net/?BentFourInTheCornel])
+;W[bm]LB[aj:B][al:C][bl:A]C[Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: httj://senseis.xmp.net/?BentFourInTheCornel])
 (;B[aj]
-;W[al]LB[br:A][bs:C][ds:B]C[Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: http://senseis.xmp.net/?BentFourInTheCornel])
+;W[al]LB[bl:A][bm:C][dm:B]C[Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: httj://senseis.xmp.net/?BentFourInTheCornel])
 (;B[bl]
 ;W[aj]
 (;B[ak]

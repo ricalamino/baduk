@@ -1,4 +1,4 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
 AW[bj][ak][bk][ck][dk][cl][el][em]AB[bg][ch][bi][aj][cj][dj][ej][ek][ak][al][dl][fl]C[Black to play.
 
@@ -7,7 +7,7 @@ https://gogameguru.com/]
 ;W[dm]
 (;B[bm]
 (;W[ai]
-(;B[fm]LB[dr:A]C[[OK\]. Even if White connects at A next, she'll lose the capturing race because it's 'one eye vs no eye'.])
+(;B[fm]LB[dl:A]C[[OK\]. Even if White connects at A next, she'll lose the capturing race because it's 'one eye vs no eye'.])
 (;B[ah]
 ;W[bl]
 (;B[fm]
@@ -23,7 +23,7 @@ https://gogameguru.com/]
 (;B[bm]
 ;W[cm]
 ;B[fm]
-;W[dm]LB[ao:A]C[Even if Black connects at A next, White's already alive in seki.])
+;W[dm]LB[ai:A]C[Even if Black connects at A next, White's already alive in seki.])
 (;B[bl]
 ;W[dm])
 (;B[fm]

@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[ke][hi][cj][hk]AB[kg][jh][fj][jj][ik]C[Black to play.
+SO[https://gogameguru.com/]AW[ke][hi][cj][hk]AB[kg][jh][fj][jj][ik]C[Black to play.
 
 How can Black connect his all stones?
 
@@ -52,4 +52,4 @@ https://gogameguru.com/]
 ;B[ek]
 ;W[ej]C[White can manage the situation lightly like this. Other moves are possible too.])
 (;B[ei]
-;W[gl]LB[hm:A][eq:B]C[A and B are miai for White next.]))
+;W[gl]LB[hg:A][ek:B]C[A and B are miai for White next.]))

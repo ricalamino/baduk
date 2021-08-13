@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[ef][bg][eh][di][fi][ei][dj][jj][gk][cl][dl][el][fl][al]AB[kd][de][df][ch][dh][ci][bk][ck][fk][ak][bk][ek][bl][bl]C[Black to play.
+SO[https://gogameguru.com/]AW[ef][bg][eh][di][fi][ei][dj][jj][gk][cl][dl][el][fl][al]AB[kd][de][df][ch][dh][ci][bk][ck][fk][ak][bk][ek][bl][bl]C[Black to play.
 
 https://gogameguru.com/]
 (;B[ej]
@@ -9,9 +9,9 @@ https://gogameguru.com/]
 (;W[dk]
 ;B[ei]C[[OK\]])
 (;W[ek]
-;B[fj]LB[eo:A][dq:B]C[[OK\]. A and B are still miai for Black.])
+;B[fj]LB[ei:A][dk:B]C[[OK\]. A and B are still miai for Black.])
 (;W[fj]
-;B[ek]LB[eo:A][dq:B]C[[OK\]. A and B are still miai for Black.]))
+;B[ek]LB[ei:A][dk:B]C[[OK\]. A and B are still miai for Black.]))
 (;B[dk]
 ;W[ek]
 (;B[ej]

@@ -1,4 +1,4 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
 AW[ke][kh][ki][hj][ij][jj][fk][gk][kk][kl]AB[lh][gi][li][gj][kj][lj][hk][ik][jk]C[Black to play.
 
@@ -29,7 +29,7 @@ https://gogameguru.com/]
 ;B[gf]
 ;W[he]
 ;B[hd]
-;W[ge]LB[in:A]C[This ladder doesn't work for Black, because Black A is in atari.])
+;W[ge]LB[ih:A]C[This ladder doesn't work for Black, because Black A is in atari.])
 (;B[if]
 ;W[hg]
 ;B[hf]

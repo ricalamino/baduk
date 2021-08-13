@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[bi][bj][bk][bl][bm]AB[ce][bf][cg][ch][ci][cj][ck][cl][el]C[Black to play.
+SO[https://gogameguru.com/]AW[bi][bj][bk][bl][bm]AB[ce][bf][cg][ch][ci][cj][ck][cl][el]C[Black to play.
 
 https://gogameguru.com/]
 (;B[al]C[This is the vital point.]
@@ -11,9 +11,9 @@ https://gogameguru.com/]
 ;W[bg]
 ;B[ag]
 ;W[af]
-(;B[ag]LB[aj:C][bj:B][ak:A]C[[OK\]. If White plays A, Black can just play B (or atari at C in some situations). White can't make two eyes.])
+(;B[ag]LB[ad:C][bd:B][ae:A]C[[OK\]. If White plays A, Black can just play B (or atari at C in some situations). White can't make two eyes.])
 (;B[ae]
-;W[ag]LB[ak:A]C[Black almost had it. There's a better move than A.]))
+;W[ag]LB[ae:A]C[Black almost had it. There's a better move than A.]))
 (;B[ag]
 ;W[ak])
 (;B[bg]
@@ -62,7 +62,7 @@ https://gogameguru.com/]
 (;B[al]
 ;W[ah]))
 (;B[bh]
-;W[ai]LB[aq:B][ar:A]C[White's four in a row eyespace is alive because White A and B are miai (that means if Black takes one, White can take the other one).])
+;W[ai]LB[ak:B][al:A]C[White's four in a row eyespace is alive because White A and B are miai (that means if Black takes one, White can take the other one).])
 (;B[ak]
 ;W[al])
 (;B[aj]

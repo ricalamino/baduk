@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[ff][fg][dh][fh][bi][ei][aj][cj][dj][ak][bk][ek][fk][dl][fl][fm]AB[ag][ah][fi][bi][ej][fj][ck][dk][ak][al][bl][cl][al]C[Black to play.
+SO[https://gogameguru.com/]AW[ff][fg][dh][fh][bi][ei][aj][cj][dj][ak][bk][ek][fk][dl][fl][fm]AB[ag][ah][fi][bi][ej][fj][ck][dk][ak][al][bl][cl][al]C[Black to play.
 
 https://gogameguru.com/]
 (;B[em]
@@ -18,13 +18,13 @@ https://gogameguru.com/]
 (;W[dm]
 ;B[el]C[[OK\]. Black captures the cutting stones.])))
 (;B[dm]
-;W[em]LB[bs:B][cs:A]C[Now Black has to fight a ko here. If Black just conntects at A, White will atari at B and it's still a ko.])
+;W[em]LB[bm:B][cm:A]C[Now Black has to fight a ko here. If Black just conntects at A, White will atari at B and it's still a ko.])
 (;B[am]
 ;W[em]
 (;B[cm]
-;W[bm]LB[ap:A]C[This is a seki, and Black has to worry about the weakness at A now.])
+;W[bm]LB[aj:A]C[This is a seki, and Black has to worry about the weakness at A now.])
 (;B[bm]
-;W[dm]LB[ap:A]C[This is a seki, and Black has to worry about the weakness at A now.])
+;W[dm]LB[aj:A]C[This is a seki, and Black has to worry about the weakness at A now.])
 (;B[dm]
 ;W[cm]C[Black doesn't have enough liberties to make a ko, so Black dies.]))
 (;B[cm]

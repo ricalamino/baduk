@@ -1,4 +1,4 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
 AW[kf][jh][kh][li][kj][ik][jk]AB[ji][ki][gj][ij][lj][hk]C[Black to play.
 
@@ -15,7 +15,7 @@ https://gogameguru.com/]
 (;B[mh]C[[OK\]])))
 (;B[lk]
 ;W[ll]
-;B[lh]C[Also correct.]))
+;B[lh]C[[OK\]]))
 (;W[lh]
 ;B[kk]C[[OK\]]))
 (;B[lh]

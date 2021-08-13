@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[ce][bf][cg][dg][eg][fi][dj][ck][dk][fk][bl]AB[bg][bh][ch][dh][bi][di][cj]C[Black to play.
+SO[https://gogameguru.com/]AW[ce][bf][cg][dg][eg][fi][dj][ck][dk][fk][bl]AB[bg][bh][ch][dh][bi][di][cj]C[Black to play.
 
 https://gogameguru.com/]
 (;B[aj]
@@ -27,7 +27,7 @@ https://gogameguru.com/]
 ;W[ai]
 ;B[al]
 ;W[am]
-;B[ah]LB[ar:A][cr:B]C[A and B are miai for Black (if White defends against one, Black plays the other), so Black lives.])))
+;B[ah]LB[al:A][cl:B]C[A and B are miai for Black (if White defends against one, Black plays the other), so Black lives.])))
 (;B[ag]
 ;W[bj])
 (;B[bj]

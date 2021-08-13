@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[di][ai][bi][fi][gi][cj][dj][fj][cj][ej][hj][dk][fk][ck][ek][hk][dl][al][bl][fl][gl]AB[bh][dh][ah][bh][ch][fh][gh][ci][ei][fi][di][ei][ii][bj][ij][ck][ik][cl][el][dl][el][hl][il][dm][am][bm][cm][fm][gm]C[Black to play.
+SO[https://gogameguru.com/]AW[di][ai][bi][fi][gi][cj][dj][fj][cj][ej][hj][dk][fk][ck][ek][hk][dl][al][bl][fl][gl]AB[bh][dh][ah][bh][ch][fh][gh][ci][ei][fi][di][ei][ii][bj][ij][ck][ik][cl][el][dl][el][hl][il][dm][am][bm][cm][fm][gm]C[Black to play.
 
 https://gogameguru.com/]
 (;B[hi]
@@ -42,7 +42,7 @@ https://gogameguru.com/]
 ;W[fj]
 ;B[gk]
 ;W[fk])
-(;B[gk]LB[hn:A]
+(;B[gk]LB[hh:A]
 ;W[fk]
 ;B[hh]
 ;W[fj])
@@ -66,6 +66,6 @@ https://gogameguru.com/]
 (;W[aj]C[White could also tenuki now, if she wants to take sente for example, and Black will only be able to capture the number 1 (through shortage of liberties). The rest of the group is already alive.])
 (;W[hh]C[If White tenukis...]
 ;B[ek]
-;W[aj]LB[ep:A][aq:B]C[The rest of White's group is still alive. White shouldn't connect at A because Black would atari at B.]))
+;W[aj]LB[ej:A][ak:B]C[The rest of White's group is still alive. White shouldn't connect at A because Black would atari at B.]))
 (;B[hi]
 ;W[gj])))

@@ -1,6 +1,6 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[fj][gj][hj][fk][hk][jk][kk][fl][il][kl][fm][im]AB[fi][gi][hi][ej][ij][jj][kj][ek][ik][el][hl][jl][em]C[Black to play.
+SO[https://gogameguru.com/]AW[fj][gj][hj][fk][hk][jk][kk][fl][il][kl][fm][im]AB[fi][gi][hi][ej][ij][jj][kj][ek][ik][el][hl][jl][em]C[Black to play.
 
 https://gogameguru.com/]
 (;B[gm]
@@ -14,7 +14,7 @@ https://gogameguru.com/]
 (;W[hm]
 ;B[jm]C[[OK\]]))
 (;B[hm]
-;W[jm]LB[gr:A]C[Black can make a seki (in gote) with A, but Black can do better.])
+;W[jm]LB[gl:A]C[Black can make a seki (in gote) with A, but Black can do better.])
 (;B[gl]
 ;W[hm]
 (;B[gm]

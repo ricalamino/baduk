@@ -1,14 +1,14 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[bttps://gogameguru.com/]AW[ii][ji][ki][fj][gj][hj][kj][ek][kk][el][kl]AB[ij][jj][hk][jk][hl][jl][im]C[Black to play.
+SO[https://gogameguru.com/]AW[ii][ji][ki][fj][gj][hj][kj][ek][kk][el][kl]AB[ij][jj][hk][jk][hl][jl][im]C[Black to play.
 
 https://gogameguru.com/]
 (;B[fl]
 (;W[em]
-(;B[fm]LB[es:A][gs:B]C[[OK\], if Black ignores A, White can play at B.])
+(;B[fm]LB[em:A][gm:B]C[[OK\], if Black ignores A, White can play at B.])
 (;B[gl]
 ;W[fm]
-;B[gm]LB[gr:A][fs:B]C[[OK\], Black could also play A at B to live with one more point.]))
+;B[gm]LB[gl:A][fm:B]C[[OK\], Black could also play A at B to live with one more point.]))
 (;W[gk]
 ;B[gl]C[[OK\]])
 (;W[fm]
@@ -34,7 +34,7 @@ https://gogameguru.com/]
 ;B[gl]
 ;W[gm])
 (;B[km]
-;W[em]LB[fr:B][gr:C][es:A]TR[ck][cl]C[A could also be a move like B or C, but A is as far away as possible to provide a greater benefit in the marked area.]
+;W[em]LB[fl:B][gl:C][em:A]TR[ck][cl]C[A could also be a move like B or C, but A is as far away as possible to provide a greater benefit in the marked area.]
 (;B[ll]
 ;W[lk]
 (;B[lm]
