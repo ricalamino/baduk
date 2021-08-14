@@ -15,7 +15,7 @@ weight: 2
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-24.sgf" description="Problema 24">}}ok
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-25.sgf" description="Problema 25">}}ok
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-26.sgf" description="Problema 26">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-27.sgf" description="Problema 27">}}ok
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-27.sgf" description="Problema 27">}}corrigir - verificar original
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-28.sgf" description="Problema 28">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-29.sgf" description="Problema 29">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-30.sgf" description="Problema 30">}}
