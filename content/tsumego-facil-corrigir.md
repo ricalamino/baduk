@@ -8,28 +8,7 @@ menu: ""
 weight: 2
 ---
 
-
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-21.sgf" description="Problema 21">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-22.sgf" description="Problema 22">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-23.sgf" description="Problema 23">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-24.sgf" description="Problema 24">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-25.sgf" description="Problema 25">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-26.sgf" description="Problema 26">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-27.sgf" description="Problema 27">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-28.sgf" description="Problema 28">}}ok 
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-29.sgf" description="Problema 29">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-30.sgf" description="Problema 30">}}ok 
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-31.sgf" description="Problema 31">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-32.sgf" description="Problema 32">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-33.sgf" description="Problema 33">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-34.sgf" description="Problema 34">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-35.sgf" description="Problema 35">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-36.sgf" description="Problema 36">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-37.sgf" description="Problema 37">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-38.sgf" description="Problema 38">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-39.sgf" description="Problema 39">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-40.sgf" description="Problema 40">}}ok
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-41.sgf" description="Problema 41">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-41.sgf" description="Problema 41 - Você consegue capturar a pedra Branca A?">}}ok
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-42.sgf" description="Problema 42">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-43.sgf" description="Problema 43">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-44.sgf" description="Problema 44">}}

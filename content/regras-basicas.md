@@ -21,6 +21,12 @@ weight: 3
 
 ---
 
+### Curtiu as regras? [Comece agora mesmo aqui com o tutorial de exercícios práticos!](/problemas-de-50-kyu)
+
+---
+
+
+
 ### Território (Regra número 5)
 
 {{< diagram sgf="/sgfs/regras1.sgf" description="O jogador com mais território vence o jogo. Mas como contamos o território? O território consiste nos cruzamentos, cercados de tal maneira pelas peças do jogador, que o adversário não consegue invadi-lo. O número de cruzamentos cercados pelas peças Brancas e pelas Pretas consiste respectivamente no número de pontos obtidos pelo jogador das Brancas e pelo jogador com as Pretas.">}} 
