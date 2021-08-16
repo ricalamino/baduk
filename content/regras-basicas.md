@@ -23,6 +23,7 @@ weight: 3
 
 ### Curtiu as regras? [Comece agora mesmo aqui com o tutorial de exercícios práticos!](/problemas-de-50-kyu)
 
+### Já sabe o básico? [Pratique resolvendo alguns problemas do jogo real (Tsumego)!](/tsumego-facil)
 ---
 
 
