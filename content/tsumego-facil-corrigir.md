@@ -20,7 +20,7 @@ weight: 2
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-50.sgf" description="Problema 50">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-51.sgf" description="Problema 51">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-52.sgf" description="Problema 52">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-53.sgf" description="Problema 53">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-53.sgf" description="Problema 53">}}<arrumar>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-54.sgf" description="Problema 54">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-55.sgf" description="Problema 55">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-56.sgf" description="Problema 56">}}

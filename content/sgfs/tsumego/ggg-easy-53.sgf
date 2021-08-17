@@ -1,32 +1,32 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
-RU[Japanese]SZ[13]KM[0.00]
-SO[https://gogameguru.com/]AW[ci][dj][ej][hj][jj][bk][ck][ck]AB[ce][kh][aj][lj][dk][ek][cl]LB[ej:A]C[Black to play.
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[https://gogameguru.com/]AW[co][dp][ep][np][pp][bq][cq][iq]AB[ck][qn][gp][rp][dq][eq][cr]LB[ep:A]C[Black to play.
 
 https://gogameguru.com/]
-(;B[al]LB[fj:B][fk:A][el:D][fl:C]C[[OK\]. This is the best shape, because it gives Black the best potential for making eyes later. A and B are miai for Black now. If White tries to play A-C, Black D captures White's stones.])
-(;B[fj]
-;W[al]LB[ej:A][fk:C][al:B]C[White plays on the vital point and Black's group becomes weak. Notice the relationship between A and B - the point at C can only ever become a false eye now.]
-;B[fl]
-;W[ak]C[If the game continues like this, Black doesn't have much room to make eyes, so the whole group may be in trouble later.])
-(;B[ak]
-;W[fl]C[Later on there's still a vital point here...]
-(;B[al]
-;W[fk]
-(;B[fj]
-;W[dl])
-(;B[el]
-;W[em]
-;B[dl]
-;W[fj])
-(;B[em]
-;W[fm]
-(;B[fj]
-;W[dl])
-(;B[el]
-;W[fj])))
-(;B[fk]
-;W[al]))
-(;B[bk]
-;W[cj]LB[fk:B][al:A]C[Making this exchange helps White. In addition, Black still has weaknesses at A and B, so Black hasn't developed a good shape and still has to play another move here. In some situations White might choose to play at A or B immediately after Black kicks with the diagonal attachment.])
-(;B[fk]C[This move is uninspired.]
-;W[al]C[Later on White can play here and Black doesn't have much eyespace, so the group will be weak.]))
+(;B[gr]LB[fp:B][fq:A][er:D][fr:C]C[Correct. This is the best shape, because it gives Black the best potential for making eyes later. A and B are miai for Black now. If White tries to play A-C, Black D captures White's stones.])
+(;B[fp]
+;W[gr]LB[ep:A][fq:C][gr:B]C[White plays on the vital point and Black's group becomes weak. Notice the relationship between A and B - the point at C can only ever become a false eye now.]
+;B[fr]
+;W[gq]C[If the game continues like this, Black doesn't have much room to make eyes, so the whole group may be in trouble later.])
+(;B[gq]
+;W[fr]C[Later on there's still a vital point here...]
+(;B[gr]
+;W[fq]
+(;B[fp]
+;W[dr])
+(;B[er]
+;W[es]
+;B[dr]
+;W[fp])
+(;B[es]
+;W[fs]
+(;B[fp]
+;W[dr])
+(;B[er]
+;W[fp])))
+(;B[fq]
+;W[gr]))
+(;B[hq]
+;W[ip]LB[fq:B][gr:A]C[Making this exchange helps White. In addition, Black still has weaknesses at A and B, so Black hasn't developed a good shape and still has to play another move here. In some situations White might choose to play at A or B immediately after Black kicks with the diagonal attachment.])
+(;B[fq]C[This move is uninspired.]
+;W[gr]C[Later on White can play here and Black doesn't have much eyespace, so the group will be weak.]))
