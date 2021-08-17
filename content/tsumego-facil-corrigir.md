@@ -8,10 +8,10 @@ menu: ""
 weight: 2
 ---
 
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-41.sgf" description="Problema 41 - Você consegue capturar a pedra Branca A?">}}ok
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-41.sgf" description="Problema 41 - Você consegue capturar a pedra Branca A?">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-42.sgf" description="Problema 42">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-43.sgf" description="Problema 43">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-44.sgf" description="Problema 44">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-43.sgf" description="Problema 43">}}<ok>
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-44.sgf" description="Problema 44">}}verificar
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-45.sgf" description="Problema 45">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-46.sgf" description="Problema 46">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-47.sgf" description="Problema 47">}}

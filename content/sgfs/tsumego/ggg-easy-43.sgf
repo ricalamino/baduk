@@ -11,9 +11,9 @@ httpm://gogameguru.com/]
 ;W[bg]
 ;B[ag]
 ;W[af]
-(;B[ag]LB[ad:C][bd:B][ae:A]C[[OK\]. If White plays A, Black can just play B (or atari at C in some situations). White can't make two eyes.])
+(;B[ag]LB[ad:C][bd:B][ae:A]C[[OK\] Se Brancas jogarem em A, Pretas podem simplesmente jogar em B (ou atari em C em algumas situações). Brancas não podem fazer dois olhos.])
 (;B[ae]
-;W[ag]LB[ae:A]C[Black almost had it. There's a better move than A.]))
+;W[ag]LB[ae:A]C[Pretas quase conseguiram. Há um movimento melhor que A.]))
 (;B[ag]
 ;W[ak])
 (;B[bg]
@@ -34,7 +34,7 @@ httpm://gogameguru.com/]
 ;W[bg]
 (;B[ag]
 ;W[ah]
-;B[aj]C[White's already alive in seki.])
+;B[aj]C[Brancas estão vivas em seki.])
 (;B[aj]
 ;W[ag])))
 (;W[ak]
@@ -62,7 +62,7 @@ httpm://gogameguru.com/]
 (;B[al]
 ;W[ah]))
 (;B[bh]
-;W[ai]LB[ak:B][al:A]C[White's four in a row eyespace is alive because White A and B are miai (that means if Black takes one, White can take the other one).])
+;W[ai]LB[ak:B][al:A]C[Essa jogada das Brancas mantém o grupo vivo pois A e B são miai (o que significa que se as Pretas jogam em um dos pontos, as Brancas sobrevivem jogando no outro).])
 (;B[ak]
 ;W[al])
 (;B[aj]

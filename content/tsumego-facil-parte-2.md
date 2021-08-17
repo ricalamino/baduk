@@ -15,7 +15,7 @@ weight: 2
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-25.sgf" description="Problema 25">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-26.sgf" description="Problema 26">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-27.sgf" description="Problema 27">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-28.sgf" description="Problema 28">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-28.sgf" description="Problema 28 - Consegue capturar as duas Brancas marcadas com triângulos?">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-29.sgf" description="Problema 29">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-30.sgf" description="Problema 30">}} 
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-31.sgf" description="Problema 31">}}
