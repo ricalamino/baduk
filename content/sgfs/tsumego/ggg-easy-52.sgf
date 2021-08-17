@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[https://gogameguru.com/]AW[cg][ch][eh][bi][bj][cj][ck][cl][dl]AB[cf][bg][bh][ci][di][dj][dk][ek][el]C[Black to play.
+SO[httpm://gogameguru.com/]AW[cg][ch][eh][bi][bj][cj][ck][cl][dl]AB[cf][bg][bh][ci][di][dj][dk][ek][el]C[Black to play.
 
-https://gogameguru.com/]
+httpm://gogameguru.com/]
 (;B[eg]
 (;W[dh]
 (;B[fh]
@@ -16,14 +16,14 @@ https://gogameguru.com/]
 ;B[dg]C[[OK\]]))
 (;B[dg]
 ;W[fi]
-;B[ai]
+;B[gi]
 ;W[fj]))
 (;B[dg]
 ;W[fh])
 (;B[fg]
 ;W[fh]
-;B[ah]
-;W[df]LB[ce:C][bf:B][dg:A][ai:D]C[Next if Black cuts at A, White can atari at B and capture two stones. If Black plays C instead, White can keep fighting at D, or just connect at A. Black had a way to capture the cutting stones instead.]))
+;B[gh]
+;W[df]LB[ce:C][bf:B][dg:A][gi:D]C[Em seguida, se Pretas cortarem em A, Brancas podem dar atari em B e capturar duas pedras. Se as Pretas jogarem C em vez disso, as Brancas podem continuar lutando em D ou apenas conectar-se a A. As Pretas têm uma maneira mais simples de capturar as pedras Brancas.]))
 (;W[df]
 ;B[dg]
 ;W[dh]
