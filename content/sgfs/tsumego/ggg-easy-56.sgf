@@ -3,13 +3,13 @@ RU[Japanese]SZ[13]KM[0.00]
 SO[https://gogameguru.com/]AW[jk][kk][lk][mk][jl][jm]AB[li][ij][jj][kj][ik][gl][il][kl][ll][km]C[Black to play.
 
 https://gogameguru.com/]
-(;B[lm]C[[OK\]. Now, even if White captures the four stones, it won't be possible to make two eyes.])
+(;B[lm]C[[OK\] Agora, mesmo que as Brancas capturem as quatro pedras, não será possível fazer dois olhos.])
 (;B[ml]
 ;W[lm]
 ;B[mm]
-;W[lm]C[White's alive.])
+;W[lm]C[Brancas sobreviveram.])
 (;B[mm]
-;W[ml]LB[lm:A]C[Black can't connect at A. If he could, he wouldn't have any liberties and his stones would be captured. After that, it would be White’s turn and White could play at A to make two eyes.])
+;W[ml]LB[lm:A]C[Pretas não podem se conectar em A. Se pudessem, elas não teriam nenhuma liberdade e suas pedras seriam capturadas (seria um suicídio). Depois disso, seria a vez das Brancas e as Brancas poderiam jogar em A para fazer dois olhos.])
 (;B[mj]
 ;W[lm]
 (;B[mm]

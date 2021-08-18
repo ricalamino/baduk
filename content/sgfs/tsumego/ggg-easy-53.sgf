@@ -3,13 +3,13 @@ RU[Japanese]SZ[19]KM[0.00]
 SO[https://gogameguru.com/]AW[co][dp][ep][np][pp][bq][cq][iq]AB[ck][qn][gp][rp][dq][eq][cr]LB[ep:A]C[Black to play.
 
 https://gogameguru.com/]
-(;B[gr]LB[fp:B][fq:A][er:D][fr:C]C[Correct. This is the best shape, because it gives Black the best potential for making eyes later. A and B are miai for Black now. If White tries to play A-C, Black D captures White's stones.])
+(;B[gr]LB[fp:B][fq:A][er:D][fr:C]C[[OK\] Esta é a melhor forma, porque dá as Pretas o melhor potencial para fazer olhos mais tarde. A e B são miai para as Pretas agora. Se as Brancas tentarem jogar A-C, as Pretas D capturam as pedras das Brancas.])
 (;B[fp]
-;W[gr]LB[ep:A][fq:C][gr:B]C[White plays on the vital point and Black's group becomes weak. Notice the relationship between A and B - the point at C can only ever become a false eye now.]
+;W[gr]LB[ep:A][fq:C][gr:B]C[As Brancas jogam no ponto vital e o grupo das Pretas torna-se fraco. Observe a relação entre A e B - o ponto em C só pode se tornar um olho falso agora.]
 ;B[fr]
-;W[gq]C[If the game continues like this, Black doesn't have much room to make eyes, so the whole group may be in trouble later.])
+;W[gq]C[Se o jogo continuar assim, Pretas não terão muito espaço para fazer os olhos, então todo o grupo pode ter problemas mais tarde.])
 (;B[gq]
-;W[fr]C[Later on there's still a vital point here...]
+;W[fr]C[Ainda há um ponto vital por aqui...]
 (;B[gr]
 ;W[fq]
 (;B[fp]
@@ -27,6 +27,6 @@ https://gogameguru.com/]
 (;B[fq]
 ;W[gr]))
 (;B[hq]
-;W[ip]LB[fq:B][gr:A]C[Making this exchange helps White. In addition, Black still has weaknesses at A and B, so Black hasn't developed a good shape and still has to play another move here. In some situations White might choose to play at A or B immediately after Black kicks with the diagonal attachment.])
-(;B[fq]C[This move is uninspired.]
-;W[gr]C[Later on White can play here and Black doesn't have much eyespace, so the group will be weak.]))
+;W[ip]LB[fq:B][gr:A]C[Fazer essa troca ajuda as Brancas. Além disso, as Pretas ainda têm fraquezas em A e B, então as Pretas não desenvolveram uma boa forma e ainda precisam fazer outra jogada aqui. Em algumas situações, as Brancas podem escolher jogar em A ou B imediatamente após as Pretas chutarem com a jogada na diagonal.])
+(;B[fq]C[Esse movimento é ruim.]
+;W[gr]C[Brancas jogam aqui e as Pretas não têm muito espaço para olhos, então o grupo das Pretas ficou fraco.]))

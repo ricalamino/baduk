@@ -1,33 +1,33 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[https://gogameguru.com/]AW[ff][fg][dh][fh][bi][ei][aj][cj][dj][ak][bk][ek][fk][dl][fl][fm]AB[ag][ah][fi][bi][ej][fj][ck][dk][ak][al][bl][cl][al]C[Black to play.
+SO[httpm://gogameguru.com/]AW[ff][fg][dh][fh][bi][ei][aj][cj][dj][ak][bk][ek][fk][dl][fl][fm]AB[gg][gh][fi][hi][ej][fj][ck][dk][gk][al][bl][cl][gl]C[Black to play.
 
-https://gogameguru.com/]
+httpm://gogameguru.com/]
 (;B[em]
 (;W[dm]
-(;B[am]
+(;B[gm]
 ;W[el]
-;B[cm]C[[OK\]. Black wins the capturing race.])
+;B[cm]C[[OK\] Pretas vencem a corrida de captura!])
 (;B[cm]
 ;W[el]
-;B[am]C[[OK\]. Black wins the capturing race.]))
+;B[gm]C[[OK\] Pretas vencem a corrida de captura!]))
 (;W[cm]
-;B[am]
+;B[gm]
 (;W[el]
-;B[dm]C[[OK\]. Black captures the cutting stones.])
+;B[dm]C[[OK\] Pretas capturam as pedras que cortaram.])
 (;W[dm]
-;B[el]C[[OK\]. Black captures the cutting stones.])))
+;B[el]C[[OK\] Pretas capturam as pedras que cortaram.])))
 (;B[dm]
-;W[em]LB[bm:B][cm:A]C[Now Black has to fight a ko here. If Black just conntects at A, White will atari at B and it's still a ko.])
-(;B[am]
+;W[em]LB[bm:B][cm:A]C[Agora, Pretas têm que lutar contra um ko aqui. Se as Pretas apenas se conectarem em A, as Brancas irão dar atari em B e ainda é um ko.])
+(;B[gm]
 ;W[em]
 (;B[cm]
-;W[bm]LB[aj:A]C[This is a seki, and Black has to worry about the weakness at A now.])
+;W[bm]LB[gj:A]C[Isso é um seki e as Pretas precisam se preocupar com o ponto de corte em A agora.])
 (;B[bm]
-;W[dm]LB[aj:A]C[This is a seki, and Black has to worry about the weakness at A now.])
+;W[dm]LB[gj:A]C[Isso é um seki e as Pretas precisam se preocupar com o ponto de corte em A agora.])
 (;B[dm]
-;W[cm]C[Black doesn't have enough liberties to make a ko, so Black dies.]))
+;W[cm]C[Pretas não têm liberdade suficiente para fazer um ko, então Pretas morrem.]))
 (;B[cm]
 ;W[em]
 ;B[dm]
-;W[bm]C[Now Black has to fight a ko, but Black can do better.]))
+;W[bm]C[Agora as Pretas têm que lutar um ko, mas as Pretas podem fazer melhor.]))
