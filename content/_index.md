@@ -20,7 +20,7 @@ Antes de começar, lembre-se de três princípios básicos:
 
 Nova seção [**Problemas de Go (Tsumego)**](/tsumego-facil)
 
-Mais de 50 problemas reais interativos para serem resolvidos. [Entre já clicando aqui!](/tsumego-facil)  
+Mais de 70 problemas reais interativos para serem resolvidos. [Entre já clicando aqui!](/tsumego-facil)  
 
 ---
 ### Créditos 

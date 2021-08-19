@@ -10,7 +10,7 @@ weight: 1
 
 ### Lista de problemas de Go (Tsumego) para iniciantes
 
-Seguem 20 problemas para iniciar nos estudos do Go.
+Aqui inicia-se a lista com mais de 70 problemas para iniciar nos estudos do Go.
 
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-01.sgf" description="Problema 1">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-02.sgf" description="Problema 2">}}

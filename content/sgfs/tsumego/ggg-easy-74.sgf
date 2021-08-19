@@ -1,13 +1,14 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[https://gogameguru.com/]AW[cj][dj][bk][ck][ek][bl][el][fl][al]AB[ei][ej][dk][ak][bk][al][cl][dl][bl][bm][am]C[Black to play.
+SO[httpm://gogameguru.com/]AW[cj][dj][bk][ck][ek][bl][el][fl][gl]AB[ei][ej][dk][gk][hk][al][cl][dl][hl][bm][gm]C[Black to play.
 
-https://gogameguru.com/]
-(;B[em]LB[fm:A]C[[OK\]. White can't cut at A because she'll atari herself.]
+httpm://gogameguru.com/]
+(;B[em]LB[fm:A]C[[OK\] White can't cut at A because she'll atari herself.]
 ;W[dm]
 ;B[cm]
 ;W[ak]
-;B[fk]C[[OK\]])
+(;B[fm]C[[OK\]])
+(;B[fk]C[[OK\]]))
 (;B[fk]
 ;W[dm]
 (;B[cm]
@@ -19,7 +20,7 @@ https://gogameguru.com/]
 ;B[fk]
 ;W[cm])
 (;B[cm]
-;W[ak]C[Now White can fight a ko, but Black could have avoided that.]
+;W[ak]C[Agora as Brancas podem lutar contra um ko, mas as Pretas poderiam ter evitado isso.]
 (;B[em]
 ;W[am])
 (;B[fk]

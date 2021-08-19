@@ -3,6 +3,7 @@ title: "Tsumego - Fácil - Parte 3"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "tsumego-facil-parte-2"
+next: "tsumego-facil-parte-4"
 menu: "tsumego"
 weight: 3
 ---
