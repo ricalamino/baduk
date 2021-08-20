@@ -18,6 +18,24 @@
       {{ end }}
     </optgroup>
 
+    <optgroup label="{{ with .Site.Params.tsumego.name }}{{.}}{{ end }}">
+    
+
+      {{ range $.Site.Menus.tsumego }}
+      
+
+        <option value="{{ .URL | markdownify}}" 
+        {{ if $currentPage.IsMenuCurrent "tsumego" . }} 
+        selected="true" 
+        {{ end }} 
+        >
+          {{ .Title | markdownify}}
+        </option>
+
+      {{ end }}
+    </optgroup>
+
+
     <optgroup label="{{ with .Site.Params.matches.name }}{{.}}{{ end }}">
       
 
@@ -55,22 +73,6 @@
     </optgroup>
 
     
-    <optgroup label="{{ with .Site.Params.tsumego.name }}{{.}}{{ end }}">
     
-
-      {{ range $.Site.Menus.tsumego }}
-      
-
-        <option value="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "tsumego" . }} 
-        selected="true" 
-        {{ end }} 
-        >
-          {{ .Title | markdownify}}
-        </option>
-
-      {{ end }}
-    </optgroup>
-
   </select>
 </section>

@@ -1,6 +1,8 @@
 <aside>
   <nav>
     {{ $currentPage := . }}
+   
+
     <p>{{ with .Site.Params.classes.name }}{{.}}{{ end }}</p>
     <ol>
 
@@ -20,10 +22,30 @@
 
     </ol>
       
-      <br />
+    <br />
+    <p>{{ with .Site.Params.tsumego.name }}{{.}}{{ end }}</p>
+        
+    <ol>
+
+
+      {{ range $.Site.Menus.tsumego }}
+
+      <li>
+        <a href="{{ .URL | markdownify}}" 
+        {{ if $currentPage.IsMenuCurrent "tsumego" . }} 
+        class="active" 
+        {{ end }} 
+          >{{ .Title }}</a
+        >
+      </li>
+
+      {{ end }}
+    </ol>
+
+    <br /> 
 
       
-      <p>{{ with .Site.Params.matches.name }}{{.}}{{ end }}</p>
+    <p>{{ with .Site.Params.matches.name }}{{.}}{{ end }}</p>
       
     
     <ol>
@@ -41,8 +63,10 @@
 
       {{ end }}
     </ol>  
-<br />      
-      <p>{{ with .Site.Params.theory.name }}{{.}}{{ end }}</p>
+    
+    <br />     
+    
+    <p>{{ with .Site.Params.theory.name }}{{.}}{{ end }}</p>
     
     <ol>
 
@@ -62,24 +86,7 @@
     </ol>
 
     <br />      
-      <p>{{ with .Site.Params.tsumego.name }}{{.}}{{ end }}</p>
-    
-    <ol>
-
-
-      {{ range $.Site.Menus.tsumego }}
-
-      <li>
-        <a href="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "tsumego" . }} 
-        class="active" 
-        {{ end }} 
-          >{{ .Title }}</a
-        >
-      </li>
-
-      {{ end }}
-    </ol>
+      
   </nav>
   <nav>
     <p>Ajude a manter o site gratuito sem anúncios</p>

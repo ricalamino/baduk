@@ -7,13 +7,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
 
   [params.classes]
-    name = "Trilha de aprendizagem"
+    name = "Tutorial"
 
   [params.matches]
     name = "Partidas do AlphaGo"
    
   [params.theory]
-    name = "Teoria do Go"
+    name = "Mais sobre Go"
 
   [params.tsumego]
     name = "Problemas de Go"

@@ -2,7 +2,7 @@
 title: "Jogos entre Fan Hui(2p) e AlphaGo"
 date: 2021-08-05T16:08:56-03:00
 draft: false
-previous: "epilogo"
+previous: "tsumego-facil-parte-4"
 next: "kejie-alphago"
 menu: "matches"
 weight: 1

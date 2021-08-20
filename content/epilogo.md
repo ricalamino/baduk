@@ -3,7 +3,7 @@ title: "Epílogo"
 date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "komi"
-next: "fanhui-alphago"
+next: "tsumego-facil"
 menu: "main"
 weight: 35
 ---
@@ -41,11 +41,8 @@ Aprender com jogadores profissionais é o melhor jeito de se aperfeiçoar.
 
 ### 3. Resolva problemas
    
-Os [Problemas de vida e morte (Life and Death problems)](http://playgo.to/problem/tsumego.html) são problemas de como matar grupos localmente e como não deixar que sejam mortos. Há muitas técnicas úteis lá.
+Os [Problemas de vida e morte (Tsumego)](/tsumego-facil) são problemas de como matar grupos localmente e como não deixar que sejam mortos. Há muitas técnicas úteis lá.
 
-### 4. O Fim
-### Nota do autor
-"Eu realmente apreciei Tel Monks que me ajudou a revisar todas as páginas em Inglês desse tutorial. O site dele, Tel's Go Notes, é também muito bom para iniciantes que querem saber mais sobre estratégia, conceitos, e problemas de vida e morte."
-
-Fim. (Continua com as partidas jogadas pelo AlphaGo e um pouco mais sobre os fundamentos do Go.)
+---
+Continua com a nova área de problemas de Go, as partidas jogadas pelo AlphaGo e um pouco mais sobre os fundamentos do Go...
 
