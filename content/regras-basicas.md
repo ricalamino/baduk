@@ -8,7 +8,6 @@ menu: "theory"
 weight: 3
 ---
 
-### Regras básicas
 ## 1. Go é jogado entre dois jogadores.
 ## 2. Um dos jogadores usa as pedras brancas e o outro as pretas. (Os jogadores se revezam colocando as pedras no tabuleiro, uma a uma. O primeiro movimento, isto é, a colocação da primeira pedra no tabuleiro, é feito pelas Pretas. Num jogo com "handicap", entretanto, Brancas jogam primeiro.)
 ## 3. A pedra deve ser colocada em um dos cruzamentos.

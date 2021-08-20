@@ -18,7 +18,7 @@ Antes de começar, lembre-se de três princípios básicos:
 
 ### ⭐🚀 Novidades (agosto de 2021)
 
-Nova seção [**Problemas de Go (Tsumego)**](/tsumego-facil)
+Nova seção: [**Problemas de Go (Tsumego)**](/tsumego-facil)
 
 Mais de 70 problemas reais interativos para serem resolvidos. [Entre já clicando aqui!](/tsumego-facil)  
 
