@@ -56,12 +56,17 @@ body {
 a {
   color: #6c9922;
   padding: 5px; 
-
+  background-color: white;
   text-decoration: none; }
 
 a:hover {
-  color: #fff;
+  color: white;
   background-color: #6c9922; }
+
+/*
+  a:visited {
+    background-color: #cde9cd; };
+  */
 
 .wrapper {
   margin: 10px auto;
