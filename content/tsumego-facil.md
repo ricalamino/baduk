@@ -12,6 +12,8 @@ weight: 1
 
 Aqui inicia-se a lista com mais de 70 problemas para iniciar nos estudos do Go.
 
+**Alguns problemas possuem variações. Ou seja, as Brancas podem ter resposta diferente para um mesmo movimento das Pretas!**
+
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-01.sgf" description="Problema 1">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-02.sgf" description="Problema 2">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-03.sgf" description="Problema 3">}}
