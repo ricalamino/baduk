@@ -8,29 +8,8 @@ menu: ""
 weight: 2
 ---
 
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-61.sgf" description="Problema 61">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-62.sgf" description="Problema 62">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-63.sgf" description="Problema 63">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-64.sgf" description="Problema 64">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-65.sgf" description="Problema 65">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-66.sgf" description="Problema 66">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-67.sgf" description="Problema 67">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-68.sgf" description="Problema 68">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-69.sgf" description="Problema 69">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-72.sgf" description="Problema 72">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-73.sgf" description="Problema 73">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-74.sgf" description="Problema 74">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-75.sgf" description="Problema 75">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-76.sgf" description="Problema 76">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-77.sgf" description="Problema 77">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-78.sgf" description="Problema 78">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-79.sgf" description="Problema 79">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-80.sgf" description="Problema 80">}}<ok>
-
-
-----
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-81.sgf" description="Problema 81">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-82.sgf" description="Problema 82">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-81.sgf" description="Problema 81 - Como as Pretas podem conectar todas as suas pedras?">}}<ok>
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-82.sgf" description="Problema 82">}}<usar para pegar jogar aleatórias de W / >
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-83.sgf" description="Problema 83">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-84.sgf" description="Problema 84">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-85.sgf" description="Problema 85">}}
