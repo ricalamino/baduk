@@ -2475,9 +2475,17 @@ var exec_node = function(game, node, first) {
 var exec_next = function(i) {
 	if(i === undefined && this.rememberPath) i = this.node._last_selected;
 	i = i || 0;
-	var node = this.node.children[i];
-	
+	var number_of_children = this.node.children.length;
+	var rand_child = Math.floor(Math.random() * number_of_children);
+	var node = this.node.children[rand_child];
+
 	if(!node) return false;
+	
+	if (this.node.children[rand_child].move !== undefined) {
+		if (this.node.children[rand_child].move.c != WGo.W) {
+			var node = this.node.children[i];
+		}
+	}
 	
 	var ch = exec_node(this.game, node);
 	
