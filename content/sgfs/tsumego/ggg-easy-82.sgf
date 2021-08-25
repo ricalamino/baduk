@@ -1,24 +1,24 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
-RU[Japanese]SZ[19]KM[0.00]
-SO[https://gogameguru.com/]AW[el][hm][en][do][fo][ko][dp][pp][mq][cr][dr][er][fr][gr]AB[qj][dk][dl][cn][dn][co][bq][cq][fq][gq][hq][kq][br][hr]C[Black to play.
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
+RU[Japanese]SZ[13]KM[0.00]
+SO[https://gogameguru.com/]AW[ef][hg][eh][di][fi][ki][dj][mk][cl][dl][el][fl][gl]AB[de][df][ch][dh][ci][bk][ck][fk][gk][hk][kk][bl][hl]C[Black to play.
 
-https://gogameguru.com/]
-(;B[ep]
-(;W[eo]
-;B[dq]C[[OK\]])
-(;W[dq]
-;B[eo]C[[OK\]])
-(;W[eq]
-;B[fp]LB[eo:A][dq:B]C[[OK\] A e B são miai para as Pretas.])
-(;W[fp]
-;B[eq]LB[eo:A][dq:B]C[[OK\] A e B são miai para as Pretas.]))
-(;B[dq]
-;W[eq]
-(;B[ep]
-;W[fp])
-(;B[fp]
-;W[ep]))
-(;B[eq]
-;W[dq])
-(;B[fp]
-;W[dq]))
+httpm://gogameguru.com/]
+(;B[ej]
+(;W[ei]
+;B[dk]C[[OK\]])
+(;W[dk]
+;B[ei]C[[OK\]])
+(;W[ek]
+;B[fj]LB[ei:A][dk:B]C[[OK\] A e B são miai para as Pretas.])
+(;W[fj]
+;B[ek]LB[ei:A][dk:B]C[[OK\] A e B são miai para as Pretas.]))
+(;B[dk]
+;W[ek]
+(;B[ej]
+;W[fj])
+(;B[fj]
+;W[ej]))
+(;B[ek]
+;W[dk])
+(;B[fj]
+;W[dk]))
