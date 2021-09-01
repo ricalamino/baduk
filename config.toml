@@ -2,7 +2,12 @@ baseURL = "https://baduk.com.br/"
 languageCode = "pt-br"
 title = "Baduk - Aprenda a jogar Go Interativamente"
 
+enableRobotsTXT = "true"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[sitemap]
+  ChangeFreq = "weekly"
+  Priority = ".5"
 
 [params]
 

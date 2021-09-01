@@ -6,6 +6,7 @@ previous: "jogo-exemplo"
 next: ""
 menu: ""
 weight: 2
+robotsdisallow: true
 ---
 
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-101.sgf" description="Problema 101">}}
