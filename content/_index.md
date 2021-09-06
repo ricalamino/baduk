@@ -7,30 +7,29 @@ menu: "main"
 weight: 1
 ---
 
-### Aqui você aprenderá a jogar Go (**Baduk** ou Weiqi).
-Antes de começar, lembre-se de três princípios básicos:
+### Here you will learn How To Play Go (Baduk or Weiqi).
+Before you start, remember three basic rules:
 
-- Dois jogadores (preto e branco) fazem movimentos colocando uma pedra no tabuleiro alternadamente.
-- As pedras devem ser colocadas na intersecção de linhas verticais e horizontais.
-- Quando a pedra é colocada, ela não pode ser movida, somente sob certas condições ela pode ser removida.
-
+- Two players (black and white) make moves by placing a stone on the board alternately.
+- Stones must be placed at the intersection of vertical and horizontal lines.
+- When the stone is placed, it cannot be moved, only under certain conditions it can be removed.
 ----
 
-### ⭐🚀 Novidades (agosto de 2021)
+### ⭐🚀 News
 
-Nova seção [**Problemas de Go (Tsumego)**](/tsumego) - **Novos problemas toda semana!**
+New section [**Tsumego**](/tsumego) - **New problems every week!**
 
-Dezenas de problemas reais interativos para serem resolvidos. [Entre já clicando aqui!](/tsumego)  
+Dozens of real interactive problems to solve. [Click here to enter!](/tsumego)  
 
 ---
-### Créditos 
+### Credits
 
-Versão original: Hiroki Mori (http://playgo.to)
+Original version: Hiroki Mori (http://playgo.to)
 
-Traduzido para o português por Ricardo Alamino (Recém migrado de [Jekyll](https://jekyllrb.com/) para [Hugo](https://gohugo.io/))
+Translated to Portuguese by Ricardo Alamino (Recently migrated from [Jekyll](https://jekyllrb.com/) to [Hugo](https://gohugo.io/))
 
-Versão em Português disponível no Github em [https://github.com/ricalamino/baduk-hugo/](https://github.com/ricalamino/baduk-hugo/)
+Portuguese version available on Github at [https://github.com/ricalamino/baduk/](https://github.com/ricalamino/baduk/)
 
-Baseado na tradução de Andrzej Bojar
+Based on Andrzej Bojar's translation
 
-Layout original desenvolvido pela Associação dos Jogos Honte (http://honte.pl)
+Original layout developed by the Honte Games Association (http://honte.pl)

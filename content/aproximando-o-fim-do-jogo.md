@@ -7,10 +7,10 @@ next: "use-seu-instinto"
 menu: "main"
 weight: 31
 ---
-Quando o jogo vai chegando ao fim, e ambos os lados já têm os seus territórios definidos, tudo o que você deve fazer é delimitar as bordas do seu território claramente.
+When the game comes to an end, and both sides already have their territories defined, all you have to do is delineate the borders of your territory clearly.
 
-Nesse ponto, você deve tentar empurrar a borda para dentro do território inimigo, aumentando o seu território o máximo possível e ao mesmo tempo reduzindo o do adversário.
+At this point, you should try to push the edge into enemy territory, increasing your territory as much as possible while reducing your opponent's.
 
-{{< challenge sgf="/sgfs/yose1.sgf" description="As pretas ocupam o lado esquerdo e as brancas controlam o lado direito.</p><p>Entretanto, ainda há alguns lugares onde os limites não estão claros. Onde você pode jogar que possibilitará maior lucro de território?">}} 
+{{< challenge sgf="/sgfs/yose1.sgf" description="Black occupies the left side and White controls the right side.</p><p>However, there are still some places where the boundaries are not clear . Where can you play that will enable the biggest territory profit?">}}
 
-{{< challenge sgf="/sgfs/yose2.sgf" description="As pretas têm o lado esquerdo e as brancas o lado direito. O jogo está quase no fim.</p><p>Mas seja cuidadoso até o jogo acabar de verdade!</p><p>Brancas acabaram de jogar em D1.</p><p>Se você ignorar, seu precioso território será invadido.">}} 
+{{< challenge sgf="/sgfs/yose2.sgf" description="Black has the left side and white has the right side. The game is almost over.</p><p>But be careful until the game It's over for real!</p><p>Whites just played in D1.</p><p>If you ignore it, your precious territory will be invaded.">}}
