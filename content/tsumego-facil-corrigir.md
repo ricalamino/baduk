@@ -9,11 +9,11 @@ weight: 2
 robotsdisallow: true
 ---
 
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-101.sgf" description="Problema 101">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-102.sgf" description="Problema 102">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-103.sgf" description="Problema 103">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-101.sgf" description="Problema 101">}}<ok>
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-102.sgf" description="Problema 102">}}<ok>
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-103.sgf" description="Problema 103">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-104.sgf" description="Problema 104">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-105.sgf" description="Problema 105">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-105.sgf" description="Problema 105">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-106.sgf" description="Problema 106">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-107.sgf" description="Problema 107">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-108.sgf" description="Problema 108">}}

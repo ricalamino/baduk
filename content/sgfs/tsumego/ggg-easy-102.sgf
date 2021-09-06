@@ -7,7 +7,7 @@ https://gogameguru.com/]
 ;W[al]
 (;B[dm]
 (;W[bl]
-(;B[ak]C[[OK\]. Black has enough liberties to play here in this case.])
+(;B[ak]C[[OK\] As pretas têm liberdade suficiente para jogar aqui neste caso.])
 (;B[am]
 ;W[cm]
 (;B[bm]
@@ -45,9 +45,9 @@ https://gogameguru.com/]
 (;B[bl]
 ;W[aj]))
 (;B[dm]
-;W[bm]LB[aj:B][al:C][bl:A]C[Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: httj://senseis.xmp.net/?BentFourInTheCornel])
+;W[bm]LB[aj:B][al:C][bl:A]C[Mesmo que as pretas joguem em A agora, não será Sente, porque B e C são miai. Ver mais em: httj://senseis.xmp.net/?BentFourInTheCornel])
 (;B[aj]
-;W[al]LB[bl:A][bm:C][dm:B]C[Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: httj://senseis.xmp.net/?BentFourInTheCornel])
+;W[al]LB[bl:A][bm:C][dm:B]C[Mesmo que as pretas joguem em A agora, não será Sente, porque B e C são miai. Ver mais em: httj://senseis.xmp.net/?BentFourInTheCornel])
 (;B[bl]
 ;W[aj]
 (;B[ak]
@@ -60,7 +60,7 @@ https://gogameguru.com/]
 ;W[ak]
 ;B[al]
 ;W[bm]
-(;B[fm]C[Some players worry that Black can escape like this. However, unless there's a stone nearby on the bottom side, there's no way to escape. For example...]
+(;B[fm]C[Alguns jogadores temem que as pretas possam escapar assim. No entanto, a menos que haja uma pedra próxima no lado inferior, não há como escapar. Por exemplo...]
 ;W[al]
 ;B[am]
 (;W[cl]
@@ -84,10 +84,10 @@ https://gogameguru.com/]
 ;W[fj]
 ;B[dj]
 ;W[cj]))
-(;W[bl]C[If there's nothing for Black to connect to, White can also just keep extending.]
+(;W[bl]C[Se não houver nada para as Pretas se conectarem, Brancas também podem continuar estendendo.]
 ;B[bm]
-;W[cl]C[White will make as many of these exchanges as Black likes.]))
-(;B[ai]C[Black can't escape like this either. For example...]
+;W[cl]C[As brancas farão tantas trocas quanto as pretas quiserem.]))
+(;B[ai]C[As pretas também não podem escapar assim. Por exemplo...]
 ;W[aj]
 ;B[ah]
 ;W[bg]
