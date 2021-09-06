@@ -1,9 +1,45 @@
-baseURL = "https://baduk.com.br/"
-languageCode = "pt-br"
-title = "Baduk - Aprenda a jogar Go Interativamente"
-
+baseURL = "https://howtoplaygo.net/"
+defaultContentLanguage = 'en'
 enableRobotsTXT = "true"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[languages]
+ 
+  [languages.en]
+    title = 'How To Play Go'
+    weight = 1
+    [languages.en.params]
+      [languages.en.params.classes]
+        name = "Tutorial"
+
+      [languages.en.params.matches]
+        name = "AlphaGo matches"
+      
+      [languages.en.params.theory]
+        name = "More about Go"
+
+      [languages.en.params.tsumego]
+        name = "Go Life and Death Problems"
+      
+      linkedin = 'https://linkedin.com/whoever'
+
+
+  [languages.pt-br]
+    title = 'Aprenda a Jogar Go'
+    weight = 2
+    [languages.pt-br.params]
+      [languages.pt-br.params.classes]
+        name = "Tutorial"
+
+      [languages.pt-br.params.matches]
+        name = "Partidas do AlphaGo"
+      
+      [languages.pt-br.params.theory]
+        name = "Mais sobre Go"
+
+      [languages.pt-br.params.tsumego]
+        name = "Problemas de Go"
+     
 
 [sitemap]
   ChangeFreq = "weekly"
