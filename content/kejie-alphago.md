@@ -8,14 +8,14 @@ menu: "matches"
 weight: 2
 ---
 
-### AlphaGo (pretas) vs Ke Jie (9p) (brancas) - (Jogo #3 - 27/05/2017)
+### AlphaGo (black) vs Ke Jie (9p) (white) - (Match #3 - 27/05/2017)
 
-{{< review sgf="/sgfs/20170527alphagokejie.sgf" description="<a href='/sgfs/20170527alphagokejie.sgf'>Baixar SGF da partida</a>" >}}
+{{< review sgf="/sgfs/20170527alphagokejie.sgf" description="<a href='/sgfs/20170527alphagokejie.sgf'>Download SGF file</a>" >}}
 
-### AlphaGo (pretas) vs Ke Jie (9p) (brancas) - (Jogo #2 - 25/05/2017)
+### AlphaGo (black) vs Ke Jie (9p) (white) - (Match #2 - 25/05/2017)
 
-{{< review sgf="/sgfs/20170525kejiealphago.sgf" description="<a href='/sgfs/20170525kejiealphago.sgf'>Baixar SGF da partida</a>" >}}
+{{< review sgf="/sgfs/20170525kejiealphago.sgf" description="<a href='/sgfs/20170525kejiealphago.sgf'>Download SGF file</a>" >}}
 
-### Ke Jie (9p) (pretas) vs AlphaGo (brancas) - (Jogo #1 - 23/05/2017)
+### Ke Jie (9p) (black) vs AlphaGo (white) - (Match #1 - 23/05/2017)
 
-{{< review sgf="/sgfs/20170523alphagokejie.sgf" description="<a href='/sgfs/20170523alphagokejie.sgf'>Baixar SGF da partida</a>" >}}
+{{< review sgf="/sgfs/20170523alphagokejie.sgf" description="<a href='/sgfs/20170523alphagokejie.sgf'>Download SGF file</a>" >}}

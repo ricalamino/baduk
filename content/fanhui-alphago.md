@@ -8,22 +8,22 @@ menu: "matches"
 weight: 1
 ---
 
-### Jogo #1 - Fan Hui (pretas) x AlphaGo (brancas) - 05/10/2015
+### Match #1 - Fan Hui (black) x AlphaGo (white) - 05/10/2015
 
-{{< review sgf="/sgfs/segunda.sgf" description="<a href='/sgfs/segunda.sgf'>Baixar SGF da partida</a>" >}}
+{{< review sgf="/sgfs/segunda.sgf" description="<a href='/sgfs/segunda.sgf'>Download SGF file</a>" >}}
 
-### Jogo #2 - AlphaGo (pretas) x Fan Hui (brancas) - 06/10/2015
+### Match #2 - AlphaGo (black) x Fan Hui (white) - 06/10/2015
 
-{{< review sgf="/sgfs/terca.sgf" description="<a href='/sgfs/terca.sgf'>Baixar SGF da partida</a>" >}}
+{{< review sgf="/sgfs/terca.sgf" description="<a href='/sgfs/terca.sgf'>Download SGF file</a>" >}}
 
-### Jogo #3 - Fan Hui (pretas) x AlphaGo (brancas) - 07/10/2015
+### Match #3 - Fan Hui (black) x AlphaGo (white) - 07/10/2015
 
-{{< review sgf="/sgfs/quarta.sgf" description="<a href='/sgfs/quarta.sgf'>Baixar SGF da partida</a>" >}}
+{{< review sgf="/sgfs/quarta.sgf" description="<a href='/sgfs/quarta.sgf'>Download SGF file</a>" >}}
 
-### Jogo #4 - AlphaGo (pretas) x Fan Hui (brancas) - 08/10/2015
+### Match #4 - AlphaGo (black) x Fan Hui (white) - 08/10/2015
 
-{{< review sgf="/sgfs/quinta.sgf" description="<a href='/sgfs/quinta.sgf'>Baixar SGF da partida</a>" >}}
+{{< review sgf="/sgfs/quinta.sgf" description="<a href='/sgfs/quinta.sgf'>Download SGF file</a>" >}}
 
-### Jogo #5 - Fan Hui (pretas) x AlphaGo (brancas) - 09/10/2015
+### Match #5 - Fan Hui (black) x AlphaGo (white) - 09/10/2015
 
-{{< review sgf="/sgfs/sexta.sgf" description="<a href='/sgfs/sexta.sgf'>Baixar SGF da partida</a>" >}}
+{{< review sgf="/sgfs/sexta.sgf" description="<a href='/sgfs/sexta.sgf'>Download SGF file</a>" >}}
