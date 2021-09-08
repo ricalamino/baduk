@@ -1,11 +1,12 @@
 ---
-title: "Começando"
+title: "Starting"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "como-comecar"
 next: "problemas-de-36-kyu"
 menu: "main"
 weight: 21
+url: "starting"
 ---
 
 Continued from [previous page](/how-to-start).

@@ -1,27 +1,27 @@
 ---
-title: "Defesa"
+title: "Defense"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "corte"
+previous: "cut"
 next: "um-ponto-acima"
 menu: "main"
 weight: 26
+url: "defense"
 ---
 
-Agora você sabe que pedras conectadas diagonalmente podem ser cortadas pelo oponente. Antes de ser cortado, você pode se defender.
+Now you know that diagonally connected stones can be cut by the opponent. Before being cut, you can defend yourself.
 
-{{< diagram sgf="/sgfs/defesa1.sgf" description="Se o branco joga aqui um corte em F6, duas pedras pedras (F7 e E6) estarão em perigo.</p><p>É por isso que o preto deve jogar a defensivamente antes do corte.</p><p>Este é um movimento de <strong>conexão</strong>.">}} 
+{{< diagram sgf="/sgfs/defesa1.sgf" description="If white plays a cut on F6 here, two stones (F7 and E6) will be in danger.</p><p>That's why black must play defensively before the cut.</p><p>This is a <strong>connection</strong> move.">}}
 
-{{< diagram sgf="/sgfs/defesa2.sgf" description="Aqui, depois de F6, o preto conecta suas pedras com força.</p><p>Isso é uma <strong>conexão direta</strong>. O branco não poderá mais cortá-las.">}} 
+{{< diagram sgf="/sgfs/defesa2.sgf" description="Here, after F6, black connects its stones tightly.</p><p>This is a <strong>direct connection</strong> . White will no longer be able to cut them.">}}
 
-Abaixo, você pode ver uma **conexão indireta**.
+Below you can see an **indirect connection**.
 
 
-{{< freeplay sgf="/sgfs/defesa3.sgf" description="O branco pode, claro, jogar F6 , mas ele será morto instantaneamente com F5 . Por favor, tente analisá-lo no quadro.</p><p>As pedras estão virtualmente conectadas.</p><p>Jogue à vontade no tabuleiro.">}} 
+{{< freeplay sgf="/sgfs/defesa3.sgf" description="White can of course play F6 , but he will be killed instantly with F5 . Please try to analyze him on the board.</p><p >The stones are virtually connected.</p><p>Play freely on the board.">}}
 
-Esses tipos de conexões indiretas são jogadas mais elaboradas do que as conexões diretas.
+These types of indirect connections are played more elaborate than direct connections.
 
-Se você souber exatamente quando deve fazer uma conexão indireta, você não é um mais iniciante, com certeza.
+If you know exactly when to make an indirect connection, you're not a beginner anymore, that's for sure.
 
-{{< freeplay sgf="/sgfs/defesa4.sgf" description="Na figura, as pretas têm dois pontos de corte em E5 e F4.</p><p>Você pode pensar qual deles será cortado... Há um bom movimento o qual defende os dois pontos fracos simultaneamente!</p><p>Por favor, faça um movimento em F5. Agora as brancas não podem jogar nem em E5 nem em F4. Esse é o motivo pelo qual F5 é uma conexão indireta para ambos.</p><p>Por causa da forma, essa conexão é chamada de <strong>conexão trombeta</strong>.">}} 
-
+{{< freeplay sgf="/sgfs/defesa4.sgf" description="In the picture, black has two cutoff points at E5 and F4.</p><p>You may wonder which one will be cut... There is a good move which defends both weak points simultaneously!</p><p>Please make a move in F5. Now White can't play neither in E5 nor in F4. That's why F5 is a indirect connection to both.</p><p>Because of the form, this connection is called a <strong>trumpet connection</strong>.">}}

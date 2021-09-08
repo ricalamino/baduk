@@ -1,31 +1,31 @@
 ---
-title: "Extensão simples"
+title: "Simple extension"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "um-tapa-na-cara"
-next: "aproximando-o-fim-do-jogo"
+previous: "slap-in-the-face"
+next: "end-game-coming"
 menu: "main"
 weight: 30
+url: "simple-extension"
 ---
-
-Mais uma técnica prática necessária em jogos.
-
----
-
-{{< diagram sgf="/sgfs/hanenobi1.sgf" description="Desta vez, você é o atacante.</p><p>Você tocou a pedra branca em E7 e então o branco atacou de volta com F6.</p><p>Qual é o melhor próximo movimento?">}} 
-
-
-{{< diagram sgf="/sgfs/hanenobi2.sgf" description="Quando você se estende da pedra em E6 jogando D6, você fortalece as pedras aumentando sua liberdade de 2 para 4.">}} 
-
-
-{{< diagram sgf="/sgfs/hanenobi3.sgf" description="Você também pode estender em direção à parte inferior como abaixo.</p><p>A direção que você deve estender depende da situação.</p><p>Você não precisa pensar sobre isso por enquanto, mas lembre-se de \"estender\".">}} 
-
-
-{{< diagram sgf="/sgfs/hanenobi4.sgf" description="Se o preto não se estendesse, o que aconteceria?</p><p>Provavelmente, o branco irá atacar a pedra em E6.</p><p>Você deveria ter continuado atacando as brancas depois de jogar E6, tocando E7.">}} 
-
+One more practical technique needed in games.
 
 ---
 
-### É hora de praticar!
+{{< diagram sgf="/sgfs/hanenobi1.sgf" description="This time, you are the attacker.</p><p>You touched the white stone at E7 and then white attacked back with F6.</p><p>What's the best next move?">}}
 
-{{< challenge sgf="/sgfs/hanenobi.sgf" description="Estenda sua pedra depois de levar um tapa na cara.</p><p>Existem duas respostas certas. Encontre as duas!</p><p></p><p>Lembre-se de que um movimento de extensão pode proteger suas pedras.">}} 
+
+{{< diagram sgf="/sgfs/hanenobi2.sgf" description="When you extend from the stone at E6 playing D6, you strengthen the stones increasing their freedom from 2 to 4.">}}
+
+
+{{< diagram sgf="/sgfs/hanenobi3.sgf" description="You can also extend towards the bottom as below.</p><p>The direction you should extend depends on the situation.</p> <p>You don't need to think about it for now, but remember to \"extend\".">}}
+
+
+{{< diagram sgf="/sgfs/hanenobi4.sgf" description="If black didn't extend, what would happen?</p><p>Probably, white will attack the stone at E6.</p> <p>You should have continued attacking White after playing E6, playing E7.">}}
+
+
+---
+
+### It's time to practice!
+
+{{< challenge sgf="/sgfs/hanenobi.sgf" description="Hold out your stone after being slapped in the face.</p><p>There are two right answers. Find them both!</p><p ></p><p>Remember that an extension move can protect your stones.">}}

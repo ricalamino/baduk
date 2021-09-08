@@ -6,6 +6,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [languages]
  
   [languages.en]
+    languageName = 'English'
     title = 'How To Play Go'
     weight = 1
     [languages.en.params]
@@ -25,6 +26,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
   [languages.pt-br]
+    languageName = 'Português'
     title = 'Aprenda a Jogar Go'
     weight = 2
     [languages.pt-br.params]

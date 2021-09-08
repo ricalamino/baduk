@@ -1,21 +1,22 @@
 ---
-title: "Como começar"
+title: "How to start"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "problemas-de-37-kyu"
-next: "comecando"
+next: "starting"
 menu: "main"
 weight: 20
+url: "how-to-start"
 ---
 
-Até agora você pode até já ter entendido como matar as pedras. Entretanto, no começo de um jogo real, você tem que jogar no tabuleiro vazio.
+By now you may have already figured out how to kill the stones. However, at the beginning of a real game, you have to play on the empty board.
 
-O objetivo do Go é cercar o máximo de território possível. No início você tem que tentar cercar território, isto é, espaços vazios.
+The objective of Go is to encircle as much territory as possible. In the beginning you have to try to encircle territory, that is, empty spaces.
 
 
-{{< diagram sgf="/sgfs/comecar-1.sgf" description="Na figura, há dois grupos de pedras pretas: um no canto superior esquerdo e um do lado direito. Cada um deles tem 9 espaços, ou 9 <strong>pontos</strong>.<br />Um grupo branco no meio também tem 9 pontos. Esses espaços completamente cercados por pedras da mesma cor são chamados de <strong>territórios</strong>.<br />Agora, os três grupos acima, cada um deles tem um território de 9 pontos. Conte o número de pedras necessárias para cercar o território.<ul><li>Canto - 6 pedras</li><li>Lado - 9 pedras</li><li>Centro - 12 pedras</li></ul><br />Portanto, você pode cercar territórios nos cantos mais eficientemente, enquanto que territórios no meio são menos eficientes. Assim, no começo do jogo, cada jogador irá tentar cercar os cantos do tabuleiro. Você raramente vê jogadas no centro.">}} 
+{{< diagram sgf="/sgfs/comecar-1.sgf" description="In the figure, there are two groups of black stones: one in the upper left corner and one on the right side. Each of them has 9 spaces, or 9 <strong>dots</strong>.<br />A white group in the middle also has 9. These spaces completely surrounded by stones of the same color are called <strong>territories</strong>.<br />Now the three groups above, each of them has a territory of 9. Count the number of stones needed to encircle the territory.<ul><li>Corner - 6 stones</li><li>Side - 9 stones</li> <li>Center - 12 Stones</li></ul><br />Therefore, you can encircle territories in the corners more efficiently, while territories in the middle are less efficient, so at the beginning of the game, each player will try to surround the corners of the board. You rarely see moves in the center.">}}
 
 ---
-Você pode ver como jogos reais começam num tabuleiro 13x13 logo abaixo.
+You can see how real games start on a 13x13 board below.
 
-{{< review sgf="/sgfs/comecar-2.sgf" description="Primeiro, cada jogador jogou em posições perto de dois cantos. O primeiro movimento das pretas é chamado de <strong>3-3 pontos</strong> (ou <strong>san-san</strong>) pois está localizado na terceira linha vertical e horizantal contando a partir do lado mais próximo. Esse movimento garante uma posição que pode obter o canto.<br />Na próxima jogada, brancas também jogaram um 3-3 pontos. O próximo movimento das pretas e chamado de <strong>4-4 pontos</strong> (ou <strong>hoshi</strong>) onde está marcado com um pequeno círculo preto. Esse ponto pode cercar um canto maior que uma jogada em 3-3 pontos. Entretanto, ele pode ser invadido mais facimente pois tem mais espaços entre ele e o limite do tabuleiro.<br />O quarto movimento das brancas também é muito popular.<br />É claro, você pode jogar em qualquer lugar no tabuleiro se não for um movimento ilegal. Geralmente, um jogo prossegue dos cantos aos lados e eventualmente para o centro. Embora os cantos sejam os melhores lugares para se ganhar território, ninguém faria movimentos como M2 ou N1 pois o ganho seria muito pequeno.">}} 
+{{< review sgf="/sgfs/comecar-2.sgf" description="First, each player played in positions near two corners. Black's first move is called <strong>3-3 points</strong> (or <strong>san-san</strong>) as it is located on the third vertical and horizontal line counting from the nearest side. This move guarantees a position that can get the corner.<br />On the next move, white they also played a 3-3 points. Black's next move is called <strong>4-4 points</strong> (or <strong>hoshi</strong>) where it is marked with a small black circle. encircle a corner bigger than a move in 3-3 points. However, it can be invaded more easily as it has more spaces between it and the edge of the board.<br />White's fourth move is also very popular.<br />Of course, you can play anywhere on the board if it's not an illegal move. Generally, a game proceeds from the corners to the sides and eventually to the center. if corners are the best places to gain territory, no one would make moves like M2 or N1 as the gain would be very small.">}}

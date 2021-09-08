@@ -1,11 +1,12 @@
 ---
-title: "Aproximando-se do fim do jogo"
+title: "End game"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "mais-sobre-pulos"
 next: "use-seu-instinto"
 menu: "main"
 weight: 31
+url: "end-game-coming"
 ---
 When the game comes to an end, and both sides already have their territories defined, all you have to do is delineate the borders of your territory clearly.
 

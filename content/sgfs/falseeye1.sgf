@@ -1,12 +1,12 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[9]KM[0.00]
 AW[dc][ec][fc][cd][gd][ce][ge][cf][hf][dg][hg][dh][eh][fh]AB[dd][ed][de][fe][df][ef][gf][eg][fg]
-(;B[gg]C[[OK\]Voc&ecirc; tem dois olhos reais.])
+(;B[gg]C[[OK\]Você tem dois olhos reais.])
 (;B[fd]
-;W[gg]LB[ff:A]C[O ponto A &eacute; um olho falso.])
+;W[gg]LB[ff:A]C[O ponto A é um olho falso.])
 (;B[ee]
-;W[gg]C[N&atilde;o se esque&ccedil;a de fazer dois olhos.])
+;W[gg]C[Não se esqueça de fazer dois olhos.])
 (;B[ff]
-;W[gg]C[N&atilde;o se esque&ccedil;a de fazer dois olhos.])
+;W[gg]C[Não se esqueça de fazer dois olhos.])
 (;B[]
-;W[gg]LB[ff:A]C[O ponto A &eacute; um olho falso.]))
+;W[gg]LB[ff:A]C[O ponto A é um olho falso.]))

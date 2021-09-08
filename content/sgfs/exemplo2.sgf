@@ -4,76 +4,76 @@ RU[Japanese]SZ[9]KM[0.00]
 ;B[ee]C[Uma jogada no centro pode afetar todos os cantos!]
 ;W[ef]C[Ataque das brancas por contato.]
 ;B[df]C[Preto contra-ataca a pedra do atacante.]
-;W[de]C[Cruzamento das pedras. O branco tamb&eacute;m &eacute; cortado. Uma batalha feroz &eacute; inevit&aacute;vel!]
+;W[de]C[Cruzamento das pedras. O branco também é cortado. Uma batalha feroz é inevitável!]
 ;B[cf]C[Pretas se estendem de um lado para se prepararem para a luta.
 Se o preto agora jogar no D6, pode matar o D5 na escada.]
 ;W[dd]C[Seria muito ruim para o branco.
-Ent&atilde;o, o branco se estende de D5.]
-;B[ed]C[Ataque a duas pedras brancas com refor&ccedil;o simult&acirc;neo E5.]
+Então, o branco se estende de D5.]
+;B[ed]C[Ataque a duas pedras brancas com reforço simultâneo E5.]
 ;W[dc]C[Defesa se estendendo.]
 ;B[ff]C[Atari em E4!]
 ;W[eg]C[Estende em E4.]
 ;B[fg]C[Ainda ataque em 2 pedras brancas.]
 ;W[eh]C[Fuga...]
-;B[ch]C[Cercando tr&ecirc;s pedras brancas do canto inferior esquerdo.]
+;B[ch]C[Cercando três pedras brancas do canto inferior esquerdo.]
 ;W[fe]C[Corte nas pedras pretas.]
 ;B[fd]C[Atari em uma pedra de corte.]
 ;W[ge]C[Fuga....]
 ;B[gd]C[Ataque em seguida]
 ;W[gf]C[Fuga para o canto inferior do tabuleiro.
-A fuga &eacute; tamb&eacute;m um ataque &agrave;s pedras F4 e F3.]
-;B[gg]C[Preta vai &agrave; luta.]
+A fuga é também um ataque às pedras F4 e F3.]
+;B[gg]C[Preta vai à luta.]
 ;W[hg]C[Cercadas!]
 ;B[bd]C[O preto muda o objetivo.
-Agora, cerca suavemente tr&ecirc;s pedras brancas no lado superior esquerdo.
+Agora, cerca suavemente três pedras brancas no lado superior esquerdo.
 Ao mesmo tempo, protege o grupo do lado inferior esquerdo.]
 ;W[fb]C[Branco estende-se para o topo do tabuleiro
 e ataca quatro pedras negras.]
-;B[he]C[Atari em tr&ecirc;s pedras brancas.]
+;B[he]C[Atari em três pedras brancas.]
 ;W[hf]C[Protegendo-se.]
-;B[gb]C[Uma tentativa de criar um territ&oacute;rio na parte superior direita
-com ataque simult&acirc;neo em F8.]
+;B[gb]C[Uma tentativa de criar um território na parte superior direita
+com ataque simultâneo em F8.]
 ;W[fc]C[Defesa F8.
-Mais tarde voc&ecirc; poder&aacute; invadir o G7.]
+Mais tarde você poderá invadir o G7.]
 ;B[gc]C[Bloqueio do buraco no G7.
 Agora o lado superior direito parece preto.]
-;W[bc]C[Branco constr&oacute;i o territ&oacute;rio no canto superior esquerdo.]
+;W[bc]C[Branco constrói o território no canto superior esquerdo.]
 ;B[cc]C[Saltos negros entre duas pedras brancas.]
 ;W[cd]C[O branco ataca o agressor do lado de fora.
 Atari!]
 ;B[cb]C[Pretas invadem o canto.]
 ;W[be]C[Branco quase mata B6.]
 ;B[ec]C[Ataque em F7 e F8.]
-;W[db]C[Branco n&atilde;o pode defend&ecirc;-los por causa de invas&otilde;es da esquerda,
-ent&atilde;o ele desiste de duas pedras, cortando C8 e C7,
+;W[db]C[Branco não pode defendê-los por causa de invasões da esquerda,
+então ele desiste de duas pedras, cortando C8 e C7,
 que invadiram.]
-;B[eb]C[Duas pedras brancas est&atilde;o quase mortas.]
-;W[bb]C[Agora duas pedras pretas est&atilde;o quase mortas.]
+;B[eb]C[Duas pedras brancas estão quase mortas.]
+;W[bb]C[Agora duas pedras pretas estão quase mortas.]
 ;B[bf]C[Protegendo o canto inferior esquerdo.]
 ;W[hd]C[Captura H5.]
-;B[hc]C[Pretas desistem de H5, mas se protegem contra invas&otilde;es futuras.
-Agora H6 est&aacute; em Atari.]
+;B[hc]C[Pretas desistem de H5, mas se protegem contra invasões futuras.
+Agora H6 está em Atari.]
 ;W[ie]C[Captura H5.]
-;B[dh]C[Amplia&ccedil;&atilde;o do territ&oacute;rio inferior esquerdo
-enquanto atacam tr&ecirc;s pedras brancas.]
-;W[ic]C[Branco est&aacute; constantemente tentando invadir o topo.]
-;B[ib]C[Defesa e J7 est&aacute; em Atari.]
-;W[id]C[Conex&atilde;o em J7.]
-;B[ce]C[Ao atacar B5, as pretas for&ccedil;am as brancas a capturar B6.]
+;B[dh]C[Ampliação do território inferior esquerdo
+enquanto atacam três pedras brancas.]
+;W[ic]C[Branco está constantemente tentando invadir o topo.]
+;B[ib]C[Defesa e J7 está em Atari.]
+;W[id]C[Conexão em J7.]
+;B[ce]C[Ao atacar B5, as pretas forçam as brancas a capturar B6.]
 ;W[ad]C[Captura B6.]
 ;B[ei]TR[ff][fg][gg]C[Pretas tentam invadir a direita,
-dando ao mesmo tempo 3 pedras (marcadas com tri&acirc;ngulos).]
-;W[fi]C[Evitando a invas&atilde;o.]
-;B[di]C[Conex&atilde;o em E1.]
-;W[fh]C[Agora, por seguran&ccedil;a, o branco deve matar tr&ecirc;s pedras negras.]
+dando ao mesmo tempo 3 pedras (marcadas com triângulos).]
+;W[fi]C[Evitando a invasão.]
+;B[di]C[Conexão em E1.]
+;W[fh]C[Agora, por segurança, o branco deve matar três pedras negras.]
 ;B[dg]C[O preto continua a atacar cinco pedras brancas.
-Se ele, ent&atilde;o, jogar em G2, ele as mataria.]
-;W[gh]C[Matar tr&ecirc;s pedras garante a vida do grupo.]
+Se ele, então, jogar em G2, ele as mataria.]
+;W[gh]C[Matar três pedras garante a vida do grupo.]
 ;B[af]C[Aumenta o canto inferior esquerdo...]
 ;W[ea]C[Tentativa de salvar duas pedras brancas.]
 ;B[fa]C[Capturando.
-E9 est&aacute; em Atari.]
-;W[da]C[Conex&atilde;o em E9.]
+E9 está em Atari.]
+;W[da]C[Conexão em E9.]
 ;B[ae]C[Atari em B5.]
 ;W[bd]C[Branco se conecta.
 Agora o jogo acabou.])
