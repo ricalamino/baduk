@@ -10,19 +10,24 @@ weight: 12
 
 ### Fazer Dois Olhos
 
-{{< challenge sgf="/sgfs/nigan-iki-1.sgf" description="Capture a pedra branca.<br />Tente fazer sucessivos Ataris conforme as brancas vão tentando escapar.">}} 
+{{< challenge sgf="/sgfs/nigan-iki-1.sgf" description="Agora, as pretas estão completamente cercadas. Qual é a jogada a ser feita?">}} 
 
-{{< challenge sgf="/sgfs/shicho-2.sgf" description="A escada de novo. Infelizmente, é sua vez de escapar.<br />Porém nesse caso, diferente do último, você pode escapar.<br />Boa sorte!">}}
+Embora as pretas tenham 3 espaços no meio, eles são apenas um olho.
+		
+Portanto, você deve fazer dois olhos fazendo uma partição lá.
 
+Se você não fizer, as brancas irão jogar onde as pretas deveriam ter jogado.
 
-Você conseguiu escapar do ataque persistente das brancas?
+{{< challenge sgf="/sgfs/nigan-iki-2.sgf" description="Para esta figura, onde você deve jogar, fazendo uma partição?">}}
 
-Como você pode ver, se há ajuda (na forma de pedras amigas) no caminho, você consegue escapar do ataque pois você pode se estender mais rápido que o atacante.
+<p>Como você pode ver, se seu território é muito pequeno, você terá uma vida difícil.</p>
+    <p> Sempre tente fazer seu território grande o suficiente e não se deixe ser cercado. </p>
+    <p>E o próximo caso?</p>
 
-O que aconteceria depois com o atacante?
+{{< diagram sgf="/sgfs/3-alive.sgf" description="Nesse caso, você não necessita fazer uma partição.<br />Se as brancas fizerem um movimento em <strong>A</strong>, responda a ele com um movimento em <strong>B</strong>.<br />Se as brancas jogarem em <strong>B</strong>, jogue em <strong>A</strong>">}} 
 
-Ele terá uma [vida difícil...](/vida-dificil)
+Portanto, você pode sempre fazer dois olhos mesmo que as brancas tentarem atacar.
 
-Seja cauteloso quando estiver tentando fugir de um ataque no caso da escada.
+Entretanto, se você ignorar o ataque das brancas, elas jogarão em <strong>A</strong> e		<strong>B</strong>.
 
-> Não jogue Go se você não conhece a escada.
+Neste caso, você terá apenas um olho, e certamente estará morto. 
