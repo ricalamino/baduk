@@ -1,28 +1,36 @@
 ---
-title: "Problemas de 44 Kyu"
+title: "44 Kyu Problems"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "fazendo-dois-olhos"
-next: "problemas-de-43-kyu"
+previous: "making-two-eyes"
+next: "43-kyu-problems"
 menu: "main"
 weight: 12
+url: "44-kyu-problems"
 ---
 
-### Fazer Dois Olhos
+### Making two eyes
 
-{{< challenge sgf="/sgfs/nigan-iki-1.sgf" description="Capture a pedra branca.<br />Tente fazer sucessivos Ataris conforme as brancas vão tentando escapar.">}} 
+{{< challenge sgf="/sgfs/nigan-iki-1.sgf" description="Black is now completely surrounded. What's the move?">}}
 
-{{< challenge sgf="/sgfs/shicho-2.sgf" description="A escada de novo. Infelizmente, é sua vez de escapar.<br />Porém nesse caso, diferente do último, você pode escapar.<br />Boa sorte!">}}
+Although black has 3 spaces in the middle, they are just one eye.
 
+So you should make two eyes by making a partition there.
 
-Você conseguiu escapar do ataque persistente das brancas?
+If you don't, White will play where Black should have played.
 
-Como você pode ver, se há ajuda (na forma de pedras amigas) no caminho, você consegue escapar do ataque pois você pode se estender mais rápido que o atacante.
+{{< challenge sgf="/sgfs/nigan-iki-2.sgf" description="For this figure, where should you play, making a partition?">}}
 
-O que aconteceria depois com o atacante?
+As you can see, if your territory is too small, you will have a difficult life.
 
-Ele terá uma [vida difícil...](/vida-dificil)
+Always try to make your territory big enough and don't let yourself be surrounded.
 
-Seja cauteloso quando estiver tentando fugir de um ataque no caso da escada.
+And the next case?
 
-> Não jogue Go se você não conhece a escada.
+{{< diagram sgf="/sgfs/3-alive.sgf" description="In that case, you don't need to make a partition. If White makes a move on A, respond to it with a move on B. If White plays B, play A">}}
+
+So you can always make two eyes even if white tries to attack.
+
+However, if you ignore White's attack, he will play A and B.
+
+In this case, you will only have one eye, and you will surely be dead.

@@ -1,21 +1,22 @@
 ---
-title: "Problemas de 47 kyu - atari duplo"
+title: "47 Kyu Problems - Double Atari"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "um-momento-de-descanso"
-next: "movimentos-ilegais"
+previous: "a-moment-of-rest"
+next: "illegal-moves"
 menu: "main"
 weight: 7
+url: "47-kyu-problems-double-atari"
 ---
 
-### Atari Duplo
+### Double Atari
 
-Em certas posições, as pretas podem fazer dois Ataris simultâneos nas brancas.
+In certain positions, Black can make two simultaneous Ataris on White.
 
-Como as brancas não podem salvar ambos, as pretas conseguem capturar pelo menos uma pedra branca.
+As white cannot save both, black manages to capture at least one white stone.
 
-Isso é chamado de "Atari Duplo".
+This is called "Double Atari".
 
-{{< challenge sgf="/sgfs/ryoatari-1.sgf" description="As brancas têm muitos pontos fracos para conseguir cercar as pretas no canto superior esquerdo.">}} 
+{{< challenge sgf="/sgfs/ryoatari-1.sgf" description="White has too many weaknesses to be able to encircle Black in the upper left corner.">}}
 
-{{< challenge sgf="/sgfs/ryoatari-2.sgf" description="Onde você pode fazer um Atari duplo?">}}
+{{< challenge sgf="/sgfs/ryoatari-2.sgf" description="Where can you make a double Atari?">}}

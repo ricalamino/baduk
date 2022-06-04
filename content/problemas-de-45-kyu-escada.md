@@ -1,32 +1,32 @@
 ---
-title: "Problemas de 45 Kyu - Escada"
+title: "45 Kyu Problems - Ladder"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "problemas-de-46-kyu"
-next: "fazendo-dois-olhos"
+previous: "46-kyu-problems"
+next: "making-two-eyes"
 menu: "main"
 weight: 10
+url: "45-kyu-problems-ladder"
 ---
 
-### Aprendendo a Escada
+### Learning the Ladder
 
-Aqui, você aprenderá a forma chamada de **escada** (às vezes é também conhecido pelo nome japonês **shicho**.)
+Here, you will learn the form called a **Ladder** (it is sometimes also known by the Japanese name **shicho**.)
 
-Você logo perceberá porque isso é chamado assim.
+You will soon realize why it is called that.
 
-{{< challenge sgf="/sgfs/shicho-1.sgf" description="Capture a pedra branca.<br />Tente fazer sucessivos Ataris conforme as brancas vão tentando escapar.">}} 
+{{< challenge sgf="/sgfs/shicho-1.sgf" description="Capture the white stone.<br />Try to make successive Ataris as white tries to escape.">}}
 
-{{< challenge sgf="/sgfs/shicho-2.sgf" description="A escada de novo. Infelizmente, é sua vez de escapar.<br />Porém nesse caso, diferente do último, você pode escapar.<br />Boa sorte!">}}
+{{< challenge sgf="/sgfs/shicho-2.sgf" description="The ladder again. Unfortunately, it's your turn to escape.<br />But in this case, unlike the last one, you can escape.<br />Good luck!">}}
 
+Did you manage to escape White's persistent attack?
 
-Você conseguiu escapar do ataque persistente das brancas?
+As you can see, if there is help (in the form of friendly rocks) along the way, you can evade the attack as you can extend faster than the attacker.
 
-Como você pode ver, se há ajuda (na forma de pedras amigas) no caminho, você consegue escapar do ataque pois você pode se estender mais rápido que o atacante.
+What would happen next with the attacker?
 
-O que aconteceria depois com o atacante?
+He will have a [hard life...](/hard-life)
 
-Ele terá uma [vida difícil...](/vida-dificil)
+Be cautious when trying to evade an attack in the stair case.
 
-Seja cauteloso quando estiver tentando fugir de um ataque no caso da escada.
-
-> Não jogue Go se você não conhece a escada.
+> Don't play Go if you don't know the ladder.

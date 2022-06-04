@@ -10,19 +10,26 @@ weight: 12
 
 ### Fazer Dois Olhos
 
-{{< challenge sgf="/sgfs/nigan-iki-1.sgf" description="Capture a pedra branca.<br />Tente fazer sucessivos Ataris conforme as brancas vão tentando escapar.">}} 
+{{< challenge sgf="/sgfs/nigan-iki-1.sgf" description="Agora, as pretas estão completamente cercadas. Qual é a jogada a ser feita?">}}
 
-{{< challenge sgf="/sgfs/shicho-2.sgf" description="A escada de novo. Infelizmente, é sua vez de escapar.<br />Porém nesse caso, diferente do último, você pode escapar.<br />Boa sorte!">}}
+Embora as pretas tenham 3 espaços no meio, eles são apenas um olho.
 
+Portanto, você deve fazer dois olhos fazendo uma partição lá.
 
-Você conseguiu escapar do ataque persistente das brancas?
+Se você não fizer, as brancas irão jogar onde as pretas deveriam ter jogado.
 
-Como você pode ver, se há ajuda (na forma de pedras amigas) no caminho, você consegue escapar do ataque pois você pode se estender mais rápido que o atacante.
+{{< challenge sgf="/sgfs/nigan-iki-2.sgf" description="Para esta figura, onde você deve jogar, fazendo uma partição?">}}
 
-O que aconteceria depois com o atacante?
+Como você pode ver, se seu território é muito pequeno, você terá uma vida difícil.
 
-Ele terá uma [vida difícil...](/vida-dificil)
+Sempre tente fazer seu território grande o suficiente e não se deixe ser cercado.
 
-Seja cauteloso quando estiver tentando fugir de um ataque no caso da escada.
+E o próximo caso?
 
-> Não jogue Go se você não conhece a escada.
+{{< diagram sgf="/sgfs/3-alive.sgf" description="Nesse caso, você não necessita fazer uma partição. Se as brancas fizerem um movimento em A, responda a ele com um movimento em B. Se as brancas jogarem em B, jogue em A">}}
+
+Portanto, você pode sempre fazer dois olhos mesmo que as brancas tentarem atacar.
+
+Entretanto, se você ignorar o ataque das brancas, elas jogarão em A e B.
+
+Neste caso, você terá apenas um olho, e certamente estará morto.

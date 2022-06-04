@@ -1,31 +1,28 @@
 ---
-title: "Problemas de 46 Kyu"
+title: "46 Kyu Problems"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "movimentos-ilegais"
-next: "problemas-de-45-kyu-escada"
+previous: "illegal-moves"
+next: "45-kyu-problems-ladder"
 menu: "main"
 weight: 9
+url: "46-kyu-problems"
 ---
+Now, you can click on the board again.
 
-Agora, você já pode clicar no tabuleiro de novo.
+{{< challenge sgf="/sgfs/46K-1.sgf" description="It's Black's turn. At first, it looks like it's an illegal move...">}}
 
-{{< challenge sgf="/sgfs/46K-1.sgf" description="É a vez das pretas. Num primeiro momento, parece que é uma jogada ilegal...">}} 
+{{< challenge sgf="/sgfs/46K-2.sgf" description="4 black stones are in danger!<br />Kill the white stones before you die!">}}
 
-{{< challenge sgf="/sgfs/46K-2.sgf" description="4 pedras pretas estão em perigo!<br />Mate as pedras brancas antes de morrer!">}}
-
-{{< challenge sgf="/sgfs/46K-3-2shi.sgf" description="Capture as 2 pedras brancas tocando nas pretas.<br />Aqui, você não consegue capturar as brancas com um movimento apenas.">}}
+{{< challenge sgf="/sgfs/46K-3-2shi.sgf" description="Capture the 2 white stones by touching the black ones.<br />Here, you cannot capture the white ones in one move.">}}
 
 
-{{< challenge sgf="/sgfs/46K-4-kake.sgf" description="Se você consegue capturar a pedra branca (<strong>A</strong>) que está separando as pretas, será um jogo fácil.<br />[Dica] Não tente atacar o inimigo diretamente.">}}
-
+{{< challenge sgf="/sgfs/46K-4-kake.sgf" description="If you can capture the white stone (<strong>A</strong>) that is separating black, it will be an easy game.< br />[Tip] Don't try to attack the enemy directly.">}}
 ---
+### Why do we have to capture the opponent's stones?
 
-### Por que temos que capturar as pedras do oponente?
+Because **when removing the opponent's stones that are separating yours, your stones that were divided can be connected.**
 
-Pois **ao remover as pedras do oponente que estão separando as suas, suas pedras que estavam divididas podem ser conectadas.**
+This is a very important aspect of Go.
 
-Esse é um aspecto muito importante no Go.
-
-**Apenas se lembre de jogar de modo que todas as suas pedras estejam conectadas umas as outras quando puder.**
-
+**Just remember to play so that all your tiles are connected to each other when you can.**

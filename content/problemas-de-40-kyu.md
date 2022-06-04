@@ -1,25 +1,26 @@
 ---
-title: "Problemas de 40 Kyu"
+title: "40 Kyu Problems"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "ko-eternidade"
-next: "problemas-de-39-kyu"
+previous: "ko-eternity"
+next: "39-kyu-problems"
 menu: "main"
 weight: 16
+url: "40-kyu-problems"
 ---
 
-Quando você é de 40 Kyu, você necessita resolver problemas que são um pouco mais difíceis.
+When you are 40 Kyu, you need to solve problems that are a little more difficult.
 
-Boa sorte!
+Good luck!
 
-{{< challenge sgf="/sgfs/tsuru.sgf" description="Capture as 3 pedras brancas.">}} 
+{{< challenge sgf="/sgfs/tsuru.sgf" description="Capture the 3 white stones.">}}
 
-Esse formato é conhecido como "Ave no Ninho" no Japão.
+This format is known as "Bird in the Nest" in Japan.
 
-É muito interessante quando você faz isso em jogos reais!
+It's very interesting when you do it in real games!
 
 
-{{< challenge sgf="/sgfs/nigan.sgf" description="As pretas estão cercadas ou cercando???<br />Todas as pedras pretas irão desaparecer com mais 2 movimentos das brancas.<br />Antes que isso aconteça, mate as brancas.">}} 
+{{< challenge sgf="/sgfs/nigan.sgf" description="Is Black surrounded or surrounding???<br />All the black stones will disappear with 2 more moves of the white ones.<br />Before that happens, kill white.">}}
 
-Esse problema é um tipo de [Semeai](/problemas-de-43-kyu).
+This problem is a kind of [Semeai](/43-kyu-problems).
 

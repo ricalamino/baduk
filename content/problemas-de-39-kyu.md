@@ -1,26 +1,27 @@
 ---
-title: "Problemas de 39 Kyu"
+title: "39 Kyu Problems"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "problemas-de-40-kyu"
-next: "problemas-de-38-kyu-luta-no-canto"
+previous: "40-kyu-problems"
+next: "38-kyu-problems-corner-fight"
 menu: "main"
 weight: 17
+url: "39-kyu-problems"
 ---
 
-Se, por azar, um grupo de pedras suas for cercado, tente formar um território com elas.
+If, by chance, a group of your stones is surrounded, try to form a territory with them.
 
-Ou seja, tente fazer dois olhos.
+That is, try to make two eyes.
 
-Se você ainda não entende o conceito de dois olhos, [clique aqui](/fazendo-dois-olhos).
+If you still don't understand the concept of two eyes, [click here](/making-two-eyes).
 
-{{< freeplay sgf="/sgfs/falseeye0.sgf" description="Aqui você aprenderá o conceito de um <strong>olho falso</strong> - parece ser um olho mas não é.<br />Na figura, o grupo preto tem dois olhos?<br />Há um olho em F5.<br />D5 parece ser um outro olho pois está cercado por 4 pedras pretas.<br />Entretanto, ele <strong>não</strong> é um olho pois C5 está em Atari e você tem que conectar em D5.<br />Portanto você só tem um olho - o que significa morte.<br />Nós chamamos um olho como o D5 de um <strong>olho falso</strong>.<br />Jogue livremente para explorar as possibilidades.">}} 
+{{< freeplay sgf="/sgfs/falseeye0.sgf" description="Here you'll learn the concept of a <strong>false eye</strong> - it looks like an eye but it's not.<br />In the picture, does the black group have two eyes?<br />There is an eye at F5.< br />D5 appears to be another eye as it is surrounded by 4 black stones.<br />However, it is <strong>not</strong> an eye as C5 is in Atari and you have to connect it to D5.<br /> />So you only have one eye - which means death.<br />We call an eye like D5 a <strong>false eye</strong>.<br />Play freely to explore the possibilities.">}} 
 
-{{< challenge sgf="/sgfs/falseeye1.sgf" description="Tente não fazer um olho falso.">}} 
+{{< challenge sgf="/sgfs/falseeye1.sgf" description="Try not to make a false eye.">}}
 
-{{< challenge sgf="/sgfs/falseeye2.sgf" description="Ambos os olhos ainda não estão muito claros.">}} 
+{{< challenge sgf="/sgfs/falseeye2.sgf" description="Both eyes are still not very clear.">}}
 
-{{< challenge sgf="/sgfs/falseeye3.sgf" description="Preta está quase cercada.<br />Tente viver nessa situação.">}} 
+{{< challenge sgf="/sgfs/falseeye3.sgf" description="Black is almost surrounded.<br />Try to live in this situation.">}}
 
-Para iniciantes, pode ser muito difícil saber se um olho é verdadeiro ou é falso.
+For beginners, it can be very difficult to know if an eye is real or fake.
 
