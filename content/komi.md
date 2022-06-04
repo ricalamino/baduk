@@ -10,62 +10,62 @@ weight: 34
 
 ### Komi
 
-Em jogos normais, as pretas sempre jogam primeiro.
+In normal games, Black always plays first.
 
-Portanto, **as pretas têm uma pequena vantagem** sobre as brancas.
+Therefore, **Black has a slight advantage** over White.
 
-Para compensar, as brancas às vezes recebem alguns pontos de bônus chamados de **Komi**, ao contar o território no fim do jogo.
+To compensate, White sometimes gets some bonus points called **Komi**, when counting the territory at the end of the game.
 
-Esse bônus é normalmente **6.5 pontos**. Isso significa que o valordo primeiro movimento é considerado com sendo de aproximadamente 6 pontos e meio.
+This bonus is normally **6.5 points**. This means that the value of the first move is considered to be approximately 6 and a half points.
 
-O meio ponto adicional é colocado para evitar empate.
+The additional half point is placed to avoid a tie.
 
-Por exemplo, se as pretas têm 7 territórios a mais que as brancas, as pretas ganham por 0,5 ponto.
+For example, if Black has 7 more territories than White, Black wins by 0.5 point.
 
-Se as pretas têm 6 pontos a mais, as brancas ganham por 0,5 ponto.
+If Black has 6 points more, White wins by 0.5 point.
 
-Antigamente não havia o sistema de Komi. Como as pessoas foram percebendo a ligeira vantagem das pretas, Komi foi sendo introduzido.
+In the past, there was no Komi system. As people became aware of Black's slight advantage, Komi was introduced.
 
-A pontuação do Komi tem mudado ao longo do tempo. Quando ele foi introduzido nos jogos Profissionais Japoneses, ele era de 4,5 pontos.
+Komi's score has changed over time. When he was inducted into the Japanese Professional games, he was 4.5 points.
 
-Entretanto, as pretas ainda tinham maior chance de ganhar, então Komi foi aumentado para 5,5 pontos e, mais atualmente, para 6,5.
+However, Black still had a better chance of winning, so Komi was raised to 5.5 points, and more recently to 6.5.
 
-Com o sistema de Komi, **Go quase não tem mais empates** e se tornou um jogo mais emocionante e justo.
+With Komi's system, **Go has almost no more ties** and has become a more exciting and fair game.
 
-Se quiser mais informações sobre Komi, [entre aqui no site Sensei's Library](https://senseis.xmp.net/?Komi), uma referência para o Go.
+If you want more information about Komi, [enter Sensei's Library here](https://senseis.xmp.net/?Komi), a reference for Go.
 
 ---
 
-### O Handicap
+### The Handicap
 
-Quando a habilidade dos dois jogadores é diferente, o mais fraco coloca algum número de peças no tabuleiro antes de começar o jogo. Isso é chamado de "**handicap**".
+When the skill of the two players is different, the weaker one places some number of pieces on the board before starting the game. This is called a "**handicap**".
 
-Em jogos com handicap, **o mais fraco joga com as pretas**.
+In handicap games, **the weakest plays Black**.
 
-As pretas jogam as pedras do handicap nos pontos marcados e então as brancas fazem o primeiro movimento.
+Black plays the handicap stones at the points scored and then White makes the first move.
 
-O núemro de pedras no handicap reflete a diferença dos dois jogadores.
+The number of stones in the handicap reflects the difference between the two players.
 
-Se o mais fraco é 5 Kyu e o mais forte é 2 Kyu, 3 handicaps seriam usados
+If the weakest is 5 Kyu and the strongest is 2 Kyu, 3 handicaps would be used
 
-Com as pedras de handicap, as preta têm vantagem sobre todos os aspectos do jogo - ataque, defesa, cerco de territórios, etc.
+With handicap stones, Black has an advantage over all aspects of the game - offense, defense, siege of territories, etc.
 
-Dizem que **uma pedra de handicap é equivalente a 10 pontos** de territórios.
+It is said that **one handicap stone is equivalent to 10 points** of territories.
 
-Portanto, se você jogasse um jogo comigo e perdesse por 50 pontos, um handicap de 5 pedras seria apropriado para que ficássemos com as mesmas chances de ganhar.
+So if you were to play a game with me and lose by 50 points, a 5 stone handicap would be appropriate so that we have the same odds of winning.
 
-A posição das pedras do handicap é convencionamente especificada abaixo.
+The position of handicap stones is conventionally specified below.
 
 
-{{< diagram sgf="/sgfs/komi1.sgf" description="Handicap de 9">}} 
+{{< diagram sgf="/sgfs/komi1.sgf" description="Handicap 9">}} 
 
-{{< diagram sgf="/sgfs/komi2.sgf" description="Handicap de 6">}} 
+{{< diagram sgf="/sgfs/komi2.sgf" description="Handicap 6">}} 
 
-{{< diagram sgf="/sgfs/komi3.sgf" description="Handicap de 5">}} 
+{{< diagram sgf="/sgfs/komi3.sgf" description="Handicap 5">}} 
 
-{{< diagram sgf="/sgfs/komi4.sgf" description="Handicap de 4">}} 
+{{< diagram sgf="/sgfs/komi4.sgf" description="Handicap 4">}} 
 
-Em todos os casos, as pedras de handicap são colocadas nos **pontos 4-4 (pontos de estrela)** os quais estão marcados com pequenos círculos pretos. Entretanto, você pode ter mais de 9 pedras de handicap colocando-as em quaisquer outros lugares.
+In all cases, handicap stones are placed on **points 4-4 (star points)** which are marked with small black circles. However, you can have more than 9 handicap stones by placing them anywhere else.
 
-Num jogo com handicap, **todos podem se divertir jogando Go com a mesma chance de ganhar não importando a diferença de habilidade entre os jogadores**, sem alterar as regras.
+In a handicap game, **everyone can have fun playing Go with the same chance of winning no matter the skill difference between the players**, without changing the rules.
 

@@ -1,16 +1,17 @@
 ---
-title: "Mais sobre pulos"
+title: "More about jumps"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "um-ponto-acima"
 next: "um-tapa-na-cara"
 menu: "main"
 weight: 28
+url: "more-about-jumps"
 ---
 
-{{< diagram sgf="/sgfs/maispulos1.sgf" description="Esse é chamado de <strong>Dois Pontos Acima</strong> (ou <strong>Niken tobi</strong>).</p><p>Embora ele lhe dará <strong>maior influência</strong> sobre o tabuleiro, ele é mais fácil de ser cortado pelo inimigo já que há um espaço maior entre as pedras.</p><p>Há também o <strong>Três Pontos Acima<strong> e </strong>Quatro Pontos Acima</strong>.</p><p>Esses grandes pulos são freqüentemente usados como movimentos no início da partida.">}} 
+{{< diagram sgf="/sgfs/maispulos1.sgf" description="This one is called <strong>Two Points Up</strong> (or <strong>Niken tobi</strong>).</p><p>Although it will give you <strong>greater influence</strong> over the board , it is easier to be cut by the enemy since there is a larger space between the stones.</p><p>There is also the <strong>Three Stitches Up<strong> and </strong>Four Stitches Up</strong >.</p><p>These big jumps are often used as early game moves.">}} 
 
-{{< diagram sgf="/sgfs/maispulos2.sgf" description="Esse pulo é chamado de <strong>Jogada de Cavalo (Keima)</strong> como no xadrez.</p><p>Jogadas de Cavalo são freqüentemente usados para cercar território nos cantos como está mostrado à esquerda.">}} 
+{{< diagram sgf="/sgfs/maispulos2.sgf" description="This jump is called a <strong>Keima (Keima) move</strong> as in chess.</p><p>Knight moves are often used to enclose territory in the corners as shown on the left.">}} 
 
-{{< diagram sgf="/sgfs/maispulos3.sgf" description="Esse é chamado de <strong>Kosumi</strong> - um movimento diagonal.</p><p>As duas pedras estão virtualmente conectadas mas é um pouco <strong>lento</strong> pois a extensão de território cercado a partir da primeira pedra é menor que a do caso anterior.">}} 
+{{< diagram sgf="/sgfs/maispulos3.sgf" description="This is called a <strong>Kosumi</strong> - a diagonal move.</p><p>The two stones are virtually connected but it is a little <strong>slow</strong> as the extension of the fenced off of the first stone is smaller than that of the previous case.">}} 
 

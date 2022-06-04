@@ -6,56 +6,57 @@ previous: "use-seu-instinto"
 next: "komi"
 menu: "main"
 weight: 33
+url: "example-games"
 ---
-No tabuleiro abaixo, você pode ver um jogo real do primeiro movimento ao último.
+On the board below, you can see a real game from the first move to the last.
 
-Clicando no botão **">"**, você pode avançar um movimento com a sua explicação.
+By clicking the **">"** button, you can advance one move with your explanation.
 
-Fique apertando até que páre de avançar.
+Keep pressing until it stops advancing.
 
-Esse é um jogo num tabuleiro 9 x 9.
+This is a game on a 9 x 9 board.
 
 
 
 {{< review sgf="/sgfs/exemplo1.sgf" description="">}} 
 
-No fim as pretas têm 28 pontos e as brancas fizeram 24 pontos.
+In the end, Black has 28 points and White has 24 points.
 
-Mas como você pode ver as pedras **capturadas (Capturas)** são: 1 pedra branca foi capturada portanto o território das brancas é diminuído de um ponto.
+But as you can see the **captured (Captures)** stones are: 1 white stone has been captured so white's territory is decreased by one point.
 
-Assim, as pretas ganharam por 5 pontos.
+Thus, Black won by 5 points.
 
-Nesse jogo, as pretas controlaram o canto esquerdo e as brancas o lado direito amistosamente, sem muita agressividade, do início até o fim do jogo.
+In this game, Black controlled the left corner and White the right side amicably, without much aggression, from the beginning to the end of the game.
 
 ---
 
-O próximo jogo é bem mais emocionante!
+The next game is much more exciting!
 
 
 {{< review sgf="/sgfs/exemplo2.sgf" description="">}} 
 
-Não se preocupe se você não esteja entendendo o que está acontecendo.
+Don't worry if you don't understand what's going on.
 
-No primeiro jogo, ambos os jogadores tentaram cercar os espaços vagos compartilhando territórios.
+In the first game, both players tried to surround the vacant spaces by sharing territories.
 
-Nesse último jogo, a partir do quarto movimento das brancas - o corte - ambos tentaram capturar as pedras do oponente.
+In this last game, from White's fourth move - the cut - both tried to capture the opponent's stones.
 
-Finalmente, as pretas ocuparam o canto superior direito e o inferior esquerdo, e as brancas obtiveram o inferior direito e o superior esquerdo.
+Finally, black occupied the upper right and lower left corners, and white got the lower right and upper left.
 
-Brancas têm 18 pontos e pretas 14 pontos.
+White has 18 points and Black has 14 points.
 
-Além disso, as pretas capturaram 2 pedras brancas enquanto que as brancas mataram 7 pedras pretas.
+Also, black captured 2 white stones while white killed 7 black stones.
 
-Note que as 2 pedras pretas no canto superior esquerdo estão mortas pois não há como escapar da posição em que estão e estarão certamente mortas.
+Note that the 2 black stones in the upper left corner are dead as there is no way to escape the position they are in and they will certainly be dead.
 
-As brancas não tem que se incomodar em pegar essas duas jogando em **C9**.
+White doesn't have to bother catching these two playing on **C9**.
 
-Entretanto, quando o jogo acaba, as brancas podem tirá-las do tabuleiro e adicioná-las as pedras capturadas.
+However, when the game is over, White can take them off the board and add them to the captured stones.
 
-O resultado final é:
+The end result is:
 
-- Pretas : 14 - 7 = 7 pontos
-- Brancas: 18 - 2 = 16 pontos
+- Black : 14 - 7 = 7 points
+- White: 18 - 2 = 16 points
 
-Desse modo, as brancas venceram por 9 pontos.
+Thus, White won by 9 points.
 

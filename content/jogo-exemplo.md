@@ -5,18 +5,19 @@ draft: false
 previous: "tecnicas-basicas"
 menu: "theory"
 weight: 5
+url: "example-game"
 ---
 
 {{< review sgf="/sgfs/jogo.sgf" description="">}} 
 
 
-### Quase o fim do jogo
+### Almost the end of the game
 
-{{< diagram sgf="/sgfs/jogofim1.sgf" description="O diagrama mostra a partida após os jogadores cessarem as jogadas.</p><p>Vemos os pontos neutros de território (1,2,3,4). Eles podem ser preenchidos tanto pelas pretas quanto pelas brancas (peças <strong>não</strong> participantes do jogo).</p><p>As peças marcadas com triângulos são peças mortas (sem chance de formar território sólido). Elas são retiradas do tabuleiro e colocadas junto com as capturadas.">}} 
+{{< diagram sgf="/sgfs/jogofim1.sgf" description="The diagram shows the game after the players have stopped playing.</p><p>We see the neutral territory points (1,2,3,4). They can be filled by either black or white (<strong>non</strong> pieces participating in the game).</p><p>The pieces marked with triangles are dead pieces (no chance of forming solid territory). They are removed from the board and placed together with captured ones.">}} 
 
-{{< diagram sgf="/sgfs/jogofim2.sgf" description="Peças removidas e espaços neutros preenchidos">}} 
+{{< diagram sgf="/sgfs/jogofim2.sgf" description="Pieces removed and neutral spaces filled">}} 
 
-### Fim do jogo
+### End of the game
 
-{{< diagram sgf="/sgfs/jogofim3.sgf" description="As peças que estão no tabuleiro são rearranjadas para facilitar a contagem.</p><p>As peças capturadas são colocadas no território de mesma cor, também para facilitar a contagem final.</p><p>Agora basta contar as intersecções que não estão preenchidas por peças. Se não se lembra, <a href='/fim-do-jogo'>veja aqui</a> como contar.</p><p>E, finalmente, <strong>pretas vencem por 20 a 16</strong>.">}} 
+{{< diagram sgf="/sgfs/jogofim3.sgf" description="The pieces that are on the board are rearranged to facilitate counting.</p><p>The captured pieces are placed on the territory of the same color, also to facilitate the final count.</p><p>Now just count the intersections that are not filled by parts. If you don't remember, <a href='/game over'>see here</a> how to count.</p><p>And finally, <strong>Black wins by 20 to 16</strong >.">}} 
 

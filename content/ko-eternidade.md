@@ -1,59 +1,59 @@
 ---
-title: "Ko (eternidade)"
+title: "Ko (eternity)"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "problemas-de-42-kyu"
 next: "problemas-de-40-kyu"
 menu: "main"
 weight: 15
+url: "ko-eternity"
+---
+Now, I will describe the additional rule called **Ko** - which means eternity in Japanese.
+
+That's the last rule to remember. If you read this page, you will have understood all the rules of Go.
+
+The concept of Ko is a little more difficult than the previously described rules.
+
+Good luck!
+
+{{< freeplay sgf="/sgfs/ko-1.sgf" description="A white stone is in Atari. <strong>Capture it</strong><br />Have you captured it? Now look carefully at the board.<br />You'll see that the black stone F6 just landed on Atari!<br />It might look like white could capture it, but...<br />What happens if the will white play on E6?<br />It will result in the same position on the board as it started.<br />In other words, both black and white would capture each other forever!<br /><strong>Therefore, the moves that produce the same position on the board are prohibited.</strong><br />This is the concept of <strong>Ko (eternity)</strong>.<br />On the board above, you can also make moves for white. Then, try to get the black stone in the middle.<br />You will see the message - <strong>Illegal move - KO</strong>.">}} 
+
+Will white never be able to capture that black stone again?
+
+They will. But they need to play somewhere else first.
+
+Thus, this will cause a different board position. Therefore, **you can recapture the Ko stone once you play elsewhere first.**
+
+Make a move wherever you want for White on the board below.
+
+And also make a move with Black as well.
+Now it's white's turn. They can now get the black stone back.
+
+Confirm it yourself on the board above.
+
+Now it's Black's turn. However, they cannot capture the white stone immediately.
+
+Confirm yourself on the board. You will see the message again - **Illegal play - KO**.
+
+They can capture the white stone if they make moves elsewhere like the white ones did.
+
+On the board above, you can make moves for both white and black.
+
+Try to understand the concept of Ko's rule by playing it.
+
+You can undo your moves by pressing the **Back** button.
+
 ---
 
-Agora, eu irei descrever a regra adicional chamada de **Ko** - que significa eternidade em japonês.
+### How does Ko appear in a real game?
 
-Essa é a última regra para lembrar. Se você ler esta página, você terá entendido todas as regras de Go.
+{{< freeplay sgf="/sgfs/ko-2.sgf" description="Look at the diagram. Five black stones at the top of the board are about to die.<br />First, capture a white stone playing on E8.<br />Now the Ko battle has begun!<br />Five white stones are in danger and they can't capture the black stone playing on D8 because we're in a case of Ko.<br />So they play somewhere where black can't ignore like E2.<br />How 8 black stones will be captured if this is ignored, Black plays on E1.<br />Now, White can capture the Ko stone back by playing on D8.<br />So, Black will play in a place where White cannot ignore, like for example B4. If White responds A4, Black can capture the Ko stones again by playing on E8<br />We call this a <strong>Ko battle</strong>.">}} 
 
-O conceito de Ko é um pouco mais difícil que as regras anteriormente descritas.
+The most important thing is: to win a Ko battle, find a threat - a place where you can win big with 2 successive moves. If the opponent doesn't allow it, Ko's battle continues. If he ignores the threat, you can make two successive moves while he gains the Ko.
 
-Boa sorte!
+Ko is difficult as a Ko battle involves a lot of strategic moves across the board.
 
-{{< freeplay sgf="/sgfs/ko-1.sgf" description="Uma pedra branca está em Atari. <strong>Capture-a</strong><br />Já a capturou? Agora olhe cuidadosamente o tabuleiro.<br />Você verá que a pedra preta F6 acabou de ficar em Atari!<br />Poderia parecer que as brancas poderiam capturá-la, mas...<br />O que acontecerá se as brancas jogarem em E6?<br />Resultará na mesma posição do tabuleiro do início.<br />Ou seja, ambas pretas e brancas iriam se capturar para sempre!<br /><strong>Portanto, os movimentos que produzem a mesma posição no tabuleiro são proibidas.</strong><br />Esse é o conceito do <strong>Ko (eternidade)</strong>.<br />No tabuleiro acima, você pode também fazer os movimentos pelas brancas. Então, tente pegar a pedra preta do meio..<br />Você verá a mensagem - <strong>Jogada ilegal - KO</strong>.">}} 
+For starters, **just remember that moves that produce the same position on the board are prohibited.**
+That's it. The Ko rule does not allow situations like this to happen.
 
-Nunca mais as brancas poderão capturar aquela pedra preta?
-
-Elas poderão. Porém elas precisam antes jogar em outro lugar.
-
-Assim, isso ocasionará uma posição no tabuleiro diferente. Portanto, **você pode recapturar a pedra do Ko uma vez que você jogue em outro lugar primeiro.**
-
-Faça um movimento aonde você quiser para as brancas no tabuleiro abaixo.
-
-E faça também um movimento com as pretas também.
-Agora é a vez das brancas. Elas podem agora pegar a pedra preta de volta.
-
-Confirme você mesmo no tabuleiro acima.
-
-Agora é a vez das pretas. Entretanto elas não podem capturar a pedra branca imediatamente.
-
-Confirme você mesmo no tabuleiro. Você verá de novo a mensagem - **Jogada ilegal - KO**.
-
-Elas podem capturar a pedra branca se elas fizerem movimentos em outros lugares como as brancas fizeram.
-
-No tabuleiro acima, você pode fazer movimentos pelas brancas e pelas pretas.
-
-Tente entender o conceito da regra do Ko jogando nele.
-
-Você pode desfazer seus movimentos pressionando o botão **Voltar**.
-
----
-
-### Como o Ko aparece num jogo real?
-
-{{< freeplay sgf="/sgfs/ko-2.sgf" description="Olhe o diagrama. Cinco pedras pretas na parte de cima do tabuleiro estão prestes a morrer.<br />Primeiro, capture uma pedra branca jogando em E8.<br />Agora, a batalha do Ko começou!<br />Cinco pedras brancas estão em perigo e elas não podem capturar a pedra preta jogando em D8 porque estamos num caso de Ko.<br />Então, elas jogam em algum lugar onde as pretas não podem ignorar como por exemplo E2.<br />Como 8 pedras pretas serão capturadas se isso for ignorado, as pretas jogam em E1.<br />Agora, as brancas podem capturar a pedra do Ko de volta jogando em D8.<br />Então, as pretas irão jogar num lugar onde as brancas não podem ignorar, como por exemplo B4. Se as brancas responderemem A4, as pretas podem capturar as pedras do Ko de novo jogando em E8<br />Nós chamamos isso de uma <strong>batalha de Ko</strong>.">}} 
-
-A coisa mais importante é: para ganhar uma batalha de Ko, ache uma ameaça - um lugar onde você pode ganhar muito com 2 movimentos sucessivos. Se o oponente não permitir, a batalha de Ko continua. Se ele ignorar a ameaça, você pode fazer dois movimentos sucessivos enquanto ele ganha o Ko.
-
-Ko é difícil pois uma batalha de Ko envolve muitos movimentos estratégicos no tabuleiro todo.
-
-Para os iniciantes, **apenas se lembre que movimentos que produzem a mesma posição no tabuleiro são proibidos.**
-É isso. A regra do Ko, não permite que situações como essa aconteçam.
-
-Ko não é apenas uma regra restritiva do Go, mas sim uma emoção a mais numa partida.
+Ko is not just a restrictive rule of Go, but an extra emotion in a game.
