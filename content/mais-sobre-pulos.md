@@ -2,8 +2,8 @@
 title: "More about jumps"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "um-ponto-acima"
-next: "um-tapa-na-cara"
+previous: "one-point-jump"
+next: "a-slap-in-the-face"
 menu: "main"
 weight: 28
 url: "more-about-jumps"

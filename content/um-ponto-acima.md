@@ -1,24 +1,24 @@
 ---
-title: "Um ponto acima"
+title: "One point jump"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "defesa"
-next: "mais-sobre-pulos"
+previous: "defence"
+next: "more-about-jumps"
 menu: "main"
 weight: 27
+url: "one-point-jump"
 ---
+Here, you will learn how to play when white and black stones are not directly attacking each other.
 
-Aqui, você aprenderá como jogar quando as pedras brancas e as pretas não estão diretamente atacando umas as outras
+This is the time for you to make moves that strengthen your position, preparing for a future war or even taking some territory.
 
-Essa é a hora de você fazer movimentos que fortaleçam sua posição, preparando-se para uma futura guerra ou ainda fazendo algum território.
+{{< diagram sgf="/sgfs/acima1.sgf" description="This move (D5) is called <strong>One Point Up</strong> (or <strong>Ikken tobi</strong>).</p ><p>The jump move for D5 is almost connected to D3. Therefore, such a move can be used in many ways such as attack, defense or escape.">}}
 
-{{< diagram sgf="/sgfs/acima1.sgf" description="Esse movimento ( D5) é chamado <strong>Um Ponto Acima</strong> (ou <strong>Ikken tobi</strong>).</p><p>O movimento de pulo para D5 está quase conectado ao D3. Portanto, tal movimento pode ser usado de muitas maneiras como ataque, defesa ou fuga.">}} 
+> No One Point Up move is a bad move.
 
-> Nenhum movimento de Um Ponto Acima é um mau movimento.
+> Do One Point Up if you have no idea where to play.
 
-> Faça o Um Ponto Acima se você não tem a menor ideia de onde jogar.
+{{< diagram sgf="/sgfs/acima2.sgf" description="If White plays very close to his position, the One Point Up is well recommended.</p><p>This move defends your C3 stone while you increases your territory on the left.">}}
 
-{{< diagram sgf="/sgfs/acima2.sgf" description="Se a branca jogar bem perto de sua posição, o Um Ponto Acima é bem recomendado.</p><p>Esse movimento defende sua pedra C3 enquanto você aumenta o seu território à esquerda.">}} 
-
-{{< diagram sgf="/sgfs/acima3.sgf" description="Se você ignorar o movimento de aproximação da branca E3 e jogar em lugares irrelevantes como G7, sua pedra C3 pode ser atacada de ambos os lados.">}} 
+{{< diagram sgf="/sgfs/acima3.sgf" description="If you ignore White's approach move E3 and play in irrelevant places like G7, your C3 stone can be attacked from both sides.">}}
 

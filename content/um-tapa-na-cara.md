@@ -1,33 +1,33 @@
 ---
-title: "Um tapa na cara"
+title: "A slap in the face"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "mais-sobre-pulos"
-next: "extensao-simples"
+previous: "more-about-jumps"
+next: "simple-extension"
 menu: "main"
 weight: 29
+url: "a-slap-in-the-face"
 ---
-
-Aqui, você aprenderá algumas técnicas práticas necessárias para iniciar um jogo real.
-
----
-
-
-{{< diagram sgf="/sgfs/tsukehane1.sgf" description="Você joga com as Pretas, como sempre.</p><p>As brancas colocam uma pedra E4 muito perto de você - este movimento é chamado de \"<strong>toque</strong>\".</p><p>Como você deve responder ao toque?">}} 
-
-
-
-{{< diagram sgf="/sgfs/tsukehane2.sgf" description="Neste caso, o movimento do preto F4 mostrado abaixo é bom.</p><p>Este movimento diminui a liberdade da pedra branca de 3 para 2.</p><p>É quase como se o preto estivesse dando um tapa na cara do branco.</p><p>Ataque o atacante!">}} 
-
-
-{{< diagram sgf="/sgfs/tsukehane3.sgf" description="Continuando o diagrama de cima, se o branco jogou em outro lugar como E7, o preto pode continuar atacando a pedra branca como abaixo. Agora a pedra E4 está no Atari - com mais um movimento, você pode capturá-la.">}} 
+Here, you will learn some practical techniques needed to start a real game.
 
 ---
 
-{{< diagram sgf="/sgfs/tsukehane4.sgf" description="Continuando a partir da primeira figura, se o preto não responder ao toque do branco e jogar em outro lugar como F7, como o branco jogaria?</p><p>O branco continuará atacando dando um tapa na cara do preto.</p><p>Você consegue ver que E3 preto está com problemas?">}} 
+
+{{< diagram sgf="/sgfs/tsukehane1.sgf" description="You play Black, as usual.</p><p>White places an E4 stone very close to you - this move is called \"<strong>touch</strong>\".</p><p>How should you respond to touch?">}}
+
+
+
+{{< diagram sgf="/sgfs/tsukehane2.sgf" description="In this case, Black's F4 move shown below is good.</p><p>This move decreases White's freedom from 3 to 2. </p><p>It's almost as if black is slapping white in the face.</p><p>Attack the attacker!">}}
+
+
+{{< diagram sgf="/sgfs/tsukehane3.sgf" description="Continuing the diagram above, if white played elsewhere like E7, black can continue attacking the white stone as below. Now the E4 stone is on the Atari - with one more move, you can capture her.">}}
 
 ---
 
-### É hora de praticar!
+{{< diagram sgf="/sgfs/tsukehane4.sgf" description="Continuing from the first figure, if black doesn't respond to white's touch and plays elsewhere like F7, how would white play?</p> <p>White will continue to attack by slapping black in the face.</p><p>Can you see that black E3 is in trouble?">}}
 
-{{< challenge sgf="/sgfs/tsukehane.sgf" description="As brancas acabaram de tocar na sua pedra. Qual a resposta mais apropriada?</p><p>Há duas respostas corretas. Tente acertar!">}} 
+---
+
+### It's time to practice!
+
+{{< challenge sgf="/sgfs/tsukehane.sgf" description="White has just touched his stone. Which answer is most appropriate?</p><p>There are two correct answers. Try to get it right!">}}

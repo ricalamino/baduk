@@ -2,8 +2,8 @@
 title: "Ko (eternity)"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "problemas-de-42-kyu"
-next: "problemas-de-40-kyu"
+previous: "42-kyu-problems"
+next: "40-kyu-problems"
 menu: "main"
 weight: 15
 url: "ko-eternity"

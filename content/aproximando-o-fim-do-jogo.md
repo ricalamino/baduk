@@ -2,8 +2,8 @@
 title: "End game coming..."
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "mais-sobre-pulos"
-next: "use-seu-instinto"
+previous: "more-about-jumps"
+next: "use-your-instinct"
 menu: "main"
 weight: 31
 url: "end-game-coming"

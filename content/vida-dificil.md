@@ -1,14 +1,13 @@
 ---
-title: "Vida difícil"
+title: "Hard life"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "problemas-de-45-kyu-escada"
+previous: "45-kyu-problems-ladder"
 ---
+### White's fate
 
-### O destino das brancas
+Look at the shape of White who just failed to attack in the previous problem.
 
-Olhe o formato das brancas as quais acabaram de falhar no ataque no problema anterior.
+{{< diagram sgf="/sgfs/vida1.sgf" description="White has many weaknesses.</p><p>Although it's White's turn, he can't correct it in one move.">}}
 
-{{< diagram sgf="/sgfs/vida1.sgf" description="As brancas têm muitos pontos fracos.</p><p>Embora seja a vez das brancas, elas não podem corrigir só com um movimento.">}} 
-
-{{< diagram sgf="/sgfs/vida2.sgf" description="As pretas podem fazer <a href='/problemas-de-47-kyu-atari-duplo'>Ataris Duplos</a>, que você já aprendeu na aula de 47 Kyu.">}} 
+{{< diagram sgf="/sgfs/vida2.sgf" description="Black can do <a href='/47-kyu-problems-double-atari'>Double Ataris</a>, which you already learned in 47 Kyu's class.">}}

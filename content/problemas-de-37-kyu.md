@@ -6,8 +6,9 @@ previous: "problemas-de-38-kyu-luta-no-canto"
 next: "how-to-start"
 menu: "main"
 weight: 19
+url: "37-kyu-problems"
 ---
 
-{{< challenge sgf="/sgfs/chika1.sgf" description="Isso me deixa tonto...">}} 
+{{< challenge sgf="/sgfs/chika1.sgf" description="It makes me dizzy...">}}
 
-{{< challenge sgf="/sgfs/chika2.sgf" description="O que eu devo fazer primeiro?<br />Dica: Escape primeiro, ataque depois.">}} 
+{{< challenge sgf="/sgfs/chika2.sgf" description="What should I do first?<br />Tip: Escape first, attack later.">}}

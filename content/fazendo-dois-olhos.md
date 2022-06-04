@@ -2,8 +2,8 @@
 title: "Making 2 eyes! Stones cannot be captured."
 date: 2021-08-05T14:10:17-03:00
 draft: false
-next: "problemas-de-44-kyu"
-previous: "problemas-de-45-kyu-escada"
+next: "44-kyu-problems"
+previous: "45-kyu-problems-ladder"
 menu: "main"
 weight: 11
 url: "making-two-eyes"

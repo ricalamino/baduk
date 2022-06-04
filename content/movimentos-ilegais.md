@@ -2,8 +2,8 @@
 title: "Illegal moves"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "problemas-de-47-kyu-atari-duplo"
-next: "problemas-de-46-kyu"
+previous: "47-kyu-problems-double-atari"
+next: "46-kyu-problems"
 menu: "main"
 weight: 8
 url: "illegal-moves"
