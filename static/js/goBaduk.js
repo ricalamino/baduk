@@ -12,14 +12,14 @@
       },
 
       STRINGS = {
-          CORRECT:         'Correto! ',
-          FAIL:            'Errado. ',
-          YOUR_TURN:       'Sua vez.',
-          BLACK_TURN:      'Vez das pretas.',
-          WHITE_TURN:      'Vez das brancas.',
-          WHITE_PLAYS:     'Brancas jogam...',
-          ILLEGAL_KO:      'Jogada ilegal - KO.',
-          ILLEGAL_SUICIDE: 'Jogada ilegal - suicídio.'
+          CORRECT:         'Correct! ',
+          FAIL:            'Wrong. ',
+          YOUR_TURN:       'Your turn.',
+          BLACK_TURN:      'Black turn.',
+          WHITE_TURN:      'White turn.',
+          WHITE_PLAYS:     'White plays...',
+          ILLEGAL_KO:      'Illegal play - KO.',
+          ILLEGAL_SUICIDE: 'Illegal play - suicide.'
       },
 
       ERRORS = {
