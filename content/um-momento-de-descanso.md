@@ -1,12 +1,12 @@
 ---
-title: "A momento of rest"
+title: "A moment of rest"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "48-kyu-problems"
 next: "47-kyu-problems-double-atari"
 menu: "main"
 weight: 6
-url: "a-momento-of-rest"
+url: "a-moment-of-rest"
 ---
 
 ### Capture anyway!
