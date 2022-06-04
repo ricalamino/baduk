@@ -1,5 +1,5 @@
 ---
-title: "Jogos entre Ke Jie (9p) e AlphaGo"
+title: "Matches - Ke Jie (9p) and AlphaGo"
 date: 2021-08-05T16:08:56-03:00
 draft: false
 previous: "fanhui-alphago"

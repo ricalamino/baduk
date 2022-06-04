@@ -1,7 +1,7 @@
 <section class="bottom-navigation">
   {{if isset .Params "previous" }}
   <p class="prev_lesson">
-    <a href="/{{.Params.previous}}" class="button">Anterior</a>
+    <a href="/{{.Params.previous}}" class="button">Previous</a>
   </p>
   {{end}}
 
@@ -10,18 +10,18 @@
   <p class="next_lesson">
     <a href="/{{.Params.next}}" class="button">
       {{if (not (isset .Params "previous"))}}
-      Início
+      Start
       {{else}}
-      Próximo
+      Next
       {{end}}
     </a>
   {{end}}
   </p>
 </section>
 <section class="bottom-navigation">
-  <p>Não exibiremos mais anúncios para não atrapalhar a usabilidade do site.</p>
-  <p>Então, se você gostou muito, me ajude a manter o site com qualquer quantia para a chave PIX: <strong>go@alami.no</strong></p><p>
+  <p>We will no longer show ads in this site.</p><p>
+    If you really like this site <a href="https://buymeacoffee.com/jLHyxulb4">Buy me a coffee</a></p>
     <hr /> 
-<a href="/politica-do-site/">Política do Site</a></p>
+<a href="/site-policy/">Site Policy</a></p>
 </section>
 </article>

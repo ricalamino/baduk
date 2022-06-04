@@ -1,5 +1,5 @@
 ---
-title: "Política do site"
+title: "Site Policy"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 menu: ""
