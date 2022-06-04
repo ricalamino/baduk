@@ -2,7 +2,7 @@
 title: "One point jump"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "defence"
+previous: "defense"
 next: "more-about-jumps"
 menu: "main"
 weight: 27

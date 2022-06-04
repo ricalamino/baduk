@@ -2,7 +2,7 @@
 title: "End game"
 date: 2021-08-05T09:37:54-03:00
 draft: false
-previous: "problemas-de-36-kyu"
+previous: "36-kyu-problems"
 next: "end-game-2"
 menu: "main"
 weight: 23

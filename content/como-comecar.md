@@ -2,7 +2,7 @@
 title: "How to start"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "problemas-de-37-kyu"
+previous: "37-kyu-problems"
 next: "starting"
 menu: "main"
 weight: 20
