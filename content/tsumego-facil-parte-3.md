@@ -1,11 +1,12 @@
 ---
-title: "Tsumego - Fácil - Parte 3"
+title: "Tsumego - Easy - Part 3"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "tsumego-facil-parte-2"
-next: "tsumego-facil-parte-4"
+previous: "tsumego-easy-2"
+next: "tsumego-easy-4"
 menu: "tsumego"
 weight: 3
+url: "tsumego-easy-3"
 ---
 
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-41.sgf" description="Problema 41 - Você consegue capturar a pedra Branca A?">}}
@@ -29,4 +30,4 @@ weight: 3
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-59.sgf" description="Problema 59">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-60.sgf" description="Problema 60">}}<ok>
 
-Fonte: [Go Game Guru's Weekly Go Problems](https://github.com/gogameguru/go-problems)
+Source: [Go Game Guru's Weekly Go Problems](https://github.com/gogameguru/go-problems)

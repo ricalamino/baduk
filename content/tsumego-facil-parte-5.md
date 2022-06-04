@@ -1,11 +1,12 @@
 ---
-title: "Tsumego - Fácil - Parte 5"
+title: "Tsumego - Easy - Part 5"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "tsumego-facil-parte-4"
+previous: "tsumego-easy-4"
 next: "fanhui-alphago"
 menu: "tsumego"
 weight: 5
+url: "tsumego-easy-5"
 ---
 
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-81.sgf" description="Problema 81 - Como as Pretas podem conectar todas as suas pedras?">}}<ok>
@@ -29,4 +30,4 @@ weight: 5
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-99.sgf" description="Problema 99 - Como as Pretas podem capturar as duas pedras Brancas marcadas que as cortaram?">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-100.sgf" description="Problema 100">}}<ok>
 
-Fonte: [Go Game Guru's Weekly Go Problems](https://github.com/gogameguru/go-problems)
+Source: [Go Game Guru's Weekly Go Problems](https://github.com/gogameguru/go-problems)

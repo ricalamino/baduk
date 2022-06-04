@@ -3,7 +3,7 @@ title: "How to capture stones"
 date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: ""
-next: "problemas-de-50-kyu"
+next: "50-kyu-problems"
 menu: "main"
 weight: 2
 url: "how-to-capture-stones"

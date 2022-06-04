@@ -1,40 +1,39 @@
 ---
-title: "Problemas de 50 Kyu"
+title: "50 Kyu Problems"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-previous: "como-capturar-pedras"
-next: "problemas-de-49-kyu"
+previous: "how-to-capture-stones"
+next: "49-kyu-problems"
 menu: "main"
 weight: 3
+url: "50-kyu-problems"
 ---
+### Capture the Opponent's Stones in Atari!
 
-### Capture as pedras do Oponente em Atari!
+You can click on the board and capture your opponent's stones.
 
-Você pode clicar no tabuleiro e capturar as pedras do oponente.
+If you see a mistake, keep trying until you find a solution.
 
-Se você ver cometer um erro, continue tentando até encontrar uma solução. 
+Here, a 9 x 9 board is used. Typically, a 19 x 19 board is used.
 
-Aqui, um tabuleiro 9 x 9 é usado. Normalmente, um tabuleiro 19 x 19 é usado.
-
-O menor é recomendado para iniciantes.
-
+The smallest is recommended for beginners.
 
 
-{{< challenge sgf="/sgfs/50K-1.sgf" description="Vez das pretas. Capture a pedra branca em atari. ">}} 
+{{< challenge sgf="/sgfs/50K-1.sgf" description="Black's turn. Capture the white stone in atari. ">}}
 
-{{< challenge sgf="/sgfs/50K-2.sgf" description="Vez das pretas. Duas pedras brancas estão em atari. Capture as duas com um movimento!">}}
+{{< challenge sgf="/sgfs/50K-2.sgf" description="Black's turn. Two white stones are in atari. Capture both in one move!">}}
 
-{{< challenge sgf="/sgfs/50K-3.sgf" description="Vez das pretas. Mesmo se existirem outras pedras por perto, apenas faça o mesmo.">}}
+{{< challenge sgf="/sgfs/50K-3.sgf" description="Black's turn. Even if there are other stones nearby, just do the same.">}}
 
-Apenas repita os problemas até que você os entenda completamente.
+Just repeat the problems until you fully understand them.
 
-Quando você entendê-los, eu lhe concedo o nível de 50 Kyu - o nível mais baixo no meu sistema de ranking
+When you understand them, I grant you the level of 50 Kyu - the lowest level in my ranking system.
 
 ----
-### Sobre o ranking de Go
+### About the Go ranking
 
-No mundo amador de Go, 30 kyu é normalmente o nível mais baixo. Quanto menor o número, mais forte é o jogador.
+In the amateur world of Go, 30 kyu is normally the lowest level. The lower the number, the stronger the player.
 
-Acima de 1 kyu vem 1 dan. Conforme o dan aumenta, mais forte ficará.
+Above 1 kyu comes 1 dan. As the dan increases, the stronger it will become.
 
-Jogadores com Dan são considerados os melhores.
+Players with Dan are considered the best.

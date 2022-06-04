@@ -1,92 +1,85 @@
 ---
-title: "Regras básicas"
+title: "Basic Rules"
 date: 2021-08-05T09:37:54-03:00
 draft: false
-previous: "equipamento"
-next: "tecnicas-basicas"
+previous: "equipment"
+next: "basic-techniques"
 menu: "theory"
 weight: 3
+url: "basic-rules"
 ---
 
-![Imagem de tableiro de Go](/img/go3.jpg)
+![Pageboard image of Go](/img/go3.jpg)
 
-## 1. Go é jogado entre dois jogadores.
-## 2. Um dos jogadores usa as pedras brancas e o outro as pretas. (Os jogadores se revezam colocando as pedras no tabuleiro, uma a uma. O primeiro movimento, isto é, a colocação da primeira pedra no tabuleiro, é feito pelas Pretas. Num jogo com "handicap", entretanto, Brancas jogam primeiro.)
-## 3. A pedra deve ser colocada em um dos cruzamentos.
-## 4. A pedra, uma vez colocada, não pode ser retirada (exceto quando se aplica a regra número 6).
-## 5. O jogador que obtem mais território ganha o jogo.
-## 6. As pedras que perderem suas liberdades, ou “espaço para respirar”, são retiradas do tabuleiro.
-## 7. Nenhuma pedra pode ser colocada num cruzamento onde não tenha liberdade.
-## 8. Há restrições especiais nos movimentos de um jogador, na situação chamada Ko.
-## 9. Regra referente ao jogo com "handicap" ou vantagem.
-
----
-
-### Curtiu as regras? [Comece agora mesmo aqui com o tutorial de exercícios práticos!](/problemas-de-50-kyu)
-
-### Já sabe o básico? [Pratique resolvendo alguns problemas do jogo real (Tsumego)!](/tsumego-facil)
----
-
-
-
-### Território (Regra número 5)
-
-{{< diagram sgf="/sgfs/regras1.sgf" description="O jogador com mais território vence o jogo. Mas como contamos o território? O território consiste nos cruzamentos, cercados de tal maneira pelas peças do jogador, que o adversário não consegue invadi-lo. O número de cruzamentos cercados pelas peças Brancas e pelas Pretas consiste respectivamente no número de pontos obtidos pelo jogador das Brancas e pelo jogador com as Pretas.">}} 
+## 1. Go is played between two players.
+## 2. One of the players uses the white stones and the other the black ones. (Players take turns placing stones on the board, one by one. The first move, that is, placing the first stone on the board, is made by Black. In a handicap game, however, White plays first.)
+## 3. The stone must be placed at one of the intersections.
+## 4. The stone, once placed, cannot be removed (except when rule number 6 applies).
+## 5. The player who gets the most territory wins the game.
+## 6. Stones that lose their freedom, or “breathing space”, are removed from the board.
+## 7. No stone can be placed at an intersection where it does not have freedom.
+## 8. There are special restrictions on a player's movements, in the situation called Ko.
+## 9. Rule regarding handicap or advantage play.
 
 ---
-### Limites (Cont. regra número 5)
+### Did you like the rules? [Start right here with the hands-on tutorial!](/50-kyu-problems)
 
-{{< diagram sgf="/sgfs/regras2.sgf" description="A figura ao lado é uma análise do diagrama anterior. Observe que as Pretas delimitam um território sólido que cerca os <strong>triângulos</strong>, assim como as Brancas, que cercam as áreas marcadas com <strong>círculos</strong>.</p><p>As quantidades de triângulos e círculos no diagrama indicam os <strong>pontos</strong> dados a cada território. ">}} 
-
-
-{{< diagram sgf="/sgfs/regras3.sgf" description="Pontuações:</p><p><ul><li>Pretas: 9 + 31 = 40</li><li>Brancas: 17 + 22 = 39</li></ul><p>Pretas venceram por 1 ponto.">}} 
-
----
-### Liberdades ou espaços para respirar (Regra número 6)
-
-{{< diagram sgf="/sgfs/regras4.sgf" description="Quando todos os pontos adjacentes a uma pedra, ou grupo de pedras, estão ocupados por pedras do adversário, a pedra(ou grupo de pedras) é capturada(o) e retirada(o) do tabuleiro.</p><p>Em A, B e C na figura, os pontos indicados por círculos são chamados de liberdades da pedra a qual se referem. Em D, E e F, todas as liberdades da Preta foram \"tomadas\" pelas Brancas. Assim, não podendo mais respirar, a peça Preta(ou conjunto de peças sem liberdade) é retirada(o) do tabuleiro.">}} 
-
+### Already know the basics? [Practice solving some real game problems (Tsumego)!](/tsumego-easy)
 ---
 
-### Removendo as peças capturadas (Cont. Regra número 6)
+
+### Territory (Rule number 5)
+
+{{< diagram sgf="/sgfs/regras1.sgf" description="The player with the most territory wins the game. But how do we count the territory? The territory consists of intersections, surrounded in such a way by the player's pieces, that the opponent cannot invade it. The number of crosses surrounded by the White and Black pieces consists respectively of the number of points obtained by the White player and the player with Black.">}}
+
+---
+### Limits (... rule number 5)
+
+{{< diagram sgf="/sgfs/regras2.sgf" description="The figure to the left is an analysis of the previous diagram. Note that Black delimits a solid territory that surrounds the <strong>triangles</strong>, as does the White ones, which surround the areas marked with <strong>circles</strong>.</p><p>The numbers of triangles and circles in the diagram indicate the <strong>points</strong> given to each territory.">}}
+{{< diagram sgf="/sgfs/regras3.sgf" description="Scores:</p><p><ul><li>Black: 9 + 31 = 40</li><li>White: 17 + 22 = 39</li></ul><p>Black won by 1 point.">}}
+
+---
+### Freedoms or spaces to breathe (Rule number 6)
+
+{{< diagram sgf="/sgfs/regras4.sgf" description="When all points adjacent to a stone, or group of stones, are occupied by opponent's stones, the stone (or group of stones) is captured. ) and removed from the board.</p><p>In A, B and C in the figure, the points indicated by circles are called freedoms of the stone to which they refer. In D, E and F, all Black's liberties were \"taken\" by White. Thus, unable to breathe, Black's piece (or set of pieces without freedom) is removed from the board.">}}
+---
+### Removing captured pieces (... Rule number 6)
 
 
-{{< diagram sgf="/sgfs/0-atari.sgf" description="Essa sequência refere-se a uma captura. Você pode ver que inicialmente a pedra branca tem uma liberdade (ponto \"a\").">}} 
+{{< diagram sgf="/sgfs/0-atari.sgf" description="This sequence refers to a capture. You can see that initially the white stone has a freedom (point \"a\").">}}
 
-{{< diagram sgf="/sgfs/1-before-catch.sgf" description="Após o jogador colocar a pedra Preta no ponto \"a\" ">}} 
+{{< diagram sgf="/sgfs/1-before-catch.sgf" description="After the player places the Black stone at the point \"a\" ">}}
 
-{{< diagram sgf="/sgfs/2-after-catch.sgf" description="a pedra branca é capturada, retirada do tabuleiro e significará um ponto a menos para o jogador das Brancas.">}} 
+{{< diagram sgf="/sgfs/2-after-catch.sgf" description="the white stone is captured, removed from the board and will mean one point less for White's player.">}}
 
-Normalmente, no final da partida, para facilitar a contagem, as pedras capturadas são colocadas no território de mesma cor da pedra.
-
+Normally, at the end of the game, to make counting easier, the captured stones are placed in the territory of the same color as the stone.
   
 ---
-### O ponto "irrespirável" (Regra número 7)
+### The "unbreathable" stitch (Rule number 7)
 
-{{< diagram sgf="/sgfs/regrairrespiravel.sgf" description="Nenhuma peça pode ser posta num lugar onde não haja liberdade. Assim, no diagrama, na situação \"A\" as Pretas não podem jogar em \"a\".</p><p>A situação B, entretanto, é diferente. Pretas podem jogar em \"b\", pois ela conseguiria capturar a pedra Branca marcada com um triângulo, ficando com um ponto para respirar (situação D): ponto \"c\".">}} 
+{{< diagram sgf="/sgfs/regrairrespiravel.sgf" description="No piece can be placed in a place where there is no freedom. Thus, in the diagram, in the situation \"A\" Black cannot play in \"a \".</p><p>Situation B, however, is different. Black can play in \"b\", as it would be able to capture the White stone marked with a breathing point, leaving it with a breathing point ( situation D ): dot \"c\"..">}}
 
-Isso pode ser visto também na lição de [Movimentos ilegais](/movimentos-ilegais).
+This can be seen in the [Also legal moves](/illegal-moves) lesson.
 
-
----
-### Ko ( Regra número 8 )
-Em uma situação em que, entre cruzamentos adjacentes, cada adversário possa alternativamente repetir a jogada de capturar a pedra do outro de forma infinita, a regra consiste em NÃO poder capturar na jogada imediatamente seguinte.
-
-Para praticar volte até a aula de [Ko (eternidade)](/ko-eternidade) ou leia a explicação a seguir.
-
-*Esta é a única exceção à regra de que se é livre para colocar sua pedra em qualquer ponto desocupado do tabuleiro.
-
-{{< diagram sgf="/sgfs/regrasko1.sgf" description="Quando acontece uma situação como em \"A\", a Preta pode capturar a pedra Branca com um triângulo jogando em 1.">}} 
-{{< diagram sgf="/sgfs/regrasko2.sgf" description="Pedra Preta 1 captura pedra Branca triângulo">}} 
-{{< diagram sgf="/sgfs/regrasko3.sgf" description="Branca é removida do tabuleiro">}} 
-{{< diagram sgf="/sgfs/regrasko4.sgf" description="Porém, na jogada imediatamente seguinte (em \"D\"), a Branca não pode jogar em \"2\", pois essa situação não terminaria nunca (\"Ko\"), assim a pedra Preta marcada com triângulo sobrevive mais uma jogada.">}} 
 
 ---
-### "Handicap" ou Vantagem (Regra número 9)
+### Ko (Rule number 8)
+In a situation where, between adjacent crossings, each time they can alternatively execute the stone capture of the NO format, the rule can reach in the other execution possibility that follows.
 
-{{< diagram sgf="/sgfs/handicap.sgf" description="Se pessoas de níveis diferentes jogam, pode-se usar o recurso de \"handicap\". Quanto maior a diferença de habilidade, mais pedras se colocam para equilibrar o jogo.</p><p>Se a diferença for de “um grau” o jogador mais fraco joga com as Pretas e coloca apenas duas pedras no \"handicap\". Se for dois graus, três pedras e assim por diante. Ao lado, você pode ver um diagrama que mostra a colocação de 9 pedras:<ul><li>Para um \"handicap\" de 6 pedras, retiram-se as pedras 5, 8 e 9;</li><li>Para um \"handicap\" de 7 pedras, retiram-se as pedras 8 e 9;</li><li>Para um \"handicap\" de 8 pedras, retira-se a pedra 5;</li><li>Para todos os outros níveis segue-se a ordem marcada nas pedras.">}} 
+To practice go back to the [Ko (eternity)](/ko-eternity) class or read the explanation below.
 
-Para mais detalhes veja a aula de [Komi](/komi).
+*This is a single exception to the rule that you are free to place your stone on any unoccupied spot on the board.
+
+{{< diagram sgf="/sgfs/regrasko1.sgf" description="When a situation like \"A\" happens, Black can capture the White stone with a triangle playing at 1.">}}
+{{< diagram sgf="/sgfs/regrasko2.sgf" description="Black Stone 1 captures White stone triangle">}}
+{{< diagram sgf="/sgfs/regrasko3.sgf" description="White is the board diagram">}}
+{{< diagram sgf="/sgfs/regrasko4.sgf" description="However, in the next move (on \"D\"), White cannot play on \"2\ would never end, as this situation would never end (\"Ko\"), so the triangle-marked Black stone survives one more move.">}}
+---
+### "Handicap" or Advantage (Rule number 9)
+
+{{< diagram sgf="/sgfs/handicap.sgf" description="If people of different levels play, you can use the \"handicap\" feature. the game.</p><p>If the difference is “one degree” the weaker player plays Black and puts only two stones in the \"handicap\". If it is two degrees, three stones and so on On the side, you can see a diagram showing the placement of 9 stones:<ul><li>For a \"handicap\" of 6 stones, stones 5, 8 and 9 are removed;</li>< li>For a \"handicap\" of 7 stones, stones 8 and 9 are removed;</li><li>For a \"handicap\" of 8 stones, stone 5 is removed;</li> ><li>For all other levels, follow the order marked on the stones.">}}
+
+For more details see the [Komi](/komi) class.
 
 
 

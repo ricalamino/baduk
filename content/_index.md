@@ -2,7 +2,7 @@
 title: "🏠 Home"
 date: 2021-08-05T09:37:54-03:00
 draft: false
-next: "como-capturar-pedras"
+next: "how-to-capture-stones"
 menu: "main"
 weight: 1
 ---
