@@ -2,8 +2,6 @@
 title: "Tsumego - Fácil"
 date: 2021-08-05T14:10:17-03:00
 draft: false
-aliases: 
-    - /tsumego/
 previous: "epilogo"
 next: "tsumego-facil-parte-2"
 menu: "tsumego"
