@@ -4346,7 +4346,7 @@ var prepare_dom_box = function(type) {
 	t.box.appendChild(info_wrapper);
 	
 	t.info = {};
-	t.info.caps = prepare_dom_info("Capturas");
+	t.info.caps = prepare_dom_info("Captured");
 	t.info.caps.val.innerHTML = "0";
 	info_wrapper.appendChild(t.info.caps.wrapper);
 }
@@ -5623,8 +5623,8 @@ WGo.i18n.en["permalink"] = "Permanent link";
                           + "<p>Wersja dostosowana do Interaktywnego Kursu Go</p>"
                           + "<p>Szczególy <a href='http://wgo.waltheri.net/player' target='_blank'>wgo.waltheri.net/player</a></p>"
             + "<p>Copyright &copy; 2013 Jan Prokop</p>",
-        "black": "Pretas",
-        "white": "Brancas",
+        "black": "Black",
+        "white": "White",
         "DT": "Data",
         "KM": "Komi",
         "HA": "Handicap",
