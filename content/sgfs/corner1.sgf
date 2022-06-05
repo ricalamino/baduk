@@ -17,7 +17,7 @@ AW[bf][cf][dg][ch][dh]AB[df][bg][cg][eg][eh]
 (;B[tt];W[ai]))
 (;B[ag];W[ai])
 (;B[tt];W[ag]))
-(;B[ag];W[af]C[4 pretas não conseguem escapar.])
+(;B[ag];W[af]C[4 Black stones cannot escape.])
 (;B[af];W[ah]
 (;B[ag];W[ae])
 (;B[tt];W[ag]))
@@ -34,7 +34,7 @@ AW[bf][cf][dg][ch][dh]AB[df][bg][cg][eg][eh]
 (;B[tt];W[ai]))
 (;B[ag];W[ai])
 (;B[aa];W[ag])
-(;B[tt];W[ag]C[4 pretas não conseguem escapar.]))
+(;B[tt];W[ag]C[4 Black stones cannot escape.]))
 (;B[ag];W[ai])
 (;B[tt];W[ag]))
 (;B[ag];W[af]
@@ -45,13 +45,13 @@ AW[bf][cf][dg][ch][dh]AB[df][bg][cg][eg][eh]
 (;B[tt];W[ag]))
 (;B[tt];W[ag]))
 (;B[ag];W[bh]
-(;B[af];W[ae]C[não dá pra escapar.])
-(;B[ah];W[af]C[não dá pra escapar.])
-(;B[ae];W[af]C[não dá pra escapar.])
+(;B[af];W[ae]C[Impossible to escape.])
+(;B[ah];W[af]C[Impossible to escape.])
+(;B[ae];W[af]C[Impossible to escape.])
 (;B[tt];W[ah]))
 (;B[af];W[bh]
 (;B[ag];W[ae]
 (;B[ah];W[ai])
 (;B[tt];W[ah]))
 (;B[tt];W[ag]))
-(;B[tt];W[bh]C[2 pretas não conseguem escapar.]))
+(;B[tt];W[bh]C[2 Black stones cannot escape.]))

@@ -63,9 +63,9 @@ https://gogameguru.com/]
 (;B[mp]
 ;W[no]
 ;B[fr]
-(;W[gp]C[Brancas poderiam fazer um tenuki agora, se quiserem um Sente por exemplo, e as Pretas só poderão capturar o número 1 (por falta de liberdades). O resto do grupo Brancas está vivo.])
-(;W[nn]C[Se Branca der um tenuki...]
+(;W[gp]C[White could make a tenuki now, if they want a Sente for example, and Black can only capture number 1 (due to lack of liberties). The rest of White's group is alive.])
+(;W[nn]C[If Branca gives a tenuki...]
 ;B[eq]
-;W[gp]LB[ep:A][gq:B]C[O resto do grupo das Brancas ainda está vivo. As Brancas não devem se conectar em A porque as Pretas dariam atari em B.]))
+;W[gp]LB[ep:A][gq:B]C[The rest of White's group is still alive. White should not connect on A because Black would atari on B.]))
 (;B[no]
 ;W[mp])))

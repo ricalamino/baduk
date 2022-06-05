@@ -3,10 +3,10 @@ RU[Japanese]SZ[9]KM[0.00]
 AW[bc][cc][dc][ec][fc][gc][bd][hd][ae][ce][he][hf][bg][cg][dg][eg][fg]AB[cd][dd][ed][fd][be][ee][ge][cf][df][ef][ff]
 (;B[bf]
 ;W[gf]
-(;B[gd]LB[ce:A]C[[OK\]A pedra A está morta.])
+(;B[gd]LB[ce:A]C[[OK\]A stone is dead.])
 (;B[]
-;W[gd]LB[fe:A]C[O ponto A é um olho falso.]))
+;W[gd]LB[fe:A]C[A point is a false eye.]))
 (;B[de]
-;W[bf]LB[ce:A]C[Você tem um olho falso em A.])
+;W[bf]LB[ce:A]C[You have a false eye on A.])
 (;B[]
 ;W[bf]))

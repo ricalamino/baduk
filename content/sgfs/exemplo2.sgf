@@ -1,79 +1,78 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[9]KM[0.00]
-
-;B[ee]C[Uma jogada no centro pode afetar todos os cantos!]
-;W[ef]C[Ataque das brancas por contato.]
-;B[df]C[Preto contra-ataca a pedra do atacante.]
-;W[de]C[Cruzamento das pedras. O branco também é cortado. Uma batalha feroz é inevitável!]
-;B[cf]C[Pretas se estendem de um lado para se prepararem para a luta.
-Se o preto agora jogar no D6, pode matar o D5 na escada.]
-;W[dd]C[Seria muito ruim para o branco.
-Então, o branco se estende de D5.]
-;B[ed]C[Ataque a duas pedras brancas com reforço simultâneo E5.]
-;W[dc]C[Defesa se estendendo.]
-;B[ff]C[Atari em E4!]
-;W[eg]C[Estende em E4.]
-;B[fg]C[Ainda ataque em 2 pedras brancas.]
-;W[eh]C[Fuga...]
-;B[ch]C[Cercando três pedras brancas do canto inferior esquerdo.]
-;W[fe]C[Corte nas pedras pretas.]
-;B[fd]C[Atari em uma pedra de corte.]
-;W[ge]C[Fuga....]
-;B[gd]C[Ataque em seguida]
-;W[gf]C[Fuga para o canto inferior do tabuleiro.
-A fuga é também um ataque às pedras F4 e F3.]
-;B[gg]C[Preta vai à luta.]
-;W[hg]C[Cercadas!]
-;B[bd]C[O preto muda o objetivo.
-Agora, cerca suavemente três pedras brancas no lado superior esquerdo.
-Ao mesmo tempo, protege o grupo do lado inferior esquerdo.]
-;W[fb]C[Branco estende-se para o topo do tabuleiro
-e ataca quatro pedras negras.]
-;B[he]C[Atari em três pedras brancas.]
-;W[hf]C[Protegendo-se.]
-;B[gb]C[Uma tentativa de criar um território na parte superior direita
-com ataque simultâneo em F8.]
-;W[fc]C[Defesa F8.
-Mais tarde você poderá invadir o G7.]
-;B[gc]C[Bloqueio do buraco no G7.
-Agora o lado superior direito parece preto.]
-;W[bc]C[Branco constrói o território no canto superior esquerdo.]
-;B[cc]C[Saltos negros entre duas pedras brancas.]
-;W[cd]C[O branco ataca o agressor do lado de fora.
+;B[ee]C[A move in the center can affect all corners!]
+;W[ef]C[White's contact attack.]
+;B[df]C[Black counters the attacker's stone.]
+;W[de]C[Crossing the stones. White is also cut. A fierce battle is inevitable!]
+;B[cf]C[Black reaches out to one side to prepare for the fight.
+If black now plays d6, he can kill d5 on the ladder.]
+;W[dd]C[It would be very bad for white.
+So, white extends from D5.]
+;B[ed]C[Attack on two white stones with simultaneous boost E5.]
+;W[dc]C[Defense extending.]
+;B[ff]C[Atari in E4!]
+;W[eg]C[Extends into E4.]
+;B[fg]C[Still attack on 2 white stones.]
+;W[eh]C[Escape...]
+;B[ch]C[Surrounding three white stones from the lower left corner.]
+;W[fe]C[Cut on the black stones.]
+;B[fd]C[Atari on a cutting stone.]
+;W[ge]C[Escape....]
+;B[gd]C[Attack next]
+;W[gf]C[Escape to the bottom corner of the board.
+Escape is also an attack on the F4 and F3 stones.]
+;B[gg]C[Black goes to fight.]
+;W[hg]C[Fenced!]
+;B[bd]C[Black changes the objective.
+Now, gently surround three white stones on the upper left side.
+At the same time, protect the group on the lower left.]
+;W[fb]C[White extends to the top of the board
+and attacks four black stones.]
+;B[he]C[Atari on three white stones.]
+;W[hf]C[Protecting yourself.]
+;B[gb]C[An attempt to create a territory in the upper right
+with simultaneous attack on F8.]
+;W[fc]C[Defense F8.
+Later you can hack the G7.]
+;B[gc]C[Block hole in G7.
+Now the upper right side looks black.]
+;W[bc]C[White builds the territory in the upper left corner.]
+;B[cc]C[Black jumps between two white stones.]
+;W[cd]C[White attacks the aggressor from the outside.
 Atari!]
-;B[cb]C[Pretas invadem o canto.]
-;W[be]C[Branco quase mata B6.]
-;B[ec]C[Ataque em F7 e F8.]
-;W[db]C[Branco não pode defendê-los por causa de invasões da esquerda,
-então ele desiste de duas pedras, cortando C8 e C7,
-que invadiram.]
-;B[eb]C[Duas pedras brancas estão quase mortas.]
-;W[bb]C[Agora duas pedras pretas estão quase mortas.]
-;B[bf]C[Protegendo o canto inferior esquerdo.]
-;W[hd]C[Captura H5.]
-;B[hc]C[Pretas desistem de H5, mas se protegem contra invasões futuras.
-Agora H6 está em Atari.]
-;W[ie]C[Captura H5.]
-;B[dh]C[Ampliação do território inferior esquerdo
-enquanto atacam três pedras brancas.]
-;W[ic]C[Branco está constantemente tentando invadir o topo.]
-;B[ib]C[Defesa e J7 está em Atari.]
-;W[id]C[Conexão em J7.]
-;B[ce]C[Ao atacar B5, as pretas forçam as brancas a capturar B6.]
-;W[ad]C[Captura B6.]
-;B[ei]TR[ff][fg][gg]C[Pretas tentam invadir a direita,
-dando ao mesmo tempo 3 pedras (marcadas com triângulos).]
-;W[fi]C[Evitando a invasão.]
-;B[di]C[Conexão em E1.]
-;W[fh]C[Agora, por segurança, o branco deve matar três pedras negras.]
-;B[dg]C[O preto continua a atacar cinco pedras brancas.
-Se ele, então, jogar em G2, ele as mataria.]
-;W[gh]C[Matar três pedras garante a vida do grupo.]
-;B[af]C[Aumenta o canto inferior esquerdo...]
-;W[ea]C[Tentativa de salvar duas pedras brancas.]
-;B[fa]C[Capturando.
-E9 está em Atari.]
-;W[da]C[Conexão em E9.]
-;B[ae]C[Atari em B5.]
-;W[bd]C[Branco se conecta.
-Agora o jogo acabou.])
+;B[cb]C[Black invades the corner.]
+;W[be]C[White almost kills B6.]
+;B[ec]C[Attack on F7 and F8.]
+;W[db]C[White cannot defend them because of invasions from the left,
+then he gives up two stones, cutting C8 and C7,
+that invaded.]
+;B[eb]C[Two white stones are almost dead.]
+;W[bb]C[Now two black stones are almost dead.]
+;B[bf]C[Protecting the lower left corner.]
+;W[hd]C[Capture H5.]
+;B[hc]C[Black gives up H5, but protects against future invasions.
+Now H6 is on Atari.]
+;W[ie]C[Capture H5.]
+;B[dh]C[Magnification of the lower left territory
+while attacking three white stones.]
+;W[ic]C[White is constantly trying to break into the top.]
+;B[ib]C[Defense and J7 is in Atari.]
+;W[id]C[Connection to J7.]
+;B[ce]C[By attacking B5, Black forces White to capture B6.]
+;W[ad]C[Capture B6.]
+;B[ei]TR[ff][fg][gg]C[Black tries to invade the right,
+giving at the same time 3 stones (marked with triangles).]
+;W[fi]C[Avoiding the invasion.]
+;B[di]C[Connection to E1.]
+;W[fh]C[Now, for safety, white must kill three black stones.]
+;B[dg]C[Black continues to attack five white stones.
+If he then plays on G2, he would kill them.]
+;W[gh]C[Killing three stones grants the party health.]
+;B[af]C[Increase the lower left corner...]
+;W[ea]C[Attempt to save two white stones.]
+;B[fa]C[Capturing.
+E9 is on Atari.]
+;W[da]C[Connection to E9.]
+;B[ae]C[Atari in B5.]
+;W[bd]C[White connects.
+Now the game is over.])

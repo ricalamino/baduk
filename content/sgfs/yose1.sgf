@@ -3,11 +3,11 @@ RU[Japanese]SZ[9]KM[0.00]
 AW[db][dc][ec][fc][gd][ge][gg][gh]AB[cb][cc][bd][dd][ee][cg][eg]
 (;B[fh]C[[OK\]Você tomou o máximo de território no canto inferior])
 (;B[eh]
-;W[fh]C[Seja mais agressivo!])
+;W[fh]C[Be more aggressive!])
 (;B[ei]
-;W[fi]C[Dá pra melhorar!])
+;W[fi]C[You can do better!])
 (;B[fi]
-;W[gi]C[Dá pra melhorar!])
+;W[gi]C[You can do better!])
 (;B[fg]
 ;W[ei])
 (;B[gf]
@@ -15,4 +15,4 @@ AW[db][dc][ec][fc][gd][ge][gg][gh]AB[cb][cc][bd][dd][ee][cg][eg]
 (;B[dh]
 ;W[fh])
 (;B[]
-;W[eh]C[Você perdeu a parte inferior.]))
+;W[eh]C[You lost bottom.]))

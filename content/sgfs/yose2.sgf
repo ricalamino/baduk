@@ -3,12 +3,12 @@ RU[Japanese]SZ[9]KM[0.00]
 CR[di]AW[ga][gb][fc][fd][ee][ge][ef][eg][eh][di]AB[fa][eb][fb][ec][dd][ed][de][df][dg][dh]
 (;B[ci]
 ;W[ei]C[O trabalho ainda não acabou.]
-(;B[ch]C[[OK\]Você evitou o corte!])
-(;B[bh]C[[OK\]Você evitou o corte!])
-(;B[cg]C[[OK\]Você evitou o corte!])
+(;B[ch]C[[OK\]You avoided the cut!])
+(;B[bh]C[[OK\]You avoided the cut!])
+(;B[cg]C[[OK\]You avoided the cut!])
 (;B[bi]
 ;W[ch]
-(;B[bh]C[Funcionou mas dá pra fazer melhor.])
+(;B[bh]C[It works, but you can do better.])
 (;B[]
 ;W[bh]))
 (;B[ah]
@@ -22,7 +22,7 @@ CR[di]AW[ga][gb][fc][fd][ee][ge][ef][eg][eh][di]AB[fa][eb][fb][ec][dd][ed][de][d
 (;B[]
 ;W[bi]))
 (;B[]
-;W[ch]C[Brancas cortaram suas pedras!]
+;W[ch]C[White cut your stones!]
 (;B[bi]
 ;W[bh])
 (;B[]

@@ -3,21 +3,21 @@ RU[Japanese]SZ[13]KM[0.00]
 SO[https://gogameguru.com/]AW[jh][ki][li][mi][gj][ij][jj][ik][jl][kl][km][lm]AB[dj][kj][lj][mj][fk][jk][kk][mk][hl][il][ll]C[Black to play.
 
 https://gogameguru.com/]
-(;B[ml]LB[mm:A]C[[OK\] Agora as Brancas não têm liberdades suficientes para dar atari em A.])
+(;B[ml]LB[mm:A]C[[OK\] Now White doesn't have enough liberties to atari A.])
 (;B[im]
-;W[ml]LB[mm:A]C[As Pretas podem capturar em A, mas esta será uma luta de ko. Pretas podem fazer melhor.])
+;W[ml]LB[mm:A]C[Black can capture on A, but this will be a ko fight. Black can do better.])
 (;B[mm]
-;W[ml]C[Isso é um ko. Mas as Pretas podem fazer uma jogada melhor.])
-(;B[jm]C[Essa jogada ajuda as Brancas.]
+;W[ml]C[That's a ko. But Black can make a better move.])
+(;B[jm]C[This move helps White.]
 ;W[im]
 (;B[ml]
 ;W[gl]
 (;B[hm]
-;W[hk]C[Pretas ainda têm um ko, mas jogar assim é desnecessário.])
+;W[hk]C[Black still has a ko, but playing like this is unnecessary.])
 (;B[hk]
 ;W[gk]
 (;B[hm]
-;W[hj]C[Pretas ainda têm um ko, mas jogar assim é desnecessário.])
+;W[hj]C[Black still has a ko, but playing like this is unnecessary.])
 (;B[hj]
 ;W[hi]
 ;B[hm]
@@ -29,8 +29,8 @@ https://gogameguru.com/]
 (;B[hm]
 ;W[gm])))
 (;B[hm]
-;W[ml]C[Se as Pretas quiserem um ko, elas obterão um, mas as Pretas podem evitar esse ko.]))
+;W[ml]C[If Black wants a ko, he will get one, but Black can avoid that ko.]))
 (;B[hk]
-;W[ml]C[Isso é um ko. Mas as Pretas podem fazer uma jogada melhor.])
+;W[ml]C[That's a ko. But Black can make a better move.])
 (;B[gk]
-;W[ml]C[Isso é um ko. Mas as Pretas podem fazer uma jogada melhor.]))
+;W[ml]C[That's a ko. But Black can make a better move.]))

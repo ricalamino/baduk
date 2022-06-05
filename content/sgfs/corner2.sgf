@@ -2,7 +2,7 @@
 RU[Japanese]SZ[9]KM[0.00]
 AW[he][gf][gg][hh]AB[hf][hg][fh][gh]
 (;B[ih]
-;W[hi]C[Brancas fogem...]
+;W[hi]C[White stones run...]
 (;B[ig]
 ;W[ie]
 (;B[gi]
@@ -24,8 +24,8 @@ AW[he][gf][gg][hh]AB[hf][hg][fh][gh]
 (;B[]
 ;W[ig]))
 (;B[ig]
-;W[ih]C[3 pedras pretas não podem escapar.])
+;W[ih]C[3 Black stones cannot escape.])
 (;B[hi]
-;W[ih]C[Brancas escaparam.])
+;W[ih]C[White escapes.])
 (;B[]
-;W[ig]C[As pretas não podem escapar.]))
+;W[ig]C[Black cannot escape.]))

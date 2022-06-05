@@ -5,7 +5,7 @@ SO[https://gogameguru.com/]AW[ah][bh][ch][dh][di][dj][dk][al][cl][el][cm]AB[bi][
 https://gogameguru.com/]
 (;B[bk]
 (;W[aj]
-;B[ai]LB[ak:A]C[[OK\] Mesmo que as Brancas joguem em A, as Pretas ainda estarão vivas em seki.])
+;B[ai]LB[ak:A]C[[OK\] Even if White plays in A, Black will still be alive in seki.])
 (;W[ai]
 ;B[aj]C[[OK\]]))
 (;B[ak]
@@ -22,7 +22,7 @@ https://gogameguru.com/]
 ;W[aj])
 (;B[am]
 ;W[aj]))
-(;W[aj]C[Brancas também podem matar as Pretas assim.]
+(;W[aj]C[White can also kill Black like this.]
 (;B[bk]
 ;W[ai])
 (;B[ai]
@@ -42,4 +42,4 @@ https://gogameguru.com/]
 (;B[ak]
 ;W[am]))
 (;B[bj]
-;W[ai]LB[aj:B][ak:A]C[Mesmo que as Pretas joguem em A ou B em seguida, as Brancas podem ignorá-lo e as Pretas ainda estarão mortas.]))
+;W[ai]LB[aj:B][ak:A]C[Even if Black plays A or B next, White can ignore it and Black will still be dead.]))

@@ -3,28 +3,28 @@ RU[Japanese]SZ[13]KM[0.00]
 SO[httpm://gogameguru.com/]AW[cf][df][ef][bg][fg][gg][bh][gh][di][ei][gi][dj][gj][bk][fk][bl][cl][dl][el][fl]AB[dg][eg][ch][fh][bi][ci][fi][bj][ej][fj][ck][dk][ek]C[Black to play.
 
 httpm://gogameguru.com/]
-(;B[dh]LB[eh:A][cj:B]C[[OK\] Agora as Pretas estão vivas em seki. Se as Brancas tentarem jogar A ou B, as Pretas podem capturar e fazer dois olhos.])
+(;B[dh]LB[eh:A][cj:B]C[[OK\] Now Black is alive in seki. If White tries to play A or B, Black can capture and make two eyes.] )
 (;B[cg]
-;W[dh]LB[eh:B][di:A]C[A forma das quatro pedras Brancas é chamada de 'bulky four'. Se as Pretas capturarem as quatro pedras Brancas, as Brancas jogarão imediatamente em A e as Pretas não serão capazes de fazer dois olhos.
+;W[dh]LB[eh:B][di:A]C[The shape of the four White stones is called the 'bulky four'. If Black captures the four White stones, White will immediately play on A and Black will not be able to make two eyes.
 
-Se Pretas não fizerem nada, Brancas podem dar atari em B, fazendo uma forma de 'bulky five'. Se Pretas capturarem, Brancas jogando A ainda funcionará.]
+If Black does nothing, White can atari B, making a 'bulky five' shape. If Black captures, White playing A will still work.]
 (;B[eh]
-;W[]C[Mesmo se Brancas passarem...]
+;W[]C[Even if White passes...]
 ;B[cj]
-;W[di]C[Pretas não conseguem fazer dois olhos.])
-(;B[]C[Pretas passam. Pretas já estão mortas, para fins de demonstração...]
+;W[di]C[Black can't make two eyes.])
+(;B[]C[Black passes. Black is already dead, for demonstration purposes...]
 ;W[eh]C[Atari...]
-;B[cj]C[Captura...]
-;W[di]C[Brancas jogam no ponto vital.]
-(;B[ei]
-;W[dh]C[Pretas não conseguem fazer dois olhos.])
+;B[cj]C[Capture...]
+;W[di]C[White plays at the vital point.]
+(;B[hey]
+;W[dh]C[Black can't make two eyes.])
 (;B[dh]
-;W[ei]C[Pretas não conseguem fazer dois olhos.])))
-(;B[eh]C[É um grupo morto.]
+;W[ei]C[Black can't make two eyes.])))
+(;B[eh]C[It's a dead group.]
 ;W[dh]
 ;B[cj]
 ;W[di])
-(;B[cj]C[É um grupo morto.]
+(;B[cj]C[It's a dead group.]
 ;W[dh]
 ;B[eh]
 ;W[di]))

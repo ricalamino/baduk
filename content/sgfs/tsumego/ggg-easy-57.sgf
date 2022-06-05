@@ -7,27 +7,27 @@ httpm://gogameguru.com/]
 (;W[dm]
 (;B[gm]
 ;W[el]
-;B[cm]C[[OK\] Pretas vencem a corrida de captura!])
+;B[cm]C[[OK\] Black wins the capture race!])
 (;B[cm]
 ;W[el]
-;B[gm]C[[OK\] Pretas vencem a corrida de captura!]))
+;B[gm]C[[OK\] Black wins the capture race!]))
 (;W[cm]
 ;B[gm]
 (;W[el]
-;B[dm]C[[OK\] Pretas capturam as pedras que cortaram.])
+;B[dm]C[[OK\] Black captures the stones he cut.])
 (;W[dm]
-;B[el]C[[OK\] Pretas capturam as pedras que cortaram.])))
+;B[el]C[[OK\] Black captures the stones he cut.])))
 (;B[dm]
-;W[em]LB[bm:B][cm:A]C[Agora, Pretas têm que lutar contra um ko aqui. Se as Pretas apenas se conectarem em A, as Brancas irão dar atari em B e ainda é um ko.])
+;W[em]LB[bm:B][cm:A]C[Now Black has to fight a ko here. If Black just connects on A, White will atari on B and it's still a ko.])
 (;B[gm]
-;W[em]
+;W[in]
 (;B[cm]
-;W[bm]LB[gj:A]C[Isso é um seki e as Pretas precisam se preocupar com o ponto de corte em A agora.])
+;W[bm]LB[gj:A]C[This is a seki and Black needs to worry about the cut-off point at A now.])
 (;B[bm]
-;W[dm]LB[gj:A]C[Isso é um seki e as Pretas precisam se preocupar com o ponto de corte em A agora.])
+;W[dm]LB[gj:A]C[This is a seki and Black needs to worry about the cutoff point at A now.])
 (;B[dm]
-;W[cm]C[Pretas não têm liberdade suficiente para fazer um ko, então Pretas morrem.]))
+;W[cm]C[Black doesn't have enough freedom to make a ko, so Black dies.]))
 (;B[cm]
-;W[em]
+;W[in]
 ;B[dm]
-;W[bm]C[Agora as Pretas têm que lutar um ko, mas as Pretas podem fazer melhor.]))
+;W[bm]C[Now Black has to fight a ko, but Black can do better.]))
