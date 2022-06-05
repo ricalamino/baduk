@@ -17,7 +17,7 @@ url: "tsumego-easy-2"
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-25.sgf" description="Problem 25">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-26.sgf" description="Problem 26">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-27.sgf" description="Problem 27">}}
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-28.sgf" description="Problem 28 - Consegue capturar as duas Brancas marcadas com triângulos?">}}
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-28.sgf" description="Problem 28 - Can you capture the two White marked with triangles?">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-29.sgf" description="Problem 29">}}
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-30.sgf" description="Problem 30">}} 
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-31.sgf" description="Problem 31">}}

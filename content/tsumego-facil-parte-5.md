@@ -9,7 +9,7 @@ weight: 5
 url: "tsumego-easy-5"
 ---
 
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-81.sgf" description="Problem 81 - Como as Pretas podem conectar todas as suas pedras?">}}<ok>
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-81.sgf" description="Problem 81 - How Black can connect all his stones?">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-82.sgf" description="Problem 82">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-83.sgf" description="Problem 83">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-84.sgf" description="Problem 84">}}<ok>
@@ -27,7 +27,7 @@ url: "tsumego-easy-5"
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-96.sgf" description="Problem 96">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-97.sgf" description="Problem 97">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-98.sgf" description="Problem 98">}}<ok>
-{{< challenge sgf="/sgfs/tsumego/ggg-easy-99.sgf" description="Problem 99 - Como as Pretas podem capturar as duas pedras Brancas marcadas que as cortaram?">}}<ok>
+{{< challenge sgf="/sgfs/tsumego/ggg-easy-99.sgf" description="Problem 99 - How can Black capture the two marked White stones that cut them?">}}<ok>
 {{< challenge sgf="/sgfs/tsumego/ggg-easy-100.sgf" description="Problem 100">}}<ok>
 
 Source: [Go Game Guru's Weekly Go Problems](https://github.com/gogameguru/go-problems)
