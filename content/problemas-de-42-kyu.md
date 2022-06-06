@@ -12,7 +12,7 @@ url: "42-kyu-problems"
 
 On this page, you will learn the technique called "giving back" (**Uttegaeshi** in Japanese).
 
-{{< challenge sgf="/sgfs/utte-1.sgf" description="It's Black's turn. You can capture 4 white stones.<br /><i>[Tip] You need to sacrifice a stone first.< /i>">}}
+{{< challenge sgf="/sgfs/utte-1.sgf" description="It's Black's turn. You can capture 4 white stones.<br /><i>[Tip] You need to sacrifice a stone first.</i>">}}
 
 
 {{< challenge sgf="/sgfs/utte-2.sgf" description="In the same way.<br />Help the two black stones by killing 2 white ones in the middle of the board.<br />This way all the black stones will be connected.">}}
