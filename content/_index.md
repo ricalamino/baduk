@@ -7,7 +7,7 @@ menu: "main"
 weight: 1
 ---
 
-### Aqui você aprenderá a jogar Go (**Baduk** ou Weiqi).
+### Aqui você aprenderá a jogar Go (**Baduk** ou Weiqi). [English Version](https://howtoplaygo.net)
 Antes de começar, lembre-se de três princípios básicos:
 
 - Dois jogadores (preto e branco) fazem movimentos colocando uma pedra no tabuleiro alternadamente.
@@ -18,14 +18,14 @@ Antes de começar, lembre-se de três princípios básicos:
 
 ### ⭐🚀 Novidades (agosto de 2021)
 
-Nova seção [**Problemas de Go (Tsumego)**](/tsumego) - **Novos problemas toda semana!**
+Nova seção [**Problemas de Go (Tsumego)**](/tsumego) 
 
 Dezenas de problemas reais interativos para serem resolvidos. [Entre já clicando aqui!](/tsumego)  
 
 ---
 ### Créditos 
 
-Versão original: Hiroki Mori (http://playgo.to)
+Versão original: Hiroki Mori (http://playgo.to) / Versão desse site em inglês: (https://howtoplaygo.net)
 
 Traduzido para o português por Ricardo Alamino (Recém migrado de [Jekyll](https://jekyllrb.com/) para [Hugo](https://gohugo.io/))
 
