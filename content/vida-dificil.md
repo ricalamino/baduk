@@ -3,6 +3,7 @@ title: "Hard life"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "45-kyu-problems-ladder"
+url: "hard-life"
 ---
 ### White's fate
 
