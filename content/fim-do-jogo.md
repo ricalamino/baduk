@@ -12,9 +12,9 @@ Here you will learn when a game is about to end and how to count territory using
 
 
 
-{{< diagram sgf="/sgfs/fim-1.sgf" description="Both sides have made 5 moves each and the game is considered over. Black has 5 dots on the left and white has 10 dots on the right.</ p><p>Therefore white won by 5 points.</p><p>You can calculate territory by counting the intersections of vertical and horizontal lines. Corners and edges are also territory. Remember that stones <strong>not </strong> are counted as territory.">}}
+{{< diagram sgf="/sgfs/fim-1.sgf" description="Both sides have made 5 moves each and the game is considered over. Black has 5 dots on the left and white has 10 dots on the right.</ p><p>Therefore white won by 5 points.</p><p>You can calculate territory by counting the intersections of vertical and horizontal lines. Corners and edges are also territory. Remember that stones are <strong>not</strong> counted as territory.">}}
 
-{{< diagram sgf="/sgfs/fim-2.sgf" description="A game is considered finished when both sides pass because they don't want to make any more moves.</p><p>Why can we consider- lo a game over? Continuing the game, assume that Black has made a move into White's territory.</p><p>White can easily capture the invader. See figure.</p><p>Therefore, black don't need to make such a move.">}}
+{{< diagram sgf="/sgfs/fim-2.sgf" description="A game is considered finished when both sides pass because they don't want to make any more moves.</p><p>Why can we consider that board a game over? Continuing the game, assume that Black has made a move into White's territory.</p><p>White can easily capture the invader. See figure.</p><p>Therefore, black don't need to make such a move.">}}
 
 {{< diagram sgf="/sgfs/fim-3.sgf" description="Now, what happens if you make a move within your own territory?</p><p>With that move you would reduce your territory of 1 point. Nobody wants to do that!</p><p>Therefore, the first picture on this page is considered game over. (Although sometimes you have to play within your own territory to make two eyes or to strengthen its limits.)">}}
 
