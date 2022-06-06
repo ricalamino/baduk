@@ -17,7 +17,7 @@ Before you start, remember three basic rules:
 
 ### ⭐🚀 News
 
-New section [**Tsumego**](/tsumego) - **New problems every week!**
+New section [**Tsumego**](/tsumego) 
 
 Dozens of real interactive problems to solve. [Click here to enter!](/tsumego)  
 
