@@ -59,7 +59,7 @@ Normally, at the end of the game, to make counting easier, the captured stones a
 
 {{< diagram sgf="/sgfs/regrairrespiravel.sgf" description="No piece can be placed in a place where there is no freedom. Thus, in the diagram, in the situation \"A\" Black cannot play in \"a \".</p><p>Situation B, however, is different. Black can play in \"b\", as it would be able to capture the White stone marked with a breathing point, leaving it with a breathing point ( situation D ): dot \"c\"..">}}
 
-This can be seen in the [Also legal moves](/illegal-moves) lesson.
+This can be seen in the [Illegal moves](/illegal-moves) lesson.
 
 
 ---
@@ -77,7 +77,7 @@ To practice go back to the [Ko (eternity)](/ko-eternity) class or read the expla
 ---
 ### "Handicap" or Advantage (Rule number 9)
 
-{{< diagram sgf="/sgfs/handicap.sgf" description="If people of different levels play, you can use the \"handicap\" feature. the game.</p><p>If the difference is “one degree” the weaker player plays Black and puts only two stones in the \"handicap\". If it is two degrees, three stones and so on On the side, you can see a diagram showing the placement of 9 stones:<ul><li>For a \"handicap\" of 6 stones, stones 5, 8 and 9 are removed;</li>< li>For a \"handicap\" of 7 stones, stones 8 and 9 are removed;</li><li>For a \"handicap\" of 8 stones, stone 5 is removed;</li> ><li>For all other levels, follow the order marked on the stones.">}}
+{{< diagram sgf="/sgfs/handicap.sgf" description="If people of different levels play, you can use the \"handicap\" feature. the game.</p><p>If the difference is “one degree” the weaker player plays Black and puts only two stones in the \"handicap\". If it is two degrees, three stones and so on On the side, you can see a diagram showing the placement of 9 stones:<ul><li>For a \"handicap\" of 6 stones, stones 5, 8 and 9 are removed;</li><li>For a \"handicap\" of 7 stones, stones 8 and 9 are removed;</li><li>For a \"handicap\" of 8 stones, stone 5 is removed;</li> ><li>For all other levels, follow the order marked on the stones.">}}
 
 For more details see the [Komi](/komi) class.
 
