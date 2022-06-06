@@ -19,5 +19,5 @@ url: "example-game"
 
 ### End of the game
 
-{{< diagram sgf="/sgfs/jogofim3.sgf" description="The pieces that are on the board are rearranged to facilitate counting.</p><p>The captured pieces are placed on the territory of the same color, also to facilitate the final count.</p><p>Now just count the intersections that are not filled by parts. If you don't remember, <a href='/game over'>see here</a> how to count.</p><p>And finally, <strong>Black wins by 20 to 16</strong >.">}} 
+{{< diagram sgf="/sgfs/jogofim3.sgf" description="The pieces that are on the board are rearranged to facilitate counting.</p><p>The captured pieces are placed on the territory of the same color, also to facilitate the final count.</p><p>Now just count the intersections that are not filled by parts. If you don't remember, <a href='/end-game'>see here</a> how to count.</p><p>And finally, <strong>Black wins by 20 to 16</strong >.">}} 
 
