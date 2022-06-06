@@ -13,7 +13,7 @@ url: "48-kyu-problems"
 
 From now on, you will **not** always succeed in one move.
 
-{{< challenge sgf="/sgfs/48K-1-3shi.sgf" description="Escape the three white stones!<br />This takes two moves to do. However, the first move is the most important." >}}
+{{< challenge sgf="/sgfs/48K-1-3shi.sgf" description="Capture the three white stones!<br />This takes two moves to do. However, the first move is the most important." >}}
 
 {{< challenge sgf="/sgfs/48K-2-hashi.sgf" description="Try to capture the white stones in the left corner.<br />It is difficult to \"escape\" with stones in the corners.">}}
 
