@@ -17,7 +17,7 @@ Now, you can click on the board again.
 {{< challenge sgf="/sgfs/46K-3-2shi.sgf" description="Capture the 2 white stones by touching the black ones.<br />Here, you cannot capture the white ones in one move.">}}
 
 
-{{< challenge sgf="/sgfs/46K-4-kake.sgf" description="If you can capture the white stone (<strong>A</strong>) that is separating black, it will be an easy game.< br />[Tip] Don't try to attack the enemy directly.">}}
+{{< challenge sgf="/sgfs/46K-4-kake.sgf" description="If you can capture the white stone (<strong>A</strong>) that is separating black, it will be an easy game.<br />[Tip] Don't try to attack the enemy directly.">}}
 ---
 ### Why do we have to capture the opponent's stones?
 
