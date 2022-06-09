@@ -1196,3 +1196,16 @@ input[type="text"].wgo-permalink {
 }
 
 /*--- /Permalinks ---------------------------------------------------------------------------*/
+
+.svgBtn:hover {
+  fill: rgb(61, 137, 245);
+  cursor: pointer;
+}
+
+.copyAddrBtn {
+  font-size: x-small;
+}
+
+#copied, #copiedb {
+  display: none;
+}
