@@ -1,18 +1,12 @@
 ---
-title: "Política do site"
+title: "Política do site - Privacidade"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 menu: ""
 weight: 1
 ---
 
-- O site baduk.com.br não exibe nem exibirá nenhum anúncio do Google.
-- O site baduk.com.br não é responsável por qualquer conteúdo que seja publicado ou postado por terceiros.
-- O site baduk.com.br não é responsável por nenhum produto ou serviço de terceiros, exceto para acessar o conteúdo do site.
-- O site baduk.com.br utiliza o Google Analytics apenas para analisar os dados de acesso ao site não mantendo nenhum registro sobre o usuário.
-- O site baduk.com.br é mantido apenas por Ricardo Alamino e aceita doações para ajudar a manter o site através da chave PIX go@alami.no.
-
-## Privacidade
+Baduk.com.br não assume responsabilidade por conteúdos publicados ou postados por terceiros. Além disso, não nos responsabilizamos por produtos ou serviços de terceiros, com exceção do acesso ao conteúdo do nosso próprio site.
 
 O site baduk.com.br respeita a privacidade de seus usuários. Não coletamos nenhum dado pessoal do usuário, não utilizamos cookies para rastrear o usuário, e não utilizamos formulários para coletar dados do usuário. Não utilizamos nenhuma forma de rastreamento do usuário, exceto o Google Analytics.
 
