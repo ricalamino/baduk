@@ -35,6 +35,12 @@ package = "netlify-plugin-a11y"
 
   # all inputs are optional, we just show you the defaults below
   [plugins.inputs]
+  # remove title validation for iframe
+  #
+  # By default, the plugin will validate the title of iframes. If you want to
+  # disable this, set this to false.
+  validateIframeTitle = false
+
   
   # required config
   checkPaths = ['/'] # you can give an array of directories or paths to html files, that you want to run a11y checks on
