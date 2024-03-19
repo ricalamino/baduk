@@ -14,5 +14,11 @@ weight: 1
 
 ## Privacidade
 
-O site baduk.com.br não coleta nenhum dado pessoal do usuário. O site baduk.com.br não utiliza cookies para rastrear o usuário. O site baduk.com.br não utiliza formulários para coletar dados do usuário. O site baduk.com.br não utiliza nenhuma forma de rastreamento do usuário.
+O site baduk.com.br respeita a privacidade de seus usuários. Não coletamos nenhum dado pessoal do usuário, não utilizamos cookies para rastrear o usuário, e não utilizamos formulários para coletar dados do usuário. Não utilizamos nenhuma forma de rastreamento do usuário, exceto o Google Analytics.
+
+O Google Analytics é uma ferramenta que nos ajuda a entender como os visitantes interagem com o nosso site. Ele pode usar um conjunto de cookies para coletar informações e reportar estatísticas de uso do site sem identificar pessoalmente os visitantes individuais para o Google. A principal cookie usada pelo Google Analytics é o cookie de '_ga'.
+
+Além de relatar estatísticas de uso do site, o Google Analytics também pode ser usado, juntamente com alguns dos cookies de publicidade descritos acima, para ajudar a mostrar anúncios mais relevantes em propriedades do Google (como a Pesquisa Google) e em toda a web.
+
+Para mais informações sobre a política de privacidade do Google Analytics, visite [Política de Privacidade do Google](https://policies.google.com/privacy?hl=pt-BR).
 
