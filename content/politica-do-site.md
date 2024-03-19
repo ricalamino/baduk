@@ -12,3 +12,7 @@ weight: 1
 - O site baduk.com.br utiliza o Google Analytics apenas para analisar os dados de acesso ao site não mantendo nenhum registro sobre o usuário.
 - O site baduk.com.br é mantido apenas por Ricardo Alamino e aceita doações para ajudar a manter o site através da chave PIX go@alami.no.
 
+## Privacidade
+
+O site baduk.com.br não coleta nenhum dado pessoal do usuário. O site baduk.com.br não utiliza cookies para rastrear o usuário. O site baduk.com.br não utiliza formulários para coletar dados do usuário. O site baduk.com.br não utiliza nenhuma forma de rastreamento do usuário.
+
