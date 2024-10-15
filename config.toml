@@ -22,3 +22,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   [params.tsumego]
     name = "Problemas de Go"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

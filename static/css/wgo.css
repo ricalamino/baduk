@@ -1200,3 +1200,26 @@ input[type="text"].wgo-permalink {
 .pixqr {
   margin: 20px;
 }
+
+/*---GO BOARD CSS-*/
+.go-board {
+  position: relative;
+  width: 600px; /* Largura do tabuleiro */
+  height: 600px; /* Altura do tabuleiro */
+  border: 1px solid #000; /* Borda do tabuleiro */
+}
+
+.line {
+  position: absolute;
+  background-color: #000; /* Cor das linhas */
+}
+
+.stone {
+  position: absolute;
+  border-radius: 50%; /* Faz as pedras serem circulares */
+  background-color: #000; /* Cor padrão das pedras (preta) */
+}
+
+.whatshref:hover {
+  color: #000000 !important;
+}
