@@ -27,7 +27,7 @@ Versão original: Hiroki Mori (http://playgo.to)
 
 Traduzido para o português por Ricardo Alamino (Recém migrado de [Jekyll](https://jekyllrb.com/) para [Hugo](https://gohugo.io/))
 
-Versão em Português disponível no Github em [https://github.com/ricalamino/baduk-hugo/](https://github.com/ricalamino/baduk-hugo/)
+Versão em Português disponível no Github em [https://github.com/ricalamino/baduk/](https://github.com/ricalamino/baduk/)
 
 Baseado na tradução de Andrzej Bojar
 
