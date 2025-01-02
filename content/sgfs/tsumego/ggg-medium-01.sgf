@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
+RU[Japanese]SZ[13]SO[GERADO PELO CURSOR - BUGADO]
+C[Preto joga.
+
+Você consegue encontrar o ponto vital para capturar estas pedras brancas?]
+AW[jj][kj][lj][ik][jk][kk][il]AB[hi][ii][ji][hj][mj][hk][lk][mk][hl][ll][hm][im][lh]
+(;B[ki]
+;W[li]
+(;B[kl]
+;W[jl]
+;B[km]C[[OK\] As pedras brancas estão capturadas.])
+(;B[km]
+;W[kl]))
+(;B[kl]
+;W[jl]
+(;B[ki]
+;W[li]
+;B[km]C[[OK\] Esta ordem de jogadas também funciona.])
+(;B[km]
+;W[ki]))
+(;B[km]
+;W[ki]
+;B[kl]
+;W[jl])
+(;B[li]
+;W[ki])
+(;B[jl]
+;W[kl])) 
