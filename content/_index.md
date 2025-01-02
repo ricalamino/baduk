@@ -7,7 +7,7 @@ menu: "main"
 weight: 1
 ---
 
-### Aqui você aprenderá a jogar Go (**Baduk** ou Weiqi). [English Version](https://howtoplaygo.net)
+### Aqui você aprenderá a jogar Go (**Baduk** ou Weiqi). 
 Antes de começar, lembre-se de três princípios básicos:
 
 - Dois jogadores (preto e branco) fazem movimentos colocando uma pedra no tabuleiro alternadamente.
