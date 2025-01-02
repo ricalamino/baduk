@@ -23,7 +23,7 @@ Dezenas de problemas reais interativos para serem resolvidos. [Entre já clicand
 ---
 ### Créditos 
 
-Versão original: Hiroki Mori (http://playgo.to) / Versão desse site em inglês: (https://howtoplaygo.net)
+Versão original: Hiroki Mori (http://playgo.to)
 
 Traduzido para o português por Ricardo Alamino (Recém migrado de [Jekyll](https://jekyllrb.com/) para [Hugo](https://gohugo.io/))
 
