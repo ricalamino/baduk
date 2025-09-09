@@ -1,0 +1,40 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[cl][cn][co][do][cp][ep][fp][bq][fq][hq][cr][er][fr][gr]AB[dn][en][eo][fo][dp][gp][cq][dq][eq][gq][dr][hr][ir][ds]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[br]
+;W[bs]
+(;B[gs]
+;W[ar]
+(;B[fs]C[[OK\]])
+(;B[es]C[[OK\]]))
+(;B[es]
+;W[ar]
+(;B[gs]C[[OK\]])
+(;B[fs]C[[OK\]]))
+(;B[ar]
+;W[es]
+;B[cs]
+;W[cr])
+(;B[cs]
+;W[ar]
+;B[as]
+;W[go]
+;B[hp]
+;W[bs]C[It's a ko, but Black can do better.]
+;B[gs]
+;W[cr])
+(;B[fs]C[[OK\]]))
+(;B[gs]
+;W[cs])
+(;B[cs]
+;W[br]C[White wins the capturing race.]
+(;B[gs]
+;W[bs])
+(;B[bs]
+;W[es])
+(;B[es]
+;W[bs])
+(;B[fs]
+;W[bs])))

@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[qm][rm][on][qn][oo][op][pq][qq][pr][rr][sr]AB[rn][po][qo][qp][rq][sq][qr][rs]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[so]
+(;W[qs]
+;B[rp]C[[OK\]])
+(;W[rp]
+;B[ss]C[[OK\]]))
+(;B[ss]
+;W[ro]
+;B[rp]
+;W[sn])
+(;B[rp]
+;W[so]
+(;B[sn]
+;W[qs])
+(;B[ss]
+;W[sn]))
+(;B[sn]
+;W[qs]
+(;B[rp]
+;W[so])
+(;B[ro]
+;W[sp])
+(;B[so]
+;W[rp])
+(;B[sp]
+;W[ro]))
+(;B[ro]
+;W[qs]
+(;B[sp]
+;W[sn])
+(;B[sn]
+;W[sp])))
