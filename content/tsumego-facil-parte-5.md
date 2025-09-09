@@ -3,7 +3,7 @@ title: "Tsumego - Fácil - Parte 5"
 date: 2021-08-05T14:10:17-03:00
 draft: false
 previous: "tsumego-facil-parte-4"
-next: "fanhui-alphago"
+next: "tsumego-medio-parte-1"
 menu: "tsumego"
 weight: 5
 ---
