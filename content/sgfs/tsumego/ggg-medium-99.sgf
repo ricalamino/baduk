@@ -27,13 +27,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[ns]
 ;W[lr]
 ;B[ms]
-;W[ls]LB[os:A]C[Black doesn't have enough liberties to connect at A.])
+;W[ls]LB[os:A]C[Preto fazn't tem enough liberties to connect at A.])
 (;B[nr]
 ;W[rr]))
 (;B[nr]
 ;W[rp]
 ;B[rr]
-;W[qn]C[Black would prefer to capture these stones, if possible.])
+;W[qn]C[Preto irstaria prefer to capture these stones, if possible.])
 (;B[rr]
 ;W[nr]
 ;B[ns]
@@ -43,11 +43,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[qp]
 ;W[pr]))
 (;W[qp]
-;B[oq]LB[qq:A]C[White's stones are separated and this is a good result for Black. The stone at A still has aji.]))
+;B[oq]LB[qq:A]C[As pedras brancas são separated and thé é a good result para preto. The pedra em A still tem aji.]))
 (;B[pp]
 ;W[oq]
 (;B[rr]
-;W[ps]C[This isn't too bad, but Black can get a better result with sharper play.])
+;W[ps]C[Thé não é muito ruim, mas Black pode obter a melhor resultado com jogada mais afiada.])
 (;B[nr]
 ;W[rq]
 ;B[qp]
@@ -63,7 +63,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[rr]
 ;W[sr]
 ;B[ns]
-;W[lr]C[Black usually needs three liberties to make this work, but he only has two. Black's dead.]))
+;W[lr]C[Black geralmente precisa três liberdades to fazer thé work, mas he only tem dois. Preto está morto.]))
 (;B[qp]
 ;W[nr])
 (;B[nr]
@@ -87,4 +87,4 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[pp]
 ;W[rq]
 ;B[oq]
-;W[qn]LB[rr:A]C[The stone at A has been wasted. Black can do better.])))
+;W[qn]LB[rr:A]C[The pedra em A tem been wasted. Preto pode fazer melhor.])))

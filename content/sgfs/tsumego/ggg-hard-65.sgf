@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[cm][dn][en][co][go][ho][fp][bq][cq][hq][iq][br][ir]AB[do][dp][gp][dq][gq][cr][dr][gr][hr]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[es]
+(;W[fq]
+;B[fr]
+;W[eq]
+(;B[cs]
+;W[fn]
+;B[er]C[[OK\]])
+(;B[er]
+;W[fn]
+;B[cs]C[[OK\]]))
+(;W[cs]
+;B[fr]
+;W[eq]
+;B[ep]LB[fo:B][fq:A]C[[OK]. A and B são miai, so Preto está vivo.]))
+(;B[fq]
+;W[ep]
+;B[fs]
+;W[er]
+;B[eq]
+;W[hs]
+(;B[es]
+;W[cs])
+(;B[cs]
+;W[es]))
+(;B[fo]
+;W[eo]
+;B[ep]
+;W[fn]
+;B[fq]
+;W[er]
+;B[es]
+;W[fs]
+;B[cs]
+;W[ds]C[É um ko, mas Preto pode fazer melhor.])
+(;B[hs]
+;W[fs]
+;B[es]
+;W[er]
+;B[cs]
+;W[ds]C[É um ko, mas Preto pode fazer melhor.])
+(;B[cs]
+;W[fq]
+;B[fr]
+;W[es]
+(;B[fs]
+;W[hs])
+(;B[hs]
+;W[fs]))
+(;B[fs]
+;W[fq]
+;B[fr]
+;W[hs]))

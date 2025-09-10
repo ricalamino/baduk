@@ -48,7 +48,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[bq]
 ;B[bn]
 ;W[cr]
-;B[cn]LB[bp:B][cq:A]C[Also correct, but there's a slightly better way. You'd prefer to keep Black A on the board instead of Black B if possible, because there's more aji in Black A.])
+;B[cn]LB[bp:B][cq:A]C[Also correct, mas there's a slightly better way. You'd prefer to keep Black A on the board instead of Black B if possible, becausar there's more aji in Black A.])
 (;W[bn]
 ;B[bq]C[[OK\]])))
 (;B[cn]

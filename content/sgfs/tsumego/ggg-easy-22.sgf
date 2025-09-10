@@ -1,6 +1,6 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[https://gogameguru.com/]AW[bj][cj][dk][ek][fk][ak][cl][al]AB[ck][al][dl][el][fl][dm][fm]C[Black to play.
+SO[https://gogameguru.com/]AW[bj][cj][dk][ek][fk][ak][cl][al]AB[ck][al][dl][el][fl][dm][fm]C[Preto joga.
 
 https://gogameguru.com/]
 (;B[bl]
@@ -18,14 +18,14 @@ https://gogameguru.com/]
 ;W[bk])
 (;B[bk]
 ;W[ak]))
-(;W[bk]C[White got tricked...]
-;B[bl]C[...Black shouldn't live, but does with this move.]))
+(;W[bk]C[White obteve tricked...]
+;B[bl]C[...Black shouldn't live, mas faz with thé move.]))
 (;B[cm]
 (;W[bl]
 (;B[bm]
 ;W[bk])
 (;B[bk]
 ;W[ak]))
-(;W[bk]C[This move is a mistake for White...]
+(;W[bk]C[Esta jogada é a mistomar para branco...]
 ;B[bl]
-;W[bm]C[It's a ko.])))
+;W[bm]C[É um ko.])))

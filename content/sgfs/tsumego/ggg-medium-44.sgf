@@ -7,7 +7,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[op]
 (;B[on]
 (;W[no]
-;B[nm]LB[om:A][pn:B]C[Correct. A and B are miai.])
+;B[nm]LB[om:A][pn:B]C[[OK]. A and B são miai.])
 (;W[nm]
 ;B[no]C[[OK\]]))
 (;B[om]
@@ -19,9 +19,9 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[on]
 ;B[nm]C[[OK\]])
 (;W[nm]
-;B[on]LB[no:B][op:A]C[Correct. A and B are miai.]))
+;B[on]LB[no:B][op:A]C[[OK]. A and B são miai.]))
 (;W[nm]
-;B[op]LB[pn:A][pp:B]C[Correct. A and B are miai.]))
+;B[op]LB[pn:A][pp:B]C[[OK]. A and B são miai.]))
 (;B[om]
 ;W[nm]
 (;B[po]

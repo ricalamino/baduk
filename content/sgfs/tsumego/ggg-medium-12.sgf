@@ -8,11 +8,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[rq]
 ;W[qr]
 (;B[rs]
-;W[ss]C[Correct. It's a ko.])
+;W[ss]C[[OK]. É um ko.])
 (;B[ns]
 ;W[os]
 ;B[rs]
-;W[ss]LB[ns:A][os:B]C[Correct. It's a ko, but Black should exchange of A for B as a ko threat.]))
+;W[ss]LB[ns:A][os:B]C[[OK]. É um ko, mas Black deveria exmudar of A for B as a ko threat.]))
 (;B[rq]
 ;W[sr]
 ;B[qs]

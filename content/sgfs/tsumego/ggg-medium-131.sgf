@@ -15,11 +15,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[cn]
 (;B[an]
 ;W[ao]
-;B[ap]C[Correct. It's a ko.])
+;B[ap]C[[OK]. É um ko.])
 (;B[ap]
 ;W[bq]
 ;B[an]
-;W[ao]C[It's a ko, but Black can do better.])
+;W[ao]C[É um ko, mas Preto pode fazer melhor.])
 (;B[ao]
 ;W[bq]))
 (;B[cn]
@@ -36,11 +36,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[ao]
 ;B[ap]C[Also correct and it's still a ko.
 
-However, this variation loses some points compared to the best solution.])
+However, thé variation loses some points compared to the best solution.])
 (;B[ap]
 ;W[gp]
 ;B[an]
-;W[ao]C[It's a ko, but Black can do better.])
+;W[ao]C[É um ko, mas Preto pode fazer melhor.])
 (;B[ao]
 ;W[bq]))
 (;B[an]

@@ -11,9 +11,9 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[sr]
 ;B[sq]
 (;W[rn]
-;B[so]C[Correct. Black lives in seki.])
+;B[so]C[[OK]. Preto vive in seki.])
 (;W[so]
-;B[rn]C[Correct. Black lives in seki.]))
+;B[rn]C[[OK]. Preto vive in seki.]))
 (;B[rn]
 ;W[so]
 ;B[qn]C[Also correct.])

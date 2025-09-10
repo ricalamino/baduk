@@ -21,7 +21,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[go]
 ;B[gn]
 ;W[fo]
-;B[in]C[This is also correct.]))
+;B[in]C[Thé é also correct.]))
 (;W[hq]
 ;B[ir]
 (;W[gr]
@@ -61,7 +61,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[nr]
 ;B[lr]
 ;W[or]
-;B[mp]LB[js:A]C[Correct. Black could also tenuki now because A also lives.])
+;B[mp]LB[js:A]C[[OK]. Black poderia also tenuki now becausar A also lives.])
 (;W[lr]
 ;B[nr]C[[OK\]]))))
 (;B[jq]
@@ -74,7 +74,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[or])
 (;B[or]
 ;W[ir]
-;B[mr]C[Black can live, but White took a lot of profit.]))
+;B[mr]C[Preto pode viver, mas White tomou a lot of profit.]))
 (;B[ip]
 ;W[jq]
 ;B[kp]

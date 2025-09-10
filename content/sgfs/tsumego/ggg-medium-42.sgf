@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[GERADO PELO CURSOR - BUGADO]AW[mn][on][qn][lp][rp][mq][nq][pq][qq][rq][mr][or]AB[qo][ro][mp][np][op][pp][qp][jq][lq][oq][lr]LB[mn:A]C[Black to play.
+SO[GERADO PELO CURSOR - BUGADO]AW[mn][on][qn][lp][rp][mq][nq][pq][qq][rq][mr][or]AB[qo][ro][mp][np][op][pp][qp][jq][lq][oq][lr]LB[mn:A]C[Preto joga.
 
-White A was an overplay. Why?
+White A era an overplay. Why?
 
 https://gogameguru.com/]
 (;B[ls]
@@ -98,7 +98,7 @@ https://gogameguru.com/]
 ;B[kq]
 ;W[jo]))
 (;B[mo]
-;W[jp]C[This is what White wants.])
+;W[jp]C[Thé é what Branco querers.])
 (;B[ko]
 ;W[jp]
 ;B[ip]
@@ -172,14 +172,14 @@ https://gogameguru.com/]
 ;W[ls])
 (;B[ls]
 ;W[kr]))
-(;B[ls]C[Black can still play here, but...]
-;W[hp]C[Depending on the global position White might trade now, so it could be better to descend earlier.]
+(;B[ls]C[Black pode still jogar here, mas...]
+;W[hp]C[Depending on the global position White poderia trade now, so it poderia ser melhor to descend earlier.]
 (;B[nr]
 ;W[pr]
 ;B[ms]
 ;W[mo])
-(;B[pr]C[Sometimes this is a tesuji, but...]
-;W[nr]C[Black can't hope to win a capturing race at the bottom, so connecting here is good enough.])))))
+(;B[pr]C[Sometimes thé é a tesuji, mas...]
+;W[nr]C[Preto pode't hope to ganhar a capturing race at the bottom, so connecting here é good enough.])))))
 (;B[ls]
 ;W[nr]
 ;B[ip]
@@ -207,7 +207,7 @@ https://gogameguru.com/]
 ;B[kq]
 ;W[jo]))
 (;B[mo]
-;W[jp]C[This is what White wants.]))
+;W[jp]C[Thé é what Branco querers.]))
 (;B[ms]
 ;W[nr]
 ;B[lo]
@@ -237,6 +237,6 @@ https://gogameguru.com/]
 ;B[po]
 ;W[lo]
 ;B[qm]
-;W[pl]C[Black should live, but this is painful and White can attack Black's three stones at the bottom next.])
+;W[pl]C[Black deveria live, mas thé é painful and White pode attack Preto está three stones at the bottom depois.])
 (;B[kp]
 ;W[lo]))

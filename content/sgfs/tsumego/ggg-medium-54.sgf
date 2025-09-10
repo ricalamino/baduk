@@ -10,10 +10,10 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[or]
 ;W[qs]
 ;B[op]C[[OK\]])
-(;W[sq]C[Capturing here isn't good for White...]
+(;W[sq]C[Capturing here isn't good para branco...]
 ;B[pr]
 ;W[rq]
-;B[op]LB[nr:B][qs:A]C[Correct. White still has to live with A, so Black will get to play B as well, which further damages White's outside stones.]))
+;B[op]LB[nr:B][qs:A]C[[OK]. White still tem to viver com A, so Black vai obter to jogar B as well, which further damages Branco está outside stones.]))
 (;B[or]
 ;W[op]
 ;B[qr]
@@ -33,7 +33,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[or]
 ;W[op]
 ;B[pr]
-;W[rr]C[Black's stones are captured.])
+;W[rr]C[As pedras pretas são captured.])
 (;B[op]
 ;W[or]
 ;B[pr]
@@ -63,7 +63,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[qr]
 ;W[sq]
 ;B[pr]
-;W[rq]C[Black's stones are captured.])
+;W[rq]C[As pedras pretas são captured.])
 (;B[sq]
 ;W[qr]
 (;B[sn]

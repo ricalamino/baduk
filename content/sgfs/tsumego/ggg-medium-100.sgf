@@ -23,7 +23,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[eo]
 (;B[hm]
 ;W[ep]
-;B[gm]C[Black can also live like this, but White captured the number 1! Can you do better?])
+;B[gm]C[Black pode also viver gostar this, mas White captured the number 1! Can you fazer better?])
 (;B[ep]
 ;W[cl]
 (;B[hm]
@@ -35,7 +35,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[hs]
 ;W[es]
 ;B[gs]
-;W[js]C[Black can't win the capturing race.]
+;W[js]C[Preto pode't ganhar the capturing race.]
 ;B[hm]
 ;W[is])
 (;B[hr]
@@ -43,19 +43,19 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[gs]
 ;W[js]
 ;B[hs]
-;W[es]C[Black can't win the capturing race.]
+;W[es]C[Preto pode't ganhar the capturing race.]
 ;B[hm]
 ;W[fs])
 (;B[gs]
 ;W[hr]
 ;B[gr]
-;W[is]C[Black can't win the capturing race.]
+;W[is]C[Preto pode't ganhar the capturing race.]
 ;B[hm]
 ;W[hs])
 (;B[hs]
 ;W[gr]
 ;B[hr]
-;W[fs]C[Black can't win the capturing race.]
+;W[fs]C[Preto pode't ganhar the capturing race.]
 ;B[gm]
 ;W[gs]))
 (;W[gr]
@@ -65,7 +65,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[fr]
 ;W[hr]
 (;B[er]
-;W[gr]LB[cr:A]C[Black's dead. Even if Black ataris at A now, White can ignore it because Black still can't make two eyes.])
+;W[gr]LB[cr:A]C[Preto está morto. Mesmo se Black ataré at A now, White pode ignore it becausar Black still can't fazer dois eyes.])
 (;B[gr]
 ;W[er]
 (;B[hs]
@@ -89,17 +89,17 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[jl]
 ;W[kk]
 ;B[ik]
-;W[ij]C[Black only has one eye at best, so Black's dead.])
+;W[ij]C[Black only tem one eye at best, so Preto está morto.])
 (;B[mn]
 ;W[ln]
 ;B[lo]
-;W[mm]C[Black's best moves are elsewhere. This variation stops here.])
+;W[mm]C[Preto está best moves são elsewhere. Esta variação stops here.])
 (;B[ln]
 ;W[mn]
 ;B[mm]
-;W[lm]C[Black's best moves are elsewhere. This variation stops here.])
+;W[lm]C[Preto está best moves são elsewhere. Esta variação stops here.])
 (;B[hm]
-;W[hr]C[White wins the capturing race.]
+;W[hr]C[Branco ganhars the capturing race.]
 (;B[gm]
 ;W[gr])
 (;B[go]
@@ -117,9 +117,9 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[go]
 ;W[gs])))
 (;B[gm]
-;W[hr]C[White wins the capturing race.])
+;W[hr]C[Branco ganhars the capturing race.])
 (;B[go]
-;W[hr]C[White wins the capturing race.])
+;W[hr]C[Branco ganhars the capturing race.])
 (;B[hr]
 ;W[ir]
 (;B[fr]
@@ -127,15 +127,15 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[gs]
 ;W[is]
 ;B[hs]
-;W[es]C[Black can't get enough liberties to capture White's stones.])
+;W[es]C[Preto pode't obter enough liberties to capture As pedras brancas.])
 (;B[is]
-;W[gs]C[Black can't get enough liberties to capture White's stones.]
+;W[gs]C[Preto pode't obter enough liberties to capture As pedras brancas.]
 ;B[fs]
 ;W[es]))
 (;B[gs]
-;W[fr]C[Black can't get enough liberties to capture White's stones.])
+;W[fr]C[Preto pode't obter enough liberties to capture As pedras brancas.])
 (;B[hs]
-;W[gs]C[Black can't get enough liberties to capture White's stones.]
+;W[gs]C[Preto pode't obter enough liberties to capture As pedras brancas.]
 ;B[fr]
 ;W[er]))
 (;B[gr]
@@ -145,13 +145,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[hs]
 ;W[fs]
 ;B[gs]
-;W[js]C[Black can't get enough liberties to capture White's stones.])
+;W[js]C[Preto pode't obter enough liberties to capture As pedras brancas.])
 (;B[fs]
 ;W[hs]
 ;B[ep]
 ;W[er]
 ;B[cr]
-;W[br]C[Black still can't get enough liberties to capture White's stones.]
+;W[br]C[Black still can't obter enough liberties to capture As pedras brancas.]
 (;B[is]
 ;W[js])
 (;B[gs]
@@ -159,4 +159,4 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[gs]
 ;W[hs]
 ;B[ir]
-;W[jq]C[Black can't get enough liberties to capture White's stones.])))
+;W[jq]C[Preto pode't obter enough liberties to capture As pedras brancas.])))

@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[nn][pn][rn][sn][po][qo][ro][np][op][sp][pq][mr][pr][ps]AB[qj][qm][rm][qn][pp][qp][rp][oq][or][qr][os]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[sr]
+(;W[rq]
+(;B[qq]
+;W[rr]
+(;B[qs]
+(;W[sq]
+(;B[rs]
+;W[ss]
+;B[pr]C[[OK\]])
+(;B[pr]LB[rs:A][ss:B]C[[OK]. It's a good time to exmudar A for B before making dois eyes here, mas that's a small detail.]))
+(;W[pr]
+;B[rs]C[[OK\]]))
+(;B[rs]
+;W[qs]))
+(;B[rr]
+;W[qq]))
+(;W[rr]
+;B[rq]
+;W[rs]
+;B[qq]C[[OK]. Preto está vivo.]))
+(;B[rq]
+;W[sr]
+(;B[sq]
+;W[rr]LB[so:A]C[Black tem to fight a ko at A now.])
+(;B[rr]
+;W[sq]LB[nq:B][qq:D][qs:C][rs:A]C[Mesmo se Preto joga at A now, White pode start filling liberties at B at any time and Black vai tem to jogar at C and D, so Black only tem a three space eye and Branco pode capturar thé group.]))
+(;B[rr]
+;W[sr]
+;B[rq]
+;W[sq]C[Eventually Black vai tem to capture Branco está three stones, and Black vai die.])
+(;B[sq]
+;W[rq]
+(;B[qq]
+;W[sr]
+(;B[rr]
+;W[sq])
+(;B[qs]
+;W[pr]))
+(;B[so]
+;W[qq]
+;B[rr]
+;W[sp]))
+(;B[qq]
+;W[sr]C[Preto fazn't tem enough room to fazer dois eyes now.]
+;B[qs]
+;W[pr])
+(;B[rs]
+;W[sr]LB[rq:A][sq:B][rr:C]C[Mesmo se Preto joga A-C now, the shape é still morto.])
+(;B[qs]
+;W[sr]))

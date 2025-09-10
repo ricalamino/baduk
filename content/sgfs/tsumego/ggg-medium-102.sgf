@@ -22,14 +22,14 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[as]
 ;W[go]
 ;B[hp]
-;W[bs]C[It's a ko, but Black can do better.]
+;W[bs]C[É um ko, mas Preto pode fazer melhor.]
 ;B[gs]
 ;W[cr])
 (;B[fs]C[[OK\]]))
 (;B[gs]
 ;W[cs])
 (;B[cs]
-;W[br]C[White wins the capturing race.]
+;W[br]C[Branco ganha the capturing race.]
 (;B[gs]
 ;W[bs])
 (;B[bs]

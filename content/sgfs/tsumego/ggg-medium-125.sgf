@@ -45,7 +45,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[ap]
 ;W[hs])
 (;B[hs]
-;W[is]LB[ap:A]C[Even if Black plays at A, it's already a seki. White could also tenuki, instead of playing here.]))
+;W[is]LB[ap:A]C[Even if Preto joga at A, it's already a seki. White poderia also tenuki, instead of playing here.]))
 (;B[bp]
 ;W[hs]))
 (;B[es]
@@ -74,7 +74,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[bn]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
+;W[bp]LB[hs:A]C[If Preto joga at A next, it's a seki, mas Preto pode fazer melhor.])
 (;B[bo]
 ;W[ar])
 (;B[bp]
@@ -94,9 +94,9 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[co]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
+;W[bp]LB[hs:A]C[If Preto joga at A next, it's a seki, mas Preto pode fazer melhor.])
 (;B[ao]
-;W[as]C[Black can do better.]))
+;W[as]C[Preto pode fazer melhor.]))
 (;B[bo]
 ;W[bs]
 ;B[as]
@@ -124,7 +124,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[bn]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
+;W[bp]LB[hs:A]C[If Preto joga at A next, it's a seki, mas Preto pode fazer melhor.])
 (;B[bo]
 ;W[ar])
 (;B[bp]
@@ -144,7 +144,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[co]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
+;W[bp]LB[hs:A]C[If Preto joga at A next, it's a seki, mas Preto pode fazer melhor.])
 (;B[ao]
 ;W[as]))
 (;B[es]
@@ -154,7 +154,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[gs]
 ;W[is]
 ;B[co]
-;W[ao]C[It's a seki, but Black can do better.]))
+;W[ao]C[It's a seki, mas Preto pode fazer melhor.]))
 (;B[bo]
 ;W[bs]
 ;B[as]
@@ -166,7 +166,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[bp]
 ;W[cp]
 ;B[aq]
-;W[bo]C[It's a ko, but Black can do better.])
+;W[bo]C[É um ko, mas Preto pode fazer melhor.])
 (;B[bs]
 ;W[cp]
 ;B[ds]
@@ -182,6 +182,6 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[co]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
+;W[bp]LB[hs:A]C[If Preto joga at A next, it's a seki, mas Preto pode fazer melhor.])
 (;B[ao]
-;W[as]C[Black can do better.])))
+;W[as]C[Preto pode fazer melhor.])))

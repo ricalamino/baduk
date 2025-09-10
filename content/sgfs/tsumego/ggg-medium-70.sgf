@@ -3,7 +3,7 @@ RU[Japanese]SZ[19]KM[0.00]
 SO[GERADO PELO CURSOR - BUGADO]AW[qj][rj][pk][sk][pl][ql][pm][nn][on][pn][so][qp][rp][lq][oq][pq][rq][qr]AB[qk][rk][rl][qm][sm][qn][rn][no][oo][po][qo][ro][pp][sp]C[Preto joga.
 
 Você consegue encontrar a sequência correta para capturar as pedras brancas?]
-(;B[mo]C[Correct. Now Black can escape into the center.])
+(;B[mo]C[[OK]. Now Black pode escape into the center.])
 (;B[lo]
 ;W[mo]
 (;B[mp]
@@ -11,7 +11,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[np]
 ;W[lp]
 ;B[mr]
-;W[lr]C[Black's dead.])
+;W[lr]C[Preto está morto.])
 (;B[lp]
 ;W[np])
 (;B[nq]
@@ -19,7 +19,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[or]
 ;W[pr]
 ;B[mr]
-;W[lr]LB[mq:A][ns:B]C[Black has weaknesses at A and B, but only has time to fix one of them, so Black's dead.]))
+;W[lr]LB[mq:A][ns:B]C[Black tem weaknesses at A and B, mas only tem time to fix one of them, so Preto está morto.]))
 (;B[mn]
 ;W[mp]))
 (;B[mp]
@@ -39,7 +39,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[or]
 ;W[pr]
 ;B[mr]
-;W[lr]C[Black's dead.]))
+;W[lr]C[Preto está morto.]))
 (;B[nq]
 ;W[mo]
 (;B[lp]

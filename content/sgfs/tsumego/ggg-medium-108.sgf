@@ -7,7 +7,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[sn]
 ;B[qn]
 ;W[qm]
-;B[rm]LB[qn:B][rn:C][sq:A]C[Correct. Even if White plays at A now, the groups at A and B are in a temporary seki, but because White's outside stones will eventually be captured, White's dead.])
+;B[rm]LB[qn:B][rn:C][sq:A]C[[OK]. Mesmo se Branco joga at A now, the groups at A and B são in a temporary seki, mas becausar Branco está outside stones vai eventually be captured, Branco está morto.])
 (;W[rm]
 ;B[sn]
 ;W[so]

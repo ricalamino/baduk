@@ -1,0 +1,96 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[ej][dl][ql][cm][dm][gm][pm][dn][pn][eo][jo][ko][lo][oo][bp][ep][jp][lp][op][qp][rp][sp][bq][cq][dq][iq][kq][mq][nq][pq][cr][er][fr][ir][mr][ds]AB[cj][ck][cl][bm][cn][in][jn][kn][ln][mn][qn][bo][co][go][io][mo][cp][dp][ip][mp][np][eq][fq][gq][oq][rq][gr][nr][or][pr][qr][bs][fs][gs][ns]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[kr]
+(;W[ms]
+(;B[is]
+(;W[js]
+(;B[jr]
+(;W[hs]
+(;B[ls]
+(;W[lq]
+;B[jq]
+;W[is]
+;B[hq]C[[OK\]])
+(;W[jq]
+;B[lq]C[[OK\]]))
+(;B[jq]
+;W[ks])
+(;B[ks]
+;W[jq]))
+(;W[jq]
+;B[ks]C[[OK\]]))
+(;B[ls]
+;W[lq]
+;B[jr]
+;W[jq]
+(;B[ks]
+;W[lr])
+(;B[hs]
+;W[lr]
+;B[ks]
+;W[js])))
+(;W[jr]
+;B[js]
+;W[ks]
+;B[ls]
+;W[lq]
+;B[hs]C[[OK\]]))
+(;B[jr]
+;W[is]
+;B[ls]
+;W[lq]
+;B[jq]
+;W[js]
+;B[hq]
+;W[ks])
+(;B[ls]
+;W[lq]
+(;B[is]
+;W[jr]
+;B[js]
+;W[lr])
+(;B[jr]
+;W[jq]
+;B[is]
+;W[js]
+(;B[ks]
+;W[lr])
+(;B[hs]
+;W[lr]
+;B[ks]
+;W[js]))))
+(;W[jr]
+;B[ls]LB[lq:B][ms:A]C[[OK]. A and B são miai para preto.])
+(;W[rr]C[Branco pode't matar Preto irstar this...]
+(;B[sr]
+;W[rs]
+(;B[qq]
+;W[sq]
+;B[qs]
+;W[ss]
+;B[sr]C[Preto vive.])
+(;B[qs]C[Thé gostaria be a mistomar para preto.]
+;W[qq]
+;B[ss]
+;W[rr]
+;B[rs]
+;W[sq]C[Preto pode't viver locally, so now it gostaria be a capturing race.]))
+(;B[qq]C[Thé gostaria be a mistomar para preto.]
+;W[sq]
+;B[pp]
+;W[qo]C[Preto pode't viver locally, so now it gostaria be a capturing race.]))
+(;W[ap]C[Branco pode't viver gostar this...]
+;B[ar]
+;W[br]
+;B[es]C[Thé é a type of 'bent four no canto' shape. Branco está still morto: http://senseis.xmp.net/?BentFourInTheCornerIsMorto])
+(;W[lr]
+;B[ls]C[[OK\]]))
+(;B[lr]
+;W[kr])
+(;B[ks]
+;W[kr])
+(;B[ms]
+;W[kr]))

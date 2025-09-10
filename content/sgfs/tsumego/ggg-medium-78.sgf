@@ -12,12 +12,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[js]
 (;W[bq]
 ;B[hs]C[[OK\]])
-(;W[ds]C[If White play here, which is quite a bad move,]
-;B[bq]C[Now Black can extend here, and]
+(;W[ds]C[If White jogar here, which é quite a bad move,]
+;B[bq]C[Now Black pode extend here, and]
 ;W[br]
 ;B[hs]
 ;W[bp]
-;B[fs]LB[bp:B][aq:C][bq:A]C[Correct. Exchanging A for B could be better for Black in this case, because now Black has two ko threats in the bottom left (starting with C).]))
+;B[fs]LB[bp:B][aq:C][bq:A]C[[OK]. Exchanging A for B poderia ser melhor para preto in thé case, becausar now Black tem two ko threats in the bottom deixou (starting with C).]))
 (;B[bq]
 ;W[br]
 ;B[js]C[[OK\]])
@@ -29,7 +29,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[cs]
 ;B[js]
 ;W[bp]
-;B[hs]LB[bp:B][bq:A]C[Also correct. The exchange of A for B is unnecessary though, and probably more helpful for White at this time.])
+;B[hs]LB[bp:B][bq:A]C[Also correct. The exmudar of A for B é unnecessary though, and probably more helpful para branco at thé time.])
 (;B[js]
 ;W[ds]
 ;B[hs]

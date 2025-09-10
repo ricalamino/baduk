@@ -1,0 +1,231 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[bo][co][dp][cq][cr]AB[bl][bn][cn][dn][eo][ep][dq][dr][fr]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[br]
+;W[bs]
+(;B[ar]
+(;W[ao]
+(;B[do]
+;W[aq]
+;B[bq]
+;W[bp]
+;B[ap]C[[OK]. É um ko.])
+(;B[aq]
+;W[do]
+(;B[bp]
+;W[bq]
+;B[an]
+;W[cp])
+(;B[bq]
+;W[bp]))
+(;B[ap]
+;W[bq])
+(;B[bq]
+;W[bp]
+(;B[do]
+;W[aq]
+;B[ap]C[[OK]. É um ko.])
+(;B[aq]
+;W[do])))
+(;W[bq]
+;B[ao]
+;W[ap]
+;B[cp]C[[OK\]])
+(;W[aq]
+(;B[bq]
+;W[bp]
+;B[ap]
+;W[ao]
+;B[do]
+;W[aq]C[É um ko, mas Preto pode fazer melhor.])
+(;B[ao]
+(;W[bp]
+;B[do]C[[OK\]])
+(;W[ap]
+(;B[cp]C[[OK\]])
+(;B[an]
+;W[bq]
+;B[cp]C[[OK\]])
+(;B[do]
+;W[cp]
+(;B[an]
+;W[bq])
+(;B[bq]
+;W[an]
+;B[am]
+;W[ao]C[It's a seki, so Branco está vivo.]))
+(;B[bq]
+;W[an]
+;B[cp]
+;W[bp]
+;B[do]C[[OK\]]))))
+(;W[do]
+(;B[bp]
+(;W[ap]
+;B[aq]
+;W[ao]
+;B[bq]C[[OK\]])
+(;W[ao]
+;B[bq]LB[ap:B][cp:A][aq:C]C[[OK]. Mesmo se White conectar em A, her stones são already morto becausar B and C são miai.])
+(;W[bq]
+;B[ao]
+;W[cp]
+;B[ap]C[[OK\]]))
+(;B[ao]
+;W[ap]
+;B[bp]
+;W[an]
+;B[bq]LB[cp:A][aq:B]C[[OK]. Mesmo se White conectar em A, her stones são already morto becausar Black pode jogar at B at anytime.])
+(;B[ap]
+;W[ao]
+;B[bq]
+;W[bp]
+;B[an]
+;W[aq]C[É um ko, mas Preto pode fazer melhor.])))
+(;B[bq]
+(;W[ar]
+;B[aq]
+(;W[bp]
+;B[as]
+;W[cs]
+;B[ds]C[[OK]. É um ko.])
+(;W[ao]
+(;B[as]
+;W[cs]
+(;B[cp]
+;W[bp]
+;B[ds]C[[OK]. É um ko.])
+(;B[ds]
+;W[cp]C[It's a ten thousand year ko, so Preto pode fazer melhor. 
+http://senseis.xmp.net/?TenThousandYearKo])
+(;B[ar]
+;W[cp]C[It's a seki, so Branco está vivo.]))
+(;B[do]
+;W[cp]C[It's a ten thousand year ko, so Preto pode fazer melhor. 
+http://senseis.xmp.net/?TenThousandYearKo])
+(;B[cp]
+;W[bp]
+;B[as]
+;W[cs]
+;B[ds]C[[OK]. É um ko.])))
+(;W[bp]
+(;B[ar]
+(;W[do]
+;B[ap]
+;W[ao]
+;B[an]
+;W[aq]C[[OK]. É um ko.])
+(;W[ao]
+;B[do]
+;W[aq]
+;B[ap]C[[OK]. É um ko.])
+(;W[aq]
+;B[ap]
+;W[ao]
+;B[do]C[[OK]. É um ko.]))
+(;B[do]
+;W[ar])
+(;B[aq]
+;W[ap]
+;B[ar]
+;W[do]))))
+(;B[bp]
+;W[ap]
+;B[aq]
+;W[ao]
+;B[br]
+;W[bs]
+;B[bq]
+;W[ar]
+;B[as]
+;W[cs]
+(;B[ds]
+;W[cp])
+(;B[an]
+;W[cp])
+(;B[do]
+;W[cp]))
+(;B[ao]
+;W[ap]
+(;B[an]
+;W[bp]
+(;B[do]
+;W[ar])
+(;B[br]
+;W[bs]
+;B[ar]
+;W[do]
+;B[bq]C[It's seki, so Branco está vivo.]))
+(;B[bp]
+;W[an]
+;B[aq]
+;W[bq]
+;B[ao]
+;W[ar]
+(;B[am]
+;W[cp])
+(;B[bs]
+;W[cs]
+(;B[am]
+;W[cp])
+(;B[ap]
+;W[cp]
+;B[ap]
+;W[ao])))
+(;B[ar]
+;W[br]
+;B[cs]
+;W[bs]
+(;B[cp]
+;W[bp]
+;B[do]
+;W[aq])
+(;B[do]
+;W[cp]
+;B[aq]
+;W[an]
+;B[bq]C[It's a seki, so Branco está vivo.])))
+(;B[do]
+;W[cp]
+;B[br]
+;W[bs]
+;B[bq]
+;W[ar]
+;B[aq]
+;W[ao]C[It's a ten thousand year ko, so Preto pode fazer melhor. 
+http://senseis.xmp.net/?TenThousandYearKo])
+(;B[cs]
+;W[bs]
+;B[br]
+;W[ds]
+;B[bq]
+;W[ar]
+;B[aq]
+;W[bp]
+;B[as]LB[cp:B][cs:A]C[It's a dois stage ko para preto. He needs to jogar dois more moves (e.g. A and B) to ganhar thé ko, so Preto pode fazer melhor.])
+(;B[cp]
+;W[bp]
+(;B[do]
+;W[br])
+(;B[br]
+;W[bs]
+;B[ar]
+;W[aq]
+(;B[do]
+;W[ao])
+(;B[ao]
+;W[do])))
+(;B[bs]
+;W[cs]
+;B[ao]
+;W[ap]
+;B[an]
+;W[bp]
+(;B[do]
+;W[ar])
+(;B[br]
+;W[bq]
+;B[ar]
+;W[do])))

@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[GERADO PELO CURSOR - BUGADO]AW[bl][cl][el][bm][dm][fm][gm][bn][cn][dn][en][ao][bo][ap][bq][eq][jq][ar][br]AB[fj][bk][ck][dk][al][dl][gl][hl][am][hm][fn][gn][co][bp][cp][dp][fp][cr][bs]LB[eq:A]C[Black to play.
+SO[GERADO PELO CURSOR - BUGADO]AW[bl][cl][el][bm][dm][fm][gm][bn][cn][dn][en][ao][bo][ap][bq][eq][jq][ar][br]AB[fj][bk][ck][dk][al][dl][gl][hl][am][hm][fn][gn][co][bp][cp][dp][fp][cr][bs]LB[eq:A]C[Preto joga.
 
-How should Black defend against White A?
+How deveria Black defend against White A?
 
 https://gogameguru.com/]
 (;B[er]
@@ -56,7 +56,7 @@ https://gogameguru.com/]
 ;W[fs]
 ;B[cs]
 ;W[do])
-(;B[fr]C[Also correct, but there's a better move.]))
+(;B[fr]C[Also correct, mas there's a better move.]))
 (;B[eo]
 ;W[do]
 (;B[fo]
@@ -84,7 +84,7 @@ https://gogameguru.com/]
 ;B[eo]
 ;W[do]
 (;B[fo]
-;W[er]C[White will capture Black's corner stones.])
+;W[er]C[White vai capture Preto está corner stones.])
 (;B[fq]
 ;W[er])
 (;B[er]

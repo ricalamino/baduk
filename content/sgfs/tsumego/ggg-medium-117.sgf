@@ -11,12 +11,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[rs]
 (;B[rq]
 (;W[sr]
-;B[ss]C[Correct. It's a ko and this is the best solution for Black because he takes the ko first.])
+;B[ss]C[[OK]. É um ko and thé é the best solution para preto becausar he takes the ko first.])
 (;W[qp]
-;B[sr]LB[ss:A]C[Correct. White's dead.
+;B[sr]LB[ss:A]C[[OK]. Branco está morto.
 
-Sometimes in actual games, White can play like this instead of fighting the ko. For example if there's a capturing race involving Black's surrounding stones, White might consider this variation. Locally White is dead, but her shape has a lot of liberties.]))
-(;B[ss]C[Correct. It's a ko.])
+Sometimes in actual games, White pode jogar gostar thé instead of fighting the ko. For example if there's a capturing race involving Preto está surrounding stones, White poderia considerar thé variation. Locally Branco está morto, mas her shape tem a lot of liberties.]))
+(;B[ss]C[[OK]. É um ko.])
 (;B[sn]
 ;W[rq]
 ;B[qp]
@@ -25,7 +25,7 @@ Sometimes in actual games, White can play like this instead of fighting the ko. 
 ;W[qp]
 (;B[rr]
 ;W[rs]
-(;B[ss]C[Correct. It's a ko.])
+(;B[ss]C[[OK]. É um ko.])
 (;B[rq]
 ;W[sr]))
 (;B[qs]
@@ -55,7 +55,7 @@ Sometimes in actual games, White can play like this instead of fighting the ko. 
 ;B[ss]
 ;W[rq]
 ;B[qs]
-;W[sr]C[It's a double ko, so White's alive.])))
+;W[sr]C[It's a double ko, so Branco está vivo.])))
 (;B[rr]
 ;W[rs]
 (;B[rq]
@@ -96,7 +96,7 @@ Sometimes in actual games, White can play like this instead of fighting the ko. 
 (;B[ps]C[[OK\]]))
 (;B[sp]
 ;W[ss])
-(;B[sq]C[It's a seki, so White's alive.])))
+(;B[sq]C[It's a seki, so Branco está vivo.])))
 (;B[sp]
 ;W[sr]))
 (;B[qp]
@@ -120,7 +120,7 @@ Sometimes in actual games, White can play like this instead of fighting the ko. 
 ;B[ss]
 ;W[rq]
 ;B[qs]
-;W[sr]C[It's a double ko, so White's alive.])
+;W[sr]C[It's a double ko, so Branco está vivo.])
 (;B[rr]
 ;W[ps]
 ;B[rq]

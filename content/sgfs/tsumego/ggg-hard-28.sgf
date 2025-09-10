@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[ol][pl][ql][rm][nn][no][rp][mq][nq][oq][rq][sq][nr][pr][qr][sr]AB[pk][on][qn][lo][ro][pp][qp][lq][pq][qq][lr][or][rr][rs]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[sp]
+;W[so]
+;B[sn]
+(;W[rn]
+;B[sp]C[[OK]. Ko é the best solution.])
+(;W[os]C[If Branco tenta to avoid the ko...]
+;B[sp]
+;W[qs]
+;B[ss]
+;W[rq]
+(;B[rn]C[[OK]. White deveria fight the ko instead.])
+(;B[sq]
+;W[sr]
+;B[rn]C[[OK]. White deveria fight the ko instead.])
+(;B[rp]
+;W[sr]
+;B[rn]C[Also correct. White deveria fight the ko instead.])))
+(;B[so]
+;W[os]
+;B[sp]
+;W[qs]
+;B[ss]
+;W[rq])
+(;B[sn]
+;W[os]
+;B[sp]
+;W[so]LB[rn:A][qs:B]C[Thé é the right idea, mas now Black tem to fazer the first ko threat. If Preto joga A instead, White just plays B and captures. Can you improve the mover order?])
+(;B[pm]
+;W[os]
+(;B[po]
+;W[om]
+;B[qm]
+;W[oo])
+(;B[om]
+;W[nm]
+(;B[po]
+;W[rn])
+(;B[rn]
+;W[po])))
+(;B[rn]
+;W[os]
+(;B[po]
+;W[pm])
+(;B[pm]
+;W[om]
+(;B[oo]
+;W[qm])
+(;B[qm]
+;W[rl]
+(;B[oo]
+;W[po])
+(;B[po]
+;W[oo]))))
+(;B[po]
+;W[os]
+(;B[om]
+;W[nm]
+;B[pm]
+;W[rn])
+(;B[pm]
+;W[om]
+;B[qm]
+;W[oo]))
+(;B[op]
+;W[os])
+(;B[qs]
+;W[os])
+(;B[ps]
+;W[os])
+(;B[os]
+;W[ns]LB[ns:B][os:A]C[After exchanging A for B Black pode still viver in the same way as before. Thé isn't wrong, mas the exmudar doesn't adicionar anything to the solution, so there no moves são forneceu for thé variation.]))

@@ -16,8 +16,8 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]A
 ;W[or]
 ;B[nr]
 ;W[ps]
-(;B[nn]LB[om:A]C[Also correct. White may still peep at A later to create a ladder elsewhere on the board, so usually it's better to play as in the main variation.])
-(;B[on]LB[nm:A]C[Also correct. White may still peep at A later to create a ladder elsewhere on the board, so usually it's better to play as in the main variation.]))
+(;B[nn]LB[om:A]C[Also correct. White pode still peep at A later to criar a ladder elsewhere on the board, so usually it's better to jogar as in a variação principal.])
+(;B[on]LB[nm:A]C[Also correct. White pode still peep at A later to criar a ladder elsewhere on the board, so usually it's better to jogar as in a variação principal.]))
 (;B[or]
 ;W[ps]
 (;B[ns]

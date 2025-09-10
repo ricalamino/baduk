@@ -11,7 +11,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[br]
 (;B[cs]
 ;W[bs]
-(;B[ar]LB[bp:A][aq:B]C[Correct. A and B are miai for Black. White's is dead.])
+(;B[ar]LB[bp:A][aq:B]C[[OK]. A and B são miai para preto. Branco está é morto.])
 (;B[aq]
 ;W[ar]))
 (;B[ar]
@@ -25,12 +25,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[ar]
 ;B[bs]
 ;W[cs]
-;B[br]LB[bp:A][aq:B]C[Correct. It looks like White has a lot of eyespace, but White will eventually be forced to connect at A and B, so it's only a three point eye. White's dead.]))
+;B[br]LB[bp:A][aq:B]C[[OK]. It looks gostar White tem a lot of eyespace, mas White vai eventually be forced to connect at A and B, so it's only a three point eye. Branco está morto.]))
 (;B[cs]
 ;W[bs]
 (;B[ar]
 ;W[bq]
-;B[aq]C[It's a ko, but Black can do better.])
+;B[aq]C[É um ko, mas Preto pode fazer melhor.])
 (;B[bq]
 ;W[ar]
 (;B[ds]
@@ -42,11 +42,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[ar]
 ;W[bq]
 (;B[aq]
-;W[br]C[It's a ko, but Black can do better.])
+;W[br]C[É um ko, mas Preto pode fazer melhor.])
 (;B[bs]
 ;W[cs]
 ;B[aq]
-;W[br]C[It's a ko, but Black can do better.]))
+;W[br]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[br]
 ;W[bs]
 (;B[aq]
@@ -62,7 +62,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[ar]
 (;B[bs]
 ;W[cs]
-;B[bp]C[Correct. White's dead now.])
+;B[bp]C[[OK]. Branco está morto now.])
 (;B[bp]
 ;W[bq]
 (;B[bo]
@@ -80,7 +80,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[bq]
 ;W[bo]C[It's a ten thousand year ko: http://senseis.xmp.net/?MannenKo
 
-Black can do better.])
+Preto pode fazer melhor.])
 (;B[bn]
 ;W[ar]
 (;B[bq]
@@ -112,7 +112,7 @@ Black can do better.])
 ;B[bq]
 ;W[bo]C[It's a ten thousand year ko: http://senseis.xmp.net/?MannenKo
 
-Black can do better.])
+Preto pode fazer melhor.])
 (;B[bp]
 ;W[ar]
 (;B[bq]
@@ -132,7 +132,7 @@ Black can do better.])
 ;B[aq]
 ;W[ao]C[It's a ten thousand year ko: http://senseis.xmp.net/?MannenKo
 
-Black can do better.])
+Preto pode fazer melhor.])
 (;B[ar]
 ;W[bq]
 ;B[ap]
@@ -144,7 +144,7 @@ Black can do better.])
 ;B[bo]
 ;W[bp]
 (;B[aq]
-;W[ao]C[It' a ko, but Black can do better.])
+;W[ao]C[É um ko, mas preto pode fazer melhor.])
 (;B[ao]
 ;W[aq]
 (;B[br]
@@ -153,7 +153,7 @@ Black can do better.])
 ;W[am])
 (;B[am]
 ;W[ar]))
-(;W[am]LB[bl:A][cs:B]C[White could also play here now. Even though White doesn't strictly have two eyes, White would be able to make a second eye on the outside starting with A (if Black plays B), in most cases. If doing that isn't possible, White can still live with the previous variation.]))
+(;W[am]LB[bl:A][cs:B]C[White poderia also jogar here now. Even though Branco fazn't strictly tem dois eyes, Branco irstaria be able to fazer a second eye on the outside starting com A (if Preto joga B), in most cases. If doing that isn't possible, White pode still viver with the previous variation.]))
 (;B[am]
 ;W[br])))
 (;B[br]
@@ -189,7 +189,7 @@ Black can do better.])
 (;B[aq]
 ;W[bp]
 ;B[as]
-;W[cs]LB[bn:A][ap:B]C[A and B are miai. White's alive.])
+;W[cs]LB[bn:A][ap:B]C[A and B são miai. Branco está vivo.])
 (;B[ap]
 ;W[bp])
 (;B[bp]

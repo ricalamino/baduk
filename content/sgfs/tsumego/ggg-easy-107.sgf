@@ -12,7 +12,7 @@ AW[ih][jh][kh][ij][kj][lj][jk][jl]AB[ji][fj][jj][hk][kk][kl][ll]
 ;B[im]C[[OK\]])
 (;W[ji]
 ;B[il]C[[OK\]]))
-(;B[il]C[There's a better move for this.]))
+(;B[il]C[There's a better mover for this.]))
 (;W[il]
 ;B[hl]
 ;W[ki]
@@ -38,19 +38,19 @@ AW[ih][jh][kh][ij][kj][lj][jk][jl]AB[ji][fj][jj][hk][kk][kl][ll]
 (;B[im]
 ;W[ki]
 (;B[jj]C[[OK\]])
-(;B[jm]C[There's a better move for this.]))
+(;B[jm]C[There's a better mover for this.]))
 (;B[jm]
 ;W[ki]
 (;B[jj]C[[OK\]])
-(;B[im]C[There's a better move for this.]))))
+(;B[im]C[There's a better mover for this.]))))
 (;B[jm]
 ;W[ik]
 (;B[il]
 ;W[hl]
 ;B[im]
 ;W[hj]
-;B[gk]LB[jm:A]C[This is also possible, but there was a better move for A.])
-(;B[hm]LB[jm:A]C[This is also possible, but there was a better move for A.])
+;B[gk]LB[jm:A]C[Thé é also possible, mas there era a better mover for A.])
+(;B[hm]LB[jm:A]C[Thé é also possible, mas there era a better mover for A.])
 (;B[hl]
 ;W[im]))
 (;B[il]

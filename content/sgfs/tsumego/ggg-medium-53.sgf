@@ -17,7 +17,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[kn]
 ;W[km]
 ;B[jn]
-;W[in]C[It's a ladder and Black's star point stone doesn't help here.]))
+;W[in]C[It's a ladder and Preto está star point stone doesn't ajudar here.]))
 (;B[mm]
 ;W[lr])
 (;B[lp]
@@ -27,7 +27,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[nm]
 ;B[pn]
 ;W[nn]
-;B[nl]C[Correct. White's caught in a ladder.]))
+;B[nl]C[[OK]. Branco está caught in a ladder.]))
 (;B[nm]
 ;W[lp]
 ;B[lo]
@@ -39,7 +39,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[jn]
 ;W[in]
 ;B[jm]
-;W[jl]C[It's a ladder and Black's star point stone doesn't help here.])
+;W[jl]C[It's a ladder and Preto está star point stone doesn't ajudar here.])
 (;B[lr]
 ;W[lp]
 ;B[lo]
@@ -47,7 +47,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[ko]
 ;W[jo]
 ;B[kn]
-;W[km]C[It's a ladder and Black's star point stone doesn't help here.]))
+;W[km]C[It's a ladder and Preto está star point stone doesn't ajudar here.]))
 (;B[lr]
 ;W[lp]
 ;B[lo]
@@ -59,13 +59,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[jn]
 ;W[in]
 ;B[jm]
-;W[jl]C[It's a ladder and Black's star point stone doesn't help here.])
+;W[jl]C[It's a ladder and Preto está star point stone doesn't ajudar here.])
 (;B[ln]
 ;W[lo]
 ;B[lp]
 ;W[lr]
 (;B[kq]
-;W[nm]C[White's winning the capturing race at the bottom 4 liberties to 3 and is developing nicely.])
+;W[nm]C[Branco está winning the capturing race at the bottom 4 liberties to 3 and é developing nicely.])
 (;B[ko]
 ;W[kq]
 ;B[lo]
@@ -73,8 +73,8 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[lp]
 ;W[lr]
 ;B[kq]
-;W[nm]C[White's winning the capturing race at the bottom 4 liberties to 3 and is developing nicely.])
+;W[nm]C[Branco está winning the capturing race at the bottom 4 liberties to 3 and é developing nicely.])
 (;B[kq]
-;W[nr]C[White can capture Black's five cutting stones.])
+;W[nr]C[Branco pode capturar Preto está five cutting stones.])
 (;B[lo]
 ;W[lr]))

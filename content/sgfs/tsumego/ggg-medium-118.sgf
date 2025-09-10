@@ -37,12 +37,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[on]
 ;B[nn]
 ;W[qo]
-(;B[qm]LB[om:B][pn:A]C[Correct. A and B are miai for Black.])
+(;B[qm]LB[om:B][pn:A]C[[OK]. A and B são miai para preto.])
 (;B[sp]
 ;W[pn]
 ;B[ro]
 ;W[po]
-;B[pm]LB[qm:A]C[Correct. If the ladder favors White, Black can play the tesuji at A instead of playing atari at T4.]))))
+;B[pm]LB[qm:A]C[[OK]. If the ladder favors White, Black pode jogar the tesuji at A instead of playing atari at T4.]))))
 (;B[oo]
 ;W[rn]
 (;B[rm]
@@ -69,7 +69,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[or]
 ;W[nq]
 ;B[nr]
-;W[mq]C[This result is better for White.])
+;W[mq]C[Thé result é better para branco.])
 (;B[nq]
 ;W[or]
 ;B[op]
@@ -112,7 +112,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[nr]
 ;B[rn]
 ;W[so]
-;B[no]LB[on:A][mr:B]C[Correct. A and B are miai for Black.])))
+;B[no]LB[on:A][mr:B]C[[OK]. A and B são miai para preto.])))
 (;W[op]
 ;B[ro]C[[OK\]]))
 (;B[or]
@@ -122,13 +122,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[rp]
 ;W[ro]
 ;B[rq]
-;W[qo]C[This result is better for White.])
+;W[qo]C[Thé result é better para branco.])
 (;B[rp]
 ;W[ro]
 ;B[rq]
 ;W[qo]
 ;B[nr]
-;W[mq]C[This result is better for White.]))
+;W[mq]C[Thé result é better para branco.]))
 (;B[op]
 ;W[rq]
 (;B[rr]
@@ -140,7 +140,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[oo]
 ;W[sr]
 ;B[qr]
-;W[rn]C[This result is better for White.])
+;W[rn]C[Thé result é better para branco.])
 (;B[oo]
 ;W[nr]
 ;B[ro]
@@ -156,10 +156,10 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[oo]
 ;W[sr]
 ;B[qr]
-;W[rn]C[This result is better for White.]))
+;W[rn]C[Thé result é better para branco.]))
 (;B[nq]
 ;W[or]
 (;B[op]
 ;W[rq])
 (;B[rp]
-;W[np]C[This result is better for White.])))
+;W[np]C[Thé result é better para branco.])))

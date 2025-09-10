@@ -5,27 +5,27 @@ SO[GERADO PELO CURSOR - BUGADO]AW[cn][dn][en][do][bp][cp][dp][ep][fq][br][dr][er
 Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[cr]
 (;W[cq]
-(;B[ds]LB[dm:D][aq:A][dq:F][as:E][cs:B][es:C]C[Correct. Now White has to fight a ko for life at A.
+(;B[ds]LB[dm:D][aq:A][dq:F][as:E][cs:B][es:C]C[[OK]. Now White tem to fight a ko for life at A.
 
-White can't get enough liberties to avoid the ko. If White B, Black C (and White can't play at E), White 1, Black D (and White still can't play at E. In both cases it's still a ko.
+Branco pode't obter enough liberties to avoid the ko. If White B, Black C (and Branco pode't jogar at E), White 1, Black D (and White still can't jogar at E. In both cases it's still a ko.
 
-If White C, Black captures some stones with F and it's still ko.])
+If White C, Preto captura some stones with F and it's still ko.])
 (;B[aq]
 ;W[cs])
 (;B[cs]
 ;W[ds])
 (;B[es]
 ;W[ds]))
-(;W[cs]C[This is a bad move for White...]
+(;W[cs]C[Thé é a bad mover para branco...]
 ;B[cq]
 ;W[dq]
 ;B[aq]
 ;W[ds]
-;B[bl]C[Correct, Black was able to kill without ko, because White made a mistake.])
-(;W[ds]C[This move is a mistake for White too.]
+;B[bl]C[[OK], Black era able to matar without ko, becausar White fez a mistake.])
+(;W[ds]C[Esta jogada é a mistomar para branco too.]
 ;B[cq]
 ;W[dq]
-;B[bl]C[Correct, Black was able to kill without ko, because White made a mistake.]))
+;B[bl]C[[OK], Black era able to matar without ko, becausar White fez a mistake.]))
 (;B[ds]
 ;W[cr]
 ;B[es]

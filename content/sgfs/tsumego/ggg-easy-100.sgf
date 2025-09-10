@@ -1,6 +1,6 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[https://gogameguru.com/]AW[do][go][ho][lo][mo][cp][dp][fp][ip][kp][np][dq][fq][iq][kq][nq][dr][gr][hr][lr][mr]AB[bn][dn][gn][hn][in][ln][mn][co][eo][fo][jo][ko][oo][bp][op][cq][oq][cr][er][jr][kr][nr][or][ds][gs][hs][is][ls][ms]C[Black to play.
+SO[https://gogameguru.com/]AW[do][go][ho][lo][mo][cp][dp][fp][ip][kp][np][dq][fq][iq][kq][nq][dr][gr][hr][lr][mr]AB[bn][dn][gn][hn][in][ln][mn][co][eo][fo][jo][ko][oo][bp][op][cq][oq][cr][er][jr][kr][nr][or][ds][gs][hs][is][ls][ms]C[Preto joga.
 
 https://gogameguru.com/]
 (;B[no]
@@ -63,9 +63,9 @@ https://gogameguru.com/]
 (;B[mp]
 ;W[no]
 ;B[fr]
-(;W[gp]C[Brancas poderiam fazer um tenuki agora, se quiserem um Sente por exemplo, e as Pretas só poderão capturar o número 1 (por falta de liberdades). O resto do grupo Brancas está vivo.])
+(;W[gp]C[Brancas poderiam fazer um tenuki agora, se quiserem um Sente por exemplo, e as Pretas só poderão capturar o número 1 (por falta de liberdades). O resto fazer grupo Brancas está vivo.])
 (;W[nn]C[Se Branca der um tenuki...]
 ;B[eq]
-;W[gp]LB[ep:A][gq:B]C[O resto do grupo das Brancas ainda está vivo. As Brancas não devem se conectar em A porque as Pretas dariam atari em B.]))
+;W[gp]LB[ep:A][gq:B]C[O resto fazer grupo das Brancas ainda está vivo. As Brancas não devem se conectar em A porque as Pretas dariam atari em B.]))
 (;B[no]
 ;W[mp])))

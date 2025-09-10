@@ -10,20 +10,20 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[qs]
 ;W[ps]
 ;B[so]
-;W[rs]LB[rq:A][rr:B]C[A and B are in seki, but Black can do better.]))
+;W[rs]LB[rq:A][rr:B]C[A and B são in seki, mas Preto pode fazer melhor.]))
 (;B[sq]
 ;W[sr]
 (;B[ss]
 ;W[sp]
 (;B[so]
-;W[sr]C[It's a ko, but Black can do better.])
+;W[sr]C[É um ko, mas Preto pode fazer melhor.])
 (;B[qs]
 ;W[sr])
 (;B[sr]
 ;W[qs]))
 (;B[sp]
 ;W[rs]
-;B[ss]C[It's a ko, but Black can do better.]))
+;B[ss]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[so]
 ;W[sr]
 (;B[rs]
@@ -36,7 +36,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[sr]
 (;B[sq]
 ;W[rs]
-;B[ss]C[It's a ko, but Black can do better.])
+;B[ss]C[É um ko, mas Preto pode fazer melhor.])
 (;B[rs]
 ;W[ps]
 ;B[sq]

@@ -12,7 +12,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[cp]))
 (;B[cp]
 ;W[bm]))
-(;W[bm]C[If White's going to play here, this move is better, but it's better to leave this as a ko threat.]
+(;W[bm]C[If Branco está going to jogar here, thé mover é better, mas it's better to deixar thé as a ko threat.]
 ;B[bo]C[[OK\]])
 (;W[cm]
 ;B[cp]C[[OK\]]))
@@ -21,13 +21,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[cp]
 ;W[ao]
 ;B[bm]
-;W[am]C[White managed to create a ko, but Black can do better.])
+;W[am]C[White managed to criar a ko, mas Preto pode fazer melhor.])
 (;B[bm]
 ;W[cm]
 ;B[cp]
 ;W[ao]
 (;B[bo]
-;W[am]C[White managed to create a ko, but Black can do better.])
+;W[am]C[White managed to criar a ko, mas Preto pode fazer melhor.])
 (;B[am]
 ;W[bl]
 ;B[bo]

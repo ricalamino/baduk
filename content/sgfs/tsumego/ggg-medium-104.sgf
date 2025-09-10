@@ -9,9 +9,9 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[qr]
 ;B[ns]
 (;W[ps]
-;B[ls]LB[mq:B][js:A]C[Correct. Next A and B are miai for Black.])
+;B[ls]LB[mq:B][js:A]C[[OK]. Next A and B são miai para preto.])
 (;W[ls]
-;B[ps]LB[qr:A]C[Correct. White A will be captured.]))
+;B[ps]LB[qr:A]C[[OK]. White A vai be captured.]))
 (;W[os]
 ;B[ns]
 ;W[qr]
@@ -22,20 +22,20 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[qr]
 (;B[nr]
 (;W[ps]
-;B[ls]LB[mq:A][js:B]C[Correct. Next A and B are miai for Black.])
+;B[ls]LB[mq:A][js:B]C[[OK]. Next A and B são miai para preto.])
 (;W[ls]
-;B[ps]LB[qr:A]C[Correct. White A will be captured.]))
+;B[ps]LB[qr:A]C[[OK]. White A vai be captured.]))
 (;B[ls]
 ;W[nr])
 (;B[ps]
 ;W[os]
 ;B[nr]
 ;W[qs]
-;B[ls]C[Also correct. This is possible, but there's a slightly better way for Black to play.]))
+;B[ls]C[Also correct. Thé é possible, mas there's a slightly better way for Preto joga.]))
 (;W[nr]
 ;B[os]
 ;W[qr]
-;B[ps]LB[qr:A]C[Correct. White A will be captured.]))
+;B[ps]LB[qr:A]C[[OK]. White A vai be captured.]))
 (;B[qr]
 ;W[os])
 (;B[os]

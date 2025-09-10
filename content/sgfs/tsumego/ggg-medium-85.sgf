@@ -71,7 +71,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[rs]
 ;W[sr]
 ;B[rq]
-;W[rp]LB[qq:B][pr:A][ss:C]C[Eventually Black will have to connect at A (because the stone at B will let Black atari Black with C later), and then he'll only have a three space eye on the inside. Black's dead.])
+;W[rp]LB[qq:B][pr:A][ss:C]C[Eventually Black vai tem to connect at A (becausar the stone at B vai let Black atari Black with C later), and then he'll only tem a three space eye on the inside. Preto está morto.])
 (;W[rs]
 ;B[pr]
 ;W[ns]))

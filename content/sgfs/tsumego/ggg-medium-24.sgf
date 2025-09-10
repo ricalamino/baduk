@@ -14,11 +14,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]A
 (;W[gs]
 ;B[is]C[[OK\]]))
 (;B[is]
-;W[fs]C[Now it's a ko, but Black can do better.])
+;W[fs]C[Now it's a ko, mas Preto pode fazer melhor.])
 (;B[gs]
 ;W[fs]
 ;B[is]
-;W[cs]C[Now it's a ko, but Black can do better.]))
+;W[cs]C[Now it's a ko, mas Preto pode fazer melhor.]))
 (;W[fs]
 ;B[hs]
 ;W[cs]
@@ -38,12 +38,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]A
 (;B[es]
 ;W[hs]
 ;B[is]
-;W[cs]C[Now it's a ko, but Black can do better.])
+;W[cs]C[Now it's a ko, mas Preto pode fazer melhor.])
 (;B[hs]
 ;W[ds]))
 (;B[fs]
-(;W[es]C[This is a crucial move for White.]
+(;W[es]C[Thé é a crucial mover para branco.]
 ;B[ds]
-;W[gs]C[Now it's a ko, but Black can do better.])
-(;W[gs]LB[es:B][gs:A]C[This is a mistake for White. A should be at B.]
-;B[es]LB[fs:A][gs:B]C[A and B were both mistakes, but it all came out in the wash... White is captured.])))
+;W[gs]C[Now it's a ko, mas Preto pode fazer melhor.])
+(;W[gs]LB[es:B][gs:A]C[Thé é a mistomar para branco. A deveria be at B.]
+;B[es]LB[fs:A][gs:B]C[A and B eram both mistakes, mas it all veio out in the wash... White é captured.])))

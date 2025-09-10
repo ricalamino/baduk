@@ -7,12 +7,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[es]
 (;B[cr]
 ;W[ds]
-(;B[fq]C[This is the key move. It looks like bad shape, but it's a powerful technique in this situation.]
+(;B[fq]C[Thé é the key move. It looks gostar bad shape, mas it's a powerful technique in thé situation.]
 (;W[gr]
 (;B[hq]
 (;W[ir]
 ;B[hr]
-;W[hs]C[White shouldn't actually play all this out, but what if she does?]
+;W[hs]C[Branco deverian't actually jogar all thé out, mas what if she does?]
 (;B[gq]
 ;W[is]
 ;B[cs]C[[OK\]])
@@ -37,13 +37,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[gq]
 ;B[gp]
 ;W[hp]
-;B[cs]C[Also correct. Black made some unnecessary exchanges. It's better to play with a lighter touch to preserve more opportunities for later.]))
+;B[cs]C[Also correct. Black fez some unnecessary exchanges. It's better to jogar with a lighter touch to preservir more opportunities for later.]))
 (;B[ir]
 ;W[fs]
 ;B[iq]
 ;W[gq]
 (;B[hp]
-;W[fo]LB[br:A]C[Black's stones are captured, and he still has to play A in the lower left.])
+;W[fo]LB[br:A]C[As pedras pretas são captured, and he still tem to jogar A in the lower left.])
 (;B[gp]
 ;W[hp]
 (;B[jr]
@@ -77,7 +77,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[iq]
 ;W[kr]
 ;B[jp]
-;W[kp]LB[jo:A][br:B]C[White A and B (ko) are miai next.])
+;W[kp]LB[jo:A][br:B]C[White A and B (ko) são miai depois.])
 (;B[cs]
 ;W[fs]
 ;B[fq]
@@ -168,4 +168,4 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[gs]
 ;B[cs]C[[OK\]]))
 (;B[cr]
-;W[er]C[White is safe and Black's corner still isn't alive.]))
+;W[er]C[White é safe and Preto está corner still isn't vivo.]))

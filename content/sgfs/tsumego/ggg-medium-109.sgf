@@ -7,18 +7,18 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[np]
 (;B[nr]
 ;W[oo]
-(;B[jq]C[Correct. The result is favorable for Black.])
-(;B[nq]C[It's also possible, but Black can do better.]))
+(;B[jq]C[[OK]. The result é favorable para preto.])
+(;B[nq]C[It's also possible, mas Preto pode fazer melhor.]))
 (;B[nq]
 ;W[oo]
-;B[nr]C[It's also possible, but Black can do better.]))
-(;W[nr]C[This move isn't good.]
+;B[nr]C[It's also possible, mas Preto pode fazer melhor.]))
+(;W[nr]C[Esta jogada isn't good.]
 ;B[mr]
 ;W[np]
 ;B[ns]
 ;W[oo]
-(;B[jq]C[Correct. It's better for Black.])
-(;B[iq]C[Correct. It's better for Black.])))
+(;B[jq]C[[OK]. It's better para preto.])
+(;B[iq]C[[OK]. It's better para preto.])))
 (;B[np]
 ;W[rr]
 ;B[nr]
@@ -33,7 +33,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[qs])
 (;B[oo]
 ;W[rr]
-;B[pn]C[It's possible, but it's better for White.]))
+;B[pn]C[It's possible, mas it's better para branco.]))
 (;B[rr]
 ;W[np])
 (;B[rq]

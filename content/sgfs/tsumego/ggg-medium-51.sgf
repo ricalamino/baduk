@@ -7,8 +7,8 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[hr]
 ;B[jq]
 (;W[jr]
-;B[hq]C[Correct. Black can make a ko.])
-(;W[hq]LB[jr:A]C[Connecting isn't good for White. White should fight a ko at A instead.]
+;B[hq]C[[OK]. Black pode fazer a ko.])
+(;W[hq]LB[jr:A]C[Connecting isn't good para branco. White deveria fight a ko at A instead.]
 ;B[jr]
 ;W[dr]
 ;B[cr]
@@ -17,10 +17,10 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[ds]
 (;B[gs]
 ;W[hs]
-;B[fs]C[Correct. White is dead.])
+;B[fs]C[[OK]. Branco está morto.])
 (;B[cs]
 ;W[er]
-;B[gs]C[Correct. White is dead.]))
+;B[gs]C[[OK]. Branco está morto.]))
 (;W[br]
 ;B[cq]
 ;W[cs]

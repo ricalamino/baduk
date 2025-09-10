@@ -3,7 +3,7 @@ title: "Tsumego - Médio - Parte 14"
 date: 2024-03-20
 draft: false
 previous: "tsumego-medio-parte-13"
-next: "fanhui-alphago"
+next: "tsumego-dificil-parte-1"
 menu: "tsumego"
 weight: 18
 ---

@@ -12,7 +12,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[cp]
 ;B[br]
 ;W[bp]
-(;B[aq]LB[ap:A]C[Correct. Black can also tenuki now, but this move is quite big. Black can play at A next.])
+(;B[aq]LB[ap:A]C[[OK]. Black pode also tenuki now, mas thé mover é quite big. Black pode jogar at A next.])
 (;B[ap]
 ;W[cr]
 ;B[cs]
@@ -20,19 +20,19 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[ar]
 ;W[bs]
 ;B[as]
-;W[bo]LB[ao:A]C[Black loses points in the corner if he plays like this. The atari at A is also possible for White if she has more ko threats.]))
+;W[bo]LB[ao:A]C[Preto perde points in the corner if he plays gostar this. The atari at A é also possible para branco if she tem more ko threats.]))
 (;W[cr]
 (;B[br]
 (;W[cp]
 ;B[cs]
 ;W[bp]
-;B[aq]LB[ap:A]C[Correct. Black can also tenuki now, but this move is quite big. Black can play at A next.])
+;B[aq]LB[ap:A]C[[OK]. Black pode also tenuki now, mas thé mover é quite big. Black pode jogar at A next.])
 (;W[cs]
 ;B[cp]C[[OK\]]))
 (;B[cp]
 ;W[bp]
 (;B[br]
-;W[co]LB[cs:A]C[Black can connect at A next, but it's gote.])
+;W[co]LB[cs:A]C[Black pode connect at A next, mas it's gote.])
 (;B[co]
 ;W[br]
 ;B[bo]

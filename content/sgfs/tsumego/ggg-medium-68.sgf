@@ -1,25 +1,25 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[GERADO PELO CURSOR - BUGADO]AW[qn][pp][mq][qq][nr]AB[kq][lq][nq][pr]LB[nr:A]C[Black to play. White just played at A, to separate Black's stones. How can you foil her plan?
+SO[GERADO PELO CURSOR - BUGADO]AW[qn][pp][mq][qq][nr]AB[kq][lq][nq][pr]LB[nr:A]C[Preto joga. White just jogou at A, to separate As pedras pretas. How pode you foil her plan?
 
 https://gogameguru.com/]
 (;B[or]
 ;W[np]
 ;B[oq]
 (;W[mp]
-;B[mr]C[Correct. Black's stones are connected.])
+;B[mr]C[[OK]. As pedras pretas estão conectadas.])
 (;W[mr]
-;B[mp]C[Correct. Black can capture White's three stones.]))
+;B[mp]C[[OK]. Preto pode capturar Branco está three stones.]))
 (;B[mp]
 ;W[oq]
 ;B[mr]
-;W[or]C[If taking sente or preventing White from controlling the center is very important, Black can give up territory and play this way. In general though, Black prefers to play as in the main variation.])
+;W[or]C[Se tomar sente ou prevenir que branco controle o centro é muito importante, Preto pode desistir fazer território e jogar desta forma. Em geral, preto prefere jogar como na variação principal.])
 (;B[mr]
 ;W[oq]
 (;B[mp]
 ;W[or])
 (;B[or]
-;W[np]C[White is satisfied with this.]))
+;W[np]C[Branco está satisfeito com isto.]))
 (;B[oq]
 ;W[mp]
 ;B[mr]

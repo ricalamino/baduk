@@ -1,0 +1,186 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[rk][ql][rl][sl][qm][pn][po][pp][qp][iq][lq][mq][nr][or]AB[qj][rj][sj][qk][sk][pl][nm][pm][no][qo][mp][nq][oq][pq][qq][pr][rr][qs]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[rn]
+(;W[qn]
+(;B[sp]
+(;W[ro]
+(;B[sn]
+;W[rp]
+;B[so]C[[OK\]])
+(;B[so]
+;W[sn]
+;B[sm]
+;W[rm]))
+(;W[sq]
+(;B[rp]
+;W[ro]
+;B[sn]C[[OK\]])
+(;B[rq]
+;W[sn]
+;B[ro]
+;W[rp]
+;B[sr]
+;W[rm]))
+(;W[so]
+(;B[rp]
+;W[ro]
+;B[sn]C[[OK\]])
+(;B[ro]
+;W[rp]
+;B[sq]C[[OK\]]))
+(;W[rp]
+(;B[sq]
+(;W[ro]
+;B[so]C[[OK\]])
+(;W[so]
+;B[ro]
+;W[rm]
+;B[sn]C[[OK\]]))
+(;B[so]
+;W[sq]
+;B[rq]
+;W[sn]
+;B[sm]
+;W[ro]
+;B[sr]
+;W[rm])))
+(;B[ro]
+;W[rp]
+(;B[sn]
+;W[sp]LB[so:A]C[Branco está vivo. Mesmo se Preto joga at A now, it's only a seki.])
+(;B[so]
+;W[sn]
+(;B[sm]
+;W[sp]C[Branco vive.])
+(;B[sp]
+;W[sq]
+;B[sm]
+;W[rq])))
+(;B[sq]
+;W[ro]
+;B[so]
+;W[sn]
+;B[sm]
+;W[rm])
+(;B[so]
+;W[rp]
+;B[sp]
+;W[sq]
+;B[rq]
+;W[sn]
+;B[sm]
+;W[ro]
+;B[sr]
+;W[rm]))
+(;W[ro]C[White poderia also jogar here, then...]
+;B[sn]
+(;W[qn]
+;B[sp]
+(;W[rp]
+;B[so]C[[OK\]])
+(;W[so]
+;B[rp]C[[OK\]]))
+(;W[rp]
+;B[qn]LB[rl:B][rn:A]C[[OK]. It's a temporary seki between the groups A and B, mas Black vai capture Branco está surrounding stones and the seki vai collapse.])))
+(;B[rp]
+;W[ro]
+;B[rn]C[Thé combination often works, mas it's not the best approach in thé case.]
+(;W[qn]
+(;B[so]
+;W[sn]C[Black tem to fight a ko now.]
+;B[sm]C[Mesmo se Preto captura gostar this,]
+;W[rm]C[Preto está short of liberties, so it's still a ko.])
+(;B[sn]C[Thé é a good idea, mas it doesn't quite funcionar in thé case either. Preto precisars to mudar the mover order a bit more.]
+;W[sp]
+(;B[sq]C[It's still a ko, mas Preto pode fazer melhor.])
+(;B[rq]C[Connecting doesn't work, because...]
+;W[rm]
+(;B[sq]
+;W[sm]
+;B[so]
+;W[sp]
+;B[so]
+;W[sn]C[White just barely manages to fazer dois eyes and lives.])
+(;B[so]
+;W[sm]))))
+(;W[so]C[Playing here é what Preto querers, mas it's a mistomar para branco.]
+;B[sp]
+;W[qn]
+;B[sn]C[Both players fez mistakes, mas now Branco está morto. It deveria tem been a ko after Preto está mistake.]))
+(;B[ro]
+;W[rp]
+;B[rn]
+;W[qn]
+(;B[sn]
+;W[sp])
+(;B[so]
+;W[sn]))
+(;B[sp]
+;W[ro]
+;B[rn]
+;W[sn]LB[rm:A][qn:B]C[A and B são miai para branco. If Black keeps trying to kill...]
+;B[so]
+;W[qn]
+;B[sm]
+;W[rm]
+;B[sn]
+;W[sq])
+(;B[sn]
+;W[rn]
+(;B[ro]
+;W[rp]
+;B[sp]
+;W[sq]
+;B[rq]
+;W[qn]
+;B[sr]
+;W[sm])
+(;B[rp]
+;W[ro]
+;B[so]
+;W[sm])
+(;B[sp]
+;W[ro]
+;B[so]
+;W[sm]))
+(;B[so]
+;W[rp]
+(;B[ro]
+;W[sp]
+(;B[qn]
+;W[sn])
+(;B[rn]
+;W[sn]
+;B[sm]
+;W[qn]))
+(;B[sp]
+;W[sq]
+(;B[rq]
+;W[ro]
+;B[sn]
+;W[rn]
+(;B[sr]
+;W[sm])
+(;B[sm]
+;W[rm]))
+(;B[ro]
+;W[rq]))
+(;B[rn]
+;W[qn]
+(;B[sp]
+;W[sq]
+;B[rq]
+;W[sn]
+;B[sr]
+;W[ro]
+;B[sm]
+;W[rm])
+(;B[ro]
+;W[sn]))
+(;B[qn]
+;W[rn]))
+(;B[qn]
+;W[ro]))

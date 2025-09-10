@@ -16,11 +16,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[cq]
 (;B[cs]
 ;W[aq]
-;B[ar]C[It's a ko, but Black can do better.])
+;B[ar]C[É um ko, mas Preto pode fazer melhor.])
 (;B[aq]
-;W[cs]C[It's a ko, but Black can do better.])
+;W[cs]C[É um ko, mas Preto pode fazer melhor.])
 (;B[ar]
-;W[cs]C[It's a ko, but Black can do better.]))
+;W[cs]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[aq]
 ;W[bs]
 (;B[cs]
@@ -53,4 +53,4 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[cq]
 ;B[bs]
 ;W[aq]
-;B[ar]LB[as:B][cs:A]C[It's a double ko, so White's alive.]))
+;B[ar]LB[as:B][cs:A]C[It's a double ko, so Branco está vivo.]))

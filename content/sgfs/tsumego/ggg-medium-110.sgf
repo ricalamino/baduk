@@ -10,12 +10,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[mq]
 (;B[mr]
 ;W[lr]
-;B[qr]C[It's also possible, but Black can do better.])
-(;B[qr]C[It's also possible, but Black can do better.])))
+;B[qr]C[It's also possible, mas Preto pode fazer melhor.])
+(;B[qr]C[It's also possible, mas Preto pode fazer melhor.])))
 (;W[nq]
 ;B[or]
 ;W[mr]
-;B[qr]C[Correct. White needs one more move at M3.])
+;B[qr]C[[OK]. Branco precisa one more mover at M3.])
 (;W[pn]
 ;B[qo]
 (;W[lq]
@@ -23,10 +23,10 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[nq]
 ;B[or]
 ;W[mr]
-;B[qr]C[Correct. White needs one more move at M3.]))
+;B[qr]C[[OK]. Branco precisa one more mover at M3.]))
 (;W[mr]
 ;B[or]C[[OK\]]
-;W[mq]C[Correct. Black has sente.]))
+;W[mq]C[[OK]. Black tem sente.]))
 (;B[nq]
 ;W[mq]
 ;B[mp]
@@ -34,14 +34,14 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[no]
 ;W[or]
 ;B[np]
-;W[lq]C[It's bad for Black.])
+;W[lq]C[It's bad para preto.])
 (;B[or]
 ;W[pn]
 ;B[qo]
 ;W[nr]
 ;B[qr]
 ;W[nq]
-;B[ps]C[It's possible, but Black can do better.])
+;B[ps]C[It's possible, mas Preto pode fazer melhor.])
 (;B[qr]
 ;W[or]
 ;B[nq]

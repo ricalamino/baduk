@@ -45,7 +45,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[nr]
 ;W[ls]
 ;B[ms]
-;W[mr]C[It's a ko, but Black can do better.])
+;W[mr]C[É um ko, mas Preto pode fazer melhor.])
 (;B[ns]
 ;W[ls]
 ;B[mr]
@@ -67,7 +67,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[ns]
 ;W[ms]
 ;B[or]
-;W[os]C[It's a ko, but Black can do better.])))
+;W[os]C[É um ko, mas Preto pode fazer melhor.])))
 (;W[mr]
 ;B[rp]
 ;W[qp]
@@ -87,7 +87,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[ps]
 ;B[os]
 ;W[nr]
-;B[qs]C[It's a ko, but Black can do better.])
+;B[qs]C[É um ko, mas Preto pode fazer melhor.])
 (;B[lr]
 ;W[kr]
 (;B[ls]
@@ -96,8 +96,8 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[nr]
 (;B[mr]
 ;W[ns]
-;B[qs]C[It's a ko, but Black can do better.])
-(;B[qs]C[It's a ko, but Black can do better.]))
+;B[qs]C[É um ko, mas Preto pode fazer melhor.])
+(;B[qs]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[ps]
 (;W[mr]
 (;B[qs]
@@ -146,26 +146,26 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[nr]
 (;B[rp]
 ;W[qp]
-(;B[qs]C[It's a ko, but Black can do better.])
+(;B[qs]C[É um ko, mas Preto pode fazer melhor.])
 (;B[rr]
 ;W[sr]
-;B[qs]C[It's a ko, but Black can do better.]))
-(;B[qs]C[It's a ko, but Black can do better.])
+;B[qs]C[É um ko, mas Preto pode fazer melhor.]))
+(;B[qs]C[É um ko, mas Preto pode fazer melhor.])
 (;B[mr]
 ;W[ns]
-(;B[qs]C[It's a ko, but Black can do better.])
+(;B[qs]C[É um ko, mas Preto pode fazer melhor.])
 (;B[rp]
 ;W[qp]
-;B[qs]C[It's a ko, but Black can do better.])))
+;B[qs]C[É um ko, mas Preto pode fazer melhor.])))
 (;B[ns]
 ;W[mr]
 ;B[os]
 ;W[nr]
-;B[qs]C[It's a ko, but Black can do better.]))
+;B[qs]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[nr]
 ;W[ls]
 ;B[ms]
-;W[mr]C[It's a ko, but Black can do better.])
+;W[mr]C[É um ko, mas Preto pode fazer melhor.])
 (;B[ms]
 ;W[nr])
 (;B[mr]
@@ -191,7 +191,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[nr]
 ;W[ls]
 ;B[ms]
-;W[mr]C[It's a ko, but Black can do better.])
+;W[mr]C[É um ko, mas Preto pode fazer melhor.])
 (;B[qs]
 ;W[rr]
 ;B[lr]
@@ -199,7 +199,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[nr]
 ;W[ls]
 ;B[ms]
-;W[mr]C[It's a ko, but Black can do better.]))
+;W[mr]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[os]
 ;W[qp]
 ;B[lr]
@@ -207,4 +207,4 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[nr]
 ;W[ls]
 ;B[ms]
-;W[mr]C[It's a ko, but Black can do better.]))
+;W[mr]C[É um ko, mas Preto pode fazer melhor.]))

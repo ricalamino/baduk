@@ -1,0 +1,145 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[qk][oo][np][op][rp][mq][oq][rq][mr][pr][qr][sr][ms]AB[pl][nn][on][lo][no][po][qo][ro][mp][lq][pq][qq][lr][rr][ls][rs]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[or]
+(;W[os]
+(;B[nr]
+(;W[ns]
+(;B[pp]
+;W[nq]
+(;B[or]
+;W[nr]
+;B[qs]
+;W[sq]
+;B[qp]C[[OK\]])
+(;B[qs]
+;W[ps]))
+(;B[ps]
+;W[nq]
+(;B[or]
+;W[nr]
+(;B[pp]
+;W[qs])
+(;B[qs]
+;W[ss]))
+(;B[qs]
+;W[ss]))
+(;B[sp]
+(;W[nq]LB[sq:A]C[White pode simply viver gostar this, mas White pode also jogar A. See the variation.]
+(;B[qp]
+;W[qs])
+(;B[or]
+;W[nr]
+(;B[qp]
+;W[qs])
+(;B[qs]
+;W[ps])))
+(;W[sq]
+(;B[so]
+;W[nq]
+;B[or]
+;W[nr]
+;B[qp]
+;W[qs]C[Branco está already vivo, and later...]
+;B[ss]
+;W[rq]C[Yum!])
+(;B[pp]
+;W[nq]
+;B[or]
+;W[nr]
+;B[qs]
+;W[so]
+(;B[qp]
+;W[rn]LB[qk:A][pn:B]TR[rr][qs][rs]C[Preto pode't cortar White off from A while also defending against B, so White vai capture the marked stones eventually.])
+(;B[sn]
+;W[ss]))
+(;B[qp]
+;W[so]
+;B[rm]
+;W[nq]
+;B[or]
+;W[nr]
+(;B[sn]
+;W[qs])
+(;B[qs]
+;W[ps]))))
+(;B[qp]
+;W[nq]
+(;B[sp]
+;W[qs])
+(;B[or]
+;W[nr]
+(;B[qs]
+;W[ps])
+(;B[sp]
+;W[qs])))
+(;B[qs]
+;W[nq]
+;B[or]
+;W[ps]))
+(;W[ps]
+;B[pp]C[[OK\]]))
+(;B[ps]
+;W[nr])
+(;B[qs]
+;W[nr]))
+(;W[nr]
+;B[os]C[[OK\]]))
+(;B[sq]
+;W[nr])
+(;B[sp]
+;W[sq]LB[nr:A]C[White poderia also jogar A to viver simply.]
+(;B[so]
+;W[nr]C[Branco está already aviver and...]
+;B[qp]C[Black still can't much here...]
+;W[qs]
+;B[ss]
+;W[rq]C[Yum!])
+(;B[or]
+;W[os]
+;B[nr]
+;W[ns]
+;B[pp]
+;W[nq]
+;B[or]
+;W[nr]
+(;B[qs]
+;W[so]
+(;B[qp]
+;W[rn]LB[qk:A][pn:B]TR[rr][qs][rs]C[Preto pode't cortar White off from A while also defending against B, so White vai capture the marked stones eventually.])
+(;B[sn]
+;W[ss]))
+(;B[qp]
+;W[qs]C[Branco está already vivo, and later...]
+;B[ss]
+;W[rq]C[Yum!]))
+(;B[qp]
+;W[so]
+;B[sn]
+(;W[nr]C[Branco está already vivo, and...]
+;B[sp]
+;W[qs]C[There's no precisar to fight a ko...]
+;B[ss]
+;W[rq]C[Yum!])
+(;W[qs]C[Too greedy, now White vai die...]
+;B[or]
+;W[ss]
+;B[pp]C[White fez a mistomar and died.])))
+(;B[qp]
+(;W[nr])
+(;W[sq]C[Thé looks clever, mas it's trying to be too clever...]
+;B[or]
+;W[os]
+;B[nr]
+;W[ns]
+;B[pp]
+;W[nq]
+;B[or]
+;W[nr]
+;B[qs]
+(;W[so]
+;B[rm]C[White fez a mistomar and died.])
+(;W[pn]
+;B[qm]C[White fez a mistomar and died.]))))

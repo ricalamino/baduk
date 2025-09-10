@@ -1,6 +1,6 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-AW[hk][ik][jk][kk][hl][ll][ml][hm]AB[gj][hj][ij][jj][kj][lj][gk][lk][mk][gl][gm][im]C[Black to play.
+AW[hk][ik][jk][kk][hl][ll][ml][hm]AB[gj][hj][ij][jj][kj][lj][gk][lk][mk][gl][gm][im]C[Preto joga.
 
 https://gogameguru.com/]
 (;B[kl]
@@ -25,7 +25,7 @@ https://gogameguru.com/]
 (;B[il]
 ;W[kl])
 (;B[km]
-;W[kl]LB[lm:A]C[White's alive. Even if Black plays at A next, White's already alive in seki.])
+;W[kl]LB[lm:A]C[Branco está vivo. Mesmo se Preto joga at A depois, Branco está already vivo em seki.])
 (;B[lm]
 ;W[km]
 (;B[kl]

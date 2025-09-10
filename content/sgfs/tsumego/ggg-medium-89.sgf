@@ -9,7 +9,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[gs]
 (;B[fr]
 ;W[fs]
-;B[ep]LB[eq:B][cs:A]C[Correct. A and B are miai next.])
+;B[ep]LB[eq:B][cs:A]C[[OK]. A and B são miai next.])
 (;B[ep]
 ;W[cs])
 (;B[cs]

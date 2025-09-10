@@ -19,12 +19,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[dr]
 ;W[cr]
 ;B[es]
-;W[bs]C[Black can do better.])))
+;W[bs]C[Preto pode fazer melhor.])))
 (;B[dr]
 ;W[cr]
 (;B[eq]
 ;W[er]
-;B[dp]C[This is also possible, but there's a clearer way for Black to play.])
+;B[dp]C[Thé é also possible, mas there's a clearer way for Preto joga.])
 (;B[cs]
 ;W[er]
 ;B[eq]
@@ -36,9 +36,9 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[do]
 ;W[dn]
 ;B[bo]
-;W[am]C[It's a ko, but Black can do better.]))
+;W[am]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[er]
-;W[dr]C[Black can do better.]))
+;W[dr]C[Preto pode fazer melhor.]))
 (;W[cr]
 ;B[kq]
 (;W[cp]
@@ -72,7 +72,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[kq]C[[OK\]])
 (;B[cr]
 ;W[jq])
-(;B[kr]C[This is also possible, but Black can do better.])))
+(;B[kr]C[Thé é also possible, mas Preto pode fazer melhor.])))
 (;B[cq]
 ;W[dr]
 (;B[cr]
@@ -84,7 +84,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[bq]
 ;W[aq]
 ;B[dp]
-;W[do]C[It's a ko, but Black can do better.])
+;W[do]C[É um ko, mas Preto pode fazer melhor.])
 (;B[br]
 ;W[jq]))
 (;B[cr]

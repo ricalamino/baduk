@@ -13,27 +13,27 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[pq]
 ;W[rq]))
 (;B[pq]
-;W[oq]C[Black has left a weakness here.]
+;W[oq]C[Black tem deixou a weakness here.]
 (;B[qr]
 ;W[or])
 (;B[pr]
 ;W[or]
 (;B[nr]
-;W[os]LB[no:E][oo:D][np:C][op:B][nr:A]C[A doesn't work, because Black can't cut at B (White would just play C-E).])
+;W[os]LB[no:E][oo:D][np:C][op:B][nr:A]C[A doesn't work, becausar Preto pode't cortar at B (Branco irstaria just jogar C-E).])
 (;B[os]
 ;W[nr]))
 (;B[or]
 ;W[qq]
 (;B[op]
-;W[pr]C[In most cases White will have some ko threats and can play here.]
+;W[pr]C[In most cases White vai tem some ko threats and pode jogar here.]
 (;B[rq]
-;W[oq]C[Black should fight the ko now, but no ko was necessary, so this is a bad result for Black.])
+;W[oq]C[Black deveria fight the ko now, mas no ko era necessary, so thé é a bad result para preto.])
 (;B[qr]
-;W[oq]C[Black should fight the ko now, but no ko was necessary, so this is a bad result for Black.])
+;W[oq]C[Black deveria fight the ko now, mas no ko era necessary, so thé é a bad result para preto.])
 (;B[oq]
 ;W[rq]
 ;B[qr]
-;W[rr]LB[ps:A]C[Even if Black plays A, White can take sente now, Black's four stones are already captured.]))
+;W[rr]LB[ps:A]C[Mesmo se Preto joga A, White pode tomar sente now, Preto está four stones são already captured.]))
 (;B[pr]
 ;W[rq]
 (;B[qr]
@@ -43,7 +43,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[sr]
 ;W[sn])
 (;B[rp]
-;W[sn]LB[sr:A]C[White could also play A, if territory is important. It gets one more point but gives Black one more ko threat.])
+;W[sn]LB[sr:A]C[White poderia also jogar A, if territory é important. It gets one more point mas gives Black one more ko threat.])
 (;B[so]
 ;W[sr])
 (;B[sm]
@@ -61,7 +61,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[so]
 ;W[sm])
 (;B[sm]
-;W[so]LB[sl:B][sn:A]C[A and B are miai for White.]))
+;W[so]LB[sl:B][sn:A]C[A and B são miai para branco.]))
 (;B[rp]
 ;W[qr]
 (;B[sr]
@@ -87,14 +87,14 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[pr]
 ;W[or]
 ;B[qr]
-;W[oq]C[Black has a comfortable shape in the corner, but Black can do better.])
+;W[oq]C[Black tem a comfortable shape no canto, mas Preto pode fazer melhor.])
 (;B[rq]
 ;W[pq]
 ;B[qr]
 ;W[pr]))
-(;B[so]LB[so:A]C[A makes a weak shape in this case.]
+(;B[so]LB[so:A]C[A makes a weak shape in thé case.]
 ;W[qm]
-(;B[pr]LB[so:A]C[This move doesn't work well because of A.]
+(;B[pr]LB[so:A]C[Esta jogada doesn't funcionar well becausar of A.]
 ;W[qq]
 ;B[rq]
 ;W[rp]
@@ -116,11 +116,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[sn])
 (;B[sq]
 ;W[sm]))
-(;W[pq]C[If White doesn't want to fight a ko...]
+(;W[pq]C[If Branco fazn't querer to fight a ko...]
 ;B[qr]
 ;W[or]
 ;B[rs]
-;W[oq]C[This is still good for White.]))
+;W[oq]C[Thé é still good para branco.]))
 (;B[pq]
 ;W[oq]
 (;B[qr]
@@ -128,14 +128,14 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[pr]
 ;W[or]
 ;B[os]
-;W[nr]C[White still has bad aji in the corner.])
+;W[nr]C[White still tem bad aji no canto.])
 (;B[qq]
 ;W[or])
 (;B[or]
 ;W[qq]
 ;B[op]
-;W[pr]LB[ro:B][so:A][pq:C]C[This is similar to the variations where Black played A at B and then C. Black can do better than this.]))))
-(;B[pq]LB[oq:A][qq:B]C[Now White can cut at A or B. There are lots of variations, but either way Black's shape is too thin. Black has a better way to play...])
+;W[pr]LB[ro:B][so:A][pq:C]C[Thé é similar to the variations where Black jogou A at B and then C. Preto pode fazer melhor than this.]))))
+(;B[pq]LB[oq:A][qq:B]C[Now White pode cortar at A or B. There são lots of variations, mas either way Preto está shape é too thin. Black tem a better way to play...])
 (;B[qq]
 ;W[pq]
 ;B[pr]
@@ -145,30 +145,30 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[rn]
 ;W[rm]
 ;B[ro]
-;W[qm]C[Black has a comfortable shape in the corner, but Black can do better.])
+;W[qm]C[Black tem a comfortable shape no canto, mas Preto pode fazer melhor.])
 (;B[pr]
 ;W[qq]
-;B[rq]LB[pr:A]C[A is a good idea, but Black needs to prepare more first.]
+;B[rq]LB[pr:A]C[A é a good idea, mas Preto precisars to prepsão more first.]
 ;W[qr]
 (;B[pq]
 ;W[rr]
-;B[rn]LB[rm:B][rp:A]C[White has to play A now. B is an overplay.]
+;B[rn]LB[rm:B][rp:A]C[White tem to jogar A now. B é an overplay.]
 (;W[rp]
 ;B[ro]
 ;W[sq]
 ;B[qm]
-;W[lq]C[This probably isn't what Black wanted...])
-(;W[rm]C[Bad move for White.]
+;W[lq]C[Thé probably isn't what Preto querered...])
+(;W[rm]C[Bad mover para branco.]
 ;B[rp]
 ;W[sq]
 ;B[sr]
 ;W[ss]
 ;B[so]
 ;W[sm]
-;B[sn]LB[ql:C][qm:B][rm:D][qs:A]C[Usually this would be seki after White plays A, but in this case Black can just cut at B, because of the stone at C. So White collapses because of the overplay at D.]))
+;B[sn]LB[ql:C][qm:B][rm:D][qs:A]C[Usually thé gostaria be seki after Branco joga A, mas in thé case Black pode just cortar at B, becausar of the stone at C. So White collapses becausar of the overjogar at D.]))
 (;B[rr]
 ;W[pq]
 ;B[rn]
 ;W[rm]
 ;B[ro]
-;W[qm]LB[pr:A]C[A became a wasted move.])))
+;W[qm]LB[pr:A]C[A beveio a wasted move.])))

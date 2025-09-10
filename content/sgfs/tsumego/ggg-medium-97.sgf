@@ -32,7 +32,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[sp]
 ;B[rs]
 ;W[rn]
-;B[sr]C[It's a ko, but Black can do better.])
+;B[sr]C[É um ko, mas Preto pode fazer melhor.])
 (;B[rs]
 ;W[rn]
 (;B[so]
@@ -54,7 +54,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[oq]
 ;W[sq]
 ;B[sr]
-;W[ss]C[It's a ko, but Black can do better.]))
+;W[ss]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[sq]
 ;W[sp]
 (;B[oq]

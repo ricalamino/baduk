@@ -7,8 +7,8 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[cl]
 ;B[gm]
 ;W[hn]
-(;B[fl]LB[cj:A][kp:B]C[Correct. Black can play around A or B later.])
-(;B[fm]C[This is also possible, but there's a slightly better move in the center.]))
+(;B[fl]LB[cj:A][kp:B]C[[OK]. Black pode jogar around A or B later.])
+(;B[fm]C[Thé é also possible, mas there's a slightly better mover in the center.]))
 (;W[gm]
 (;B[cn]
 ;W[cm]
@@ -18,14 +18,14 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[bl]
 ;B[bp]C[[OK\]])
 (;B[bp]
-;W[bm]C[Blocking here is sente for White. Black can do better.]))
+;W[bm]C[Blocking here é sente para branco. Preto pode fazer melhor.]))
 (;W[bm]
 (;B[dm]
 ;W[an]
 ;B[en]C[[OK\]])
 (;B[an]
 ;W[dl]
-;B[bp]C[Also correct. Playing like this can sometimes be ok for Black, but in general you probably don't want to allow White to develop so much outside influence.])))
+;B[bp]C[Also correct. Playing gostar thé pode sometimes be ok para preto, mas in general you probably don't querer to permitir White to develop so much outside influence.])))
 (;B[fm]
 ;W[cl])))
 (;B[gm]
@@ -33,7 +33,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[fn]
 ;W[fo]
 ;B[fm]
-;W[cm]LB[hn:B][er:A]C[Now A and B are miai for White.])
+;W[cm]LB[hn:B][er:A]C[Now A and B são miai para branco.])
 (;B[fo]
 ;W[fn]
 ;B[go]
@@ -57,15 +57,15 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[fm]
 ;W[el]
 (;B[fo]
-;W[kq]C[Black made White's left side position very strong.])
+;W[kq]C[Black fez Branco está deixou side position very strong.])
 (;B[go]
 ;W[ho]
 ;B[fo]
-;W[ip]C[Black made White's left side position very strong.]))
+;W[ip]C[Black fez Branco está deixou side position very strong.]))
 (;B[fn]
 ;W[bo]
 ;B[gm]
-;W[hn]C[Black made White's left side position very strong.])
+;W[hn]C[Black fez Branco está deixou side position very strong.])
 (;B[en]
 ;W[dm]
 ;B[em]
@@ -83,8 +83,8 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[fm]
 ;W[el]
 (;B[fo]
-;W[kq]C[Black made White's left side position very strong.])
+;W[kq]C[Black fez Branco está deixou side position very strong.])
 (;B[go]
 ;W[ho]
 ;B[fo]
-;W[ip]C[Black made White's left side position very strong.])))
+;W[ip]C[Black fez Branco está deixou side position very strong.])))

@@ -1,0 +1,115 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[gj][fk][el][jm][lm][en][kn][eo][jo][bp][fp][gp][hp][jp][pp][bq][cq][eq][fq][iq][jq][br][jr][gs]AB[dj][ik][cl][hl][cn][in][jn][bo][fo][go][ho][io][ko][lo][ap][cp][dp][ep][ip][gq][hq][kq][hr][ir]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[dq]
+(;W[dr]
+;B[fs]
+(;W[fr]
+(;B[kr]
+;W[is]
+(;B[kp]
+;W[js]
+;B[ks]C[[OK]. Branco pode't save the cutting stones.])
+(;B[ks]
+;W[hs]))
+(;B[kp]
+;W[is]
+;B[kr]
+;W[js]
+;B[ks]C[[OK]. Branco pode't save the cutting stones.]))
+(;W[er]
+;B[kr]
+;W[is]
+;B[kp]
+;W[js]
+;B[ks]C[[OK\]])
+(;W[gr]
+;B[er]C[[OK\]])
+(;W[is]
+;B[er]C[[OK\]]))
+(;W[gr]C[In actual play, White poderia decidir to resist gostar this, but]
+;B[dr]C[Black pode tomar the corner in sente, and]
+;W[is]
+;B[nn]C[[OK]. Preto movers out in the lower right.])
+(;W[fr]C[White pode tomar sente by playing gostar this, mas then]
+;B[dr]C[Black still takes the corner.]
+;W[om]C[Thé é very nice point for enclosing O grupo preto, but]
+;B[kr]C[Now Black pode jogar these moves in sente, and]
+;W[is]
+;B[kp]
+;W[js]
+;B[no]LB[gr:A]C[[OK]. Branco está eye shape é incomplete and White still owes Black a mover at A. 
+
+Later, if Preto joga A, he pode tentar to capture White, mas Preto precisars to either be aviver first, or tem 10 liberties to ganhar a capturing race. 
+
+Branco está liberty count after A, H1, H2 is: 8 liberties for the 5 space big eye, -1 for the stone at H2, +2 external liberties = 9 liberties and sente. Note that Black pode exmudar E1 for F1 in sente, becausar it threatens to collapse Branco está big eye into a four shape. So you deveria assume E1 and F1 tem already been jogou when counting liberties in thé case.]))
+(;B[fs]C[Esta jogada é interesting too, but]
+;W[is]
+;B[dq]
+;W[gr]
+;B[dr]
+;W[om]C[Black captured the lower deixou corner and perdeu the initiative in the fighting. Preto pode fazer melhor if he changes the mover order.])
+(;B[kr]
+;W[is]
+(;B[kp]
+;W[js]
+(;B[ks]
+;W[hs])
+(;B[hs]
+;W[gr]))
+(;B[fs]
+;W[gr]
+;B[dq]
+;W[dr]
+;B[er]
+;W[hs]))
+(;B[js]
+;W[ks]
+(;B[fr]
+;W[er]
+(;B[hs]
+;W[is]C[É um ko, mas Preto pode fazer melhor.])
+(;B[is]
+;W[gr])
+(;B[gr]
+;W[is]
+;B[fs]
+;W[es]))
+(;B[hs]
+;W[gr])
+(;B[kr]
+;W[is]
+;B[kp]
+;W[js]
+;B[ls]
+;W[hs]))
+(;B[fr]
+;W[er]
+(;B[js]
+;W[ks]
+(;B[hs]
+;W[is]C[É um ko, mas Preto pode fazer melhor.])
+(;B[kr]
+;W[is]
+;B[kp]
+;W[js]
+;B[ls]
+;W[hs]))
+(;B[kr]
+;W[is]
+(;B[kp]
+;W[js]
+;B[ks]
+;W[hs])
+(;B[fs]
+;W[hs])
+(;B[gr]
+;W[fs]))
+(;B[fs]
+;W[is]
+(;B[gr]
+;W[es])
+(;B[kr]
+;W[hs]))))

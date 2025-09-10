@@ -19,11 +19,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[hq]
 ;B[fr]C[[OK\]]))
 (;B[hq]
-;W[fs]C[Not bad, but White managed to live. Can you do better?])
+;W[fs]C[Not bad, mas White managed to live. Can you fazer better?])
 (;B[es]
 ;W[hq]))
 (;W[hq]
-;B[fr]LB[gr:A][fs:B]C[Correct. A and B are miai for Black, so White's cutting stones are captured.]))
+;B[fr]LB[gr:A][fs:B]C[[OK]. A and B são miai para preto, so o corte fazer brancoting stones são captured.]))
 (;B[gr]
 ;W[fr]
 (;B[hq]
@@ -39,7 +39,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[fr]
 ;W[gr]
 ;B[hs]
-;W[fs]C[White's alive. Can you do better?])
+;W[fs]C[Branco está vivo. Can you fazer better?])
 (;B[fs]
 ;W[fr]
 (;B[hs]

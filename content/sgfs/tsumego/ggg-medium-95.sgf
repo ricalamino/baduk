@@ -11,14 +11,14 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[or]
 ;B[nr]
 ;W[qr]
-(;B[mp]LB[pr:B][os:A]C[Correct. Black can leave the atari at A as a ko threat.])
+(;B[mp]LB[pr:B][os:A]C[[OK]. Black pode deixar the atari at A as a ko threat.])
 (;B[os]
 ;W[pr]
-(;B[mp]LB[os:A]C[Correct. However, the atari at A isn't necessary.])
-(;B[np]C[Not that bad, but Black can do better.]))
+(;B[mp]LB[os:A]C[[OK]. However, the atari at A isn't necessary.])
+(;B[np]C[Not that bad, mas Preto pode fazer melhor.]))
 (;B[kq]
-;W[np]C[Black should avoid this cut.])
-(;B[np]C[Not that bad, but Black can do better.]))
+;W[np]C[Black deveria avoid thé cut.])
+(;B[np]C[Not that bad, mas Preto pode fazer melhor.]))
 (;B[or]
 ;W[nq]
 ;B[rr]
@@ -45,18 +45,18 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[or]
 ;B[nr]
 ;W[qr]
-;B[mp]C[This isn't the best result. Black can do better.])
+;B[mp]C[Thé isn't the best result. Preto pode fazer melhor.])
 (;B[rr]
 ;W[sp]
 ;B[or]
 ;W[nq]
 ;B[sr]
-;W[qm]LB[op:A]C[Black can live in the corner, but Black's cutting stones, at A, are lonely now.])
+;W[qm]LB[op:A]C[Preto pode viver in the corner, mas o corte fazer pretoting stones, at A, são lonely now.])
 (;B[or]
 ;W[nq]
 ;B[rr]
 ;W[sp]
 ;B[sr]
-;W[qm]LB[op:A]C[Black can live in the corner, but Black's cutting stones, at A, are lonely now.])
+;W[qm]LB[op:A]C[Preto pode viver in the corner, mas o corte fazer pretoting stones, at A, são lonely now.])
 (;B[sp]
 ;W[pr]))

@@ -17,13 +17,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[bo]
 ;B[bn]
 ;W[bs]
-;B[ao]C[Correct. White's stones are captured.])
+;B[ao]C[[OK]. As pedras brancas são captured.])
 (;B[bo]
 ;W[ap]
 (;B[ao]
-;W[bs]C[Almost correct, but Black can't atari now, so White lives. Be careful towards the end of the ladder.])
+;W[bs]C[Almost correct, mas Preto pode't atari now, so Branco vive. Be careful towards the end of the ladder.])
 (;B[aq]
-;W[bs]C[Almost correct, but Black's stones are in atari now. Is there a better way to play out the ladder?])))
+;W[bs]C[Almost correct, mas As pedras pretas são in atari now. Is there a better way to jogar out the ladder?])))
 (;B[bp]
 ;W[co]))
 (;B[cp]
@@ -77,13 +77,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[cq]
 ;W[hq]
 (;B[cr]
-;W[hs]C[Not bad. Can you find a way to win the capturing race though?])
+;W[hs]C[Not bad. Can you encontrar a way to ganhar the capturing race though?])
 (;B[cs]
-;W[hs]LB[gm:D][eo:C][cr:B][cs:A]C[Not bad. Can you find a way to win the capturing race though?
+;W[hs]LB[gm:D][eo:C][cr:B][cs:A]C[Not bad. Can you encontrar a way to ganhar the capturing race though?
 
-Sometimes Black's move at C1 (A) is tesuji - for example, if everything was moved one point to the left. 
+Sometimes A jogada preta at C1 (A) é tesuji - for example, if everything era moveu one point to the left. 
 
-In this case though, the atari at B is slightly better, because it lets Black remove the two stones from the board in sente later. There are still cutting points around C and D, so Black would prefer not to leave any forcing moves here. This detail is quite minor, and sometimes decisive.]))
+In thé case though, the atari at B é slightly better, becausar it lets Black remover the dois stones from the board in sente later. There são still cutting points around C and D, so Preto irstaria prefer not to deixar any forcing moves here. Thé detail é quite minor, and sometimes decisive.]))
 (;B[gs]
 ;W[ds]
 ;B[cq]

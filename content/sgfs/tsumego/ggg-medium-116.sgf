@@ -25,14 +25,14 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[ol]
 ;B[pk]
 ;W[rn]
-;B[nk]C[It's also possible, but Black can do better.])))
+;B[nk]C[It's also possible, mas Preto pode fazer melhor.])))
 (;W[ql]
 ;B[rm]
 ;W[rl]
 ;B[pl]
 ;W[om]
 ;B[rk]C[[OK\]]))
-(;B[op]C[It's possible, but the shape isn't good.])
+(;B[op]C[It's possible, mas the shape isn't good.])
 (;B[rm]
 ;W[po]
 (;B[oo]
@@ -60,9 +60,9 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[qo]
 ;W[ro]
 ;B[po]
-;W[rm]C[It's good for White.]
+;W[rm]C[It's good para branco.]
 ;B[om]
-;W[pl]C[It's good for White.])
+;W[pl]C[It's good para branco.])
 (;B[mp]
 ;W[po]
 ;B[oo]

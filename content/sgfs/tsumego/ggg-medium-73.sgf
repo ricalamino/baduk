@@ -44,7 +44,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[ar]
 ;W[cr]
 ;B[eq]
-;W[er]LB[ep:B][fr:A]C[If Black answers at A, White can play elsewhere and still win the capturing race in the corner. White doesn't need to save the stone at B because it's not that important.])
+;W[er]LB[ep:B][fr:A]C[If Black answers at A, White pode jogar elsewhere and still ganhar the capturing race in the corner. White doesn't precisar to save the stone at B becausar it's not that important.])
 (;B[eq]
 ;W[cq]
 ;B[dp]

@@ -76,7 +76,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[ar]
 (;B[dq]
 (;W[ep]
-;B[bq]C[Correct. It's a seki.])
+;B[bq]C[[OK]. It's a seki.])
 (;W[bq]
 ;B[aq]
 (;W[ao]
@@ -85,20 +85,20 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[fs]C[[OK\]])
 (;B[bq]
 ;W[ep]
-;B[as]C[It's a ko, but Black can do better.]))
+;B[as]C[É um ko, mas Preto pode fazer melhor.]))
 (;W[ep]
 ;B[cr]C[[OK\]])))
 (;B[aq]
 ;W[ao]
-;B[as]C[It's a ko, but Black can do better.])
+;B[as]C[É um ko, mas Preto pode fazer melhor.])
 (;B[bq]
 ;W[dq]
 ;B[cr]
-;W[ao]C[It's a bent four in the corner. Black can do better.])))
+;W[ao]C[It's a bent four in the corner. Preto pode fazer melhor.])))
 (;B[ds]
 ;W[ap]
 (;B[aq]
-;W[bq]C[It's a ko, but Black can do better.])
+;W[bq]C[É um ko, mas Preto pode fazer melhor.])
 (;B[bq]
 ;W[aq]
 ;B[ar]
@@ -114,7 +114,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[bs]
 ;W[ap]
 ;B[aq]
-;W[bq]C[It's a ko, but Black can do better.]))
+;W[bq]C[É um ko, mas Preto pode fazer melhor.]))
 (;W[dq]
 (;B[bp]
 ;W[bo]
@@ -129,7 +129,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[cr]
 ;W[ar]
 ;B[aq]
-;W[bs]C[It's a ko, but Black can do better.])
+;W[bs]C[É um ko, mas Preto pode fazer melhor.])
 (;B[bs]
 ;W[cr]
 ;B[bq]
@@ -139,11 +139,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[bq]
 ;W[bs]
 ;B[cs]
-;W[ar]C[It's a ko, but Black can do better.]))
+;W[ar]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[cs]
 ;W[bq]
 ;B[bp]
-;W[cr]C[It's a ko, but Black can do better.])))
+;W[cr]C[É um ko, mas Preto pode fazer melhor.])))
 (;B[bq]
 ;W[bp]
 ;B[br]
@@ -208,12 +208,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[as]
 ;W[ap]
 ;B[bq]
-;W[ar]C[It's a ko, but Black can do better.])
+;W[ar]C[É um ko, mas Preto pode fazer melhor.])
 (;B[ap]
-;W[ar]C[It's a ko, but Black can do better.]))
+;W[ar]C[É um ko, mas Preto pode fazer melhor.]))
 (;B[bs]
 ;W[ap]
 ;B[aq]
-;W[bq]C[It's a ko, but Black can do better.]))
+;W[bq]C[É um ko, mas Preto pode fazer melhor.]))
 (;W[bp]
 ;B[cs]C[[OK\]])))

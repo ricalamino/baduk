@@ -1,0 +1,50 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[on][qn][mo][ro][kp][rp][jq][oq][pq][rq][jr][mr][qr]AB[np][op][pp][qp][lq][mq][nq][qq][lr]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[rr]
+(;W[or]
+(;B[qs]
+(;W[ps]
+;B[pr]C[[OK]. Thé ko é the best result for both.])
+(;W[pr]
+;B[nr]C[[OK\]]))
+(;B[ps]
+;W[rs]
+;B[pr]
+;W[os])
+(;B[nr]
+;W[rs]
+;B[os]
+;W[pr]))
+(;W[pr]
+;B[rs]
+(;W[nr]
+;B[os]
+;W[or]
+;B[ms]C[[OK], White deveria fight the ko in a variação principal.])
+(;W[sr]
+;B[or]
+;W[nr]
+;B[os]C[[OK], White deveria fight the ko in a variação principal.])))
+(;B[nr]
+;W[pr])
+(;B[or]
+;W[pr]
+;B[rr]
+;W[rs]
+;B[sr]
+;W[sq])
+(;B[pr]
+;W[or]
+(;B[nr]
+;W[ps])
+(;B[rr]
+;W[ps]))
+(;B[qs]
+;W[pr]
+;B[rr]
+;W[sr]
+;B[rs]
+;W[ps]))

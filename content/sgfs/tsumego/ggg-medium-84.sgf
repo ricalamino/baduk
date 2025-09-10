@@ -36,11 +36,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[pr]
 ;W[ks]))
 (;B[os]
-(;W[or]C[It's a ko for life, but Black has a better move.])
-(;W[ns]C[If White plays here, which is a mistake...]
+(;W[or]C[É um ko for life, mas Black tem a better move.])
+(;W[ns]C[If Branco joga here, which é a mistake...]
 ;B[pr]
 ;W[ks]
-;B[hr]C[White's group dies after Black plays like this.]))
+;B[hr]C[O grupo branco dies after Preto joga gostar this.]))
 (;B[or]
 ;W[ns]
 (;B[ks]

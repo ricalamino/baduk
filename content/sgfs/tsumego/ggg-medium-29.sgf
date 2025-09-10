@@ -14,11 +14,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[qo]C[[OK\]])
 (;B[mq]
 ;W[qo]))
-(;W[qo]C[White R5 is an overplay.]
+(;W[qo]C[White R5 é an overplay.]
 ;B[mp]
 ;W[no]
-;B[nn]TR[kk]C[Black captures White in a ladder.])
-(;W[mq]C[White N3 is also an overplay.]
+;B[nn]TR[kk]C[Preto captura White in a ladder.])
+(;W[mq]C[White N3 é also an overplay.]
 ;B[mp]
 ;W[no]
 ;B[qo]))

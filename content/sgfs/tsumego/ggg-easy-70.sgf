@@ -1,23 +1,23 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGobah:3]ST[2]
 RU[Japanese]SZ[13]KM[0.00]
-SO[https://gogameguru.com/]AW[bh][bj][cj][dj][ej][fj][ak][dk][fk][fl][bl][cm]AB[bk][ck][ek][al][bl][dl][el]C[Black to play.
+SO[https://gogameguru.com/]AW[bh][bj][cj][dj][ej][fj][ak][dk][fk][fl][bl][cm]AB[bk][ck][ek][al][bl][dl][el]C[Preto joga.
 
 https://gogameguru.com/]
 (;B[bm]
 ;W[em]
 (;B[cl]
 ;W[fm]
-;B[dm]C[[OK\]. Black lives with two eyes.])
+;B[dm]C[[OK\]. Preto vive with dois eyes.])
 (;B[dm]
 ;W[cl])
 (;B[aj]
 ;W[dm]
 ;B[cl]
-;W[fm]LB[aj:A]C[Capturing at A only makes a false eye, so Black dies.]))
+;W[fm]LB[aj:A]C[Capturing at A only makes a false eye, so Preto morre.]))
 (;B[cl]
-;W[bm]C[Black only has one eye, so Black's dead.])
+;W[bm]C[Black only tem one eye, so Preto está morto.])
 (;B[dm]
-;W[bm]C[Black only has one eye, so Black's dead.])
+;W[bm]C[Black only tem one eye, so Preto está morto.])
 (;B[em]
 ;W[cl]
 (;B[aj]
@@ -28,4 +28,4 @@ https://gogameguru.com/]
 ;W[fm]))
 (;B[aj]
 ;W[bm]
-;B[cl]LB[aj:A]C[Capturing at A only makes a false eye, so Black's already died.]))
+;B[cl]LB[aj:A]C[Capturing at A only makes a false eye, so Preto já morreu.]))

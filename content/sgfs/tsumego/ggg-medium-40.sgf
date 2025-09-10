@@ -6,7 +6,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[ho]
 (;W[lo]
 ;B[hp]C[[OK\]])
-(;W[hp]C[White can't resist like this]
+(;W[hp]C[Branco pode't resist gostar this]
 ;B[jo]
 ;W[lo]
 ;B[mp]
@@ -17,11 +17,11 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[hn]
 ;B[im]
 ;W[il]
-;B[hm]C[Correct. Black's tesuji at H5 means this ladder doesn't work anymore.])
+;B[hm]C[[OK]. Preto está tesuji at H5 means thé ladder doesn't funcionar anymore.])
 (;W[jn]
 ;B[kn]
 ;W[km]
-;B[ln]C[Correct. There's no ladder this way either.])))
+;B[ln]C[[OK]. There's no ladder thé way either.])))
 (;B[jo]
 ;W[lo]
 ;B[mp]
@@ -29,7 +29,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[jn]
 ;W[jm]
 ;B[in]
-;W[hn]C[Black's stones are caught in a ladder.])
+;W[hn]C[As pedras pretas são caught in a ladder.])
 (;B[ms]
 ;W[jo])
 (;B[ks]

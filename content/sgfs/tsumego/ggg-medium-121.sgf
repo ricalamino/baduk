@@ -20,7 +20,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[co]
 ;W[ap]))
 (;W[ao]
-(;B[dn]LB[an:B][eo:A]C[Correct. It's a ko. If White connects at A, Black can continue with the atari at B.])
+(;B[dn]LB[an:B][eo:A]C[[OK]. É um ko. If White connects at A, Black pode continuar with the atari at B.])
 (;B[cn]
 ;W[bq])))
 (;B[cn]
@@ -31,12 +31,12 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[bq]
 ;B[co]
 ;W[ap]))
-(;W[bq]C[Playing atari here is a mistake for White.]
-(;B[eo]C[Black should strike while the iron's hot and play here.]
+(;W[bq]C[Playing atari here é a mistomar para branco.]
+(;B[eo]C[Black deveria strike while the iron's hot and jogar here.]
 ;W[ap]
 ;B[do]
 ;W[bp]
-;B[bn]C[Correct. This result is very good for Black because White made a mistake.])
+;B[bn]C[[OK]. Thé result é very good para preto becausar White fez a mistake.])
 (;B[ap]C[In descending here, Black succumbs to wishful thinking.]
 ;W[do]
 ;B[bn]
@@ -44,7 +44,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[ao]
 ;W[dm]
 ;B[co]
-;W[dn]C[Black will be able to salvage the situation, but the two mistakes canceled each other out and Black missed a good opportunity.]))
+;W[dn]C[Black vai be able to salvage the situation, mas the two mistakes cancelevou each other out and Black missed a good opportunity.]))
 (;W[cn]
 ;B[bn]
 ;W[do]

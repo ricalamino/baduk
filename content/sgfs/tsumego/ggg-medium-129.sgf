@@ -49,7 +49,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[gs]
 ;W[js])))
 (;B[fr]
-;W[eq]C[Black is alive, but can do better.])
+;W[eq]C[Preto está vivo, mas pode fazer better.])
 (;B[fp]
 ;W[fr]
 ;B[eq]
@@ -65,13 +65,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[er]
 ;W[eq]
 (;B[fr]
-;W[dq]C[Black can do better.])
+;W[dq]C[Preto pode fazer melhor.])
 (;B[dq]
 ;W[fr])))
 (;B[fr]
 ;W[eq]
 ;B[hs]
-;W[jq]C[Black can do better.]))
+;W[jq]C[Preto pode fazer melhor.]))
 (;B[jq]
 ;W[gr]))
 (;B[fr]
@@ -81,7 +81,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[gr]
 ;W[jr]
 ;B[hs]
-;W[jq]C[Black can do better.])
+;W[jq]C[Preto pode fazer melhor.])
 (;B[fp]
 ;W[gr]
 ;B[eq]

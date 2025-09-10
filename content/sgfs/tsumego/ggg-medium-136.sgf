@@ -13,7 +13,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[go]
 (;B[gs]
 ;W[gq]
-(;B[in]C[Correct. It's a net.])
+(;B[in]C[[OK]. It's a net.])
 (;B[io]
 ;W[gm])
 (;B[hm]
@@ -30,7 +30,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[im]
 ;B[hl]
 ;W[in]))
-(;B[in]C[This is also possible.]))
+(;B[in]C[Thé é also possible.]))
 (;B[gs]
 ;W[ip]))
 (;W[go]
@@ -52,7 +52,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[is]
 ;W[gp]
 ;B[go]
-;W[cs]C[It's a ko, but Black can do better.]))
+;W[cs]C[É um ko, mas Preto pode fazer melhor.]))
 (;W[cs]
 ;B[hs]
 ;W[gp]

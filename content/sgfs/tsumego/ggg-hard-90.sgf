@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[bn][cn][bo][fo][cp][dp][ep][fq][gq][er][fr][cs]AB[ao][co][bp][bq][cq][dq][eq][dr][es]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[ds]
+;W[br]
+(;B[ar]
+;W[ap]
+(;B[bs]
+;W[as]
+;B[cr]
+;W[aq]
+;B[ar]
+;W[aq]
+;B[ap]C[[OK]. Preto vive with a double ko.])
+(;B[cr]
+;W[bs]))
+(;B[cr]
+;W[bs]
+(;B[ap]
+;W[ar]
+;B[aq]
+;W[an]
+;B[as]
+;W[bs]
+;B[br]
+;W[ar]C[É um ko, and Preto pode fazer melhor.])
+(;B[ar]
+;W[ap])))
+(;B[bs]
+;W[br]
+(;B[ar]
+;W[as]
+;B[cr]
+;W[aq]
+(;B[ds]
+;W[fs]C[É um ko, and Preto pode fazer melhor.])
+(;B[ap]
+;W[an]C[É um ko, and Preto pode fazer melhor.]))
+(;B[cr]
+;W[as]
+(;B[ds]
+;W[fs]C[É um ko, and Preto pode fazer melhor.])
+(;B[ar]
+;W[aq]
+(;B[ap]
+;W[an]C[É um ko, and Preto pode fazer melhor.])
+(;B[ds]
+;W[fs]C[É um ko, and Preto pode fazer melhor.])))
+(;B[ds]
+;W[as]
+(;B[cr]
+;W[fs]C[É um ko, and Preto pode fazer melhor.])
+(;B[ar]
+;W[fs]C[É um ko, and Preto pode fazer melhor.])))
+(;B[ar]
+;W[bs]
+(;B[ds]
+;W[ap])
+(;B[ap]
+;W[ds]))
+(;B[ap]
+;W[ds]
+;B[bs]
+;W[ar]
+;B[cr]
+;W[ds])
+(;B[br]
+;W[ds])
+(;B[cr]
+;W[bs]
+;B[ds]
+;W[ap]))

@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[GERADO PELO CURSOR - BUGADO]AW[cn][dp][jp][hq][jq][oq][dr][kr][lr]AB[cl][jo][kp][qp][fq][kq][ir][jr]LB[hq:A]C[Black to play.
+SO[GERADO PELO CURSOR - BUGADO]AW[cn][dp][jp][hq][jq][oq][dr][kr][lr]AB[cl][jo][kp][qp][fq][kq][ir][jr]LB[hq:A]C[Preto joga.
 
-White A was a mistake. Why?
+White A era a mistake. Why?
 
 https://gogameguru.com/]
 (;B[hp]
@@ -14,7 +14,7 @@ https://gogameguru.com/]
 (;B[fr]
 ;W[gs]
 (;B[ip]C[[OK\]])
-(;B[fs]LB[ip:A]C[Also correct, Black's last move could also be at A.])
+(;B[fs]LB[ip:A]C[Also correct, A última jogada preta poderia also be at A.])
 (;B[hs]
 ;W[js]))
 (;B[ip]
@@ -28,11 +28,11 @@ https://gogameguru.com/]
 (;B[gq]
 ;W[hr]
 (;B[ip]
-;W[js]C[Sometimes sacrificing like this is good, but here Black can do better.])
+;W[js]C[Sometimes sacrificing gostar thé é good, mas here Preto pode fazer melhor.])
 (;B[gr]
-;W[js]C[Sometimes sacrificing like this is good, but here Black can do better.])))
+;W[js]C[Sometimes sacrificing gostar thé é good, mas here Preto pode fazer melhor.])))
 (;B[hr]
-;W[hp]C[You need to find something sharper than this.])
+;W[hp]C[You precisar to encontrar something sharper than this.])
 (;B[io]
 ;W[hp])
 (;B[iq]
@@ -40,12 +40,12 @@ https://gogameguru.com/]
 ;B[hp]
 ;W[io]
 ;B[hr]
-;W[ko]C[Now Black's involved in a difficult fight, but there was a better way to play.])
+;W[ko]C[Now Preto está involved in a difficult fight, mas there era a better way to play.])
 (;B[gp]
 ;W[hp]
 (;B[ho]
 ;W[hr])
 (;B[hr]
-;W[ho]C[Playing here is good enough to make things hard for Black.]))
+;W[ho]C[Playing here é good enough to fazer things hard para preto.]))
 (;B[gq]
-;W[hp]C[Black's move was a sort of tesuji, but it's not appropriate in this situation. White has dodged a bullet.]))
+;W[hp]C[A jogada preta era a sort of tesuji, mas it's not appropriate in thé situation. White tem dodged a bullet.]))

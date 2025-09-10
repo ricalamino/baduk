@@ -21,7 +21,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[hk]
 ;W[il]
 ;B[jl]
-;W[ik]C[This ladder doesn't work for Black.])
+;W[ik]C[Thé ladder doesn't funcionar para preto.])
 (;B[hl]
 ;W[hn]
 ;B[in]
@@ -47,7 +47,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[hk]
 ;W[il]
 ;B[jl]
-;W[ik]C[This ladder doesn't work for Black.])
+;W[ik]C[Thé ladder doesn't funcionar para preto.])
 (;B[hm]
 ;W[hn]
 ;B[in]
@@ -71,7 +71,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[fl]
 ;W[el]
 ;B[gn]
-;W[em]C[Sometimes Black plays something like this, but Black can do much better in this situation.]))
+;W[em]C[Sometimes Preto joga something gostar this, mas Black pode fazer much better in thé situation.]))
 (;B[hm]
 ;W[fm]
 ;B[el]
@@ -83,7 +83,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[el]
 ;W[ao]
 (;B[aq]
-;W[am]C[White wins the capturing race.])
+;W[am]C[Branco ganha the capturing race.])
 (;B[am]
 ;W[al]
 ;B[aq]
@@ -103,7 +103,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[dr]
 ;W[ao]
 ;B[aq]
-;W[am]C[White wins the capturing race.]))
+;W[am]C[Branco ganha the capturing race.]))
 (;B[gn]
 ;W[fm]
 ;B[el]

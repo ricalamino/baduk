@@ -7,14 +7,14 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[fq]
 (;B[er]
 (;W[gr]
-;B[dq]LB[ep:A][gq:B]C[Correct. A and B are miai next.])
+;B[dq]LB[ep:A][gq:B]C[[OK]. A and B são miai depois.])
 (;W[dq]
-(;B[dr]LB[gr:A][hr:B]C[Correct. White should defend at A next, but Black can still attach at B later.])
+(;B[dr]LB[gr:A][hr:B]C[[OK]. White deveria defend at A depois, mas Black pode still attach at B later.])
 (;B[gq]
 ;W[dr])))
 (;B[dq]
 (;W[ep]
-;B[er]LB[gq:A]C[Correct. White should defend at A next.])
+;B[er]LB[gq:A]C[[OK]. White deveria defend at A depois.])
 (;W[er]
 ;B[ep]C[[OK\]])))
 (;W[dq]
@@ -34,7 +34,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[hr]
 ;W[fs]
 ;B[gs]
-;W[ir]LB[ar:B][bs:A]C[Black needs to defend at A or B now. Black can do better.])
+;W[ir]LB[ar:B][bs:A]C[Preto precisars to defend at A or B now. Preto pode fazer melhor.])
 (;B[er]
 ;W[dr]))
 (;W[er]
@@ -42,7 +42,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[fq]
 ;B[dq]C[[OK\]])
 (;W[dq]
-;B[fq]TR[co][do][dp][dq][eq][er]C[Correct. White's marked stones are captured.]))
+;B[fq]TR[co][do][dp][dq][eq][er]C[[OK]. Branco está marked stones são captured.]))
 (;B[fq]
 ;W[fp]))
 (;W[ep]

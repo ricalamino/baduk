@@ -1,0 +1,81 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[dl][dm][bo][do][eo][ho][bp][fp][bq][cq][gq][ar][gr][cs][ds][es]AB[el][dn][cp][dp][dq][eq][fq][br][cr][dr][fr][fs]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[co]
+(;W[cn]
+;B[bn]
+;W[cm]
+(;B[ao]
+(;W[aq]
+(;B[bm]
+(;W[bl]
+(;B[an]
+(;W[bs]
+;B[er]
+;W[al]
+;B[as]
+;W[bs]
+;B[cs]
+;W[am]
+;B[as]
+;W[ap]
+;B[bn]C[[OK]. É um ko for life.
+])
+(;W[al]C[If Branco joga here, Preto pode viver.]
+;B[bs]
+;W[am]
+;B[as]
+;W[ap]
+;B[bn]C[Black viveu easily becausar White fez a mistake.]))
+(;B[bs]
+;W[am]
+;B[as]
+;W[an]))
+(;W[an]C[Thé é an interesting idea, mas it's an overjogar in thé case.]
+;B[bl]
+;W[bs]
+;B[er]
+;W[gs]
+;B[as]
+;W[bs]
+;B[cs]
+;W[ep]
+;B[as]LB[an:A]C[[OK]. Thé é a one step ko where Preto tomars first. It's much better para preto than a variação principal becausar White A era a mistake.]))
+(;B[an]
+;W[bm]
+;B[bs]
+;W[am]
+;B[as]
+;W[ap]))
+(;W[bm]C[Black vai viver if Branco joga here, mas White tem a stronger move.
+]
+;B[aq]
+(;W[an]
+;B[as]C[Black viveu easily (em seki) becausar White fez a mistake.
+])
+(;W[ap]C[Branco pode't capture...]
+;B[aq]C[It's a snapback.])))
+(;B[bm]
+;W[bl]
+;B[ao]
+;W[an]
+(;B[am]
+;W[aq]
+;B[bs]
+;W[al]
+;B[as]
+;W[an])
+(;B[aq]
+;W[ap]))
+(;B[aq]
+;W[ap]))
+(;W[bn]
+;B[cn]
+;W[bm]
+;B[en]
+;W[fn]
+;B[em]C[[OK]. Black tem escaped.]))
+(;B[cn]
+;W[co]))

@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[bn][cn][dn][fn][hn][hp][eq][fq][hq][br][dr][fr][gr][ir][bs]AB[co][dp][ep][fp][gp][aq][bq][cq][dq][gq][ar][cr][hr]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[es]
+(;W[er]
+;B[bo]
+;W[cs]
+;B[ds]
+;W[fs]
+;B[ds]
+;W[es]
+;B[as]C[[OK\]])
+(;W[bo]
+;B[er]C[[OK\]])
+(;W[ds]
+;B[cs]
+;W[er]
+;B[bo]C[[OK\]]))
+(;B[cs]
+;W[bo]
+;B[bp]
+;W[do])
+(;B[bo]
+;W[cs]
+(;B[es]
+;W[ds]
+(;B[as]
+;W[er])
+(;B[gs]
+;W[hs]))
+(;B[fs]
+;W[ds]
+;B[er]
+;W[es]
+;B[as]
+;W[gs]))
+(;B[ds]
+;W[es]
+;B[er]C[É um ko, mas Preto pode fazer melhor.]))

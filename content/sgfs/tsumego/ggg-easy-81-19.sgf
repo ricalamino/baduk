@@ -1,15 +1,15 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[https://gogameguru.com/]AW[qk][no][ip][nq]AB[qm][pn][lp][pp][oq]C[Black to play.
+SO[https://gogameguru.com/]AW[qk][no][ip][nq]AB[qm][pn][lp][pp][oq]C[Preto joga.
 
-How can Black connect his all stones?
+How pode Black connect hé all stones?
 
 https://gogameguru.com/]
 (;B[mq]
 (;W[np]
-;B[nr]C[Correct])
+;B[nr]C[[OK]])
 (;W[nr]
-;B[np]C[Correct]))
+;B[np]C[[OK]]))
 (;B[np]
 ;W[mp]
 ;B[op]
@@ -21,8 +21,8 @@ https://gogameguru.com/]
 (;B[mr]
 ;W[lr]
 (;B[nr]
-;W[kp]C[This is a kind of net, not really a ladder.]
-;B[lo]C[If Black tries to escape...]
+;W[kp]C[Thé é a kind of net, not really a ladder.]
+;B[lo]C[If Preto tenta to escape...]
 ;W[ln]
 ;B[ko]
 ;W[jn]
@@ -40,16 +40,16 @@ https://gogameguru.com/]
 ;W[kn]))
 (;B[kp]
 ;W[nr])))
-(;W[mq]C[This is also good for White.]
+(;W[mq]C[Thé é also good para branco.]
 ;B[mo]
 ;W[lo]
 ;B[mn]
 ;W[kp]))
 (;B[nr]
 ;W[mq])
-(;B[ln]C[Black can attack on a large scale too.]
+(;B[ln]C[Black pode attack on a large scale too.]
 ;W[lq]
 ;B[kq]
-;W[kp]C[White can manage the situation lightly like this. Other moves are possible too.])
+;W[kp]C[White pode manage the situation lightly gostar this. Other moves são possible too.])
 (;B[ko]
-;W[mr]LB[nm:A][kq:B]C[A and B are miai for White next.]))
+;W[mr]LB[nm:A][kq:B]C[A and B são miai para branco next.]))

@@ -5,23 +5,23 @@ SO[GERADO PELO CURSOR - BUGADO]AW[mp][np][op][qp][kq][lq][qq][kr][nr][rr][ks][ms
 Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[sr]
 (;W[rq]
-(;B[rs]C[Correct, ko is the best result for Black.]
+(;B[rs]C[[OK], ko é the best result para preto.]
 ;W[sq]C[If White doesn't fight the ko,]
-;B[os]LB[ns:B][qs:A]C[Black can live. A and B are miai next.])
+;B[os]LB[ns:B][qs:A]C[Preto pode viver. A and B são miai next.])
 (;B[os]
 ;W[ns]
 ;B[rs]
 ;W[qs]))
-(;W[sq]LB[sq:A]C[This move lets Black live without ko.]
+(;W[sq]LB[sq:A]C[Esta jogada lets Black viver without ko.]
 ;B[os]
 ;W[ns]
 ;B[rs]
 ;W[ss]
-;B[qs]LB[sq:A]C[Black lived easily because of A.])
-(;W[rs]LB[rs:A]C[This move lets Black live without ko.]
+;B[qs]LB[sq:A]C[Black viveu easily becausar of A.])
+(;W[rs]LB[rs:A]C[Esta jogada lets Black viver without ko.]
 ;B[os]
 ;W[rp]
-;B[ns]LB[rs:A]C[Black lived easily because of A.]))
+;B[ns]LB[rs:A]C[Black viveu easily becausar of A.]))
 (;B[os]
 ;W[ns]
 (;B[rs]

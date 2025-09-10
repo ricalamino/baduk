@@ -9,7 +9,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[ir]
 (;B[hs]
 (;W[cs]
-;B[fs]LB[bs:B][ds:D][gs:A][is:C]C[Correct. After White recaptures the ko at A (ko threat first), Black can play B, White C, Black D. It's a one step ko in Black's favor.])
+;B[fs]LB[bs:B][ds:D][gs:A][is:C]C[[OK]. After White recaptures the ko at A (ko threat first), Black pode jogar B, White C, Black D. It's a one step ko in Preto está favor.])
 (;W[is]
 (;B[cs]
 ;W[hs]
@@ -40,7 +40,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[mr]))
 (;B[ds]
 ;W[cs]
-;B[bs]C[It's a ko, but Black can do better.])))
+;B[bs]C[É um ko, mas Preto pode fazer melhor.])))
 (;B[ip]
 ;W[kr])
 (;B[cs]

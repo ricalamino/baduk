@@ -1,13 +1,13 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[GERADO PELO CURSOR - BUGADO]AW[ol][ql][rl][qm][pn][oo][so][mp][np][pq][qq][nr][rr]AB[lm][rm][nn][qn][rn][lo][no][qo][op][qp][rp][rq]LB[so:A]C[Black to play.
+SO[GERADO PELO CURSOR - BUGADO]AW[ol][ql][rl][qm][pn][oo][so][mp][np][pq][qq][nr][rr]AB[lm][rm][nn][qn][rn][lo][no][qo][op][qp][rp][rq]LB[so:A]C[Preto joga.
 
-White A was an overplay. Why?
+White A era an overplay. Why?
 
 https://gogameguru.com/]
 (;B[pm]
 (;W[om]
-;B[on]C[Correct.])
+;B[on]C[[OK].])
 (;W[pp]
 ;B[po]C[[OK\]]))
 (;B[on]
@@ -27,12 +27,12 @@ https://gogameguru.com/]
 ;B[ps]
 ;W[or]
 ;B[sq]
-;W[qs]LB[or:B][qr:A]C[Black has a ko at A, but Black can do better. White plays this way to take the ko first. White doesn't care if she loses the ko.
+;W[qs]LB[or:B][qr:A]C[Black tem a ko at A, mas Preto pode fazer melhor. Branco joga thé way to tomar the ko first. White doesn't csão if she loses the ko.
 
-Note that, in a real game, White would take the ko once at 12 before playing B, to make Black spend an extra ko threat.])
+Note that, in a real game, White gostaria tomar the ko once at 12 before playing B, to fazer Black gastar an extra ko threat.])
 (;W[qs]
 ;B[sr]
-;W[or]LB[qr:A]C[Black has a ko at A, but Black can do better.]))
+;W[or]LB[qr:A]C[Black tem a ko at A, mas Preto pode fazer melhor.]))
 (;B[or]
 ;W[pr]
 (;B[ps]

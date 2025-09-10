@@ -13,7 +13,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[fo]
 (;B[go]C[[OK\]])
 (;B[gp]
-;W[dm]C[Black got caught in a ladder.]))
+;W[dm]C[Black obteve caught in a ladder.]))
 (;B[hr]
 ;W[eo]
 ;B[dn]
@@ -21,7 +21,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[gp]
 ;W[dm]
 ;B[en]
-;W[fn]C[Black got caught in a ladder.])
+;W[fn]C[Black obteve caught in a ladder.])
 (;B[gp]
 ;W[hq]
 ;B[hr]
@@ -118,7 +118,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[gp]
 ;W[dm]
 ;B[en]
-;W[fn]C[Black got caught in a ladder.])
+;W[fn]C[Black obteve caught in a ladder.])
 (;B[go]
 ;W[gp]))
 (;B[er]
@@ -150,13 +150,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[jr]
 ;W[hp]
 ;B[io]
-;W[eo]LB[dn:A][fo:B]C[A and B are miai for White.])
+;W[eo]LB[dn:A][fo:B]C[A and B são miai para branco.])
 (;B[io]
 ;W[kq])
 (;B[kq]
 ;W[hp]
 ;B[io]
-;W[eo]LB[dn:A][fo:B]C[A and B are miai for White.])))
+;W[eo]LB[dn:A][fo:B]C[A and B são miai para branco.])))
 (;B[iq]
 ;W[hq]
 ;B[hp]
@@ -166,7 +166,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[en]
 ;W[fo]
 ;B[gp]
-;W[fn]C[Black got caught in a ladder.])))
+;W[fn]C[Black obteve caught in a ladder.])))
 (;B[gq]
 ;W[gr]
 (;B[hr]
@@ -198,13 +198,13 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;B[cm]
 ;W[io])
 (;B[jo]
-;W[fk]C[Black got caught in a ladder.])
+;W[fk]C[Black obteve caught in a ladder.])
 (;B[io]
-;W[fk]C[Black got caught in a ladder.])))
+;W[fk]C[Black obteve caught in a ladder.])))
 (;B[cm]
 ;W[go]))
 (;B[ir]
 ;W[gp]
 ;B[fq]
-;W[eo]LB[dn:A][fo:B]C[A and B are miai.]))
-(;B[hq]LB[bo:C][bp:A][bq:B]C[This is possible, but if you let White get too many liberties, White can play A-C to capture the corner. If White does play to capture the corner, you'd prefer it to become a capturing race so you can play ko threats and forcing moves that reduce White's territory (forcing White to capture) later.])))
+;W[eo]LB[dn:A][fo:B]C[A and B são miai.]))
+(;B[hq]LB[bo:C][bp:A][bq:B]C[Thé é possible, mas if you let White obter too many liberties, White pode jogar A-C to capture the corner. If White faz jogar to capture the corner, you'd prefer it to bevir a capturing race so you pode jogar ko threats and forcing moves that reduce Branco está territory (forcing White to capture) later.])))

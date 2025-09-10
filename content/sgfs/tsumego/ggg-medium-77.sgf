@@ -25,7 +25,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[bp]
 ;B[fn]
 ;W[ao]
-;B[em]LB[dk:C][an:A][dn:B]C[Correct. White will continue with A or B, but this result is satisfactory for Black. Later Black can push through with C.]))
+;B[em]LB[dk:C][an:A][dn:B]C[[OK]. White vai continuar com A or B, mas thé result é satisfactory para preto. Later Black pode push through with C.]))
 (;B[dk]
 ;W[bp]
 (;B[cj]
@@ -39,7 +39,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[fo]
 ;W[gl]
 ;B[hm]
-;W[ej]C[Black can try to squeeze, but he can't hold White in.])
+;W[ej]C[Black pode tentar to squeeze, mas he can't hold White in.])
 (;B[ak]
 ;W[ao]))
 (;B[am]
@@ -48,7 +48,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;W[bp]
 ;B[fn]
 ;W[ao]
-;B[em]LB[dk:B][al:A]C[Correct, but note that White can still connect under by playing A next, so Black shouldn't have ataried on the first line. Black would prefer to atari at B later instead.]))
+;B[em]LB[dk:B][al:A]C[[OK], mas note that White pode still connect under by playing A next, so Black shouldn't tem ataried on the first line. Black gostaria prefer to atari at B later instead.]))
 (;W[dl]
 ;B[em]
 ;W[fn]
@@ -73,7 +73,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 (;W[bp]
 ;B[fn]
 ;W[an]
-;B[em]LB[dn:B][ao:A]C[Correct. White will continue with A or B, but this result is satisfactory for Black.]))
+;B[em]LB[dn:B][ao:A]C[[OK]. White vai continuar com A or B, mas thé result é satisfactory para preto.]))
 (;W[dl]
 ;B[em]
 ;W[fn]
@@ -105,7 +105,7 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[fk]
 ;W[gl]
 ;B[hl]
-;W[gk]C[This ladder doesn't work.])
+;W[gk]C[Thé ladder doesn't work.])
 (;B[em]
 ;W[fn]
 ;B[cl]
@@ -121,9 +121,9 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[bj]
 ;W[an]
 (;B[ak]
-;W[bp]C[Black can escape along the edge with a heavy group, but White can still live easily in the corner and attack Black's group.])
-(;B[ao]C[Capturing like this is nearly always a mistake.]
-;W[ak]C[Now White can throw in here too. Unless Black has some stones that can help in the top left (unlikely), Black's cutting stones will be captured now.])))
+;W[bp]C[Black pode escape along the edge with a heavy group, mas White pode still viver easily in the corner and attack O grupo preto.])
+(;B[ao]C[Capturing gostar thé é nearly always a mistake.]
+;W[ak]C[Now White pode throw in here too. Unless Black tem some stones that pode ajudar in the top deixou (unlikely), o corte fazer pretoting stones vai be captured now.])))
 (;B[fm]
 ;W[em]
 ;B[dl]

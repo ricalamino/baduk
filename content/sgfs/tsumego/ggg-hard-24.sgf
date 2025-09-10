@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[GERADO PELO CURSOR - BUGADO]AW[pk][qk][ol][ql][om][pm][qm][on][rn][oo][ro][so][op][qp][mq][nq][rq][sq][mr][or][rs]AB[pj][qj][rj][nk][ok][rk][nl][rl][nm][rm][nn][qn][sn][no][np][oq][pq][qq][qr][rr][sr]C[Preto joga.
+
+Você consegue encontrar a sequência correta para capturar as pedras brancas?]
+(;B[qo]
+(;W[po]
+;B[rp]
+(;W[pn]
+;B[sp]
+(;W[sm]
+(;B[pr]C[[OK\]])
+(;B[qs]LB[pr:A][qs:B]C[Also correct. Black A é slightly better than B.]))
+(;W[qs]
+;B[qo]
+;W[qn]
+;B[pp]C[[OK], now White risks her whole group in a unfavorable ko.]))
+(;W[sp]
+;B[rp]C[[OK\]]))
+(;W[pp]
+;B[rp]C[[OK\]])
+(;W[rp]
+;B[pp]C[[OK\]]))
+(;B[rp]
+(;W[qo]
+(;B[sp]
+;W[qs]
+;B[ps]
+;W[pr]
+;B[ss]
+;W[qs])
+(;B[pr]
+;W[sp])
+(;B[qs]
+;W[sp]))
+(;W[sp]LB[qo:B][sp:A]C[Black poderia hope for this, mas A é a mistomar and deveria be jogou at B instead.]
+;B[qo]
+;W[sm]
+;B[pp]
+;W[po]LB[sp:A]C[Now it's a difficult ko, becausar White fez a mistomar at A.]))
+(;B[pp]
+;W[po]
+(;B[qo]
+;W[pn])
+(;B[rp]
+;W[sp]))
+(;B[sm]
+;W[pp])
+(;B[po]
+;W[pp])
+(;B[pr]
+;W[pp])
+(;B[qs]
+;W[pp]))

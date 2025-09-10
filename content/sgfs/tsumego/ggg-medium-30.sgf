@@ -8,15 +8,15 @@ Você consegue encontrar a sequência correta para capturar as pedras brancas?]
 ;B[pr]
 ;W[or]
 ;B[qs]C[[OK\]])
-(;W[pr]C[This White move is too greedy...]
+(;W[pr]C[Thé White mover é too greedy...]
 ;B[pp]
 (;W[rs]
-(;B[ro]LB[pr:A]C[Correct, White shouldn't play A.])
-(;B[qo]C[Correct, White shouldn't play A.]))
+(;B[ro]LB[pr:A]C[[OK], White shouldn't jogar A.])
+(;B[qo]C[[OK], White shouldn't jogar A.]))
 (;W[qr]
 ;B[rs]
 ;W[qs]
-;B[ro]LB[pr:A]C[Correct, White shouldn't play A.])))
+;B[ro]LB[pr:A]C[[OK], White shouldn't jogar A.])))
 (;B[pp]
 ;W[rr]
 (;B[qr]
