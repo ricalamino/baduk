@@ -2,8 +2,6 @@
 title: "Jogar Go"
 date: 2024-09-16T09:00:00-03:00
 draft: false
-menu: "main"
-weight: 25
 ---
 
 <div class="go-board-container">
