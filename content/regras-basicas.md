@@ -3,9 +3,9 @@ title: "Regras básicas"
 date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "equipamento"
-next: "tecnicas-basicas"
-menu: "main"
-weight: 3
+next: "regras-detalhadas"
+menu: "theory"
+weight: 2
 ---
 
 ![Imagem de tabuleiro de Go](/img/go3.jpg)

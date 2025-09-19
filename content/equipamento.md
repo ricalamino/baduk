@@ -3,9 +3,9 @@ title: "Equipamento"
 date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "o-que-e-go"
-next: "regras-basicas"
+next: "tecnicas-basicas"
 menu: "theory"
-weight: 2
+weight: 1
 ---
 
 ![Goban](/img/goban-300x279.jpg)

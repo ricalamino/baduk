@@ -2,8 +2,9 @@
 title: "Regras detalhadas"
 date: 2021-08-05T09:37:54-03:00
 draft: false
+previous: "regras-basicas"
 menu: "theory"
-weight: 4
+weight: 3
 ---
 
 ![Imagem de tableiro de Go](/img/go3.jpg)
