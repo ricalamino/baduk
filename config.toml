@@ -11,17 +11,21 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 
-  [params.classes]
-    name = "Tutorial"
-
-  [params.matches]
-    name = "Partidas do AlphaGo"
-   
-  [params.theory]
-    name = "Mais sobre Go"
+  [params.main]
+    name = "📚 Tutorial"
+    description = "Aprenda Go passo a passo"
 
   [params.tsumego]
-    name = "Problemas de Go"
+    name = "🎯 Problemas de Go"
+    description = "Exercícios para praticar"
+
+  [params.theory]
+    name = "🧠 Conceitos Avançados"
+    description = "Estratégias e teoria"
+
+  [params.matches]
+    name = "⚡ Partidas Famosas"
+    description = "Jogos do AlphaGo e análises"
 
 [markup]
   [markup.goldmark]

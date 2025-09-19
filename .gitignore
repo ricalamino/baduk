@@ -2,3 +2,8 @@ hug*
 public/
 resources/
 .vscode
+.hugo_build.lock
+hugo.exe
+hugo_old.exe
+hugo_new.exe
+hugo_latest.zip

@@ -4,7 +4,7 @@ date: 2021-08-05T09:37:54-03:00
 draft: false
 previous: "equipamento"
 next: "tecnicas-basicas"
-menu: "theory"
+menu: "main"
 weight: 3
 ---
 

@@ -1,78 +1,84 @@
 
 <section class="top-navigation">
-  <select class="lesson-selector" aria-label="Menu">
-    {{ $currentPage := . }}
-    <optgroup label="{{ with .Site.Params.classes.name }}{{.}}{{ end }}">
-     
-      {{ range $.Site.Menus.main }}
-      
+  {{ $currentPage := . }}
+  <div class="mobile-nav-header">
+    <button class="mobile-menu-toggle" aria-label="Abrir menu">
+      <span class="hamburger"></span>
+      <span class="hamburger"></span>
+      <span class="hamburger"></span>
+    </button>
+    <h2 class="mobile-title">{{ .Title }}</h2>
+  </div>
+  
+  <nav class="mobile-nav" id="mobile-nav">
+    <div class="mobile-nav-content">
+      <!-- Tutorial -->
+      <div class="mobile-nav-section">
+        <h3 class="mobile-nav-title">{{ with .Site.Params.main.name }}{{.}}{{ end }}</h3>
+        <ul class="mobile-nav-list">
+          {{ range $.Site.Menus.main }}
+          <li>
+            <a href="{{ .URL | markdownify}}" 
+            {{ if $currentPage.IsMenuCurrent "main" . }} 
+            class="active" 
+            {{ end }} 
+              >{{ .Title }}</a
+            >
+          </li>
+          {{ end }}
+        </ul>
+      </div>
 
-        <option value="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "main" . }} 
-        selected="true" 
-        {{ end }} 
-        >
-          {{ .Title | markdownify}}
-        </option>
+      <!-- Problemas de Go -->
+      <div class="mobile-nav-section">
+        <h3 class="mobile-nav-title">{{ with .Site.Params.tsumego.name }}{{.}}{{ end }}</h3>
+        <ul class="mobile-nav-list">
+          {{ range $.Site.Menus.tsumego }}
+          <li>
+            <a href="{{ .URL | markdownify}}" 
+            {{ if $currentPage.IsMenuCurrent "tsumego" . }} 
+            class="active" 
+            {{ end }} 
+              >{{ .Title }}</a
+            >
+          </li>
+          {{ end }}
+        </ul>
+      </div>
 
-      {{ end }}
-    </optgroup>
+      <!-- Conceitos Avançados -->
+      <div class="mobile-nav-section">
+        <h3 class="mobile-nav-title">{{ with .Site.Params.theory.name }}{{.}}{{ end }}</h3>
+        <ul class="mobile-nav-list">
+          {{ range $.Site.Menus.theory }}
+          <li>
+            <a href="{{ .URL | markdownify}}" 
+            {{ if $currentPage.IsMenuCurrent "theory" . }} 
+            class="active" 
+            {{ end }} 
+              >{{ .Title }}</a
+            >
+          </li>
+          {{ end }}
+        </ul>
+      </div>
 
-    <optgroup label="{{ with .Site.Params.tsumego.name }}{{.}}{{ end }}">
-    
-
-      {{ range $.Site.Menus.tsumego }}
-      
-
-        <option value="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "tsumego" . }} 
-        selected="true" 
-        {{ end }} 
-        >
-          {{ .Title | markdownify}}
-        </option>
-
-      {{ end }}
-    </optgroup>
-
-
-    <optgroup label="{{ with .Site.Params.matches.name }}{{.}}{{ end }}">
-      
-
-
-      {{ range $.Site.Menus.matches }}
-      
-
-        <option value="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "matches" . }} 
-        selected="true" 
-        {{ end }} 
-        >
-          {{ .Title | markdownify}}
-        </option>
-
-      {{ end }}
-    </optgroup>
-
-    <optgroup label="{{ with .Site.Params.theory.name }}{{.}}{{ end }}">
-      
-
-
-      {{ range $.Site.Menus.theory }}
-      
-
-        <option value="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "theory" . }} 
-        selected="true" 
-        {{ end }} 
-        >
-          {{ .Title | markdownify}}
-        </option>
-
-      {{ end }}
-    </optgroup>
-
-    
-    
-  </select>
+      <!-- Partidas Famosas -->
+      <div class="mobile-nav-section">
+        <h3 class="mobile-nav-title">{{ with .Site.Params.matches.name }}{{.}}{{ end }}</h3>
+        <ul class="mobile-nav-list">
+          {{ range $.Site.Menus.matches }}
+          <li>
+            <a href="{{ .URL | markdownify}}" 
+            {{ if $currentPage.IsMenuCurrent "matches" . }} 
+            class="active" 
+            {{ end }} 
+              >{{ .Title }}</a
+            >
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </nav>
 </section>

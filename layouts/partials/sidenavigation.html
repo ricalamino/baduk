@@ -1,96 +1,83 @@
 <aside>
-  <nav>
+  <nav class="main-nav">
     {{ $currentPage := . }}
-   
-
-    <p>{{ with .Site.Params.classes.name }}{{.}}{{ end }}</p>
-    <ol>
-
-      
-      {{ range $.Site.Menus.main }}
-
-      <li>
-        <a href="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "main" . }} 
-        class="active" 
-        {{ end }} 
-          >{{ .Title }}</a
-        >
-      </li>
-
-      {{ end }}
-
-    </ol>
-      
-    <br />
-    <p>{{ with .Site.Params.tsumego.name }}{{.}}{{ end }}</p>
-        
-    <ol>
-
-
-      {{ range $.Site.Menus.tsumego }}
-
-      <li>
-        <a href="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "tsumego" . }} 
-        class="active" 
-        {{ end }} 
-          >{{ .Title }}</a
-        >
-      </li>
-
-      {{ end }}
-    </ol>
-
-    <br /> 
-
-      
-    <p>{{ with .Site.Params.matches.name }}{{.}}{{ end }}</p>
-      
     
-    <ol>
+    <!-- Tutorial -->
+    <div class="nav-section">
+      <h3 class="nav-title">{{ with .Site.Params.main.name }}{{.}}{{ end }}</h3>
+      <p class="nav-description">{{ with .Site.Params.main.description }}{{.}}{{ end }}</p>
+      <ol class="nav-list">
+        {{ range $.Site.Menus.main }}
+        <li>
+          <a href="{{ .URL | markdownify}}" 
+          {{ if $currentPage.IsMenuCurrent "main" . }} 
+          class="active" 
+          {{ end }} 
+            >{{ .Title }}</a
+          >
+        </li>
+        {{ end }}
+      </ol>
+    </div>
 
-      {{ range $.Site.Menus.matches }}
+    <!-- Problemas de Go -->
+    <div class="nav-section">
+      <h3 class="nav-title">{{ with .Site.Params.tsumego.name }}{{.}}{{ end }}</h3>
+      <p class="nav-description">{{ with .Site.Params.tsumego.description }}{{.}}{{ end }}</p>
+      <ol class="nav-list">
+        {{ range $.Site.Menus.tsumego }}
+        <li>
+          <a href="{{ .URL | markdownify}}" 
+          {{ if $currentPage.IsMenuCurrent "tsumego" . }} 
+          class="active" 
+          {{ end }} 
+            >{{ .Title }}</a
+          >
+        </li>
+        {{ end }}
+      </ol>
+    </div>
 
-      <li>
-        <a href="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "matches" . }} 
-        class="active" 
-        {{ end }} 
-          >{{ .Title }}</a
-        >
-      </li>
+    <!-- Conceitos Avançados -->
+    <div class="nav-section">
+      <h3 class="nav-title">{{ with .Site.Params.theory.name }}{{.}}{{ end }}</h3>
+      <p class="nav-description">{{ with .Site.Params.theory.description }}{{.}}{{ end }}</p>
+      <ol class="nav-list">
+        {{ range $.Site.Menus.theory }}
+        <li>
+          <a href="{{ .URL | markdownify}}" 
+          {{ if $currentPage.IsMenuCurrent "theory" . }} 
+          class="active" 
+          {{ end }} 
+            >{{ .Title }}</a
+          >
+        </li>
+        {{ end }}
+      </ol>
+    </div>
 
-      {{ end }}
-    </ol>  
-    
-    <br />     
-    
-    <p>{{ with .Site.Params.theory.name }}{{.}}{{ end }}</p>
-    
-    <ol>
-
-
-      {{ range $.Site.Menus.theory }}
-
-      <li>
-        <a href="{{ .URL | markdownify}}" 
-        {{ if $currentPage.IsMenuCurrent "theory" . }} 
-        class="active" 
-        {{ end }} 
-          >{{ .Title }}</a
-        >
-      </li>
-
-      {{ end }}
-    </ol>
-
-    <br />      
-      
+    <!-- Partidas Famosas -->
+    <div class="nav-section">
+      <h3 class="nav-title">{{ with .Site.Params.matches.name }}{{.}}{{ end }}</h3>
+      <p class="nav-description">{{ with .Site.Params.matches.description }}{{.}}{{ end }}</p>
+      <ol class="nav-list">
+        {{ range $.Site.Menus.matches }}
+        <li>
+          <a href="{{ .URL | markdownify}}" 
+          {{ if $currentPage.IsMenuCurrent "matches" . }} 
+          class="active" 
+          {{ end }} 
+            >{{ .Title }}</a
+          >
+        </li>
+        {{ end }}
+      </ol>
+    </div>
   </nav>
-  <nav>
-  <p>
-    Tips em BTC via Lightning: <a href="https://www.lnurlpay.com/ala@primal.net">⚡️ala@primal.net</a>
+  
+  <nav class="support-nav">
+    <p>
+      Tips em BTC via Lightning: <a href="https://www.lnurlpay.com/ala@primal.net">⚡️ala@primal.net</a>
     </p>  
   </nav>
 </aside>
