@@ -1751,6 +1751,7 @@ input[type="text"].wgo-permalink {
   text-decoration: none; }
   
 .credits-section a:hover {
+  color: white;
   text-decoration: underline; }
 
 /* Responsive Design */
@@ -2180,6 +2181,7 @@ input[type="text"].wgo-permalink {
   margin: 0 5px; }
   
 .footer-links a:hover {
+  color: white;
   text-decoration: underline; }
 
 /* Navigation Support Section */
