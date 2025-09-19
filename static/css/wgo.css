@@ -1755,6 +1755,11 @@ input[type="text"].wgo-permalink {
 
 /* Responsive Design */
 @media screen and (max-width: 768px) {
+  .mobile-donate-btn {
+    font-size: 1em;
+    padding: 10px 20px;
+    min-width: 180px; }
+    
   .hero-title {
     font-size: 2.2em; }
     
@@ -1912,6 +1917,13 @@ input[type="text"].wgo-permalink {
   margin-bottom: 20px;
   display: block; }
   
+.method-icon-img {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 20px auto;
+  display: block;
+  object-fit: contain; }
+  
 .donation-method .method-address {
   background: #f8f9fa;
   border: 2px dashed #6c9922;
@@ -1923,11 +1935,77 @@ input[type="text"].wgo-permalink {
   color: #2c3e50;
   margin: 20px 0;
   word-break: break-all; }
+
+.qr-code-container {
+  text-align: center;
+  margin: 20px 0; }
+  
+.qr-code {
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+  border: 2px solid #6c9922;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(108, 153, 34, 0.2);
+  transition: transform 0.3s ease;
+  background: white; }
+  
+.qr-code:hover {
+  transform: scale(1.05); }
+
+/* PIX QR Code - Less padding */
+.donation-method:first-child .qr-code-container {
+  padding: 8px; }
+  
+.donation-method:first-child .qr-code {
+  padding: 5px; }
+
+/* Lightning QR Code - More padding */
+.donation-method:last-child .qr-code-container {
+  padding: 15px; }
+  
+.donation-method:last-child .qr-code {
+  padding: 10px; }
   
 .donation-method .method-description {
   color: #666;
   margin: 0 0 20px 0;
   line-height: 1.6; }
+
+.mobile-donate-btn {
+  display: inline-block;
+  background: linear-gradient(135deg, #6c9922, #8bc34a);
+  color: white;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 25px;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin: 15px 0;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(108, 153, 34, 0.3);
+  text-align: center;
+  min-width: 200px;
+  border: none;
+  cursor: pointer;
+  font-family: inherit; }
+
+.mobile-donate-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(108, 153, 34, 0.4);
+  color: white;
+  text-decoration: none; }
+
+.mobile-donate-btn:active {
+  transform: translateY(0); }
+
+/* Lightning button specific styling */
+.donation-method:last-child .mobile-donate-btn {
+  background: linear-gradient(135deg, #ff9800, #ffc107);
+  box-shadow: 0 4px 15px rgba(255, 152, 0, 0.3); }
+
+.donation-method:last-child .mobile-donate-btn:hover {
+  box-shadow: 0 6px 20px rgba(255, 152, 0, 0.4); }
 
 .goals-section {
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
@@ -2025,7 +2103,10 @@ input[type="text"].wgo-permalink {
     
   .why-donate li::before {
     margin-right: 0;
-    margin-bottom: 10px; } }
+    margin-bottom: 10px; }
+    
+  .qr-code {
+    max-width: 150px; } }
 
 /* Footer Donation Styles */
 .footer-donation {

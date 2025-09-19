@@ -15,19 +15,27 @@ weight: 100
 
 <div class="donation-methods">
   <div class="donation-method">
-    <span class="method-icon">🇧🇷</span>
+    <img src="/img/pix_icon.png" alt="PIX" class="method-icon-img">
     <h3>PIX (Brasil)</h3>
     <p class="method-description">Doação instantânea e gratuita via PIX</p>
+    <div class="qr-code-container">
+      <img src="/img/qr_pix.png" alt="QR Code PIX" class="qr-code">
+    </div>
     <div class="method-address">go@alami.no</div>
     <p><strong>Chave PIX:</strong> go@alami.no</p>
+    <button onclick="copyPixKey()" class="mobile-donate-btn">📋 Copiar Chave PIX</button>
   </div>
 
   <div class="donation-method">
     <span class="method-icon">⚡</span>
     <h3>Lightning Network</h3>
     <p class="method-description">Bitcoin via Lightning Network</p>
+    <div class="qr-code-container">
+      <img src="/img/qr_lightning.png" alt="QR Code Lightning" class="qr-code">
+    </div>
     <div class="method-address">⚡️ala@primal.net</div>
     <p><strong>Para carteiras:</strong> Zeus, Phoenix, Breez</p>
+    <a href="lightning:ala@primal.net" class="mobile-donate-btn">⚡ Doar via Lightning</a>
   </div>
 </div>
 
@@ -86,3 +94,71 @@ weight: 100
   <p>O Go é um jogo maravilhoso e fico feliz em poder compartilhar esse conhecimento com você!</p>
   <p><em>Obrigado por fazer parte desta jornada de aprendizado! 🎯</em></p>
 </div>
+
+<script>
+function copyPixKey() {
+  const pixKey = 'go@alami.no';
+  
+  // Try to use the modern clipboard API
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(pixKey).then(function() {
+      showCopySuccess();
+    }).catch(function() {
+      fallbackCopyTextToClipboard(pixKey);
+    });
+  } else {
+    // Fallback for older browsers
+    fallbackCopyTextToClipboard(pixKey);
+  }
+}
+
+function fallbackCopyTextToClipboard(text) {
+  const textArea = document.createElement("textarea");
+  textArea.value = text;
+  textArea.style.top = "0";
+  textArea.style.left = "0";
+  textArea.style.position = "fixed";
+  textArea.style.opacity = "0";
+  
+  document.body.appendChild(textArea);
+  textArea.focus();
+  textArea.select();
+  
+  try {
+    const successful = document.execCommand('copy');
+    if (successful) {
+      showCopySuccess();
+    } else {
+      showCopyError();
+    }
+  } catch (err) {
+    showCopyError();
+  }
+  
+  document.body.removeChild(textArea);
+}
+
+function showCopySuccess() {
+  const button = document.querySelector('button[onclick="copyPixKey()"]');
+  const originalText = button.innerHTML;
+  button.innerHTML = '✅ Copiado!';
+  button.style.background = 'linear-gradient(135deg, #4caf50, #66bb6a)';
+  
+  setTimeout(function() {
+    button.innerHTML = originalText;
+    button.style.background = 'linear-gradient(135deg, #6c9922, #8bc34a)';
+  }, 2000);
+}
+
+function showCopyError() {
+  const button = document.querySelector('button[onclick="copyPixKey()"]');
+  const originalText = button.innerHTML;
+  button.innerHTML = '❌ Erro ao copiar';
+  button.style.background = 'linear-gradient(135deg, #f44336, #ef5350)';
+  
+  setTimeout(function() {
+    button.innerHTML = originalText;
+    button.style.background = 'linear-gradient(135deg, #6c9922, #8bc34a)';
+  }, 2000);
+}
+</script>
