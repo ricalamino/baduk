@@ -3,7 +3,7 @@ languageCode = "pt-br"
 title = "Baduk - Aprenda a jogar Go Interativamente"
 
 enableRobotsTXT = "true"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 [sitemap]
   ChangeFreq = "weekly"
