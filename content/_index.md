@@ -7,6 +7,16 @@ menu: "main"
 weight: 1
 ---
 
+<div class="course-top-card">
+  <div class="course-top-card-inner">
+    <span class="course-top-card-badge">📣 Curso</span>
+    <h3 class="course-top-card-title">Curso Intensivo de Go para Iniciantes</h3>
+    <p class="course-top-card-desc">30 dias do zero ao primeiro jogo · R$ 97</p>
+    <p class="course-top-card-note">Formando turma no WhatsApp</p>
+    <a href="/curso-go-iniciantes" class="course-top-card-btn">Ver curso e entrar no grupo</a>
+  </div>
+</div>
+
 <div class="page-hero">
   <div class="hero-content">
     <h1 class="hero-title">🎯 Bem-vindo ao Baduk!</h1>
@@ -70,6 +80,15 @@ weight: 1
 </div>
 
 <div class="support-section">
+  <div class="course-top-card support-section-course-card">
+    <div class="course-top-card-inner">
+      <span class="course-top-card-badge">📣 Curso</span>
+      <h3 class="course-top-card-title">Curso Intensivo de Go para Iniciantes</h3>
+      <p class="course-top-card-desc">30 dias do zero ao primeiro jogo · R$ 97</p>
+      <p class="course-top-card-note">Formando turma no WhatsApp</p>
+      <a href="/curso-go-iniciantes" class="course-top-card-btn">Ver curso e entrar no grupo</a>
+    </div>
+  </div>
   <div class="support-card">
     <h3>💝 Apoie o Projeto</h3>
     <p>Este site é mantido gratuitamente. Sua doação ajuda a remover propagandas e melhorar o conteúdo!</p>
