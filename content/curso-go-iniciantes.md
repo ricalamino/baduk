@@ -14,10 +14,17 @@ draft: false
 
 <div class="cta-section cta-course-top">
   <div class="cta-content">
-    <h2>Quero participar</h2>
-    <p>Entre na comunidade no WhatsApp para receber novidades e o aviso quando abrirmos as inscrições para a nova turma.</p>
+    <h2>Garanta sua vaga na primeira turma</h2>
+    <p>Inscreva-se agora mesmo e garanta sua vaga na primeira turma do curso intensivo de Go para iniciantes.</p>
     <p style="margin-top: 1.5rem;">
-      <a href="https://chat.whatsapp.com/FHYk3u5xGYSF74j7sZyTDn?mode=gi_t" class="btn btn-primary btn-whatsapp" target="_blank" rel="noopener">Entrar no grupo do WhatsApp</a>
+      <a
+        href="https://buy.stripe.com/00w28rabVdmV5Av2Q62ZO00"
+        class="btn btn-primary btn-stripe js-course-checkout"
+        target="_blank"
+        rel="noopener"
+      >
+        Inscreva-se agora - R$ 97,00
+      </a>
     </p>
   </div>
 </div>
@@ -41,10 +48,16 @@ draft: false
     </div>
   </div>
 
-  <div class="landing-price">
-    <p class="price-label">Investimento</p>
-    <p class="price-value">R$ 97,00</p>
-    <p class="price-note">Pagamento único (PIX ou parcelado). Acesso ao curso quando abrirmos as turmas.</p>
+  
+  <div class="landing-learn">
+    <h2>O que você vai aprender em 30 dias</h2>
+    <ul>
+      <li>Regras básicas do Go: tabuleiro, pedras, turnos e objetivo do jogo.</li>
+      <li>Como capturar pedras: liberdades, atari e grupos sem escapatória.</li>
+      <li>Noções de território: bordas, cantos e como não perder pontos de graça.</li>
+      <li>Formas essenciais e boa forma: conexões fortes, cortes e grupos leves.</li>
+      <li>Fundamentos de leitura: enxergar alguns lances à frente e evitar armadilhas simples.</li>
+    </ul>
   </div>
 </div>
 
@@ -55,6 +68,10 @@ draft: false
 .price-label { font-size: 0.95rem; color: #666; margin: 0; }
 .price-value { font-size: 2.5rem; font-weight: 700; color: #6c9922; margin: 0.25rem 0; }
 .price-note { font-size: 0.9rem; color: #666; margin: 0.5rem 0 0; }
-.btn-whatsapp { background: linear-gradient(135deg, #25D366, #128C7E) !important; }
-.btn-whatsapp:hover { box-shadow: 0 6px 20px rgba(37, 211, 102, 0.4) !important; color: white !important; }
+.landing-learn { max-width: 800px; margin: 0 auto 3rem; padding: 1.5rem 1.75rem; background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.landing-learn h2 { font-size: 1.4rem; margin-top: 0; margin-bottom: 1rem; }
+.landing-learn ul { margin: 0; padding-left: 1.1rem; line-height: 1.6; }
+.landing-learn li + li { margin-top: 0.4rem; }
+.btn-stripe { background: linear-gradient(135deg, #635BFF, #00D4FF) !important; }
+.btn-stripe:hover { box-shadow: 0 6px 20px rgba(99, 91, 255, 0.35) !important; color: white !important; }
 </style>

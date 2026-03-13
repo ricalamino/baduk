@@ -26,4 +26,22 @@
       rel="stylesheet"
     />
 
+    <script>
+      if (document.location.hostname != 'localhost') {
+        window.addEventListener('DOMContentLoaded', function () {
+          var checkoutButtons = document.querySelectorAll('.js-course-checkout');
+          checkoutButtons.forEach(function (btn) {
+            btn.addEventListener('click', function () {
+              if (typeof gtag === 'function') {
+                gtag('event', 'course_checkout_click', {
+                  event_category: 'Curso Go Iniciantes',
+                  event_label: 'Landing - Botão Inscreva-se',
+                });
+              }
+            });
+          });
+        });
+      }
+    </script>
+
   </head>
