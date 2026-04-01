@@ -8,7 +8,7 @@ url: "/curso-go-iniciantes/obrigado"
 <div class="page-hero landing-course-hero">
   <div class="hero-content">
     <h1 class="hero-title">Obrigado pela inscrição!</h1>
-    <p class="hero-description">Sua vaga na primeira turma do Curso Intensivo de Go para Iniciantes está garantida.</p>
+    <p class="hero-description">Sua inscrição no Curso Intensivo de Go para Iniciantes está confirmada. O formato é <strong>aulas individuais</strong>: aulas diárias por WhatsApp + PDF (10 Erros Fatais de quem começa no Go) + análise de partidas + videochamada. De iniciante a 20 kyu.</p>
   </div>
 </div>
 

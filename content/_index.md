@@ -11,9 +11,9 @@ weight: 1
   <div class="course-top-card-inner">
     <span class="course-top-card-badge">📣 Curso</span>
     <h3 class="course-top-card-title">Curso Intensivo de Go para Iniciantes</h3>
-    <p class="course-top-card-desc">30 dias do zero ao primeiro jogo · R$ 97</p>
-    <p class="course-top-card-note">Formando turma no WhatsApp</p>
-    <a href="/curso-go-iniciantes" class="course-top-card-btn">Ver curso e entrar no grupo</a>
+    <p class="course-top-card-desc">Aulas diárias por WhatsApp + PDF (10 Erros Fatais de quem começa no Go) + análise de partidas + videochamada. De iniciante a 20 kyu.</p>
+    <p class="course-top-card-note">Aulas individuais (1:1) · 30 dias · R$ 97</p>
+    <a href="/curso-go-iniciantes" class="course-top-card-btn">Ver curso e inscrever-se</a>
   </div>
 </div>
 
@@ -84,9 +84,9 @@ weight: 1
     <div class="course-top-card-inner">
       <span class="course-top-card-badge">📣 Curso</span>
       <h3 class="course-top-card-title">Curso Intensivo de Go para Iniciantes</h3>
-      <p class="course-top-card-desc">30 dias do zero ao primeiro jogo · R$ 97</p>
-      <p class="course-top-card-note">Formando turma no WhatsApp</p>
-      <a href="/curso-go-iniciantes" class="course-top-card-btn">Ver curso e entrar no grupo</a>
+      <p class="course-top-card-desc">Aulas diárias por WhatsApp + PDF (10 Erros Fatais de quem começa no Go) + análise de partidas + videochamada. De iniciante a 20 kyu.</p>
+      <p class="course-top-card-note">Aulas individuais (1:1) · 30 dias · R$ 97</p>
+      <a href="/curso-go-iniciantes" class="course-top-card-btn">Ver curso e inscrever-se</a>
     </div>
   </div>
   <div class="support-card">

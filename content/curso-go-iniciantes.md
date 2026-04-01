@@ -8,14 +8,14 @@ draft: false
 <div class="page-hero landing-course-hero">
   <div class="hero-content">
     <h1 class="hero-title">Curso Intensivo de Go para Iniciantes</h1>
-    <p class="hero-description">30 dias do zero ao primeiro jogo completo. Aprenda as regras, capture pedras, entenda território e jogue sua primeira partida de ponta a ponta.</p>
+    <p class="hero-description"><strong>Aulas individuais</strong> — sem turma em grupo. Aulas diárias por WhatsApp + PDF (10 Erros Fatais de quem começa no Go) + análise de partidas + videochamada. De iniciante a 20 kyu. Trilha intensiva de 30 dias com acompanhamento 1:1.</p>
   </div>
 </div>
 
 <div class="cta-section cta-course-top">
   <div class="cta-content">
-    <h2>Garanta sua vaga na primeira turma</h2>
-    <p>Inscreva-se agora mesmo e garanta sua vaga na primeira turma do curso intensivo de Go para iniciantes.</p>
+    <h2>Inscreva-se no curso</h2>
+    <p>Você recebe acompanhamento <strong>individual</strong> (não é turma): combinamos horários e você evolui do zero até cerca de 20 kyu com material diário no WhatsApp, o PDF dos 10 erros fatais, revisão das suas partidas e videochamadas.</p>
     <p style="margin-top: 1.5rem;">
       <a
         href="https://buy.stripe.com/00w28rabVdmV5Av2Q62ZO00"
@@ -32,25 +32,25 @@ draft: false
 <div class="landing-course-content">
   <div class="cards-grid" style="max-width: 800px; margin: 0 auto 2rem;">
     <div class="card card-primary">
-      <div class="card-icon">📅</div>
-      <h3>30 dias</h3>
-      <p>Conteúdo em ritmo intensivo para você sair jogando</p>
+      <div class="card-icon">📱</div>
+      <h3>WhatsApp, todo dia</h3>
+      <p>Aulas e orientação em ritmo diário, direto no seu celular, com foco no que você precisa naquele momento</p>
     </div>
     <div class="card card-secondary">
-      <div class="card-icon">🎯</div>
-      <h3>Do zero</h3>
-      <p>Não precisa saber nada de Go para começar</p>
+      <div class="card-icon">📄</div>
+      <h3>PDF incluso</h3>
+      <p><em>10 Erros Fatais de quem começa no Go</em> — base para não repetir os erros mais caros no tabuleiro</p>
     </div>
     <div class="card card-accent">
-      <div class="card-icon">🏁</div>
-      <h3>Primeiro jogo</h3>
-      <p>Objetivo: terminar uma partida completa entendendo o básico</p>
+      <div class="card-icon">🎥</div>
+      <h3>Partidas + videochamada</h3>
+      <p>Análise das suas jogadas reais e encontros por call para alinhar dúvidas e plano de treino</p>
     </div>
   </div>
 
   
   <div class="landing-learn">
-    <h2>O que você vai aprender em 30 dias</h2>
+    <h2>O que você domina ao longo dos 30 dias (até ~20 kyu)</h2>
     <ul>
       <li>Regras básicas do Go: tabuleiro, pedras, turnos e objetivo do jogo.</li>
       <li>Como capturar pedras: liberdades, atari e grupos sem escapatória.</li>

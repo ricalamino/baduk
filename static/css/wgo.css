@@ -239,6 +239,7 @@ aside {
   .nav-course-cta {
     display: block;
     font-size: 0.8em;
+    line-height: 1.35;
     margin-top: 10px;
     padding: 8px 10px;
     background: rgba(217, 119, 6, 0.9);
@@ -1601,8 +1602,9 @@ input[type="text"].wgo-permalink {
 .course-top-card-desc {
   font-size: 1rem;
   color: #92400e;
-  margin: 0 0 4px 0;
-  font-weight: 600; }
+  margin: 0 0 8px 0;
+  font-weight: 600;
+  line-height: 1.45; }
 .course-top-card-note {
   font-size: 0.9rem;
   color: #b45309;
