@@ -1,92 +1,84 @@
 ---
 title: "Onde Comprar Tabuleiro e Pedras de Go no Brasil"
-description: "Onde comprar tabuleiro e pedras de Go no Brasil? Guia completo com lojas online, preços médios, opções de madeira e plástico, e alternativas mais acessíveis."
+description: "Guia completo para comprar tabuleiro e pedras de Go no Brasil: opções nacionais, importação, faixas de preço e o que observar na hora de escolher seu equipamento."
 date: 2026-03-27
 draft: false
 slug: "comprar-tabuleiro-go"
 type: "artigo"
-tags: ["go", "baduk", "equipamento", "tabuleiro", "pedras", "brasil", "guia"]
+tags: ["go", "baduk", "equipamento", "tabuleiro", "comprar", "brasil"]
 ---
 
 # Onde Comprar Tabuleiro e Pedras de Go no Brasil
 
-Ter um [goban](/glossario/goban/) e pedras físicas transforma a experiência do Go. Há algo especial em jogar com pedras reais — o som delas no tabuleiro, a textura, a dimensão física das peças. Mas onde comprar no Brasil, quanto custa e o que considerar?
+Você começou a jogar Go online e quer ter um tabuleiro físico para jogar com amigos, em casa ou no clube. Ótima ideia — há algo único e especial em jogar com pedras físicas. Mas onde encontrar equipamento de qualidade no Brasil?
 
-## O que você precisa para jogar
+Neste guia, mapeamos as opções disponíveis, as faixas de preço e o que observar ao escolher seu tabuleiro (chamado de [goban](/glossario/goban/)) e pedras.
 
-Um conjunto completo de Go inclui:
+{{< diagram sgf="/sgfs/comecar-1.sgf" description="<p>Abertura em 13×13 — o tipo de partida que você vai querer jogar em um tabuleiro físico com amigos. A experiência de manipular pedras físicas, ouvir o som das pedras no <a href='/glossario/goban/'>goban</a>, e sentar frente a frente com um adversário é completamente diferente do jogo online.</p><p>Para jogar partidas como esta presencialmente, você precisa de: um tabuleiro (9×9 para iniciantes, 13×13 ou 19×19 para avançar), pedras pretas e brancas suficientes (181 pretas + 180 brancas para um 19×19 completo), e dois potes para guardar as pedras. O conjunto básico é acessível — veja as opções abaixo.</p>" >}}
 
-1. **Goban (tabuleiro):** A superfície quadriculada onde as pedras são colocadas
-2. **Goke (potes de pedras):** Dois potes (um para pedras pretas, um para brancas)
-3. **Pedras (goishi):** 181 pedras pretas e 180 brancas (total 361 — uma para cada intersecção do 19×19)
+## O que você precisa
 
-Esses três itens formam o conjunto básico. Dependendo do orçamento e da formalidade desejada, existem opções em vários materiais e faixas de preço.
+**Conjunto básico completo:**
+- 1 tabuleiro (goban)
+- 181 pedras pretas
+- 180 pedras brancas
+- 2 potes (goke) para guardar as pedras
 
-## Faixas de preço no Brasil (estimativa 2026)
+Para iniciantes em 9×9: 81 pedras de cada cor são suficientes. Para jogos em 13×13: ~170 de cada cor. Para 19×19 completo: o número acima.
 
-**Iniciante (R$ 80-250):**
-- Tabuleiro de MDF ou madeira simples (pinho, cedro)
-- Pedras de plástico ou vidro acrílico
-- Potes simples de plástico ou madeira
-- Ideal para começar sem grande investimento
+## Opções para comprar no Brasil
 
-**Intermediário (R$ 250-800):**
-- Tabuleiro de madeira de qualidade (bambu, eucalipto, araucária)
-- Pedras de vidro ou pedras mais pesadas
-- Potes de madeira de melhor qualidade
+**Lojas especializadas e clubes:**
+A Federação Brasileira de Go e alguns clubes em São Paulo vendem equipamento diretamente ou indicam fornecedores confiáveis. Vale entrar em contato com o clube mais próximo.
 
-**Premium (R$ 800+):**
-- Tabuleiro de madeira nobre nacional ou importada
-- Pedras de ardósia natural (pedras pretas) e concha (pedras brancas) — o padrão japonês de alta qualidade
-- Potes de mogno ou outras madeiras nobres
+**Lojas de produtos japoneses:**
+Em São Paulo, nas regiões da Liberdade e arredores, existem lojas de produtos japoneses e artigos orientais que às vezes têm tabuleiros e pedras de Go.
 
-**Tabuleiro de torneio profissional japonês (kaya):** Raramente encontrado no Brasil, custa R$ 5.000-50.000+. É uma peça de arte.
+**Artesanato e encomenda:**
+Alguns artesãos brasileiros produzem gobans de madeiras nacionais (cedro, carvalho brasileiro) com qualidade excelente e preços competitivos.
 
-## Onde comprar no Brasil
+**Marketplace online (Mercado Livre, Shopee):**
+Existem vendedores de tabuleiros de Go, principalmente de plástico e MDF, a preços acessíveis. A qualidade varia — leia as avaliações.
 
-**Lojas online:**
+## Importação
 
-A maioria das compras de equipamento de Go no Brasil é feita online, pois lojas físicas especializadas são raras.
+Para tabuleiros de melhor qualidade, a importação é frequentemente a melhor opção:
 
-**Amazon Brasil:** Tem algumas opções de conjuntos de Go, principalmente importados. Pesquise por "conjunto de go" ou "weiqi set".
+**Amazon USA/Japan:**
+Kits básicos de plástico custam de $15-30 USD. Kits de madeira de média qualidade: $50-150 USD. Gobans japoneses tradicionais de *kaya*: $500+.
 
-**Mercado Livre:** Vendedores brasileiros e importadores oferecem conjuntos variados. Compare preços e avaliações antes de comprar.
+**AliExpress:**
+Opção econômica para iniciantes. Kits completos de plástico com tabuleiro, pedras e potes custam $15-40 USD com frete incluso. Qualidade suficiente para aprendizado.
 
-**AliExpress / Shopee:** Para conjuntos mais acessíveis importados da China. Qualidade variável — leia avaliações com cuidado. Boa opção para iniciantes com orçamento limitado.
+**Atenção ao imposto:** Compras acima de $50 USD podem ter tributação na entrada no Brasil. Calcule o custo final.
 
-**Lojas de artesanato:** Para fazer seu próprio goban, madeireiras e lojas de artesanato vendem as madeiras necessárias. Um goban artesanal pode ser uma experiência gratificante.
+{{< diagram sgf="/sgfs/comecar-2.sgf" description="<p>As primeiras jogadas de uma abertura de 13×13. Para jogar essa posição em um tabuleiro físico, você vai usar as pedras e o goban que comprar — e descobrirá que o ritual de pegar pedras do pote e posicioná-las no tabuleiro tem um charme que o jogo online não reproduz completamente.</p><p>O goban físico também serve como ponto de encontro social: a maioria das pessoas que vê um tabuleiro de Go pela primeira vez fica curiosa e pergunta sobre o jogo. Ter um goban em casa é uma ótima forma de apresentar Go a novos amigos.</p>" >}}
 
-**Federação Brasileira de Go:** Frequentemente indica fornecedores e pode facilitar a aquisição de equipamento de qualidade. Vale contato direto.
+## Faixas de preço (estimativas 2026)
 
-## O que considerar na compra
+| Tipo | Preço (R$) | Qualidade |
+|------|-----------|-----------|
+| Kit plástico 9×9 importado | R$ 50-100 | Adequada para iniciantes |
+| Kit plástico 19×19 importado | R$ 100-200 | Funcional, durável |
+| Tabuleiro MDF + pedras plástico | R$ 150-300 | Boa para jogos regulares |
+| Tabuleiro madeira + pedras vidro | R$ 400-800 | Excelente, uso sério |
+| Goban japonês kaya + pedras clam | R$ 2000+ | Premium, colecionável |
 
-**Tamanho do tabuleiro:** Para iniciantes, um **9×9** ou **13×13** é suficiente e mais barato. Se você vai praticar seriamente o 19×19, invista diretamente no tabuleiro maior.
+## O que observar ao comprar
 
-**Qualidade das pedras:** Pedras muito leves e plásticas podem ser desconfortáveis. Pedras de vidro (mesmo baratas) já oferecem uma sensação muito melhor. Se possível, prefira pedras com peso real.
+**No tabuleiro:**
+- Linhas claramente impressas (não desbotam)
+- Tamanho adequado (tabuleiro 19×19 tem ~45×42 cm)
+- Material que não amassa nem deforma
+- Pontos hoshi marcados
 
-**Espessura do goban:** Gobans mais espessos têm melhor ressonância sonora e são mais agradáveis de usar. Gobans de 2-3 cm de espessura são muito melhores do que os finos de 5-8mm.
+**Nas pedras:**
+- Peso adequado (pedras muito leves são frágeis)
+- Tamanho adequado para o tabuleiro (pedras de 21-22mm para 19×19)
+- Pedras convexas (mais fáceis de pegar)
+- Quantidade suficiente para o tamanho de tabuleiro
 
-## Alternativas gratuitas para começar
-
-Se você está testando o Go antes de investir em equipamento, existem alternativas gratuitas:
-
-**Imprimir o tabuleiro:** Um simples goban de papel impresso em A4 ou A3 funciona perfeitamente para aprender. Busque "go board pdf" ou "goban printable" para encontrar versões prontas para imprimir.
-
-**Usar feijões ou botões como pedras:** Qualquer objeto pequeno de duas cores serve. O importante é ter 361 peças divididas em dois grupos.
-
-**Jogar online:** Servidores como OGS (online-go.com) são completamente gratuitos. Veja mais em [Onde Jogar Go Online](/onde-jogar-go-online/).
-
-## Montando um kit básico por conta própria
-
-Uma opção econômica e satisfatória:
-
-1. **Imprima ou compre um tabuleiro de MDF simples** (R$ 30-80)
-2. **Compre 200 pedras de mármore pequenas** em cores diferentes em uma loja de artigos de festa ou artesanato (R$ 20-40)
-3. **Use potes de vidro com tampa** como goke (qualquer pote serve)
-
-Total estimado: R$ 50-120 para um conjunto funcional e agradável de usar.
-
-Quando você já jogar regularmente e quiser investir mais, considere um conjunto de qualidade. O [goban](/glossario/goban/) de madeira com pedras de vidro pesadas transforma a experiência do jogo.
+Para ver mais sobre equipamento de Go, veja nosso artigo completo sobre [equipamento](/equipamento/).
 
 ---
 

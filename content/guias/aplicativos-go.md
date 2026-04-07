@@ -1,100 +1,76 @@
 ---
 title: "Melhores Aplicativos de Go para Celular"
-description: "Os melhores aplicativos de Go para celular em 2026: apps para jogar, estudar tsumego, revisar partidas e evoluir, tanto para Android quanto para iPhone."
+description: "Os melhores aplicativos de Go para Android e iOS em 2026: jogar online, resolver tsumego, estudar partidas e aprender com IA. Recomendações para cada necessidade."
 date: 2026-03-27
 draft: false
 slug: "aplicativos-go"
 type: "artigo"
-tags: ["go", "baduk", "aplicativos", "celular", "android", "ios", "guia"]
+tags: ["go", "baduk", "aplicativos", "celular", "android", "ios", "tsumego"]
 ---
 
 # Melhores Aplicativos de Go para Celular
 
-O celular é uma das melhores ferramentas para aprender e praticar Go — você pode resolver [tsumego](/glossario/tsumego/), jogar partidas e analisar posições a qualquer momento, onde quer que esteja. Aqui está uma seleção dos melhores aplicativos disponíveis em 2026, separados por finalidade.
+O celular se tornou uma das principais plataformas para estudar e jogar Go. Com os aplicativos certos, você pode resolver [tsumego](/glossario/tsumego/) no ônibus, jogar partidas online durante a pausa do almoço, ou assistir partidas profissionais comentadas antes de dormir.
 
-## Para jogar partidas online
+Este guia apresenta os melhores aplicativos de Go disponíveis em 2026, organizados por categoria e nível.
 
-### OGS (Online Go Server)
-**Disponível:** Android e iOS | **Gratuito**
+{{< challenge sgf="/sgfs/nigan-iki-1.sgf" description="<p>Problema de <a href='/glossario/tsumego/'>tsumego</a> interativo — exatamente o tipo de exercício que os melhores aplicativos de Go oferecem. Pretas jogam primeiro para criar dois olhos e sobreviver.</p><p>Aplicativos como SmartGo Kifu e AI Sensei têm bibliotecas de problemas como este organizados por dificuldade. Resolver 10-15 problemas por dia no celular é uma das formas mais eficientes de melhorar no Go — você pode fazer isso em qualquer lugar, em pequenas janelas de tempo. Conforme você acerta, os aplicativos sobem automaticamente a dificuldade.</p>" >}}
 
-O OGS tem um aplicativo mobile que permite jogar partidas por correspondência — onde você tem horas ou dias para cada jogada. É ideal para iniciantes que querem pensar com calma. O ranking é confiável e há jogadores de todos os níveis.
+## Para jogar online
 
-**Recomendado para:** iniciantes e jogadores que preferem partidas lentas e ponderadas.
+**OGS (Online Go Server) — Gratuito:**
+O aplicativo oficial do OGS está disponível para Android e iOS. Permite jogar partidas de qualquer tamanho (9×9, 13×13, 19×19) contra jogadores do mundo todo, com sistema de ranking calibrado. Ideal para iniciantes pela interface amigável e comunidade em português.
 
-### Go Quest
-**Disponível:** Android e iOS | **Gratuito**
+**Fox Go (弈客围棋) — Gratuito:**
+O maior servidor de Go do mundo em número de jogadores. A interface é principalmente em chinês, mas o aplicativo funciona bem em qualquer idioma para jogar. Ótimo para encontrar adversários a qualquer hora.
 
-Especializado em partidas rápidas de 9×9. Cada partida dura 5-10 minutos. A interface é simples e o matching é rápido — ótimo para uma partida rápida no ônibus ou durante uma pausa.
+**Tygem — Gratuito:**
+Servidor coreano popular entre jogadores intermediários e avançados. Requer registro.
 
-**Recomendado para:** treinar táticas do 9×9 de forma rápida.
+## Para resolver tsumego
 
-### Pandanet (IGS)
-**Disponível:** Android e iOS | **Gratuito**
+**SmartGo Kifu — Pago (iOS):**
+O aplicativo premium mais completo para estudo de Go. Tem uma biblioteca imensa de problemas de tsumego organizados por dificuldade, além de um visualizador de SGF para partidas profissionais. Excelente para jogadores que levam o estudo a sério.
 
-Um dos servidores mais antigos do mundo, com clientela de jogadores experientes. Tem muitas partidas de alto nível para observar. Interface menos polida, mas comunidade estabelecida.
+**Tsumego Pro — Gratuito/Pago:**
+Aplicativo dedicado a problemas de vida e morte. Interface limpa, progressão de dificuldade bem estruturada. Uma das melhores opções gratuitas para tsumego.
 
-**Recomendado para:** jogadores intermediários que querem oponentes mais fortes.
-
-## Para estudar tsumego
-
-### Tsumego Pro
-**Disponível:** Android e iOS | **Gratuito (com compras opcionais)**
-
-Uma das melhores coleções de problemas de tsumego para celular. Tem milhares de problemas organizados por dificuldade — de iniciante a profissional. A interface é limpa e o feedback imediato é satisfatório.
-
-**Recomendado para:** qualquer jogador que quer melhorar a leitura tática.
-
-### Go Problems (Goproblems.com app)
-**Disponível:** Android | **Gratuito**
-
-Versão mobile do site Goproblems.com, com uma enorme base de problemas de tsumego. Menos polido visualmente, mas excelente variedade de problemas.
-
-### iGo Hatsumeijin
-**Disponível:** iOS | **Pago**
-
-Aplicativo japonês com excelente coleção de problemas clássicos de tsumego. Interface muito boa.
-
-## Para análise de partidas
-
-### AI Sensei
-**Disponível:** navegador mobile (sem app nativo, mas funciona bem no celular) | **Freemium**
-
-A melhor ferramenta de análise com IA disponível. Faça upload de um SGF e receba análise detalhada com taxa de vitória jogada a jogada, variações recomendadas e explicações. A versão gratuita é já muito útil.
-
-**Recomendado para:** qualquer jogador que quer analisar suas partidas e identificar erros.
-
-### Sabaki
-**Disponível:** Desktop (Windows, Mac, Linux) | **Gratuito**
-
-Não é mobile, mas vale mencionar: para análise séria de partidas no computador, o Sabaki é excelente. Permite adicionar variações, comentários e integrar IAs como KataGo.
+**101Weiqi — Gratuito:**
+Plataforma chinesa com milhares de problemas de tsumego. Muito popular entre jogadores de nível kyu avançado e dan.
 
 ## Para aprender e estudar
 
-### SmartGo Player
-**Disponível:** iOS | **Pago**
+**AI Sensei — Gratuito/Pago:**
+Um dos aplicativos mais inovadores dos últimos anos. Analisa suas partidas com IA, identifica seus erros mais frequentes e cria problemas de tsumego personalizados baseados nas suas fraquezas específicas. Excelente para jogadores de 10-25 kyu que querem progresso rápido.
 
-Excelente app para estudo com uma vasta biblioteca de partidas profissionais e livros de Go digitalizados. Um dos melhores apps de Go já criados — mas caro.
+**Go Free / Bad Weiqi — Gratuito:**
+Visualizadores de partidas profissionais com comentários. Ótimos para quem quer estudar partidas de alto nível no celular.
 
-### ElyGo
-**Disponível:** Android | **Gratuito (com anúncios)**
+{{< diagram sgf="/sgfs/exemplo1.sgf" description="<p>Uma partida completa em 9×9 — o formato ideal para praticar em aplicativos móveis. Partidas em 9×9 cabem perfeitamente no tempo de espera de um ônibus, no intervalo do trabalho ou em qualquer janela de 10-20 minutos do dia.</p><p>A maioria dos aplicativos de Go permite configurar partidas rápidas com tempos reduzidos: 5 minutos + 30 segundos por jogada é um bom equilíbrio para prática no celular. Para iniciantes, configurar o tempo um pouco maior (10 minutos + 1 minuto) permite mais reflexão sem tornar a partida arrastada.</p>" >}}
 
-App completo com tutoriais de abertura, tsumego, partidas contra bot e análise básica. Bom ponto de partida para iniciantes no Android.
+## Para jogar contra IA local
 
-## Para jogar contra IA (offline)
+**KataGo (integrado em vários apps):**
+KataGo é o motor de IA de código aberto mais forte disponível. Vários aplicativos o integram para jogar contra IA offline, incluindo o **Lizzie** e variantes. Você pode configurar o nível de dificuldade para corresponder ao seu.
 
-### KGS Go Server app / CrazyStone
-**Disponível:** Android e iOS | **Pago**
+**Go Quest — Gratuito:**
+Partidas de 9×9 contra IA ou adversários humanos, muito rápidas (2 minutos total). Perfeito para treino intensivo e rápido.
 
-Aplicativos que permitem jogar contra bots de diferentes níveis offline. CrazyStone foi um dos bots de Go mais fortes antes da era do aprendizado profundo — hoje ainda é desafiador para jogadores intermediários.
+## Para iniciantes absolutos
 
-## Dica: combine os apps
+**Ultimate Go — Gratuito:**
+Tutorial interativo de Go do zero. Explica as regras, mostra exemplos, oferece problemas progressivos. Bom ponto de partida antes de outros aplicativos.
 
-A melhor rotina de estudo mobile combina:
-- **Tsumego Pro** para resolução diária de problemas (15-20 min)
-- **OGS ou Go Quest** para partidas regulares
-- **AI Sensei** para analisar partidas depois
+**Gobandroid — Gratuito (Android):**
+Simples e direto ao ponto. Jogar contra IA local no celular, sem necessidade de conta ou internet.
 
-Essa combinação cobre as três principais atividades de estudo: táticas, partidas e análise. Para entender mais sobre como estruturar seu estudo, veja [Como Melhorar no Go](/como-melhorar-no-go/).
+## Qual usar primeiro?
+
+- **Iniciante absoluto:** OGS para jogar + Tsumego Pro para praticar problemas
+- **Intermediário (15-25 kyu):** AI Sensei para análise + OGS para partidas
+- **Avançado:** SmartGo Kifu + Fox Go ou Tygem
+
+Combine o celular com estudo no computador para o ambiente de aprendizado mais rico. Veja também [onde jogar Go online](/onde-jogar-go-online/) para a experiência completa no desktop.
 
 ---
 
