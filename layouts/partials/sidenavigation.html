@@ -2,16 +2,6 @@
   <nav class="main-nav">
     {{ $currentPage := . }}
     
-    <!-- Curso em destaque -->
-    <div class="nav-course-destaque">
-      <a href="https://buy.stripe.com/00w28rabVdmV5Av2Q62ZO00" target="_blank" rel="noopener" class="nav-course-link js-course-checkout">
-        <span class="nav-course-badge">📣 Curso</span>
-        <span class="nav-course-title">Go para Iniciantes</span>
-        <span class="nav-course-sub">Aulas individuais · 30 dias · R$ 97,00</span>
-        <span class="nav-course-cta">Aulas diárias por WhatsApp + PDF (10 Erros Fatais de quem começa no Go) + análise de partidas + videochamada. De iniciante a 20 kyu. — Inscreva-se</span>
-      </a>
-    </div>
-    
     <!-- Tutorial -->
     <div class="nav-section">
       <h3 class="nav-title">{{ with .Site.Params.main.name }}{{.}}{{ end }}</h3>
