@@ -1,6 +1,6 @@
-FROM hugomods/hugo:exts-non-root AS builder
+FROM ghcr.io/gohugoio/hugo:v0.162.0 AS builder
 WORKDIR /src
-COPY . .
+COPY --chown=hugo:hugo . .
 RUN hugo --minify
 
 FROM nginx:alpine

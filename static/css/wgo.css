@@ -2377,3 +2377,195 @@ input[type="text"].wgo-permalink {
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(231, 76, 60, 0.4);
   color: white; }
+
+/* --------------------------------------------------------------------------
+   Contemporary site layer: keeps the original Hugo/WGo structure intact.
+   -------------------------------------------------------------------------- */
+:root {
+  --ink: #18231f;
+  --muted: #607067;
+  --paper: #fbfaf6;
+  --canvas: #f1f0e9;
+  --line: #dfe3d9;
+  --forest: #1d5a46;
+  --forest-dark: #123b2e;
+  --sand: #d4b36b;
+  --shadow: 0 14px 32px rgba(23, 43, 34, .08);
+}
+
+body {
+  font-family: "DM Sans", Arial, sans-serif;
+  font-size: 16px;
+  color: var(--ink);
+  background: var(--canvas);
+  line-height: 1.65;
+}
+
+a {
+  color: var(--forest);
+  padding: 0;
+  background: transparent;
+  text-decoration: underline;
+  text-decoration-color: rgba(29, 90, 70, .32);
+  text-underline-offset: 3px;
+}
+
+a:hover { color: var(--forest-dark); background: transparent; }
+
+.wrapper { max-width: 1280px; width: calc(100% - 48px); min-width: 0; margin: 24px auto; }
+
+.site-header {
+  background: var(--forest-dark);
+  border: 1px solid rgba(255, 255, 255, .12);
+  border-radius: 14px;
+  box-shadow: 0 16px 36px rgba(18, 59, 46, .16);
+  margin-bottom: 24px;
+  padding: 25px 36px;
+  position: relative;
+  overflow: hidden;
+  text-align: left;
+}
+
+.site-header::after {
+  content: "";
+  position: absolute;
+  width: 310px;
+  height: 310px;
+  right: -115px;
+  top: -205px;
+  border: 1px solid rgba(212, 179, 107, .38);
+  border-radius: 50%;
+  box-shadow: 0 0 0 38px rgba(212, 179, 107, .08), 0 0 0 76px rgba(212, 179, 107, .05);
+}
+
+.header-content { justify-content: flex-start; gap: 22px; max-width: none; position: relative; z-index: 1; }
+.header-logo { gap: 12px; }
+.site-name, .hero-title, .principles-section h2, .cta-content h2 { font-family: "Libre Baskerville", Georgia, serif; }
+.site-name { font-size: 2rem; letter-spacing: -.04em; text-shadow: none; }
+.site-tagline { border-left: 1px solid rgba(255,255,255,.28); font-size: .88rem; font-weight: 500; letter-spacing: .04em; margin: 0; padding-left: 22px; text-transform: uppercase; }
+.go-stone { border-radius: 50%; display: inline-block; height: 19px; width: 19px; }
+.go-stone-white { background: #fffdf7; box-shadow: inset -3px -3px 5px rgba(0,0,0,.12), 0 2px 5px rgba(0,0,0,.22); }
+.go-stone-black { background: linear-gradient(145deg, #536158, #0d1511 68%); box-shadow: inset 2px 2px 3px rgba(255,255,255,.18), 0 2px 5px rgba(0,0,0,.28); }
+
+aside { width: 27%; }
+article { width: 73%; }
+aside .main-nav, section {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+aside .main-nav { margin: 0 18px 0 0; padding: 22px; }
+.nav-section { margin-bottom: 23px; }
+.nav-title { border: 0; color: var(--ink); font-size: .9rem; letter-spacing: .025em; margin: 0 0 3px; padding: 0; }
+.nav-description { color: var(--muted); font-size: .78rem; font-style: normal; line-height: 1.4; margin-bottom: 8px; }
+.nav-list li { margin: 1px 0; }
+.nav-list a { border-left: 2px solid transparent; border-radius: 5px; color: #49564e; font-size: .87rem; line-height: 1.35; padding: 7px 9px; text-decoration: none; }
+.nav-list a:hover { background: #edf3ee; border-left-color: var(--forest); color: var(--forest-dark); transform: none; }
+.nav-list a.active { background: var(--forest); border-left-color: var(--sand); color: #fff; font-weight: 600; }
+
+section { border-radius: 12px; line-height: 1.75; margin: 0 0 18px 18px; padding: 34px 38px; }
+section.title { background: var(--forest-dark); border: 0; border-radius: 12px; box-shadow: none; margin-bottom: 18px; padding: 16px 30px; }
+.title h2 { font-family: "Libre Baskerville", Georgia, serif; font-size: 1.12rem; font-weight: 400; letter-spacing: .01em; text-align: left; }
+section h3 { color: var(--ink); font-family: "Libre Baskerville", Georgia, serif; font-size: 1.3rem; line-height: 1.4; margin: 28px 0 12px; }
+section h4 { color: var(--ink); margin: 24px 0 10px; }
+section p { margin: 14px 0; }
+
+.page-hero { background: #e9eee7; border: 0; border-radius: 10px; margin: -4px 0 32px; padding: 54px 48px; text-align: left; }
+.page-hero::before { animation: none; background: var(--sand); background-size: auto; height: 5px; }
+.eyebrow { color: var(--forest); font-size: .72rem; font-weight: 700; letter-spacing: .13em; margin: 0 0 14px; text-transform: uppercase; }
+.hero-title { color: var(--forest-dark); font-size: clamp(2rem, 4vw, 3.4rem); letter-spacing: -.045em; line-height: 1.14; margin-bottom: 17px; text-shadow: none; }
+.hero-description { color: #526159; font-size: 1.1rem; line-height: 1.7; margin: 0; max-width: 690px; }
+
+.cards-grid { gap: 16px; margin: 28px 0 38px; }
+.card { border: 1px solid var(--line); border-radius: 10px; box-shadow: none; padding: 28px; text-align: left; }
+.card::before { background: var(--forest); height: 3px; }
+.card:hover { box-shadow: var(--shadow); transform: translateY(-3px); }
+.card-index { color: var(--forest); font-size: .72rem; font-weight: 700; letter-spacing: .12em; margin-bottom: 28px; }
+.card h3 { font-family: "Libre Baskerville", Georgia, serif; font-size: 1.2rem; margin-bottom: 10px; }
+.card p { color: var(--muted); font-size: .95rem; line-height: 1.6; }
+.card-button, .btn, .support-btn, .btn-donation-footer {
+  background: var(--forest); border-radius: 6px; box-shadow: none; color: #fff; display: inline-block; font-size: .85rem; font-weight: 700; letter-spacing: .01em; padding: 10px 15px; text-decoration: none;
+}
+.card-button:hover, .btn:hover, .support-btn:hover, .btn-donation-footer:hover { background: var(--forest-dark); box-shadow: none; color: #fff; transform: translateY(-1px); }
+
+.principles-section { background: #f1f3ee; border: 1px solid var(--line); border-radius: 10px; padding: 40px 30px; text-align: left; }
+.principles-section h2 { color: var(--forest-dark); font-size: 1.8rem; margin-bottom: 28px; }
+.principles-grid { gap: 16px; }
+.principle-card { border: 1px solid var(--line); border-radius: 8px; box-shadow: none; padding: 24px; }
+.principle-card:hover { box-shadow: none; transform: none; }
+.principle-number { background: transparent; border: 1px solid var(--forest); border-radius: 50%; color: var(--forest); font-size: .9rem; height: 33px; margin: 0 0 20px; width: 33px; }
+.principle-card h4 { font-family: "Libre Baskerville", Georgia, serif; font-size: 1rem; margin-bottom: 8px; }
+.principle-card p { color: var(--muted); font-size: .93rem; }
+
+.cta-section { background: var(--forest-dark); border-radius: 10px; margin: 36px 0; padding: 46px 34px; text-align: left; }
+.cta-content h2 { font-size: 2rem; line-height: 1.3; }
+.cta-content p { font-size: 1rem; }
+.cta-buttons { justify-content: flex-start; }
+.btn-primary { background: var(--sand); color: #2b291f; }
+.btn-primary:hover { background: #ead093; color: #2b291f; }
+.btn-secondary { background: transparent; border: 1px solid rgba(255,255,255,.6); }
+.btn-secondary:hover { background: rgba(255,255,255,.12); }
+
+.support-section, .footer-donation { margin: 32px 0 12px; }
+.support-card, .donation-footer-card { background: #f4f1e8; border: 1px solid #ddd4bd; border-radius: 10px; box-shadow: none; padding: 28px; text-align: left; }
+.support-card h3, .donation-footer-content h3 { color: var(--forest-dark); font-family: "Libre Baskerville", Georgia, serif; font-size: 1.2rem; }
+.support-card p, .donation-footer-content p { color: var(--muted); font-size: .95rem; }
+.btn-support, .btn-donation-footer { background: #9a4337; }
+.btn-support:hover, .btn-donation-footer:hover { background: #753127; }
+.credits-section { background: transparent; border-left: 2px solid var(--sand); border-radius: 0; padding: 20px 24px; }
+.credits-section h3 { font-size: 1.1rem; }
+
+.nav-support { margin: 18px 18px 0 0; padding: 0; }
+.nav-support .support-card { padding: 20px; text-align: left; }
+.nav-support .support-card h4 { color: var(--forest-dark); font-family: "Libre Baskerville", Georgia, serif; font-size: 1rem; margin-bottom: 5px; }
+.nav-support .support-card p { font-size: .82rem; }
+.footer-links { text-align: left; }
+.footer-links a { margin: 0; }
+.bottom-navigation { display: flow-root; }
+.bottom-navigation .button { background: transparent; border: 1px solid var(--line); border-radius: 6px; box-shadow: none; color: var(--forest); font: 600 .85rem/2.3em "DM Sans", sans-serif; padding: 0 1em; text-shadow: none; }
+.bottom-navigation .button:hover { background: #edf3ee; color: var(--forest-dark); }
+.bottom-navigation .button::before, .bottom-navigation .button::after {
+  background: transparent;
+  box-shadow: none;
+  float: none;
+  font-size: inherit;
+  margin: 0 .45em 0 0;
+  padding: 0;
+  width: auto;
+}
+.bottom-navigation .button::after { margin: 0 0 0 .45em; }
+
+@media screen and (max-width: 1000px) {
+  .wrapper { width: calc(100% - 32px); }
+  article { float: none; width: 100%; }
+  .header-content { flex-direction: row; }
+  section { margin-left: 0; }
+  section.top-navigation { background: transparent; border: 0; border-radius: 0; box-shadow: none; padding: 0; }
+  .top-navigation { margin-bottom: 18px; }
+  .cta-buttons { flex-direction: row; }
+  .btn, .btn-donation-footer, .card-button { max-width: none; width: auto; }
+  .mobile-nav-header { background: var(--forest-dark); border-radius: 10px; }
+  .mobile-nav-header h2, .mobile-nav-header h3 { color: #fff; margin: 0; }
+  .mobile-nav-content { background: var(--paper); }
+  .mobile-nav-title { border-bottom-color: var(--forest); color: var(--forest-dark); }
+  .mobile-nav-title::after { background: var(--sand); }
+  .mobile-nav-list a { background: transparent; color: var(--ink); text-decoration: none; }
+  .mobile-nav-list a:hover { background: #edf3ee; color: var(--forest-dark); }
+  .mobile-nav-list a.active { background: var(--forest); }
+}
+
+@media screen and (max-width: 640px) {
+  .wrapper { margin: 16px auto; width: calc(100% - 24px); }
+  .site-header { border-radius: 10px; padding: 20px; }
+  .header-content { align-items: flex-start; flex-direction: column; gap: 12px; }
+  .site-tagline { border-left: 0; border-top: 1px solid rgba(255,255,255,.25); padding: 10px 0 0; }
+  section { border-radius: 10px; padding: 24px 20px; }
+  section.title { display: none; }
+  .page-hero { margin-top: 0; padding: 36px 24px; }
+  .hero-title { font-size: 2rem; }
+  .principles-section, .cta-section { padding: 30px 22px; }
+  .cta-buttons { align-items: stretch; flex-direction: column; }
+  .btn { max-width: none; width: auto; }
+  .card-button { text-align: center; width: 100%; }
+}

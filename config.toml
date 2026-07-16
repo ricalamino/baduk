@@ -1,5 +1,5 @@
 baseURL = "https://baduk.com.br/"
-languageCode = "pt-br"
+locale = "pt-BR"
 title = "Baduk - Aprenda a jogar Go Interativamente"
 
 enableRobotsTXT = "true"
@@ -12,19 +12,19 @@ disableKinds = ["taxonomy"]
 [params]
 
   [params.main]
-    name = "📚 Tutorial"
+    name = "Tutorial"
     description = "Aprenda Go passo a passo"
 
   [params.tsumego]
-    name = "🎯 Problemas de Go"
+    name = "Problemas de Go"
     description = "Exercícios para praticar"
 
   [params.theory]
-    name = "🧠 Conceitos Avançados"
+    name = "Conceitos Avançados"
     description = "Estratégias e teoria"
 
   [params.matches]
-    name = "⚡ Partidas Famosas"
+    name = "Partidas Famosas"
     description = "Jogos do AlphaGo e análises"
 
 [markup]

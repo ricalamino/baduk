@@ -21,7 +21,7 @@ hugo --gc --minify
 python3 scripts/export_main_tutorial_text.py
 ```
 
-Deploy target is **Netlify** (see `netlify.toml`). Hugo version: 0.128.0 extended.
+Deploy target is **Netlify** (see `netlify.toml`). Hugo version: 0.162.0 extended.
 
 ## Architecture
 
@@ -73,4 +73,4 @@ SGF files live in `content/sgfs/` and are served from `/sgfs/` at runtime.
 
 - `markup.goldmark.renderer.unsafe = true` — raw HTML is allowed in Markdown content
 - Taxonomies disabled (`disableKinds = ["taxonomy"]`)
-- `languageCode = "pt-br"` — all content is in Brazilian Portuguese
+- `locale = "pt-BR"` — all content is in Brazilian Portuguese

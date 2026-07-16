@@ -1,7 +1,25 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "Bash(git -C /root/projects/baduk diff --stat)",
+      "Bash(git -C /root/projects/baduk diff -- layouts/partials/head.html layouts/partials/header.html layouts/partials/footer.html layouts/partials/sidenavigation.html static/css/wgo.css content/_index.md)",
+      "Skill(run)",
+      "Skill(run:*)",
+      "Bash(command -v hugo)",
+      "Bash(command -v chromium-cli)",
+      "Bash(command -v chromium)",
+      "Bash(command -v npx)",
+      "Read(//root/.cache/ms-playwright/**)",
+      "Bash(npm ls *)",
+      "Read(//usr/bin/**)",
+      "Bash(hugo server *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://127.0.0.1:1717/)",
+      "Bash(break)",
+      "Bash(find ~/.cache/ms-playwright/chromium_headless_shell-1223 ~/.cache/ms-playwright/chromium-1223 -maxdepth 3 -type f -name '*shell*' -o -maxdepth 3 -type f -name 'chrome' 2>/dev/null | head)",
+      "Read(//root/.cache/ms-playwright/chromium_headless_shell-1223/**)",
+      "Bash(/root/.cache/ms-playwright/chromium_headless_shell-1223/chrome-headless-shell-linux64/chrome-headless-shell --headless --disable-gpu --no-sandbox --window-size=390,844 --hide-scrollbars --virtual-time-budget=8000 --screenshot=/tmp/claude-0/-root-projects-baduk/bc7d4e13-ff01-47cb-b880-48ca066d1132/scratchpad/home-mobile-top.png http://127.0.0.1:1717/)",
+      "Bash(/root/.cache/ms-playwright/chromium_headless_shell-1223/chrome-headless-shell-linux64/chrome-headless-shell --headless --disable-gpu --no-sandbox --window-size=390,2000 --hide-scrollbars --virtual-time-budget=9000 --screenshot=/tmp/claude-0/-root-projects-baduk/bc7d4e13-ff01-47cb-b880-48ca066d1132/scratchpad/match-mobile.png http://127.0.0.1:1717/leesedol-alphago/)"
     ]
   }
 }
